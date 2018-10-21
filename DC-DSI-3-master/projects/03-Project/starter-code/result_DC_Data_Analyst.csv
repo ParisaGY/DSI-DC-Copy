@@ -1,0 +1,1576 @@
+,Company_name,Location,Salary,Title,Experience
+0,        GEICO,"Chevy Chase, MD",60000.0,Data_Analyst,Entry_level
+1,        Evolent Health,"Arlington, VA 22203",60000.0,Data_Analyst,Entry_level
+2,    Datalogic Solutions Inc,"Chantilly, VA",60000.0,Data_Analyst,Entry_level
+3,    Cipher3,"Washington, DC",60000.0,Data_Analyst,Entry_level
+4,"    Interfolio, Inc","Washington, DC 20036 (Downtown area)",60000.0,Data_Analyst,Entry_level
+5,        JLL,"Washington, DC",60000.0,Data_Analyst,Entry_level
+6,    Goodwill Excel Center - DC,"Washington, DC",60000.0,Data_Analyst,Entry_level
+7,        Booz Allen Hamilton,"Washington, DC",60000.0,Data_Analyst,Entry_level
+8,        Grant Thornton,"Washington, DC 20036 (Downtown area)",60000.0,Data_Analyst,Entry_level
+9,    FAAZ Consulting LLC,"Washington, DC",60000.0,Data_Analyst,Entry_level
+10,        Centra Technology,"Washington, DC",60000.0,Data_Analyst,Entry_level
+11,        Smithsonian Institution,"Washington, DC",60000.0,Data_Analyst,Entry_level
+12,        Booz Allen Hamilton,"Alexandria, VA",60000.0,Data_Analyst,Entry_level
+13,        Booz Allen Hamilton,"McLean, VA",60000.0,Data_Analyst,Entry_level
+14,    Advanced Software Systems,"Arlington, VA",60000.0,Data_Analyst,Entry_level
+15,        Booz Allen Hamilton,"Silver Spring, MD",60000.0,Data_Analyst,Entry_level
+16,        AOL,"Baltimore, MD",60000.0,Data_Analyst,Entry_level
+17,    US News & World Report,"Washington, DC 20007 (Georgetown area)",60000.0,Data_Analyst,Entry_level
+18,    AER,"College Park, MD",60000.0,Data_Analyst,Entry_level
+19,        Booz Allen Hamilton,"Washington, DC",60000.0,Data_Analyst,Entry_level
+20,        Deloitte,"Arlington, VA 22209 (Radnor-Ft Myer Heights area)",60000.0,Data_Analyst,Entry_level
+21,        GEICO,"Chevy Chase, MD",60000.0,Data_Analyst,Entry_level
+22,        Booz Allen Hamilton,"Washington, DC",60000.0,Data_Analyst,Entry_level
+23,        DISYS,"McLean, VA",60000.0,Data_Analyst,Entry_level
+24,    Korn Ferry/Futurestep,"Washington, DC",60000.0,Data_Analyst,Entry_level
+25,        ICF International,"Fairfax, VA",60000.0,Data_Analyst,Entry_level
+26,        Alltech International,"Washington, DC",60000.0,Data_Analyst,Entry_level
+27,        Grant Thornton,"Washington, DC 20036 (Downtown area)",60000.0,Data_Analyst,Entry_level
+28,        Accenture,"Rosslyn, VA",60000.0,Data_Analyst,Entry_level
+29,    Alliance of Community Health Plans,"Washington, DC",60000.0,Data_Analyst,Entry_level
+30,    Insequence Inc.,"Herndon, VA 20171",60000.0,Data_Analyst,Entry_level
+31,        Booz Allen Hamilton,"McLean, VA",60000.0,Data_Analyst,Entry_level
+32,        Wellcare,"Baltimore, MD",60000.0,Data_Analyst,Entry_level
+33,    eAcuity,"Washington, DC",60000.0,Data_Analyst,Entry_level
+34,"    Vesper Wave Solutions, LLC","Washington, DC",60000.0,Data_Analyst,Entry_level
+35,        Kavaliro,"Washington, DC",60000.0,Data_Analyst,Entry_level
+36,        U.S. Department of Labor,"Washington, DC",60000.0,Data_Analyst,Entry_level
+37,        Mitre Corporation,"McLean, VA",60000.0,Data_Analyst,Entry_level
+38,    Nodi Solutions,"Washington, DC",60000.0,Data_Analyst,Entry_level
+39,        GEICO,"Chevy Chase, MD",60000.0,Data_Analyst,Entry_level
+40,        Booz Allen Hamilton,"Washington, DC",60000.0,Data_Analyst,Entry_level
+41,        Deloitte,"Washington, DC",60000.0,Data_Analyst,Entry_level
+42,        Booz Allen Hamilton,"Washington, DC",60000.0,Data_Analyst,Entry_level
+43,    Novetta,"Crystal City, VA",60000.0,Data_Analyst,Entry_level
+44,    ASTA CRS INC.,"Falls Church, VA",60000.0,Data_Analyst,Entry_level
+45,        Evolent Health,"Arlington, VA 22203 (Bluemont area)",60000.0,Data_Analyst,Entry_level
+46,    Reveille Group,"Washington, DC",60000.0,Data_Analyst,Entry_level
+47,        Vox Media,"Washington, DC",60000.0,Data_Analyst,Entry_level
+48,        Bloomberg,"Washington, DC 20005 (Logan Circle area)",60000.0,Data_Analyst,Entry_level
+49,    FAAZ Consulting LLC,"Arlington, VA",60000.0,Data_Analyst,Entry_level
+50,        Facebook,"Washington, DC",60000.0,Data_Analyst,Entry_level
+51,        AOL,"Baltimore, MD",60000.0,Data_Analyst,Entry_level
+52,        AT&T,"Alexandria, VA",60000.0,Data_Analyst,Entry_level
+53,"    The Upside Travel Company, LLC","Washington, DC",60000.0,Data_Analyst,Entry_level
+54,        Atlantic Media,"Washington, DC 20037 (Foggy Bottom area)",60000.0,Data_Analyst,Entry_level
+55,        Teracore,"Washington, DC",60000.0,Data_Analyst,Entry_level
+56,        Deloitte,"Arlington, VA 22209 (Radnor-Ft Myer Heights area)",60000.0,Data_Analyst,Entry_level
+57,        Atlas Research,"Washington, DC 20005 (Logan Circle area)",60000.0,Data_Analyst,Entry_level
+58,        Dentons,"Washington, DC",60000.0,Data_Analyst,Entry_level
+59,        Booz Allen Hamilton,"Alexandria, VA",60000.0,Data_Analyst,Entry_level
+60,"    TechniPower, Inc.","Upper Marlboro, MD",60000.0,Data_Analyst,Entry_level
+61,    Informa Business Intelligence,"Washington, DC",60000.0,Data_Analyst,Entry_level
+62,"    Ian, Evan & Alexander Corporation","Washington, DC 20037 (Foggy Bottom area)",60000.0,Data_Analyst,Entry_level
+63,        Centra Technology,"Washington, DC",60000.0,Data_Analyst,Entry_level
+64,        Booz Allen Hamilton,"McLean, VA",60000.0,Data_Analyst,Entry_level
+65,        Grant Thornton,"Alexandria, VA 22314 (Southwest Quadrant area)",60000.0,Data_Analyst,Entry_level
+66,"    BKM Global Enterprises, LLC","Washington, DC",60000.0,Data_Analyst,Entry_level
+67,"    Integral Consulting Services, Inc.","Rockville, MD",60000.0,Data_Analyst,Entry_level
+68,    Association of Universities for Research in Astron...,"Baltimore, MD",60000.0,Data_Analyst,Entry_level
+69,        MicroStrategy,"Tysons, VA",60000.0,Data_Analyst,Entry_level
+70,"    Chinese Culture and Community Service Center, Inc.","Gaithersburg, MD",60000.0,Data_Analyst,Entry_level
+71,        U.S. Department of Labor,"Washington, DC",60000.0,Data_Analyst,Entry_level
+72,    USmax Corporation,"Alexandria, VA",60000.0,Data_Analyst,Entry_level
+73,        Grant Thornton,"Washington, DC 20036 (Downtown area)",60000.0,Data_Analyst,Entry_level
+74,    Career TEAM,"Washington, DC 20024 (South West area)",60000.0,Data_Analyst,Entry_level
+75,    BitVoyant,"Rosslyn, VA",60000.0,Data_Analyst,Entry_level
+76,    Gryphon Scientific,"Takoma Park, MD",60000.0,Data_Analyst,Entry_level
+77,        Atlas Research,"Washington, DC 20005 (Logan Circle area)",60000.0,Data_Analyst,Entry_level
+78,        Booz Allen Hamilton,"Fort Meade, MD",60000.0,Data_Analyst,Entry_level
+79,"    Measure UAS, Inc.","Washington, DC",60000.0,Data_Analyst,Entry_level
+80,        Aon,"Hunt Valley, MD",60000.0,Data_Analyst,Entry_level
+81,    Trinity Global Consulting,"Springfield, VA",60000.0,Data_Analyst,Entry_level
+82,        SyApps LLC,"Washington, DC",60000.0,Data_Analyst,Entry_level
+83,        REDHORSE CORPORATION,"Arlington, VA 22202 (Aurora Highlands area)",60000.0,Data_Analyst,Entry_level
+84,        Acumen LLC,"Washington, DC",60000.0,Data_Analyst,Entry_level
+85,        Grant Thornton,"Alexandria, VA 22314 (Southwest Quadrant area)",60000.0,Data_Analyst,Entry_level
+86,"    ActioNet, Inc.","Silver Spring, MD 20910",60000.0,Data_Analyst,Entry_level
+87,        TDI,"Quantico, VA",60000.0,Data_Analyst,Entry_level
+88,    Centeva,"Frederick, MD",60000.0,Data_Analyst,Entry_level
+89,        OBXtek,"Washington, DC",60000.0,Data_Analyst,Entry_level
+90,        Cvent,"Tysons Corner, VA",60000.0,Data_Analyst,Entry_level
+91,"    Computer Aid, Inc.(CAI)","Baltimore, MD",60000.0,Data_Analyst,Entry_level
+92,        Grant Thornton,"Washington, DC 20036 (Downtown area)",60000.0,Data_Analyst,Entry_level
+93,    ASET Partners,"Washington, DC",60000.0,Data_Analyst,Entry_level
+94,        CapTech Consulting,"Reston, VA",60000.0,Data_Analyst,Entry_level
+95,    ASET Partners,"Washington, DC",60000.0,Data_Analyst,Entry_level
+96,    THRUUE,"Washington, DC",60000.0,Data_Analyst,Entry_level
+97,        Harris Corporation,"Annapolis Junction, MD 20701",60000.0,Data_Analyst,Entry_level
+98,    Driven Inc.,"Falls Church, VA",60000.0,Data_Analyst,Entry_level
+99,"        LS Technologies, LLC","Washington, DC",60000.0,Data_Analyst,Entry_level
+100,"    GreenZone Solutions, Inc.","Washington, DC 20001 (Shaw area)",60000.0,Data_Analyst,Entry_level
+101,    Olsen Palmer LLC,"Washington, DC 20036 (Downtown area)",60000.0,Data_Analyst,Entry_level
+102,        Leidos,"Frederick, MD 21702",60000.0,Data_Analyst,Entry_level
+103,"    The Upside Travel Company, LLC","Washington, DC",60000.0,Data_Analyst,Entry_level
+104,        Deloitte,"Arlington, VA 22209",60000.0,Data_Analyst,Entry_level
+0,        ICF International,"Rockville, MD",60000.0,Data_Analyst,Mid_level
+1,    Truth Initiative,"Washington, DC 20001",60000.0,Data_Analyst,Mid_level
+2,        Net ESolutions Corporation (NETE),"Rockville, MD",60000.0,Data_Analyst,Mid_level
+3,    New Beginnings LLC,"Washington, DC 20002 (Capitol Hill area)",60000.0,Data_Analyst,Mid_level
+4,        Dixon Hughes Goodman LLP,"Washington, DC 20016 (AU-Tenleytown area)",60000.0,Data_Analyst,Mid_level
+5,        The World Bank,"Washington, DC",60000.0,Data_Analyst,Mid_level
+6,    Compumatics Group,"New Carrollton, MD",60000.0,Data_Analyst,Mid_level
+7,    DIT Inc,"Washington, DC",60000.0,Data_Analyst,Mid_level
+8,    Inforeem,"Washington, DC",60000.0,Data_Analyst,Mid_level
+9,    BCT Partners,"Washington, DC",60000.0,Data_Analyst,Mid_level
+10,        MAXIMUS,"Washington, DC 20002 (Capitol Hill area)",60000.0,Data_Analyst,Mid_level
+11,        ICF International,"Fairfax, VA",60000.0,Data_Analyst,Mid_level
+12,        CAVA,"Washington, DC 20009 (U Street Corridor area)",60000.0,Data_Analyst,Mid_level
+13,        Adept Solutions,"Washington, DC",60000.0,Data_Analyst,Mid_level
+14,        Salient CRGT,"Washington, DC",60000.0,Data_Analyst,Mid_level
+15,"    The Center for Organizational Excellence, Inc.","Washington, DC",60000.0,Data_Analyst,Mid_level
+16,        CRGT Inc.,"Washington, DC",60000.0,Data_Analyst,Mid_level
+17,        Booz Allen Hamilton,"Washington, DC",60000.0,Data_Analyst,Mid_level
+18,        American Institutes for Research,"Washington, DC",60000.0,Data_Analyst,Mid_level
+19,        The World Bank Group,"Washington, DC",60000.0,Data_Analyst,Mid_level
+20,        Legal Services Corporation,"Washington, DC",60000.0,Data_Analyst,Mid_level
+21,        Halfaker and Associates,"Washington, DC",60000.0,Data_Analyst,Mid_level
+22,"        MV Transportation, Inc.","Washington, DC",60000.0,Data_Analyst,Mid_level
+23,        Cystic Fibrosis Foundation,"Bethesda, MD 20814",60000.0,Data_Analyst,Mid_level
+24,    Excella Consulting,"Washington, DC 20006 (Foggy Bottom area)",60000.0,Data_Analyst,Mid_level
+25,        Capgemini Government Solutions,"Washington, DC",60000.0,Data_Analyst,Mid_level
+26,        Dixon Hughes Goodman LLP,"McLean, VA 22102",60000.0,Data_Analyst,Mid_level
+27,        Grant Thornton,"Washington, DC 20036 (Downtown area)",60000.0,Data_Analyst,Mid_level
+28,        Salient CRGT,"Washington, DC",60000.0,Data_Analyst,Mid_level
+29,        CRGT Inc.,"Washington, DC",60000.0,Data_Analyst,Mid_level
+30,        Dovel Technologies,"McLean, VA",60000.0,Data_Analyst,Mid_level
+31,        Booz Allen Hamilton,"McLean, VA",60000.0,Data_Analyst,Mid_level
+32,        Alion Science and Technology,"Washington, DC 20003 (Capitol Hill area)",60000.0,Data_Analyst,Mid_level
+33,    Butler America Career Portal,"Ashburn, VA 20147",60000.0,Data_Analyst,Mid_level
+34,        Federal Reserve Board of Governors,"Washington, DC",60000.0,Data_Analyst,Mid_level
+35,        Booz Allen Hamilton,"Quantico, VA",60000.0,Data_Analyst,Mid_level
+36,        PCORI,"Washington, DC",60000.0,Data_Analyst,Mid_level
+37,"    Development Services Group, Inc.","Bethesda, MD 20814",60000.0,Data_Analyst,Mid_level
+38,"    Orbis, Inc.","Washington, DC",60000.0,Data_Analyst,Mid_level
+39,        Booz Allen Hamilton,"College Park, MD 20740",60000.0,Data_Analyst,Mid_level
+40,    AF Associates Inc (AFA),"Washington, DC",60000.0,Data_Analyst,Mid_level
+41,    ASTA CRS INC.,"Tysons Corner, VA",60000.0,Data_Analyst,Mid_level
+42,        Insignia Technology Services,"Washington, DC 20536 (Mount Vernon Square area)",60000.0,Data_Analyst,Mid_level
+43,        HighPoint Global,"Baltimore, MD",60000.0,Data_Analyst,Mid_level
+44,        Booz Allen Hamilton,"Washington, DC",60000.0,Data_Analyst,Mid_level
+45,    Corps Solutions,"Quantico, VA",60000.0,Data_Analyst,Mid_level
+46,    Vision Centric Inc.,"Washington, DC",60000.0,Data_Analyst,Mid_level
+47,        Engility Corporation,"Washington, DC 20376 (Brentwood area)",60000.0,Data_Analyst,Mid_level
+48,        Inovalon,"Bowie, MD 20715",60000.0,Data_Analyst,Mid_level
+49,        The World Bank,"Washington, DC",60000.0,Data_Analyst,Mid_level
+50,        Howard University,"Washington, DC",60000.0,Data_Analyst,Mid_level
+51,        Abacus Solutions Group,"Cockeysville, MD 21030",60000.0,Data_Analyst,Mid_level
+52,"    JB Technologies, Inc","Washington, DC",60000.0,Data_Analyst,Mid_level
+53,"    Peak Technology Solutions, Inc.","Washington, DC",60000.0,Data_Analyst,Mid_level
+54,"    Onyx Government Services, LLC","Washington, DC",60000.0,Data_Analyst,Mid_level
+55,"    DAI, Dougherty & Associates INC.","Washington, DC",60000.0,Data_Analyst,Mid_level
+56,    EDC Consulting,"Washington, DC",60000.0,Data_Analyst,Mid_level
+57,        Bay State,"Washington, DC",60000.0,Data_Analyst,Mid_level
+58,    The Living Legacy Foundation of Maryland,"Baltimore, MD",60000.0,Data_Analyst,Mid_level
+59,"    FEi Systems, Inc.","Timonium, MD",60000.0,Data_Analyst,Mid_level
+60,    ALIS,"Washington, DC",60000.0,Data_Analyst,Mid_level
+61,    Consult America Inc.,"Vienna, VA 22182",60000.0,Data_Analyst,Mid_level
+62,"    Custom Software Systems, Inc.","Washington, DC",60000.0,Data_Analyst,Mid_level
+63,"        Itech US, Inc.","Washington, DC",60000.0,Data_Analyst,Mid_level
+64,    Common Securitization Solutions,"Bethesda, MD",60000.0,Data_Analyst,Mid_level
+65,    The Aspen Group,"Washington, DC",60000.0,Data_Analyst,Mid_level
+66,        USAC,"Washington, DC",60000.0,Data_Analyst,Mid_level
+67,        Booz Allen Hamilton,"Chantilly, VA 20151",60000.0,Data_Analyst,Mid_level
+68,"    Boyd Caton Group, Inc.","Washington, DC",60000.0,Data_Analyst,Mid_level
+69,        Cubic Corporation,"Chantilly, VA 20151",60000.0,Data_Analyst,Mid_level
+70,    Talent Orchard,"Washington, DC",60000.0,Data_Analyst,Mid_level
+71,"    Sevatec, Inc.","Washington, DC",60000.0,Data_Analyst,Mid_level
+72,"    Universal Strategy Group, Inc (USGI)","Washington, DC 20535 (Downtown area)",60000.0,Data_Analyst,Mid_level
+73,        Booz Allen Hamilton,"College Park, MD 20740",60000.0,Data_Analyst,Mid_level
+74,    Evolvers Group,"Washington, DC",60000.0,Data_Analyst,Mid_level
+75,    Metacoastal,"Glen Burnie, MD 21061",60000.0,Data_Analyst,Mid_level
+76,        Exelon,"Washington, DC",60000.0,Data_Analyst,Mid_level
+77,    Management Analysis Technologies Inc.,"Washington, DC",60000.0,Data_Analyst,Mid_level
+78,        Systems Planning and Analysis,"Alexandria, VA 22311 (Alexandria Wrest area)",60000.0,Data_Analyst,Mid_level
+79,        Leidos,"Bethesda, MD 20813",60000.0,Data_Analyst,Mid_level
+80,        MetroStar Systems,"Washington, DC",60000.0,Data_Analyst,Mid_level
+81,        Prometric,"Nottingham, MD",60000.0,Data_Analyst,Mid_level
+82,        Logistics Management Institute,"Washington, DC",60000.0,Data_Analyst,Mid_level
+83,        George Washington University,"Ashburn, VA 20147",60000.0,Data_Analyst,Mid_level
+84,    Prism Inc.,"Arlington, VA",60000.0,Data_Analyst,Mid_level
+85,"    VISUAL SOFT, INC","Washington, DC",60000.0,Data_Analyst,Mid_level
+86,        Net ESolutions Corporation (NETE),"Rockville, MD",60000.0,Data_Analyst,Mid_level
+87,    xometry,"Bethesda, MD",60000.0,Data_Analyst,Mid_level
+88,    NetCentrics Corporation,"Washington, DC",60000.0,Data_Analyst,Mid_level
+89,    Karsun Solutions LLC,"Herndon, VA",60000.0,Data_Analyst,Mid_level
+90,    Project Enhancement Corp,"Washington, DC",60000.0,Data_Analyst,Mid_level
+91,        Booz Allen Hamilton,"Herndon, VA",60000.0,Data_Analyst,Mid_level
+92,    Valorous,"Washington, DC",60000.0,Data_Analyst,Mid_level
+93,        Information Innovators Inc.,"Alexandria, VA",60000.0,Data_Analyst,Mid_level
+94,        NTT DATA Services,"Ashburn, VA",60000.0,Data_Analyst,Mid_level
+95,        Bloomberg BNA,"Arlington, VA",60000.0,Data_Analyst,Mid_level
+96,        IntelliWare Systems,"Crystal City, VA",60000.0,Data_Analyst,Mid_level
+97,    EDC Consulting,"Washington, DC",60000.0,Data_Analyst,Mid_level
+98,    SA Solutions Inc. (SAS),"Lanham, MD",60000.0,Data_Analyst,Mid_level
+99,"    Washington & West, LLC","Baltimore, MD 21204",60000.0,Data_Analyst,Mid_level
+100,    Archimedes Global,"Alexandria, VA",60000.0,Data_Analyst,Mid_level
+101,"    Universal Strategy Group, Inc (USGI)","Washington, DC 20535 (Downtown area)",60000.0,Data_Analyst,Mid_level
+102,        ManTech International Corporation,"Silver Spring, MD",60000.0,Data_Analyst,Mid_level
+103,        Unisys,"Reston, VA",60000.0,Data_Analyst,Mid_level
+104,        Bay State,"Washington, DC",60000.0,Data_Analyst,Mid_level
+0,        Deloitte,"Arlington, VA 22209",60000.0,Data_Analyst,Senior_level
+1,        The BOSS Group,"Washington, DC",60000.0,Data_Analyst,Senior_level
+2,        General Dynamics Information Technology,"Washington, DC",60000.0,Data_Analyst,Senior_level
+3,        Booz Allen Hamilton,"Washington, DC",60000.0,Data_Analyst,Senior_level
+4,    DataNet Systems Corporation,"Washington, DC",60000.0,Data_Analyst,Senior_level
+5,        ANSER,"Arlington, VA 22206 (Fairlington-Shirlington area)",60000.0,Data_Analyst,Senior_level
+6,"    Group Benefit Services, Inc.","Cockeysville, MD 21030",60000.0,Data_Analyst,Senior_level
+7,    Indev,"Washington, DC",60000.0,Data_Analyst,Senior_level
+8,        General Dynamics Information Technology,"Washington, DC",60000.0,Data_Analyst,Senior_level
+9,        General Dynamics Information Technology,"Towson, MD",60000.0,Data_Analyst,Senior_level
+10,    New Beginnings LLC,"Washington, DC 20002 (Capitol Hill area)",60000.0,Data_Analyst,Senior_level
+11,    New Beginnings LLC,"Washington, DC 20002 (Capitol Hill area)",60000.0,Data_Analyst,Senior_level
+12,        PricewaterhouseCoopers LLC,"Washington, DC 20001 (Shaw area)",60000.0,Data_Analyst,Senior_level
+13,    IMTAS,"Washington, DC 20535 (Downtown area)",60000.0,Data_Analyst,Senior_level
+14,    6k Systems,"Washington, DC",60000.0,Data_Analyst,Senior_level
+15,    HARKEN DATA INC.,"Washington, DC",60000.0,Data_Analyst,Senior_level
+16,        George Mason University,"Fairfax, VA",60000.0,Data_Analyst,Senior_level
+17,        Logistics Support,"Washington, DC 20003 (Capitol Hill area)",60000.0,Data_Analyst,Senior_level
+18,        Dependable Global Solutions,"Washington, DC 20016 (AU-Tenleytown area)",60000.0,Data_Analyst,Senior_level
+19,    Archimedes Global,"Alexandria, VA",60000.0,Data_Analyst,Senior_level
+20,"Data Systems Analysts, Inc.","Fairfax, VA 22030",60000.0,Data_Analyst,Senior_level
+21,        Logistics Support,"Washington, DC 20003 (Capitol Hill area)",60000.0,Data_Analyst,Senior_level
+22,        UDig,"Sterling, VA 20166",60000.0,Data_Analyst,Senior_level
+23,        Centra Technology,"Washington, DC",60000.0,Data_Analyst,Senior_level
+24,        Vencore,"McLean, VA",60000.0,Data_Analyst,Senior_level
+25,    IMTAS,"Washington, DC 20001 (Shaw area)",60000.0,Data_Analyst,Senior_level
+26,        Booz Allen Hamilton,"Washington, DC",60000.0,Data_Analyst,Senior_level
+27,    Garud Technology Services Inc.,"Washington, DC",60000.0,Data_Analyst,Senior_level
+28,        Information Innovators Inc.,"Washington, DC",60000.0,Data_Analyst,Senior_level
+29,        Booz Allen Hamilton,"Washington, DC",60000.0,Data_Analyst,Senior_level
+30,"    Universal Strategy Group, Inc (USGI)","Washington, DC 20535 (Downtown area)",60000.0,Data_Analyst,Senior_level
+31,        Cubic Corporation,"Arlington, VA",60000.0,Data_Analyst,Senior_level
+32,    SC3,"Washington, DC",60000.0,Data_Analyst,Senior_level
+33,"    Universal Strategy Group, Inc (USGI)","Washington, DC 20535 (Downtown area)",60000.0,Data_Analyst,Senior_level
+34,    Leonie,"Arlington, VA",60000.0,Data_Analyst,Senior_level
+35,"    DELTA Resources, Inc.","Washington, DC",60000.0,Data_Analyst,Senior_level
+36,        ICF International,"Fairfax, VA",60000.0,Data_Analyst,Senior_level
+37,        White & Case,"Washington, DC",60000.0,Data_Analyst,Senior_level
+38,        Leidos,"McLean, VA",60000.0,Data_Analyst,Senior_level
+39,        ASRC Federal,"Arlington, VA",60000.0,Data_Analyst,Senior_level
+40,        Booz Allen Hamilton,"Washington, DC",60000.0,Data_Analyst,Senior_level
+41,    Prism Inc.,"Vienna, VA",60000.0,Data_Analyst,Senior_level
+42,        Lockheed Martin,"Washington, DC",60000.0,Data_Analyst,Senior_level
+43,    ATD Technologies LLC,"Washington, DC",60000.0,Data_Analyst,Senior_level
+44,"        GAP Solutions, Inc.","Washington, DC 20004 (Downtown area)",60000.0,Data_Analyst,Senior_level
+45,    First Guaranty Mortgage Corporation,"Tysons Corner, VA 22182",60000.0,Data_Analyst,Senior_level
+46,        Reed Elsevier,"Fairfax, VA",60000.0,Data_Analyst,Senior_level
+47,        fhi360,"Washington, DC",60000.0,Data_Analyst,Senior_level
+48,        Booz Allen Hamilton,"Rockville, MD",60000.0,Data_Analyst,Senior_level
+49,        Morgan Borszcz Consulting,"Washington, DC",60000.0,Data_Analyst,Senior_level
+50,    Comtech LLC,"Washington, DC",60000.0,Data_Analyst,Senior_level
+51,    Evolver Inc.,"Suitland, MD",60000.0,Data_Analyst,Senior_level
+52,        Booz Allen Hamilton,"Fort Belvoir, VA",60000.0,Data_Analyst,Senior_level
+53,    Common Securitization Solutions,"Bethesda, MD",60000.0,Data_Analyst,Senior_level
+54,        LexisNexis,"Fairfax, VA",60000.0,Data_Analyst,Senior_level
+55,        ACI Federal,"Baltimore, MD",60000.0,Data_Analyst,Senior_level
+56,    Xcellent Technology Solutions,"Springfield, VA",60000.0,Data_Analyst,Senior_level
+57,"    eScience & Technology Solutions, Inc.","Washington, DC",60000.0,Data_Analyst,Senior_level
+58,        Booz Allen Hamilton,"Andrews AFB, MD",60000.0,Data_Analyst,Senior_level
+59,        Booz Allen Hamilton,"Alexandria, VA",60000.0,Data_Analyst,Senior_level
+60,    Systems Support & Integration Inc,"Crystal City, VA",60000.0,Data_Analyst,Senior_level
+61,        Booz Allen Hamilton,"Alexandria, VA",60000.0,Data_Analyst,Senior_level
+62,        Amtrak,"Washington, DC 20002 (Capitol Hill area)",60000.0,Data_Analyst,Senior_level
+63,        Celestar Corporation,"Bolling AFB, DC",60000.0,Data_Analyst,Senior_level
+64,"    Goldbelt, Inc.","Washington, DC",60000.0,Data_Analyst,Senior_level
+65,        Analytic Services,"Arlington, VA",60000.0,Data_Analyst,Senior_level
+66,    phia,"Arlington, VA",60000.0,Data_Analyst,Senior_level
+67,        Grant Thornton,"Alexandria, VA 22314 (Southwest Quadrant area)",60000.0,Data_Analyst,Senior_level
+68,        Newmark Grubb Knight Frank,"Washington, DC 20006 (Foggy Bottom area)",60000.0,Data_Analyst,Senior_level
+69,"    Laulima Government Solutions, LLC.","Falls Church, VA",60000.0,Data_Analyst,Senior_level
+70,    CSG Solutions,"Washington, DC",60000.0,Data_Analyst,Senior_level
+71,        Booz Allen Hamilton,"McLean, VA",60000.0,Data_Analyst,Senior_level
+72,    Kratos Defense,"Arlington, VA 22206 (Fairlington-Shirlington area)",60000.0,Data_Analyst,Senior_level
+73,        Sayres and Associates,"Washington, DC",60000.0,Data_Analyst,Senior_level
+74,        Octo Consulting Group,"Alexandria, VA 22314 (Southwest Quadrant area)",60000.0,Data_Analyst,Senior_level
+75,    phia,"Arlington, VA",60000.0,Data_Analyst,Senior_level
+76,    EXCELLENCE CONSULTING,"Columbia, MD",60000.0,Data_Analyst,Senior_level
+77,        Booz Allen Hamilton,"Washington, DC",60000.0,Data_Analyst,Senior_level
+78,        The Aerospace Corporation,"Crystal City, VA",60000.0,Data_Analyst,Senior_level
+79,"    Insight Technology Solutions, Inc.","Washington, DC",60000.0,Data_Analyst,Senior_level
+80,"    Sylver Rain Consulting, llc","Washington, DC 20004 (Downtown area)",60000.0,Data_Analyst,Senior_level
+81,        IntelliWare Systems,"Washington, DC",60000.0,Data_Analyst,Senior_level
+82,        xentity corporation,"Washington, DC",60000.0,Data_Analyst,Senior_level
+83,        Exelon,"Washington, DC",60000.0,Data_Analyst,Senior_level
+84,        Booz Allen Hamilton,"Washington, DC",60000.0,Data_Analyst,Senior_level
+85,        Leidos,"Washington, DC",60000.0,Data_Analyst,Senior_level
+86,        Pearson,"Washington, DC 20036 (Downtown area)",60000.0,Data_Analyst,Senior_level
+87,"    DELTA Resources, Inc.","Washington, DC",60000.0,Data_Analyst,Senior_level
+88,    Ventera,"Washington, DC",60000.0,Data_Analyst,Senior_level
+89,    ALQIMI,"Washington, DC",60000.0,Data_Analyst,Senior_level
+90,        Freddie Mac,"McLean, VA",60000.0,Data_Analyst,Senior_level
+91,        Booz Allen Hamilton,"Washington, DC",60000.0,Data_Analyst,Senior_level
+92,"    GID Solutions, LLC","Quantico, VA",60000.0,Data_Analyst,Senior_level
+93,"    Concord Crossroads, LLC","Washington, DC",60000.0,Data_Analyst,Senior_level
+94,        Powertek Corporation,"Chantilly, VA",60000.0,Data_Analyst,Senior_level
+95,        The MASY Group,"Washington, DC",60000.0,Data_Analyst,Senior_level
+96,        2U,"Landover, MD",60000.0,Data_Analyst,Senior_level
+97,        The Johns Hopkins Applied Physics Laboratory,"Laurel, MD",60000.0,Data_Analyst,Senior_level
+98,"    DELTA Resources, Inc.","Washington, DC",60000.0,Data_Analyst,Senior_level
+99,        General Dynamics Information Technology,"California, MD",60000.0,Data_Analyst,Senior_level
+100,    CompuGain Solutions,"McLean, VA",60000.0,Data_Analyst,Senior_level
+101,"    Global Solutions Network, Inc.","Washington, DC",60000.0,Data_Analyst,Senior_level
+102,    Sonecon LLC,"Washington, DC 20004 (Downtown area)",60000.0,Data_Analyst,Senior_level
+103,    Salient CRGT,"Washington, DC",60000.0,Data_Analyst,Senior_level
+104,        Wyle Laboratories,"Anacostia, DC",60000.0,Data_Analyst,Senior_level
+0,        GEICO,"Chevy Chase, MD",70000.0,Data_Analyst,Entry_level
+1,"    The Upside Travel Company, LLC","Washington, DC",70000.0,Data_Analyst,Entry_level
+2,    Predictive Science,United States,70000.0,Data_Analyst,Entry_level
+3,    Cipher3,"Washington, DC",70000.0,Data_Analyst,Entry_level
+4,"    Interfolio, Inc","Washington, DC 20036 (Downtown area)",70000.0,Data_Analyst,Entry_level
+5,        JLL,"Washington, DC",70000.0,Data_Analyst,Entry_level
+6,        Booz Allen Hamilton,"Washington, DC",70000.0,Data_Analyst,Entry_level
+7,        Grant Thornton,"Washington, DC 20036 (Downtown area)",70000.0,Data_Analyst,Entry_level
+8,    FAAZ Consulting LLC,"Washington, DC",70000.0,Data_Analyst,Entry_level
+9,        Smithsonian Institution,"Washington, DC",70000.0,Data_Analyst,Entry_level
+10,        Booz Allen Hamilton,"Alexandria, VA",70000.0,Data_Analyst,Entry_level
+11,        Booz Allen Hamilton,"McLean, VA",70000.0,Data_Analyst,Entry_level
+12,    Advanced Software Systems,"Arlington, VA",70000.0,Data_Analyst,Entry_level
+13,        Booz Allen Hamilton,"Silver Spring, MD",70000.0,Data_Analyst,Entry_level
+14,    US News & World Report,"Washington, DC 20007 (Georgetown area)",70000.0,Data_Analyst,Entry_level
+15,    AER,"College Park, MD",70000.0,Data_Analyst,Entry_level
+16,        Booz Allen Hamilton,"Washington, DC",70000.0,Data_Analyst,Entry_level
+17,        GEICO,"Chevy Chase, MD",70000.0,Data_Analyst,Entry_level
+18,        Booz Allen Hamilton,"Washington, DC",70000.0,Data_Analyst,Entry_level
+19,        DISYS,"McLean, VA",70000.0,Data_Analyst,Entry_level
+20,    Korn Ferry/Futurestep,"Washington, DC",70000.0,Data_Analyst,Entry_level
+21,        Accenture,"Rosslyn, VA",70000.0,Data_Analyst,Entry_level
+22,    Insequence Inc.,"Herndon, VA 20171",70000.0,Data_Analyst,Entry_level
+23,        Booz Allen Hamilton,"McLean, VA",70000.0,Data_Analyst,Entry_level
+24,        Wellcare,"Baltimore, MD",70000.0,Data_Analyst,Entry_level
+25,        Kavaliro,"Washington, DC",70000.0,Data_Analyst,Entry_level
+26,        U.S. Department of Labor,"Washington, DC",70000.0,Data_Analyst,Entry_level
+27,        Mitre Corporation,"McLean, VA",70000.0,Data_Analyst,Entry_level
+28,        GEICO,"Chevy Chase, MD",70000.0,Data_Analyst,Entry_level
+29,        Booz Allen Hamilton,"Washington, DC",70000.0,Data_Analyst,Entry_level
+30,        Booz Allen Hamilton,"Washington, DC",70000.0,Data_Analyst,Entry_level
+31,    Novetta,"Crystal City, VA",70000.0,Data_Analyst,Entry_level
+32,    ASTA CRS INC.,"Falls Church, VA",70000.0,Data_Analyst,Entry_level
+33,        Evolent Health,"Arlington, VA 22203 (Bluemont area)",70000.0,Data_Analyst,Entry_level
+34,    Reveille Group,"Washington, DC",70000.0,Data_Analyst,Entry_level
+35,        Vox Media,"Washington, DC",70000.0,Data_Analyst,Entry_level
+36,        Bloomberg,"Washington, DC 20005 (Logan Circle area)",70000.0,Data_Analyst,Entry_level
+37,    FAAZ Consulting LLC,"Arlington, VA",70000.0,Data_Analyst,Entry_level
+38,        AOL,"Baltimore, MD",70000.0,Data_Analyst,Entry_level
+39,        AT&T,"Alexandria, VA",70000.0,Data_Analyst,Entry_level
+40,        Atlantic Media,"Washington, DC 20037 (Foggy Bottom area)",70000.0,Data_Analyst,Entry_level
+41,        Teracore,"Washington, DC",70000.0,Data_Analyst,Entry_level
+42,        Deloitte,"Arlington, VA 22209 (Radnor-Ft Myer Heights area)",70000.0,Data_Analyst,Entry_level
+43,        Atlas Research,"Washington, DC 20005 (Logan Circle area)",70000.0,Data_Analyst,Entry_level
+44,        Booz Allen Hamilton,"Alexandria, VA",70000.0,Data_Analyst,Entry_level
+45,    Informa Business Intelligence,"Washington, DC",70000.0,Data_Analyst,Entry_level
+46,"    Ian, Evan & Alexander Corporation","Washington, DC 20037 (Foggy Bottom area)",70000.0,Data_Analyst,Entry_level
+47,        Centra Technology,"Washington, DC",70000.0,Data_Analyst,Entry_level
+48,        Booz Allen Hamilton,"McLean, VA",70000.0,Data_Analyst,Entry_level
+49,        Grant Thornton,"Alexandria, VA 22314 (Southwest Quadrant area)",70000.0,Data_Analyst,Entry_level
+50,"    BKM Global Enterprises, LLC","Washington, DC",70000.0,Data_Analyst,Entry_level
+51,    Association of Universities for Research in Astron...,"Baltimore, MD",70000.0,Data_Analyst,Entry_level
+52,"    Chinese Culture and Community Service Center, Inc.","Gaithersburg, MD",70000.0,Data_Analyst,Entry_level
+53,        U.S. Department of Labor,"Washington, DC",70000.0,Data_Analyst,Entry_level
+54,    USmax Corporation,"Alexandria, VA",70000.0,Data_Analyst,Entry_level
+55,    eAcuity,"Washington, DC",70000.0,Data_Analyst,Entry_level
+56,        Grant Thornton,"Washington, DC 20036 (Downtown area)",70000.0,Data_Analyst,Entry_level
+57,    BitVoyant,"Rosslyn, VA",70000.0,Data_Analyst,Entry_level
+58,    Gryphon Scientific,"Takoma Park, MD",70000.0,Data_Analyst,Entry_level
+59,        Atlas Research,"Washington, DC 20005 (Logan Circle area)",70000.0,Data_Analyst,Entry_level
+60,        Booz Allen Hamilton,"Fort Meade, MD",70000.0,Data_Analyst,Entry_level
+61,"    Measure UAS, Inc.","Washington, DC",70000.0,Data_Analyst,Entry_level
+62,        Aon,"Hunt Valley, MD",70000.0,Data_Analyst,Entry_level
+63,    Trinity Global Consulting,"Springfield, VA",70000.0,Data_Analyst,Entry_level
+64,        SyApps LLC,"Washington, DC",70000.0,Data_Analyst,Entry_level
+65,        REDHORSE CORPORATION,"Arlington, VA 22202 (Aurora Highlands area)",70000.0,Data_Analyst,Entry_level
+66,        Grant Thornton,"Alexandria, VA 22314 (Southwest Quadrant area)",70000.0,Data_Analyst,Entry_level
+67,"    ActioNet, Inc.","Silver Spring, MD 20910",70000.0,Data_Analyst,Entry_level
+68,"    The Upside Travel Company, LLC","Washington, DC",70000.0,Data_Analyst,Entry_level
+69,    Centeva,"Frederick, MD",70000.0,Data_Analyst,Entry_level
+70,    Bulletin Intelligence,"Reston, VA 20191",70000.0,Data_Analyst,Entry_level
+71,"    Computer Aid, Inc.(CAI)","Baltimore, MD",70000.0,Data_Analyst,Entry_level
+72,    ASET Partners,"Washington, DC",70000.0,Data_Analyst,Entry_level
+73,        CapTech Consulting,"Reston, VA",70000.0,Data_Analyst,Entry_level
+74,    ASET Partners,"Washington, DC",70000.0,Data_Analyst,Entry_level
+75,        Harris Corporation,"Annapolis Junction, MD 20701",70000.0,Data_Analyst,Entry_level
+76,"        LS Technologies, LLC","Washington, DC",70000.0,Data_Analyst,Entry_level
+77,"    GreenZone Solutions, Inc.","Washington, DC 20001 (Shaw area)",70000.0,Data_Analyst,Entry_level
+78,    Olsen Palmer LLC,"Washington, DC 20036 (Downtown area)",70000.0,Data_Analyst,Entry_level
+79,    Managed Care Advisors,"Bethesda, MD 20814",70000.0,Data_Analyst,Entry_level
+80,        Centra Technology,"Washington, DC",70000.0,Data_Analyst,Entry_level
+81,    The Buffalo Group,"Washington, DC",70000.0,Data_Analyst,Entry_level
+82,        Strategic IT Staffing,"Washington, DC",70000.0,Data_Analyst,Entry_level
+83,        GEICO,"Chevy Chase, MD",70000.0,Data_Analyst,Entry_level
+84,"    Sotera Defense Solutions, Inc.","Washington, DC",70000.0,Data_Analyst,Entry_level
+85,"    Tanager, Inc.","Arlington, VA",70000.0,Data_Analyst,Entry_level
+86,"    Ajanta Consulting, LLC","Washington, DC",70000.0,Data_Analyst,Entry_level
+87,        Deloitte,"Washington, DC",70000.0,Data_Analyst,Entry_level
+88,    Quiet Professionals LLC,"Washington, DC",70000.0,Data_Analyst,Entry_level
+89,        SyApps LLC,"Washington, DC",70000.0,Data_Analyst,Entry_level
+90,        Engility Corporation,"Washington, DC 20376 (Brentwood area)",70000.0,Data_Analyst,Entry_level
+91,        Healthy Directions,"Bethesda, MD",70000.0,Data_Analyst,Entry_level
+92,"    Integral Consulting Services, Inc.","Rockville, MD",70000.0,Data_Analyst,Entry_level
+93,    Able Forces,"Alexandria, VA",70000.0,Data_Analyst,Entry_level
+94,        Jobspring Partners,"Washington, DC 20005 (Logan Circle area)",70000.0,Data_Analyst,Entry_level
+95,        Exelon,"Baltimore, MD 21223 (West Baltimore area)",70000.0,Data_Analyst,Entry_level
+96,        U.S. Department of Labor,"Washington, DC",70000.0,Data_Analyst,Entry_level
+97,        CACI,"Washington, DC 20001 (Shaw area)",70000.0,Data_Analyst,Entry_level
+98,        Booz Allen Hamilton,"Washington, DC",70000.0,Data_Analyst,Entry_level
+99,        IBM Kenexa,"Washington, DC",70000.0,Data_Analyst,Entry_level
+100,"    Ian, Evan & Alexander Corporation","Washington, DC 20037 (Foggy Bottom area)",70000.0,Data_Analyst,Entry_level
+101,        Oak Ridge Associated Universities,"Washington, DC",70000.0,Data_Analyst,Entry_level
+102,        BAE Systems,"Washington, DC",70000.0,Data_Analyst,Entry_level
+103,    Datalogic Solutions Inc,"Chantilly, VA",70000.0,Data_Analyst,Entry_level
+104,        Evolent Health,"Arlington, VA 22203",70000.0,Data_Analyst,Entry_level
+0,        Bay State,"Washington, DC",70000.0,Data_Analyst,Mid_level
+1,    OmniSolve Inc,"Washington, DC",70000.0,Data_Analyst,Mid_level
+2,    Salient CRGT,"Washington, DC",70000.0,Data_Analyst,Mid_level
+3,    Compumatics Group,"New Carrollton, MD",70000.0,Data_Analyst,Mid_level
+4,        The World Bank,"Washington, DC",70000.0,Data_Analyst,Mid_level
+5,        Dixon Hughes Goodman LLP,"Washington, DC 20016 (AU-Tenleytown area)",70000.0,Data_Analyst,Mid_level
+6,    DIT Inc,"Washington, DC",70000.0,Data_Analyst,Mid_level
+7,    Inforeem,"Washington, DC",70000.0,Data_Analyst,Mid_level
+8,    BCT Partners,"Washington, DC",70000.0,Data_Analyst,Mid_level
+9,        CAVA,"Washington, DC 20009 (U Street Corridor area)",70000.0,Data_Analyst,Mid_level
+10,        Adept Solutions,"Washington, DC",70000.0,Data_Analyst,Mid_level
+11,"    The Center for Organizational Excellence, Inc.","Washington, DC",70000.0,Data_Analyst,Mid_level
+12,        Booz Allen Hamilton,"Washington, DC",70000.0,Data_Analyst,Mid_level
+13,        American Institutes for Research,"Washington, DC",70000.0,Data_Analyst,Mid_level
+14,        Legal Services Corporation,"Washington, DC",70000.0,Data_Analyst,Mid_level
+15,    Excella Consulting,"Washington, DC 20006 (Foggy Bottom area)",70000.0,Data_Analyst,Mid_level
+16,        Cystic Fibrosis Foundation,"Bethesda, MD 20814",70000.0,Data_Analyst,Mid_level
+17,        Salient CRGT,"Washington, DC",70000.0,Data_Analyst,Mid_level
+18,        CRGT Inc.,"Washington, DC",70000.0,Data_Analyst,Mid_level
+19,        Federal Reserve Board of Governors,"Washington, DC",70000.0,Data_Analyst,Mid_level
+20,        Booz Allen Hamilton,"Quantico, VA",70000.0,Data_Analyst,Mid_level
+21,        Dixon Hughes Goodman LLP,"McLean, VA 22102",70000.0,Data_Analyst,Mid_level
+22,        PCORI,"Washington, DC",70000.0,Data_Analyst,Mid_level
+23,"    Orbis, Inc.","Washington, DC",70000.0,Data_Analyst,Mid_level
+24,        Insignia Technology Services,"Washington, DC 20536 (Mount Vernon Square area)",70000.0,Data_Analyst,Mid_level
+25,        Booz Allen Hamilton,"McLean, VA",70000.0,Data_Analyst,Mid_level
+26,        Booz Allen Hamilton,"College Park, MD 20740",70000.0,Data_Analyst,Mid_level
+27,        ICF International,"Fairfax, VA",70000.0,Data_Analyst,Mid_level
+28,    Butler America Career Portal,"Ashburn, VA 20147",70000.0,Data_Analyst,Mid_level
+29,        Booz Allen Hamilton,"Washington, DC",70000.0,Data_Analyst,Mid_level
+30,        Engility Corporation,"Washington, DC 20376 (Brentwood area)",70000.0,Data_Analyst,Mid_level
+31,        The World Bank,"Washington, DC",70000.0,Data_Analyst,Mid_level
+32,    Vision Centric Inc.,"Washington, DC",70000.0,Data_Analyst,Mid_level
+33,"    DAI, Dougherty & Associates INC.","Washington, DC",70000.0,Data_Analyst,Mid_level
+34,"    Custom Software Systems, Inc.","Washington, DC",70000.0,Data_Analyst,Mid_level
+35,"    Sevatec, Inc.","Washington, DC",70000.0,Data_Analyst,Mid_level
+36,        Capgemini Government Solutions,"Washington, DC",70000.0,Data_Analyst,Mid_level
+37,        MetroStar Systems,"Washington, DC",70000.0,Data_Analyst,Mid_level
+38,        Booz Allen Hamilton,"College Park, MD 20740",70000.0,Data_Analyst,Mid_level
+39,"    Boyd Caton Group, Inc.","Washington, DC",70000.0,Data_Analyst,Mid_level
+40,"    Onyx Government Services, LLC","Washington, DC",70000.0,Data_Analyst,Mid_level
+41,        Bay State,"Washington, DC",70000.0,Data_Analyst,Mid_level
+42,    EDC Consulting,"Washington, DC",70000.0,Data_Analyst,Mid_level
+43,    The Aspen Group,"Washington, DC",70000.0,Data_Analyst,Mid_level
+44,    ALIS,"Washington, DC",70000.0,Data_Analyst,Mid_level
+45,        Exelon,"Washington, DC",70000.0,Data_Analyst,Mid_level
+46,        Systems Planning and Analysis,"Alexandria, VA 22311 (Alexandria Wrest area)",70000.0,Data_Analyst,Mid_level
+47,    Management Analysis Technologies Inc.,"Washington, DC",70000.0,Data_Analyst,Mid_level
+48,"    FEi Systems, Inc.","Timonium, MD",70000.0,Data_Analyst,Mid_level
+49,"    VISUAL SOFT, INC","Washington, DC",70000.0,Data_Analyst,Mid_level
+50,        Abacus Solutions Group,"Cockeysville, MD 21030",70000.0,Data_Analyst,Mid_level
+51,        Cubic Corporation,"Chantilly, VA 20151",70000.0,Data_Analyst,Mid_level
+52,        AMERICAN SYSTEMS,"Quantico, VA 22134",70000.0,Data_Analyst,Mid_level
+53,    xometry,"Bethesda, MD",70000.0,Data_Analyst,Mid_level
+54,        Prometric,"Nottingham, MD",70000.0,Data_Analyst,Mid_level
+55,    SA Solutions Inc. (SAS),"Lanham, MD",70000.0,Data_Analyst,Mid_level
+56,    Archimedes Global,"Alexandria, VA",70000.0,Data_Analyst,Mid_level
+57,    Project Enhancement Corp,"Washington, DC",70000.0,Data_Analyst,Mid_level
+58,    Prism Inc.,"Arlington, VA",70000.0,Data_Analyst,Mid_level
+59,        Booz Allen Hamilton,"Washington, DC",70000.0,Data_Analyst,Mid_level
+60,    EDC Consulting,"Washington, DC",70000.0,Data_Analyst,Mid_level
+61,    DataNet Systems Corporation,"Washington, DC",70000.0,Data_Analyst,Mid_level
+62,        Schafer Corporation,"Washington, DC",70000.0,Data_Analyst,Mid_level
+63,        Net ESolutions Corporation (NETE),"Rockville, MD",70000.0,Data_Analyst,Mid_level
+64,        ANALYTICA,"Washington, DC 20036 (Downtown area)",70000.0,Data_Analyst,Mid_level
+65,"    The Kenjya-Trusant Group, LLC","Washington, DC",70000.0,Data_Analyst,Mid_level
+66,        Booz Allen Hamilton,"Herndon, VA",70000.0,Data_Analyst,Mid_level
+67,        Alion Science and Technology,"Washington, DC 20003 (Capitol Hill area)",70000.0,Data_Analyst,Mid_level
+68,        SyApps LLC,"Washington, DC",70000.0,Data_Analyst,Mid_level
+69,        IBM,"Bethesda, MD 20817",70000.0,Data_Analyst,Mid_level
+70,    AINS,"Crystal City, VA",70000.0,Data_Analyst,Mid_level
+71,        ASRC Federal,"Alexandria, VA",70000.0,Data_Analyst,Mid_level
+72,        Dovel Technologies,"McLean, VA",70000.0,Data_Analyst,Mid_level
+73,"    Integral Consulting Services, Inc.","Arlington, VA",70000.0,Data_Analyst,Mid_level
+74,        Saint Joseph Health System,"Silver Spring, MD",70000.0,Data_Analyst,Mid_level
+75,        Citizant,"Washington, DC",70000.0,Data_Analyst,Mid_level
+76,"    Buchanan & Edwards, Inc.","Washington, DC",70000.0,Data_Analyst,Mid_level
+77,    Salient CRGT,"Arlington, VA",70000.0,Data_Analyst,Mid_level
+78,        Experis,"Washington, DC 20003 (Capitol Hill area)",70000.0,Data_Analyst,Mid_level
+79,        NTT DATA Services,"Ashburn, VA",70000.0,Data_Analyst,Mid_level
+80,        The World Bank,"Washington, DC",70000.0,Data_Analyst,Mid_level
+81,        Johns Hopkins Hospital/Johns Hopkins Health System,"Baltimore, MD",70000.0,Data_Analyst,Mid_level
+82,        FHI 360,"Washington, DC 20009 (U Street Corridor area)",70000.0,Data_Analyst,Mid_level
+83,        Booz Allen Hamilton,"Alexandria, VA",70000.0,Data_Analyst,Mid_level
+84,    ASTA CRS INC.,"Tysons Corner, VA",70000.0,Data_Analyst,Mid_level
+85,        ABS Consulting,"Arlington, VA",70000.0,Data_Analyst,Mid_level
+86,"    DB Healthcare, Inc.","Washington, DC",70000.0,Data_Analyst,Mid_level
+87,        Inovalon,"Bowie, MD 20715",70000.0,Data_Analyst,Mid_level
+88,        Teracore,"Washington, DC",70000.0,Data_Analyst,Mid_level
+89,"        Noblis NSP, LLC","Washington, DC",70000.0,Data_Analyst,Mid_level
+90,        Noblis,"Washington, DC",70000.0,Data_Analyst,Mid_level
+91,    Office of the Chief Financial Officer (OCFO),"Washington, DC",70000.0,Data_Analyst,Mid_level
+92,    OmniSolve Inc,"Washington, DC",70000.0,Data_Analyst,Mid_level
+93,    Ankura Consulting Group,"Washington, DC 20036 (Downtown area)",70000.0,Data_Analyst,Mid_level
+94,        Engility Corporation,"McLean, VA 22101",70000.0,Data_Analyst,Mid_level
+95,        Visa,"Ashburn, VA",70000.0,Data_Analyst,Mid_level
+96,        Vencore,"McLean, VA",70000.0,Data_Analyst,Mid_level
+97,    ByteCubed,"Arlington, VA",70000.0,Data_Analyst,Mid_level
+98,"    AVER, LLC","Linthicum Heights, MD 21090",70000.0,Data_Analyst,Mid_level
+99,    Common Securitization Solutions,"Bethesda, MD",70000.0,Data_Analyst,Mid_level
+100,        Knight Point Systems,"Washington, DC",70000.0,Data_Analyst,Mid_level
+101,        Freddie Mac,"McLean, VA",70000.0,Data_Analyst,Mid_level
+102,        MLT Systems,"Arlington, VA",70000.0,Data_Analyst,Mid_level
+103,        Net ESolutions Corporation (NETE),"Rockville, MD",70000.0,Data_Analyst,Mid_level
+104,        Unisys,"Reston, VA",70000.0,Data_Analyst,Mid_level
+0,        Deloitte,"Arlington, VA 22209",70000.0,Data_Analyst,Senior_level
+1,    Salient CRGT,"Washington, DC",70000.0,Data_Analyst,Senior_level
+2,        General Dynamics Information Technology,"Springfield, VA",70000.0,Data_Analyst,Senior_level
+3,        Booz Allen Hamilton,"Washington, DC",70000.0,Data_Analyst,Senior_level
+4,    DataNet Systems Corporation,"Washington, DC",70000.0,Data_Analyst,Senior_level
+5,"    Group Benefit Services, Inc.","Cockeysville, MD 21030",70000.0,Data_Analyst,Senior_level
+6,        ANSER,"Arlington, VA 22206 (Fairlington-Shirlington area)",70000.0,Data_Analyst,Senior_level
+7,        General Dynamics Information Technology,"Towson, MD",70000.0,Data_Analyst,Senior_level
+8,    Indev,"Washington, DC",70000.0,Data_Analyst,Senior_level
+9,        PricewaterhouseCoopers LLC,"Washington, DC 20001 (Shaw area)",70000.0,Data_Analyst,Senior_level
+10,    6k Systems,"Washington, DC",70000.0,Data_Analyst,Senior_level
+11,    New Beginnings LLC,"Washington, DC 20002 (Capitol Hill area)",70000.0,Data_Analyst,Senior_level
+12,    Archimedes Global,"Alexandria, VA",70000.0,Data_Analyst,Senior_level
+13,    IMTAS,"Washington, DC 20535 (Downtown area)",70000.0,Data_Analyst,Senior_level
+14,    New Beginnings LLC,"Washington, DC 20002 (Capitol Hill area)",70000.0,Data_Analyst,Senior_level
+15,        UDig,"Sterling, VA 20166",70000.0,Data_Analyst,Senior_level
+16,"Data Systems Analysts, Inc.","Fairfax, VA 22030",70000.0,Data_Analyst,Senior_level
+17,        Logistics Support,"Washington, DC 20003 (Capitol Hill area)",70000.0,Data_Analyst,Senior_level
+18,        Vencore,"McLean, VA",70000.0,Data_Analyst,Senior_level
+19,    HARKEN DATA INC.,"Washington, DC",70000.0,Data_Analyst,Senior_level
+20,    Garud Technology Services Inc.,"Washington, DC",70000.0,Data_Analyst,Senior_level
+21,        Logistics Support,"Washington, DC 20003 (Capitol Hill area)",70000.0,Data_Analyst,Senior_level
+22,        Dependable Global Solutions,"Washington, DC 20016 (AU-Tenleytown area)",70000.0,Data_Analyst,Senior_level
+23,    IMTAS,"Washington, DC 20001 (Shaw area)",70000.0,Data_Analyst,Senior_level
+24,        Information Innovators Inc.,"Washington, DC",70000.0,Data_Analyst,Senior_level
+25,"    Universal Strategy Group, Inc (USGI)","Washington, DC 20535 (Downtown area)",70000.0,Data_Analyst,Senior_level
+26,    SC3,"Washington, DC",70000.0,Data_Analyst,Senior_level
+27,        Centra Technology,"Washington, DC",70000.0,Data_Analyst,Senior_level
+28,        Booz Allen Hamilton,"Washington, DC",70000.0,Data_Analyst,Senior_level
+29,        Leidos,"McLean, VA",70000.0,Data_Analyst,Senior_level
+30,        Cubic Corporation,"Arlington, VA",70000.0,Data_Analyst,Senior_level
+31,        Booz Allen Hamilton,"Washington, DC",70000.0,Data_Analyst,Senior_level
+32,        ICF International,"Fairfax, VA",70000.0,Data_Analyst,Senior_level
+33,"    DELTA Resources, Inc.","Washington, DC",70000.0,Data_Analyst,Senior_level
+34,    Leonie,"Arlington, VA",70000.0,Data_Analyst,Senior_level
+35,        White & Case,"Washington, DC",70000.0,Data_Analyst,Senior_level
+36,"    Universal Strategy Group, Inc (USGI)","Washington, DC 20535 (Downtown area)",70000.0,Data_Analyst,Senior_level
+37,    Prism Inc.,"Vienna, VA",70000.0,Data_Analyst,Senior_level
+38,        ASRC Federal,"Arlington, VA",70000.0,Data_Analyst,Senior_level
+39,    First Guaranty Mortgage Corporation,"Tysons Corner, VA 22182",70000.0,Data_Analyst,Senior_level
+40,        ACI Federal,"Baltimore, MD",70000.0,Data_Analyst,Senior_level
+41,    Comtech LLC,"Washington, DC",70000.0,Data_Analyst,Senior_level
+42,        Reed Elsevier,"Fairfax, VA",70000.0,Data_Analyst,Senior_level
+43,    Common Securitization Solutions,"Bethesda, MD",70000.0,Data_Analyst,Senior_level
+44,        Booz Allen Hamilton,"Rockville, MD",70000.0,Data_Analyst,Senior_level
+45,        Booz Allen Hamilton,"Fort Belvoir, VA",70000.0,Data_Analyst,Senior_level
+46,        LexisNexis,"Fairfax, VA",70000.0,Data_Analyst,Senior_level
+47,        Analytic Services,"Arlington, VA",70000.0,Data_Analyst,Senior_level
+48,        Booz Allen Hamilton,"Washington, DC",70000.0,Data_Analyst,Senior_level
+49,        fhi360,"Washington, DC",70000.0,Data_Analyst,Senior_level
+50,    Xcellent Technology Solutions,"Springfield, VA",70000.0,Data_Analyst,Senior_level
+51,    Evolver Inc.,"Suitland, MD",70000.0,Data_Analyst,Senior_level
+52,        Morgan Borszcz Consulting,"Washington, DC",70000.0,Data_Analyst,Senior_level
+53,    EXCELLENCE CONSULTING,"Columbia, MD",70000.0,Data_Analyst,Senior_level
+54,        Lockheed Martin,"Washington, DC",70000.0,Data_Analyst,Senior_level
+55,    CSG Solutions,"Washington, DC",70000.0,Data_Analyst,Senior_level
+56,"        GAP Solutions, Inc.","Washington, DC 20004 (Downtown area)",70000.0,Data_Analyst,Senior_level
+57,    Systems Support & Integration Inc,"Crystal City, VA",70000.0,Data_Analyst,Senior_level
+58,        Booz Allen Hamilton,"Andrews AFB, MD",70000.0,Data_Analyst,Senior_level
+59,        Booz Allen Hamilton,"Alexandria, VA",70000.0,Data_Analyst,Senior_level
+60,        Booz Allen Hamilton,"Alexandria, VA",70000.0,Data_Analyst,Senior_level
+61,"    Laulima Government Solutions, LLC.","Falls Church, VA",70000.0,Data_Analyst,Senior_level
+62,"    eScience & Technology Solutions, Inc.","Washington, DC",70000.0,Data_Analyst,Senior_level
+63,        Celestar Corporation,"Bolling AFB, DC",70000.0,Data_Analyst,Senior_level
+64,        Grant Thornton,"Alexandria, VA 22314 (Southwest Quadrant area)",70000.0,Data_Analyst,Senior_level
+65,        Octo Consulting Group,"Alexandria, VA 22314 (Southwest Quadrant area)",70000.0,Data_Analyst,Senior_level
+66,        IntelliWare Systems,"Washington, DC",70000.0,Data_Analyst,Senior_level
+67,    ALQIMI,"Washington, DC",70000.0,Data_Analyst,Senior_level
+68,        Booz Allen Hamilton,"McLean, VA",70000.0,Data_Analyst,Senior_level
+69,    phia,"Arlington, VA",70000.0,Data_Analyst,Senior_level
+70,        The Aerospace Corporation,"Crystal City, VA",70000.0,Data_Analyst,Senior_level
+71,        Amtrak,"Washington, DC 20002 (Capitol Hill area)",70000.0,Data_Analyst,Senior_level
+72,        Powertek Corporation,"Chantilly, VA",70000.0,Data_Analyst,Senior_level
+73,    Kratos Defense,"Arlington, VA 22206 (Fairlington-Shirlington area)",70000.0,Data_Analyst,Senior_level
+74,    phia,"Arlington, VA",70000.0,Data_Analyst,Senior_level
+75,    Ventera,"Washington, DC",70000.0,Data_Analyst,Senior_level
+76,        Sayres and Associates,"Washington, DC",70000.0,Data_Analyst,Senior_level
+77,"    Goldbelt, Inc.","Washington, DC",70000.0,Data_Analyst,Senior_level
+78,"    Sylver Rain Consulting, llc","Washington, DC 20004 (Downtown area)",70000.0,Data_Analyst,Senior_level
+79,"    Insight Technology Solutions, Inc.","Washington, DC",70000.0,Data_Analyst,Senior_level
+80,        The Johns Hopkins Applied Physics Laboratory,"Laurel, MD",70000.0,Data_Analyst,Senior_level
+81,        ECS Federal LLC,"Arlington, VA",70000.0,Data_Analyst,Senior_level
+82,        Booz Allen Hamilton,"Washington, DC",70000.0,Data_Analyst,Senior_level
+83,        xentity corporation,"Washington, DC",70000.0,Data_Analyst,Senior_level
+84,        Freddie Mac,"McLean, VA",70000.0,Data_Analyst,Senior_level
+85,        Exelon,"Washington, DC",70000.0,Data_Analyst,Senior_level
+86,"    GID Solutions, LLC","Quantico, VA",70000.0,Data_Analyst,Senior_level
+87,"    Global Solutions Network, Inc.","Washington, DC",70000.0,Data_Analyst,Senior_level
+88,        2U,"Landover, MD",70000.0,Data_Analyst,Senior_level
+89,        Pearson,"Washington, DC 20036 (Downtown area)",70000.0,Data_Analyst,Senior_level
+90,"    DELTA Resources, Inc.","Washington, DC",70000.0,Data_Analyst,Senior_level
+91,"    Concord Crossroads, LLC","Washington, DC",70000.0,Data_Analyst,Senior_level
+92,    Applied Communication Sciences,"College Park, MD",70000.0,Data_Analyst,Senior_level
+93,        Leidos,"Washington, DC",70000.0,Data_Analyst,Senior_level
+94,    Sonecon LLC,"Washington, DC 20004 (Downtown area)",70000.0,Data_Analyst,Senior_level
+95,        Abacus Technology Corporation,"Washington, DC",70000.0,Data_Analyst,Senior_level
+96,    TAKE ENTERPRISE SERVICE INC,"Baltimore, MD",70000.0,Data_Analyst,Senior_level
+97,        Booz Allen Hamilton,"Washington, DC",70000.0,Data_Analyst,Senior_level
+98,        The MASY Group,"Washington, DC",70000.0,Data_Analyst,Senior_level
+99,        Booz Allen Hamilton,"Washington, DC",70000.0,Data_Analyst,Senior_level
+100,"    DELTA Resources, Inc.","Washington, DC",70000.0,Data_Analyst,Senior_level
+101,        Booz Allen Hamilton,"McLean, VA",70000.0,Data_Analyst,Senior_level
+102,        Booz Allen Hamilton,"Fort Meade, MD",70000.0,Data_Analyst,Senior_level
+103,        General Dynamics Information Technology,"Washington, DC",70000.0,Data_Analyst,Senior_level
+104,        Wyle Laboratories,"Anacostia, DC",70000.0,Data_Analyst,Senior_level
+0,        GEICO,"Chevy Chase, MD",75000.0,Data_Analyst,Entry_level
+1,"    The Upside Travel Company, LLC","Washington, DC",75000.0,Data_Analyst,Entry_level
+2,    Datalogic Solutions Inc,"Chantilly, VA",75000.0,Data_Analyst,Entry_level
+3,    Cipher3,"Washington, DC",75000.0,Data_Analyst,Entry_level
+4,        Booz Allen Hamilton,"Washington, DC",75000.0,Data_Analyst,Entry_level
+5,    FAAZ Consulting LLC,"Washington, DC",75000.0,Data_Analyst,Entry_level
+6,        Booz Allen Hamilton,"Alexandria, VA",75000.0,Data_Analyst,Entry_level
+7,        Accenture,"Rosslyn, VA",75000.0,Data_Analyst,Entry_level
+8,        Booz Allen Hamilton,"McLean, VA",75000.0,Data_Analyst,Entry_level
+9,    Advanced Software Systems,"Arlington, VA",75000.0,Data_Analyst,Entry_level
+10,        Booz Allen Hamilton,"Silver Spring, MD",75000.0,Data_Analyst,Entry_level
+11,    US News & World Report,"Washington, DC 20007 (Georgetown area)",75000.0,Data_Analyst,Entry_level
+12,    AER,"College Park, MD",75000.0,Data_Analyst,Entry_level
+13,        Booz Allen Hamilton,"Washington, DC",75000.0,Data_Analyst,Entry_level
+14,        Booz Allen Hamilton,"Washington, DC",75000.0,Data_Analyst,Entry_level
+15,        DISYS,"McLean, VA",75000.0,Data_Analyst,Entry_level
+16,    Reveille Group,"Washington, DC",75000.0,Data_Analyst,Entry_level
+17,    Korn Ferry/Futurestep,"Washington, DC",75000.0,Data_Analyst,Entry_level
+18,    Insequence Inc.,"Herndon, VA 20171",75000.0,Data_Analyst,Entry_level
+19,        Booz Allen Hamilton,"McLean, VA",75000.0,Data_Analyst,Entry_level
+20,        Wellcare,"Baltimore, MD",75000.0,Data_Analyst,Entry_level
+21,    eAcuity,"Washington, DC",75000.0,Data_Analyst,Entry_level
+22,        U.S. Department of Labor,"Washington, DC",75000.0,Data_Analyst,Entry_level
+23,        GEICO,"Chevy Chase, MD",75000.0,Data_Analyst,Entry_level
+24,        Booz Allen Hamilton,"Washington, DC",75000.0,Data_Analyst,Entry_level
+25,        Booz Allen Hamilton,"Washington, DC",75000.0,Data_Analyst,Entry_level
+26,    Novetta,"Crystal City, VA",75000.0,Data_Analyst,Entry_level
+27,    ASTA CRS INC.,"Falls Church, VA",75000.0,Data_Analyst,Entry_level
+28,        Evolent Health,"Arlington, VA 22203 (Bluemont area)",75000.0,Data_Analyst,Entry_level
+29,        Vox Media,"Washington, DC",75000.0,Data_Analyst,Entry_level
+30,        Bloomberg,"Washington, DC 20005 (Logan Circle area)",75000.0,Data_Analyst,Entry_level
+31,        AOL,"Baltimore, MD",75000.0,Data_Analyst,Entry_level
+32,        AT&T,"Alexandria, VA",75000.0,Data_Analyst,Entry_level
+33,"    The Upside Travel Company, LLC","Washington, DC",75000.0,Data_Analyst,Entry_level
+34,        Teracore,"Washington, DC",75000.0,Data_Analyst,Entry_level
+35,        Deloitte,"Arlington, VA 22209 (Radnor-Ft Myer Heights area)",75000.0,Data_Analyst,Entry_level
+36,        Booz Allen Hamilton,"Alexandria, VA",75000.0,Data_Analyst,Entry_level
+37,    Informa Business Intelligence,"Washington, DC",75000.0,Data_Analyst,Entry_level
+38,        Booz Allen Hamilton,"McLean, VA",75000.0,Data_Analyst,Entry_level
+39,"    BKM Global Enterprises, LLC","Washington, DC",75000.0,Data_Analyst,Entry_level
+40,"    Tanager, Inc.","Arlington, VA",75000.0,Data_Analyst,Entry_level
+41,"    Integral Consulting Services, Inc.","Rockville, MD",75000.0,Data_Analyst,Entry_level
+42,        U.S. Department of Labor,"Washington, DC",75000.0,Data_Analyst,Entry_level
+43,    USmax Corporation,"Alexandria, VA",75000.0,Data_Analyst,Entry_level
+44,        Grant Thornton,"Washington, DC 20036 (Downtown area)",75000.0,Data_Analyst,Entry_level
+45,    BitVoyant,"Rosslyn, VA",75000.0,Data_Analyst,Entry_level
+46,    Gryphon Scientific,"Takoma Park, MD",75000.0,Data_Analyst,Entry_level
+47,        Atlas Research,"Washington, DC 20005 (Logan Circle area)",75000.0,Data_Analyst,Entry_level
+48,        Booz Allen Hamilton,"Fort Meade, MD",75000.0,Data_Analyst,Entry_level
+49,        IBM Kenexa,"Washington, DC",75000.0,Data_Analyst,Entry_level
+50,        Aon,"Hunt Valley, MD",75000.0,Data_Analyst,Entry_level
+51,    Trinity Global Consulting,"Springfield, VA",75000.0,Data_Analyst,Entry_level
+52,        REDHORSE CORPORATION,"Arlington, VA 22202 (Aurora Highlands area)",75000.0,Data_Analyst,Entry_level
+53,        Grant Thornton,"Alexandria, VA 22314 (Southwest Quadrant area)",75000.0,Data_Analyst,Entry_level
+54,"    ActioNet, Inc.","Silver Spring, MD 20910",75000.0,Data_Analyst,Entry_level
+55,        IBM,"Washington, DC 20005 (Logan Circle area)",75000.0,Data_Analyst,Entry_level
+56,    Centeva,"Frederick, MD",75000.0,Data_Analyst,Entry_level
+57,        BAE Systems,"Dulles, VA",75000.0,Data_Analyst,Entry_level
+58,"    Computer Aid, Inc.(CAI)","Baltimore, MD",75000.0,Data_Analyst,Entry_level
+59,        CapTech Consulting,"Reston, VA",75000.0,Data_Analyst,Entry_level
+60,"    GreenZone Solutions, Inc.","Washington, DC 20001 (Shaw area)",75000.0,Data_Analyst,Entry_level
+61,    Olsen Palmer LLC,"Washington, DC 20036 (Downtown area)",75000.0,Data_Analyst,Entry_level
+62,    The Buffalo Group,"Washington, DC",75000.0,Data_Analyst,Entry_level
+63,        GEICO,"Chevy Chase, MD",75000.0,Data_Analyst,Entry_level
+64,        Booz Allen Hamilton,"Alexandria, VA",75000.0,Data_Analyst,Entry_level
+65,"    Ajanta Consulting, LLC","Washington, DC",75000.0,Data_Analyst,Entry_level
+66,        Deloitte,"Washington, DC",75000.0,Data_Analyst,Entry_level
+67,    Quiet Professionals LLC,"Washington, DC",75000.0,Data_Analyst,Entry_level
+68,        Engility Corporation,"Washington, DC 20376 (Brentwood area)",75000.0,Data_Analyst,Entry_level
+69,    Able Forces,"Alexandria, VA",75000.0,Data_Analyst,Entry_level
+70,        Jobspring Partners,"Washington, DC 20005 (Logan Circle area)",75000.0,Data_Analyst,Entry_level
+71,        Exelon,"Baltimore, MD 21223 (West Baltimore area)",75000.0,Data_Analyst,Entry_level
+72,        U.S. Department of Labor,"Washington, DC",75000.0,Data_Analyst,Entry_level
+73,        CACI,"Washington, DC 20001 (Shaw area)",75000.0,Data_Analyst,Entry_level
+74,        Booz Allen Hamilton,"Washington, DC",75000.0,Data_Analyst,Entry_level
+75,    kCura Corporation,"Reston, VA",75000.0,Data_Analyst,Entry_level
+76,"    Ian, Evan & Alexander Corporation","Washington, DC 20037 (Foggy Bottom area)",75000.0,Data_Analyst,Entry_level
+77,        Synchronoss,"Reston, VA",75000.0,Data_Analyst,Entry_level
+78,"    Synchronoss Technologies, Inc.","Reston, VA",75000.0,Data_Analyst,Entry_level
+79,    LongView International Technology Solutions Inc.,"Washington, DC",75000.0,Data_Analyst,Entry_level
+80,        AlixPartners,"Washington, DC",75000.0,Data_Analyst,Entry_level
+81,        Booz Allen Hamilton,"Washington, DC",75000.0,Data_Analyst,Entry_level
+82,        Boecore,"Arlington, VA 22201 (Lyon Village area)",75000.0,Data_Analyst,Entry_level
+83,        Wyle Laboratories,"Arlington, VA 22202 (Aurora Highlands area)",75000.0,Data_Analyst,Entry_level
+84,    Computing Concepts Inc.,"Baltimore, MD 21230 (West Baltimore area)",75000.0,Data_Analyst,Entry_level
+85,        Institute for Defense Analyses,"Alexandria, VA 22311 (Alexandria Wrest area)",75000.0,Data_Analyst,Entry_level
+86,        Grant Thornton,"Alexandria, VA 22314 (Southwest Quadrant area)",75000.0,Data_Analyst,Entry_level
+87,        Blue Canopy,"Arlington, VA",75000.0,Data_Analyst,Entry_level
+88,"        Attain, LLC","Washington, DC",75000.0,Data_Analyst,Entry_level
+89,        SAIC,"McLean, VA",75000.0,Data_Analyst,Entry_level
+90,        3M,"Silver Spring, MD",75000.0,Data_Analyst,Entry_level
+91,    Hilton Corporate,"McLean, VA",75000.0,Data_Analyst,Entry_level
+92,    absccareers,"Fort Belvoir, VA",75000.0,Data_Analyst,Entry_level
+93,        Booz Allen Hamilton,"Rockville, MD",75000.0,Data_Analyst,Entry_level
+94,        GEICO,"Washington, DC",75000.0,Data_Analyst,Entry_level
+95,"    ThreatConnect, Inc.","Arlington, VA",75000.0,Data_Analyst,Entry_level
+96,    SRL TotalSource LLC,"Washington, DC",75000.0,Data_Analyst,Entry_level
+97,        CSRA,"Arlington, VA",75000.0,Data_Analyst,Entry_level
+98,"        Quantum Research International, Inc.","Arlington, VA 22209 (Radnor-Ft Myer Heights area)",75000.0,Data_Analyst,Entry_level
+99,        IBM Kenexa,"Washington, DC",75000.0,Data_Analyst,Entry_level
+100,        Booz Allen Hamilton,"Fort Meade, MD",75000.0,Data_Analyst,Entry_level
+101,        CSRA,"Chantilly, VA",75000.0,Data_Analyst,Entry_level
+102,        Engility Corporation,"Bethesda, MD 20892",75000.0,Data_Analyst,Entry_level
+103,    Predictive Science,United States,75000.0,Data_Analyst,Entry_level
+104,        Evolent Health,"Arlington, VA 22203",75000.0,Data_Analyst,Entry_level
+0,        Unisys,"Reston, VA",75000.0,Data_Analyst,Mid_level
+1,    Salient CRGT,"Washington, DC",75000.0,Data_Analyst,Mid_level
+2,    Aderas,"Reston, VA 20191",75000.0,Data_Analyst,Mid_level
+3,        The World Bank,"Washington, DC",75000.0,Data_Analyst,Mid_level
+4,    Compumatics Group,"New Carrollton, MD",75000.0,Data_Analyst,Mid_level
+5,    DIT Inc,"Washington, DC",75000.0,Data_Analyst,Mid_level
+6,    Inforeem,"Washington, DC",75000.0,Data_Analyst,Mid_level
+7,    BCT Partners,"Washington, DC",75000.0,Data_Analyst,Mid_level
+8,        ICF International,"Fairfax, VA",75000.0,Data_Analyst,Mid_level
+9,        CAVA,"Washington, DC 20009 (U Street Corridor area)",75000.0,Data_Analyst,Mid_level
+10,        Booz Allen Hamilton,"Quantico, VA",75000.0,Data_Analyst,Mid_level
+11,"    The Center for Organizational Excellence, Inc.","Washington, DC",75000.0,Data_Analyst,Mid_level
+12,        Booz Allen Hamilton,"Washington, DC",75000.0,Data_Analyst,Mid_level
+13,        Legal Services Corporation,"Washington, DC",75000.0,Data_Analyst,Mid_level
+14,    Excella Consulting,"Washington, DC 20006 (Foggy Bottom area)",75000.0,Data_Analyst,Mid_level
+15,        Capgemini Government Solutions,"Washington, DC",75000.0,Data_Analyst,Mid_level
+16,        Dixon Hughes Goodman LLP,"McLean, VA 22102",75000.0,Data_Analyst,Mid_level
+17,        Dovel Technologies,"McLean, VA",75000.0,Data_Analyst,Mid_level
+18,        Booz Allen Hamilton,"McLean, VA",75000.0,Data_Analyst,Mid_level
+19,    Butler America Career Portal,"Ashburn, VA 20147",75000.0,Data_Analyst,Mid_level
+20,        Federal Reserve Board of Governors,"Washington, DC",75000.0,Data_Analyst,Mid_level
+21,"    Orbis, Inc.","Washington, DC",75000.0,Data_Analyst,Mid_level
+22,        Booz Allen Hamilton,"College Park, MD 20740",75000.0,Data_Analyst,Mid_level
+23,    ASTA CRS INC.,"Tysons Corner, VA",75000.0,Data_Analyst,Mid_level
+24,        Insignia Technology Services,"Washington, DC 20536 (Mount Vernon Square area)",75000.0,Data_Analyst,Mid_level
+25,        Booz Allen Hamilton,"Washington, DC",75000.0,Data_Analyst,Mid_level
+26,        Engility Corporation,"Washington, DC 20376 (Brentwood area)",75000.0,Data_Analyst,Mid_level
+27,        The World Bank,"Washington, DC",75000.0,Data_Analyst,Mid_level
+28,        Abacus Solutions Group,"Cockeysville, MD 21030",75000.0,Data_Analyst,Mid_level
+29,"    Onyx Government Services, LLC","Washington, DC",75000.0,Data_Analyst,Mid_level
+30,    EDC Consulting,"Washington, DC",75000.0,Data_Analyst,Mid_level
+31,"    FEi Systems, Inc.","Timonium, MD",75000.0,Data_Analyst,Mid_level
+32,"    Custom Software Systems, Inc.","Washington, DC",75000.0,Data_Analyst,Mid_level
+33,    Common Securitization Solutions,"Bethesda, MD",75000.0,Data_Analyst,Mid_level
+34,    The Aspen Group,"Washington, DC",75000.0,Data_Analyst,Mid_level
+35,        Cubic Corporation,"Chantilly, VA 20151",75000.0,Data_Analyst,Mid_level
+36,"    Sevatec, Inc.","Washington, DC",75000.0,Data_Analyst,Mid_level
+37,        FHI 360,"Washington, DC 20009 (U Street Corridor area)",75000.0,Data_Analyst,Mid_level
+38,        Booz Allen Hamilton,"College Park, MD 20740",75000.0,Data_Analyst,Mid_level
+39,        Teracore,"Washington, DC",75000.0,Data_Analyst,Mid_level
+40,    Management Analysis Technologies Inc.,"Washington, DC",75000.0,Data_Analyst,Mid_level
+41,        Systems Planning and Analysis,"Alexandria, VA 22311 (Alexandria Wrest area)",75000.0,Data_Analyst,Mid_level
+42,        Prometric,"Nottingham, MD",75000.0,Data_Analyst,Mid_level
+43,    Prism Inc.,"Arlington, VA",75000.0,Data_Analyst,Mid_level
+44,"    VISUAL SOFT, INC","Washington, DC",75000.0,Data_Analyst,Mid_level
+45,        Net ESolutions Corporation (NETE),"Rockville, MD",75000.0,Data_Analyst,Mid_level
+46,    xometry,"Bethesda, MD",75000.0,Data_Analyst,Mid_level
+47,        Knight Point Systems,"Washington, DC",75000.0,Data_Analyst,Mid_level
+48,    Karsun Solutions LLC,"Herndon, VA",75000.0,Data_Analyst,Mid_level
+49,    Project Enhancement Corp,"Washington, DC",75000.0,Data_Analyst,Mid_level
+50,        Booz Allen Hamilton,"Herndon, VA",75000.0,Data_Analyst,Mid_level
+51,        Information Innovators Inc.,"Alexandria, VA",75000.0,Data_Analyst,Mid_level
+52,        NTT DATA Services,"Ashburn, VA",75000.0,Data_Analyst,Mid_level
+53,        Cubic Corporation,"Arlington, VA",75000.0,Data_Analyst,Mid_level
+54,    EDC Consulting,"Washington, DC",75000.0,Data_Analyst,Mid_level
+55,    SA Solutions Inc. (SAS),"Lanham, MD",75000.0,Data_Analyst,Mid_level
+56,    Archimedes Global,"Alexandria, VA",75000.0,Data_Analyst,Mid_level
+57,        AMERICAN SYSTEMS,"Quantico, VA 22134",75000.0,Data_Analyst,Mid_level
+58,    Salient CRGT,"Arlington, VA",75000.0,Data_Analyst,Mid_level
+59,"    Tanager, Inc.","Arlington, VA",75000.0,Data_Analyst,Mid_level
+60,        ASRC Federal,"Alexandria, VA",75000.0,Data_Analyst,Mid_level
+61,"    Acuity, Inc.","Washington, DC",75000.0,Data_Analyst,Mid_level
+62,        Booz Allen Hamilton,"McLean, VA",75000.0,Data_Analyst,Mid_level
+63,        Citizant,"Washington, DC",75000.0,Data_Analyst,Mid_level
+64,        Experis,"Washington, DC 20003 (Capitol Hill area)",75000.0,Data_Analyst,Mid_level
+65,        Johns Hopkins Hospital/Johns Hopkins Health System,"Baltimore, MD",75000.0,Data_Analyst,Mid_level
+66,        ANALYTICA,"Washington, DC 20036 (Downtown area)",75000.0,Data_Analyst,Mid_level
+67,        Under Armour,"Baltimore, MD",75000.0,Data_Analyst,Mid_level
+68,    IFC,"Washington, DC",75000.0,Data_Analyst,Mid_level
+69,"    The Kenjya-Trusant Group, LLC","Washington, DC",75000.0,Data_Analyst,Mid_level
+70,"    DB Healthcare, Inc.","Washington, DC",75000.0,Data_Analyst,Mid_level
+71,        Johns Hopkins University,"Baltimore, MD",75000.0,Data_Analyst,Mid_level
+72,        Mednax,"Falls Church, VA",75000.0,Data_Analyst,Mid_level
+73,    AINS,"Crystal City, VA",75000.0,Data_Analyst,Mid_level
+74,        Booz Allen Hamilton,"Washington, DC",75000.0,Data_Analyst,Mid_level
+75,        Schafer Corporation,"Washington, DC",75000.0,Data_Analyst,Mid_level
+76,        IBM,"Bethesda, MD 20817",75000.0,Data_Analyst,Mid_level
+77,"    Integral Consulting Services, Inc.","Arlington, VA",75000.0,Data_Analyst,Mid_level
+78,    Ankura Consulting Group,"Washington, DC 20036 (Downtown area)",75000.0,Data_Analyst,Mid_level
+79,        Booz Allen Hamilton,"Alexandria, VA",75000.0,Data_Analyst,Mid_level
+80,        IBM,"Washington, DC 20005 (Logan Circle area)",75000.0,Data_Analyst,Mid_level
+81,        IBM,"Washington, DC 20005 (Logan Circle area)",75000.0,Data_Analyst,Mid_level
+82,    DataNet Systems Corporation,"Washington, DC",75000.0,Data_Analyst,Mid_level
+83,    TeraThink Corporation,"Arlington, VA 22201 (Lyon Village area)",75000.0,Data_Analyst,Mid_level
+84,        Booz Allen Hamilton,"Fort Meade, MD",75000.0,Data_Analyst,Mid_level
+85,        Saint Joseph Health System,"Silver Spring, MD",75000.0,Data_Analyst,Mid_level
+86,        Vencore,"McLean, VA",75000.0,Data_Analyst,Mid_level
+87,        American Institutes for Research,"Washington, DC",75000.0,Data_Analyst,Mid_level
+88,        Technology Service Corporation,"Arlington, VA 22202 (Aurora Highlands area)",75000.0,Data_Analyst,Mid_level
+89,        Altamira Technologies Corporation,"Springfield, VA",75000.0,Data_Analyst,Mid_level
+90,    The McKenna Principals Inc,"Herndon, VA",75000.0,Data_Analyst,Mid_level
+91,        American Society of Clinical Oncology,"Alexandria, VA",75000.0,Data_Analyst,Mid_level
+92,"        Noblis NSP, LLC","Washington, DC",75000.0,Data_Analyst,Mid_level
+93,        Noblis,"Washington, DC",75000.0,Data_Analyst,Mid_level
+94,"    Buchanan & Edwards, Inc.","Washington, DC",75000.0,Data_Analyst,Mid_level
+95,    Command Consulting Group,"Washington, DC 20036 (Downtown area)",75000.0,Data_Analyst,Mid_level
+96,    Managed Care Advisors,"Bethesda, MD 20814",75000.0,Data_Analyst,Mid_level
+97,        The World Bank,"Washington, DC",75000.0,Data_Analyst,Mid_level
+98,        Visa,"Ashburn, VA",75000.0,Data_Analyst,Mid_level
+99,    Lexington Solutions Group,"Washington, DC 20032 (Anacostia area)",75000.0,Data_Analyst,Mid_level
+100,    OmniSolve Inc,"Washington, DC",75000.0,Data_Analyst,Mid_level
+101,    ByteCubed,"Arlington, VA",75000.0,Data_Analyst,Mid_level
+102,        Verizon,"Silver Spring, MD 20904",75000.0,Data_Analyst,Mid_level
+103,    OmniSolve Inc,"Washington, DC",75000.0,Data_Analyst,Mid_level
+104,        Net ESolutions Corporation (NETE),"Rockville, MD",75000.0,Data_Analyst,Mid_level
+0,        Deloitte,"Arlington, VA 22209",75000.0,Data_Analyst,Senior_level
+1,    Salient CRGT,"Washington, DC",75000.0,Data_Analyst,Senior_level
+2,        General Dynamics Information Technology,"Springfield, VA",75000.0,Data_Analyst,Senior_level
+3,        Booz Allen Hamilton,"Washington, DC",75000.0,Data_Analyst,Senior_level
+4,    DataNet Systems Corporation,"Washington, DC",75000.0,Data_Analyst,Senior_level
+5,"    Group Benefit Services, Inc.","Cockeysville, MD 21030",75000.0,Data_Analyst,Senior_level
+6,    IMTAS,"Washington, DC 20535 (Downtown area)",75000.0,Data_Analyst,Senior_level
+7,        ANSER,"Arlington, VA 22206 (Fairlington-Shirlington area)",75000.0,Data_Analyst,Senior_level
+8,        General Dynamics Information Technology,"Towson, MD",75000.0,Data_Analyst,Senior_level
+9,    Indev,"Washington, DC",75000.0,Data_Analyst,Senior_level
+10,        PricewaterhouseCoopers LLC,"Washington, DC 20001 (Shaw area)",75000.0,Data_Analyst,Senior_level
+11,    New Beginnings LLC,"Washington, DC 20002 (Capitol Hill area)",75000.0,Data_Analyst,Senior_level
+12,    Archimedes Global,"Alexandria, VA",75000.0,Data_Analyst,Senior_level
+13,    New Beginnings LLC,"Washington, DC 20002 (Capitol Hill area)",75000.0,Data_Analyst,Senior_level
+14,        ASRC Federal,"Arlington, VA",75000.0,Data_Analyst,Senior_level
+15,        UDig,"Sterling, VA 20166",75000.0,Data_Analyst,Senior_level
+16,"Data Systems Analysts, Inc.","Fairfax, VA 22030",75000.0,Data_Analyst,Senior_level
+17,        Logistics Support,"Washington, DC 20003 (Capitol Hill area)",75000.0,Data_Analyst,Senior_level
+18,        Vencore,"McLean, VA",75000.0,Data_Analyst,Senior_level
+19,    HARKEN DATA INC.,"Washington, DC",75000.0,Data_Analyst,Senior_level
+20,    Garud Technology Services Inc.,"Washington, DC",75000.0,Data_Analyst,Senior_level
+21,        Logistics Support,"Washington, DC 20003 (Capitol Hill area)",75000.0,Data_Analyst,Senior_level
+22,        Dependable Global Solutions,"Washington, DC 20016 (AU-Tenleytown area)",75000.0,Data_Analyst,Senior_level
+23,        fhi360,"Washington, DC",75000.0,Data_Analyst,Senior_level
+24,    IMTAS,"Washington, DC 20001 (Shaw area)",75000.0,Data_Analyst,Senior_level
+25,        Information Innovators Inc.,"Washington, DC",75000.0,Data_Analyst,Senior_level
+26,"    Universal Strategy Group, Inc (USGI)","Washington, DC 20535 (Downtown area)",75000.0,Data_Analyst,Senior_level
+27,    SC3,"Washington, DC",75000.0,Data_Analyst,Senior_level
+28,        Centra Technology,"Washington, DC",75000.0,Data_Analyst,Senior_level
+29,        Booz Allen Hamilton,"Washington, DC",75000.0,Data_Analyst,Senior_level
+30,        Cubic Corporation,"Arlington, VA",75000.0,Data_Analyst,Senior_level
+31,        Booz Allen Hamilton,"Washington, DC",75000.0,Data_Analyst,Senior_level
+32,        ICF International,"Fairfax, VA",75000.0,Data_Analyst,Senior_level
+33,"    DELTA Resources, Inc.","Washington, DC",75000.0,Data_Analyst,Senior_level
+34,    Leonie,"Arlington, VA",75000.0,Data_Analyst,Senior_level
+35,        White & Case,"Washington, DC",75000.0,Data_Analyst,Senior_level
+36,    Prism Inc.,"Vienna, VA",75000.0,Data_Analyst,Senior_level
+37,    First Guaranty Mortgage Corporation,"Tysons Corner, VA 22182",75000.0,Data_Analyst,Senior_level
+38,        Octo Consulting Group,"Alexandria, VA 22314 (Southwest Quadrant area)",75000.0,Data_Analyst,Senior_level
+39,        ACI Federal,"Baltimore, MD",75000.0,Data_Analyst,Senior_level
+40,    ALQIMI,"Washington, DC",75000.0,Data_Analyst,Senior_level
+41,    Comtech LLC,"Washington, DC",75000.0,Data_Analyst,Senior_level
+42,        Reed Elsevier,"Fairfax, VA",75000.0,Data_Analyst,Senior_level
+43,    Common Securitization Solutions,"Bethesda, MD",75000.0,Data_Analyst,Senior_level
+44,        Booz Allen Hamilton,"Rockville, MD",75000.0,Data_Analyst,Senior_level
+45,        Booz Allen Hamilton,"Fort Belvoir, VA",75000.0,Data_Analyst,Senior_level
+46,        LexisNexis,"Fairfax, VA",75000.0,Data_Analyst,Senior_level
+47,    Ventera,"Washington, DC",75000.0,Data_Analyst,Senior_level
+48,        Analytic Services,"Arlington, VA",75000.0,Data_Analyst,Senior_level
+49,        Booz Allen Hamilton,"Washington, DC",75000.0,Data_Analyst,Senior_level
+50,        ECS Federal LLC,"Arlington, VA",75000.0,Data_Analyst,Senior_level
+51,    EXCELLENCE CONSULTING,"Columbia, MD",75000.0,Data_Analyst,Senior_level
+52,        Lockheed Martin,"Washington, DC",75000.0,Data_Analyst,Senior_level
+53,"        GAP Solutions, Inc.","Washington, DC 20004 (Downtown area)",75000.0,Data_Analyst,Senior_level
+54,    Systems Support & Integration Inc,"Crystal City, VA",75000.0,Data_Analyst,Senior_level
+55,        Booz Allen Hamilton,"Andrews AFB, MD",75000.0,Data_Analyst,Senior_level
+56,        Booz Allen Hamilton,"Alexandria, VA",75000.0,Data_Analyst,Senior_level
+57,        Booz Allen Hamilton,"Alexandria, VA",75000.0,Data_Analyst,Senior_level
+58,"    Laulima Government Solutions, LLC.","Falls Church, VA",75000.0,Data_Analyst,Senior_level
+59,"    eScience & Technology Solutions, Inc.","Washington, DC",75000.0,Data_Analyst,Senior_level
+60,        IBM Kenexa,"Washington, DC",75000.0,Data_Analyst,Senior_level
+61,        Celestar Corporation,"Bolling AFB, DC",75000.0,Data_Analyst,Senior_level
+62,        Grant Thornton,"Alexandria, VA 22314 (Southwest Quadrant area)",75000.0,Data_Analyst,Senior_level
+63,        IntelliWare Systems,"Washington, DC",75000.0,Data_Analyst,Senior_level
+64,        Booz Allen Hamilton,"McLean, VA",75000.0,Data_Analyst,Senior_level
+65,    phia,"Arlington, VA",75000.0,Data_Analyst,Senior_level
+66,        The Aerospace Corporation,"Crystal City, VA",75000.0,Data_Analyst,Senior_level
+67,        Amtrak,"Washington, DC 20002 (Capitol Hill area)",75000.0,Data_Analyst,Senior_level
+68,        Powertek Corporation,"Chantilly, VA",75000.0,Data_Analyst,Senior_level
+69,    Kratos Defense,"Arlington, VA 22206 (Fairlington-Shirlington area)",75000.0,Data_Analyst,Senior_level
+70,    phia,"Arlington, VA",75000.0,Data_Analyst,Senior_level
+71,        Sayres and Associates,"Washington, DC",75000.0,Data_Analyst,Senior_level
+72,"    Goldbelt, Inc.","Washington, DC",75000.0,Data_Analyst,Senior_level
+73,"    Sylver Rain Consulting, llc","Washington, DC 20004 (Downtown area)",75000.0,Data_Analyst,Senior_level
+74,"    Insight Technology Solutions, Inc.","Washington, DC",75000.0,Data_Analyst,Senior_level
+75,        The Johns Hopkins Applied Physics Laboratory,"Laurel, MD",75000.0,Data_Analyst,Senior_level
+76,        Booz Allen Hamilton,"Washington, DC",75000.0,Data_Analyst,Senior_level
+77,        xentity corporation,"Washington, DC",75000.0,Data_Analyst,Senior_level
+78,        Freddie Mac,"McLean, VA",75000.0,Data_Analyst,Senior_level
+79,"    GID Solutions, LLC","Quantico, VA",75000.0,Data_Analyst,Senior_level
+80,"    Global Solutions Network, Inc.","Washington, DC",75000.0,Data_Analyst,Senior_level
+81,        2U,"Landover, MD",75000.0,Data_Analyst,Senior_level
+82,"    DELTA Resources, Inc.","Washington, DC",75000.0,Data_Analyst,Senior_level
+83,"    Concord Crossroads, LLC","Washington, DC",75000.0,Data_Analyst,Senior_level
+84,    Applied Communication Sciences,"College Park, MD",75000.0,Data_Analyst,Senior_level
+85,    Sonecon LLC,"Washington, DC 20004 (Downtown area)",75000.0,Data_Analyst,Senior_level
+86,        Abacus Technology Corporation,"Washington, DC",75000.0,Data_Analyst,Senior_level
+87,    TAKE ENTERPRISE SERVICE INC,"Baltimore, MD",75000.0,Data_Analyst,Senior_level
+88,        The MASY Group,"Washington, DC",75000.0,Data_Analyst,Senior_level
+89,        Booz Allen Hamilton,"Washington, DC",75000.0,Data_Analyst,Senior_level
+90,"    Vector Planning & Services, Inc","Washington, DC",75000.0,Data_Analyst,Senior_level
+91,        Booz Allen Hamilton,"McLean, VA",75000.0,Data_Analyst,Senior_level
+92,        Booz Allen Hamilton,"Fort Meade, MD",75000.0,Data_Analyst,Senior_level
+93,        IntelliWare Systems,"Washington, DC",75000.0,Data_Analyst,Senior_level
+94,    Sev1Tech,"Washington, DC",75000.0,Data_Analyst,Senior_level
+95,        Alion Science and Technology,"Washington, DC 20003 (Capitol Hill area)",75000.0,Data_Analyst,Senior_level
+96,"    Quadrant, Inc.","Silver Spring, MD 20910",75000.0,Data_Analyst,Senior_level
+97,    Applied Memetics LLC,"Washington, DC",75000.0,Data_Analyst,Senior_level
+98,        Booz Allen Hamilton,"Washington, DC",75000.0,Data_Analyst,Senior_level
+99,        SAIC,"Fort Belvoir, VA",75000.0,Data_Analyst,Senior_level
+100,"    SnagAJob.com, Inc","Arlington, VA 22201 (Lyon Village area)",75000.0,Data_Analyst,Senior_level
+101,        General Dynamics Information Technology,"Quantico, VA",75000.0,Data_Analyst,Senior_level
+102,        Maden Technologies,"Washington, DC",75000.0,Data_Analyst,Senior_level
+103,        General Dynamics Information Technology,"Washington, DC",75000.0,Data_Analyst,Senior_level
+104,        Wyle Laboratories,"Anacostia, DC",75000.0,Data_Analyst,Senior_level
+0,        Evolent Health,"Arlington, VA 22203",85000.0,Data_Analyst,Entry_level
+1,        Veris Group,"Washington, DC",85000.0,Data_Analyst,Entry_level
+2,    Datalogic Solutions Inc,"Chantilly, VA",85000.0,Data_Analyst,Entry_level
+3,        Booz Allen Hamilton,"Washington, DC",85000.0,Data_Analyst,Entry_level
+4,    FAAZ Consulting LLC,"Washington, DC",85000.0,Data_Analyst,Entry_level
+5,        Booz Allen Hamilton,"Alexandria, VA",85000.0,Data_Analyst,Entry_level
+6,        Booz Allen Hamilton,"Washington, DC",85000.0,Data_Analyst,Entry_level
+7,        Booz Allen Hamilton,"Washington, DC",85000.0,Data_Analyst,Entry_level
+8,        DISYS,"McLean, VA",85000.0,Data_Analyst,Entry_level
+9,        Boecore,"Arlington, VA 22201 (Lyon Village area)",85000.0,Data_Analyst,Entry_level
+10,        Accenture,"Rosslyn, VA",85000.0,Data_Analyst,Entry_level
+11,    Insequence Inc.,"Herndon, VA 20171",85000.0,Data_Analyst,Entry_level
+12,        Booz Allen Hamilton,"McLean, VA",85000.0,Data_Analyst,Entry_level
+13,    eAcuity,"Washington, DC",85000.0,Data_Analyst,Entry_level
+14,        U.S. Department of Labor,"Washington, DC",85000.0,Data_Analyst,Entry_level
+15,        Booz Allen Hamilton,"Washington, DC",85000.0,Data_Analyst,Entry_level
+16,        Booz Allen Hamilton,"Washington, DC",85000.0,Data_Analyst,Entry_level
+17,        Vox Media,"Washington, DC",85000.0,Data_Analyst,Entry_level
+18,        Deloitte,"Arlington, VA 22209 (Radnor-Ft Myer Heights area)",85000.0,Data_Analyst,Entry_level
+19,        Booz Allen Hamilton,"Washington, DC",85000.0,Data_Analyst,Entry_level
+20,        Booz Allen Hamilton,"Alexandria, VA",85000.0,Data_Analyst,Entry_level
+21,        Booz Allen Hamilton,"McLean, VA",85000.0,Data_Analyst,Entry_level
+22,"    Integral Consulting Services, Inc.","Rockville, MD",85000.0,Data_Analyst,Entry_level
+23,        U.S. Department of Labor,"Washington, DC",85000.0,Data_Analyst,Entry_level
+24,        Grant Thornton,"Washington, DC 20036 (Downtown area)",85000.0,Data_Analyst,Entry_level
+25,    Gryphon Scientific,"Takoma Park, MD",85000.0,Data_Analyst,Entry_level
+26,        Atlas Research,"Washington, DC 20005 (Logan Circle area)",85000.0,Data_Analyst,Entry_level
+27,        Booz Allen Hamilton,"Fort Meade, MD",85000.0,Data_Analyst,Entry_level
+28,    Trinity Global Consulting,"Springfield, VA",85000.0,Data_Analyst,Entry_level
+29,        REDHORSE CORPORATION,"Arlington, VA 22202 (Aurora Highlands area)",85000.0,Data_Analyst,Entry_level
+30,        Grant Thornton,"Alexandria, VA 22314 (Southwest Quadrant area)",85000.0,Data_Analyst,Entry_level
+31,"    ActioNet, Inc.","Silver Spring, MD 20910",85000.0,Data_Analyst,Entry_level
+32,        CapTech Consulting,"Reston, VA",85000.0,Data_Analyst,Entry_level
+33,    Olsen Palmer LLC,"Washington, DC 20036 (Downtown area)",85000.0,Data_Analyst,Entry_level
+34,    The Buffalo Group,"Washington, DC",85000.0,Data_Analyst,Entry_level
+35,        GEICO,"Chevy Chase, MD",85000.0,Data_Analyst,Entry_level
+36,        Deloitte,"Washington, DC",85000.0,Data_Analyst,Entry_level
+37,        Engility Corporation,"Washington, DC 20376 (Brentwood area)",85000.0,Data_Analyst,Entry_level
+38,    Centeva,"Rockville, MD 20850",85000.0,Data_Analyst,Entry_level
+39,    Able Forces,"Alexandria, VA",85000.0,Data_Analyst,Entry_level
+40,        Jobspring Partners,"Washington, DC 20005 (Logan Circle area)",85000.0,Data_Analyst,Entry_level
+41,        Exelon,"Baltimore, MD 21223 (West Baltimore area)",85000.0,Data_Analyst,Entry_level
+42,        U.S. Department of Labor,"Washington, DC",85000.0,Data_Analyst,Entry_level
+43,        CACI,"Washington, DC 20001 (Shaw area)",85000.0,Data_Analyst,Entry_level
+44,        IBM Kenexa,"Washington, DC",85000.0,Data_Analyst,Entry_level
+45,"    Ian, Evan & Alexander Corporation","Washington, DC 20037 (Foggy Bottom area)",85000.0,Data_Analyst,Entry_level
+46,        Synchronoss,"Reston, VA",85000.0,Data_Analyst,Entry_level
+47,"    Synchronoss Technologies, Inc.","Reston, VA",85000.0,Data_Analyst,Entry_level
+48,        IBM,"Washington, DC 20005 (Logan Circle area)",85000.0,Data_Analyst,Entry_level
+49,        AlixPartners,"Washington, DC",85000.0,Data_Analyst,Entry_level
+50,    Computing Concepts Inc.,"Baltimore, MD 21230 (West Baltimore area)",85000.0,Data_Analyst,Entry_level
+51,        Institute for Defense Analyses,"Alexandria, VA 22311 (Alexandria Wrest area)",85000.0,Data_Analyst,Entry_level
+52,        Blue Canopy,"Arlington, VA",85000.0,Data_Analyst,Entry_level
+53,        SAIC,"McLean, VA",85000.0,Data_Analyst,Entry_level
+54,        3M,"Silver Spring, MD",85000.0,Data_Analyst,Entry_level
+55,        Booz Allen Hamilton,"Rockville, MD",85000.0,Data_Analyst,Entry_level
+56,        GEICO,"Washington, DC",85000.0,Data_Analyst,Entry_level
+57,"    ThreatConnect, Inc.","Arlington, VA",85000.0,Data_Analyst,Entry_level
+58,        Booz Allen Hamilton,"Alexandria, VA",85000.0,Data_Analyst,Entry_level
+59,    SRL TotalSource LLC,"Washington, DC",85000.0,Data_Analyst,Entry_level
+60,        Booz Allen Hamilton,"Fort Meade, MD",85000.0,Data_Analyst,Entry_level
+61,        Engility Corporation,"Bethesda, MD 20892",85000.0,Data_Analyst,Entry_level
+62,    kCura Corporation,"Reston, VA",85000.0,Data_Analyst,Entry_level
+63,    Custom Software Systems Inc.,"Washington, DC 20004 (Downtown area)",85000.0,Data_Analyst,Entry_level
+64,    Bulletin Intelligence,"Reston, VA 20191",85000.0,Data_Analyst,Entry_level
+65,        Celerity,"McLean, VA 22102",85000.0,Data_Analyst,Entry_level
+66,"        Strategic Analysis, Inc","Arlington, VA",85000.0,Data_Analyst,Entry_level
+67,"        NCI Information Systems, Inc.","Fort Belvoir, VA",85000.0,Data_Analyst,Entry_level
+68,    Bulletin Intelligence,"Reston, VA 20191",85000.0,Data_Analyst,Entry_level
+69,        Cubic Corporation,"Tysons Corner, VA",85000.0,Data_Analyst,Entry_level
+70,        Booz Allen Hamilton,"Herndon, VA",85000.0,Data_Analyst,Entry_level
+71,    Next Step Systems,"Washington, DC",85000.0,Data_Analyst,Entry_level
+72,"        OMNITEC Solutions, Inc","Rockville, MD",85000.0,Data_Analyst,Entry_level
+73,    OPTOMI LLC,"Dulles, VA",85000.0,Data_Analyst,Entry_level
+74,    Whiteboard Federal Technologies,"Herndon, VA",85000.0,Data_Analyst,Entry_level
+75,    Omnitek Consulting,"Gaithersburg, MD",85000.0,Data_Analyst,Entry_level
+76,    Prism Inc.,"Vienna, VA",85000.0,Data_Analyst,Entry_level
+77,        Alvarez & Marsal,"Washington, DC 20004 (Downtown area)",85000.0,Data_Analyst,Entry_level
+78,"    Storage Strategies, Inc.","Springfield, VA",85000.0,Data_Analyst,Entry_level
+79,        Booz Allen Hamilton,"Washington, DC",85000.0,Data_Analyst,Entry_level
+80,        Mitre Corporation,"McLean, VA",85000.0,Data_Analyst,Entry_level
+81,    SC3,"Washington, DC",85000.0,Data_Analyst,Entry_level
+82,        Veris Group,"Washington, DC",85000.0,Data_Analyst,Entry_level
+83,        Transportation Security Administration,"Arlington, VA",85000.0,Data_Analyst,Entry_level
+84,        Booz Allen Hamilton,"Quantico, VA",85000.0,Data_Analyst,Entry_level
+85,    The Tauri Group,"Alexandria, VA",85000.0,Data_Analyst,Entry_level
+86,        IBM Kenexa,"Bethesda, MD",85000.0,Data_Analyst,Entry_level
+87,    ROI Checker,"Vienna, VA 22180",85000.0,Data_Analyst,Entry_level
+88,"    Arlington County, VA","Arlington, VA",85000.0,Data_Analyst,Entry_level
+89,        CSRA,"Arlington, VA",85000.0,Data_Analyst,Entry_level
+90,    Arc Aspicio,"Arlington, VA 22207 (Yorktown area)",85000.0,Data_Analyst,Entry_level
+91,        Sayres and Associates,"Washington, DC",85000.0,Data_Analyst,Entry_level
+92,    Veteran Staffing Network of Easter Seals,"McLean, VA",85000.0,Data_Analyst,Entry_level
+93,        Evolent Health,"Arlington, VA 22203 (Bluemont area)",85000.0,Data_Analyst,Entry_level
+94,        USM,"Washington, DC",85000.0,Data_Analyst,Entry_level
+95,    Systems & Technology Research,"Arlington, VA 22203 (Bluemont area)",85000.0,Data_Analyst,Entry_level
+96,    Tandler Recruiting,"Tysons, VA",85000.0,Data_Analyst,Entry_level
+97,"    Cameo Consulting Group, LLC","Washington, DC",85000.0,Data_Analyst,Entry_level
+98,    Sysmatics Inc.,"Arlington, VA",85000.0,Data_Analyst,Entry_level
+99,        Hewlett Packard Enterprise,"Herndon, VA",85000.0,Data_Analyst,Entry_level
+100,    Knight Federal Solutions,"Washington, DC",85000.0,Data_Analyst,Entry_level
+101,    Synergy BIS,"Arlington, VA 22209 (Radnor-Ft Myer Heights area)",85000.0,Data_Analyst,Entry_level
+102,    Tunnell Consulting,"Washington, DC 20009 (U Street Corridor area)",85000.0,Data_Analyst,Entry_level
+103,        Amazon Corporate LLC,United States,85000.0,Data_Analyst,Entry_level
+104,    Predictive Science,United States,85000.0,Data_Analyst,Entry_level
+0,    OmniSolve Inc,"Washington, DC",85000.0,Data_Analyst,Mid_level
+1,    Aderas,"Reston, VA 20191",85000.0,Data_Analyst,Mid_level
+2,"        FTI Consulting, Inc.","McLean, VA",85000.0,Data_Analyst,Mid_level
+3,        The World Bank,"Washington, DC",85000.0,Data_Analyst,Mid_level
+4,    Compumatics Group,"New Carrollton, MD",85000.0,Data_Analyst,Mid_level
+5,        Booz Allen Hamilton,"Quantico, VA",85000.0,Data_Analyst,Mid_level
+6,    Inforeem,"Washington, DC",85000.0,Data_Analyst,Mid_level
+7,        Booz Allen Hamilton,"Washington, DC",85000.0,Data_Analyst,Mid_level
+8,        Legal Services Corporation,"Washington, DC",85000.0,Data_Analyst,Mid_level
+9,    Excella Consulting,"Washington, DC 20006 (Foggy Bottom area)",85000.0,Data_Analyst,Mid_level
+10,        Dixon Hughes Goodman LLP,"McLean, VA 22102",85000.0,Data_Analyst,Mid_level
+11,        Booz Allen Hamilton,"College Park, MD 20740",85000.0,Data_Analyst,Mid_level
+12,        Johns Hopkins Hospital/Johns Hopkins Health System,"Baltimore, MD",85000.0,Data_Analyst,Mid_level
+13,        Dovel Technologies,"McLean, VA",85000.0,Data_Analyst,Mid_level
+14,        Engility Corporation,"Washington, DC 20376 (Brentwood area)",85000.0,Data_Analyst,Mid_level
+15,        Booz Allen Hamilton,"McLean, VA",85000.0,Data_Analyst,Mid_level
+16,        The World Bank,"Washington, DC",85000.0,Data_Analyst,Mid_level
+17,        Booz Allen Hamilton,"College Park, MD 20740",85000.0,Data_Analyst,Mid_level
+18,"    Onyx Government Services, LLC","Washington, DC",85000.0,Data_Analyst,Mid_level
+19,    Common Securitization Solutions,"Bethesda, MD",85000.0,Data_Analyst,Mid_level
+20,        Systems Planning and Analysis,"Alexandria, VA 22311 (Alexandria Wrest area)",85000.0,Data_Analyst,Mid_level
+21,"    VISUAL SOFT, INC","Washington, DC",85000.0,Data_Analyst,Mid_level
+22,        Under Armour,"Baltimore, MD",85000.0,Data_Analyst,Mid_level
+23,        Prometric,"Nottingham, MD",85000.0,Data_Analyst,Mid_level
+24,    SA Solutions Inc. (SAS),"Lanham, MD",85000.0,Data_Analyst,Mid_level
+25,    Archimedes Global,"Alexandria, VA",85000.0,Data_Analyst,Mid_level
+26,    DataNet Systems Corporation,"Washington, DC",85000.0,Data_Analyst,Mid_level
+27,        Net ESolutions Corporation (NETE),"Rockville, MD",85000.0,Data_Analyst,Mid_level
+28,        ANALYTICA,"Washington, DC 20036 (Downtown area)",85000.0,Data_Analyst,Mid_level
+29,        Booz Allen Hamilton,"Herndon, VA",85000.0,Data_Analyst,Mid_level
+30,    AINS,"Crystal City, VA",85000.0,Data_Analyst,Mid_level
+31,        ASRC Federal,"Alexandria, VA",85000.0,Data_Analyst,Mid_level
+32,    Transurban Group,"Alexandria, VA",85000.0,Data_Analyst,Mid_level
+33,"    Integral Consulting Services, Inc.","Arlington, VA",85000.0,Data_Analyst,Mid_level
+34,        Saint Joseph Health System,"Silver Spring, MD",85000.0,Data_Analyst,Mid_level
+35,        Citizant,"Washington, DC",85000.0,Data_Analyst,Mid_level
+36,"    Buchanan & Edwards, Inc.","Washington, DC",85000.0,Data_Analyst,Mid_level
+37,    Salient CRGT,"Arlington, VA",85000.0,Data_Analyst,Mid_level
+38,        The World Bank,"Washington, DC",85000.0,Data_Analyst,Mid_level
+39,    Karsun Solutions LLC,"Herndon, VA",85000.0,Data_Analyst,Mid_level
+40,        Booz Allen Hamilton,"Alexandria, VA",85000.0,Data_Analyst,Mid_level
+41,"    DB Healthcare, Inc.","Washington, DC",85000.0,Data_Analyst,Mid_level
+42,        Teracore,"Washington, DC",85000.0,Data_Analyst,Mid_level
+43,    Office of the Chief Financial Officer (OCFO),"Washington, DC",85000.0,Data_Analyst,Mid_level
+44,    OmniSolve Inc,"Washington, DC",85000.0,Data_Analyst,Mid_level
+45,    Ankura Consulting Group,"Washington, DC 20036 (Downtown area)",85000.0,Data_Analyst,Mid_level
+46,        Vencore,"McLean, VA",85000.0,Data_Analyst,Mid_level
+47,        Freddie Mac,"McLean, VA",85000.0,Data_Analyst,Mid_level
+48,        Booz Allen Hamilton,"Fort Meade, MD",85000.0,Data_Analyst,Mid_level
+49,        Southwest Research Institute,"Washington, DC",85000.0,Data_Analyst,Mid_level
+50,        Sayres and Associates,"Washington, DC",85000.0,Data_Analyst,Mid_level
+51,    Lexington Solutions Group,"Washington, DC 20032 (Anacostia area)",85000.0,Data_Analyst,Mid_level
+52,    Command Consulting Group,"Washington, DC 20036 (Downtown area)",85000.0,Data_Analyst,Mid_level
+53,        The World Bank Group,"Washington, DC",85000.0,Data_Analyst,Mid_level
+54,    The Buffalo Group,"Washington, DC",85000.0,Data_Analyst,Mid_level
+55,        The World Bank Group,"Washington, DC",85000.0,Data_Analyst,Mid_level
+56,        Verizon,"Silver Spring, MD 20904",85000.0,Data_Analyst,Mid_level
+57,"    OnPoint Consulting, Inc.","Arlington, VA",85000.0,Data_Analyst,Mid_level
+58,        Vencore,"Suitland, MD",85000.0,Data_Analyst,Mid_level
+59,        Altamira Technologies Corporation,"Springfield, VA",85000.0,Data_Analyst,Mid_level
+60,"    CSSI, Inc.","Washington, DC",85000.0,Data_Analyst,Mid_level
+61,        Booz Allen Hamilton,"McLean, VA",85000.0,Data_Analyst,Mid_level
+62,    Newbold Advisors LLC,"Washington, DC",85000.0,Data_Analyst,Mid_level
+63,        Booz Allen Hamilton,"Alexandria, VA",85000.0,Data_Analyst,Mid_level
+64,    Oxford HIM Direct Hire,"Washington, DC",85000.0,Data_Analyst,Mid_level
+65,        Net ESolutions Corporation (NETE),"Rockville, MD",85000.0,Data_Analyst,Mid_level
+66,"    SnagAJob.com, Inc","Arlington, VA 22201 (Lyon Village area)",85000.0,Data_Analyst,Mid_level
+67,"    Transportation, District Dept","Washington, DC",85000.0,Data_Analyst,Mid_level
+68,"    McIntire Solutions, LLC","Crystal City, VA",85000.0,Data_Analyst,Mid_level
+69,        USM,"Washington, DC",85000.0,Data_Analyst,Mid_level
+70,    BITHGROUP,"Baltimore, MD",85000.0,Data_Analyst,Mid_level
+71,        Blue Canopy,"Herndon, VA",85000.0,Data_Analyst,Mid_level
+72,    IFC,"Washington, DC",85000.0,Data_Analyst,Mid_level
+73,    Innovative IT Solutions INC,"Rockville, MD",85000.0,Data_Analyst,Mid_level
+74,        ICF International,"Arlington, VA",85000.0,Data_Analyst,Mid_level
+75,    Common Securitization Solutions,"Bethesda, MD",85000.0,Data_Analyst,Mid_level
+76,        The Johns Hopkins Applied Physics Laboratory,"Laurel, MD",85000.0,Data_Analyst,Mid_level
+77,        Booz Allen Hamilton,"Washington, DC",85000.0,Data_Analyst,Mid_level
+78,    Archimedes Global,"Washington, DC",85000.0,Data_Analyst,Mid_level
+79,        KPMG,"Washington, DC 20036 (Downtown area)",85000.0,Data_Analyst,Mid_level
+80,        Mitre Corporation,"Washington, DC 20024 (South West area)",85000.0,Data_Analyst,Mid_level
+81,        IBM,"Washington, DC 20005 (Logan Circle area)",85000.0,Data_Analyst,Mid_level
+82,        COMPASS,"Washington, DC",85000.0,Data_Analyst,Mid_level
+83,        Atlas Research,"Washington, DC 20005 (Logan Circle area)",85000.0,Data_Analyst,Mid_level
+84,"    VISUAL SOFT, INC","Washington, DC",85000.0,Data_Analyst,Mid_level
+85,    DataRobot,"Washington, DC",85000.0,Data_Analyst,Mid_level
+86,        IBM Kenexa,"Washington, DC",85000.0,Data_Analyst,Mid_level
+87,    Aquila Technology,"Springfield, VA",85000.0,Data_Analyst,Mid_level
+88,        Celestar Corporation,"Bolling AFB, DC",85000.0,Data_Analyst,Mid_level
+89,        DECISIVE ANALYTICS Corporation,"Alexandria, VA",85000.0,Data_Analyst,Mid_level
+90,        USM,"Washington, DC",85000.0,Data_Analyst,Mid_level
+91,        S&P GLOBAL MARKET INTELLIGENCE,"Arlington, VA 22209 (Radnor-Ft Myer Heights area)",85000.0,Data_Analyst,Mid_level
+92,"    Onyx Government Services, LLC","Washington, DC",85000.0,Data_Analyst,Mid_level
+93,        Wyle Laboratories,"Arlington, VA 22202 (Aurora Highlands area)",85000.0,Data_Analyst,Mid_level
+94,        Greater Baltimore Medical Center,"Baltimore, MD 21203 (Old Town area)",85000.0,Data_Analyst,Mid_level
+95,        Ellucian.,"Fairfax, VA",85000.0,Data_Analyst,Mid_level
+96,    StraighterLine,"Baltimore, MD",85000.0,Data_Analyst,Mid_level
+97,        Systems Planning and Analysis,"Alexandria, VA 22311 (Alexandria Wrest area)",85000.0,Data_Analyst,Mid_level
+98,    Ukpeagvik Iñupiat Corporation/Bowhead Family of Co...,"Washington, DC",85000.0,Data_Analyst,Mid_level
+99,        Evolent Health,"Arlington, VA 22203 (Bluemont area)",85000.0,Data_Analyst,Mid_level
+100,        Evolent Health,"Arlington, VA 22203 (Bluemont area)",85000.0,Data_Analyst,Mid_level
+101,    TAC Integrated Solutions,"Arlington, VA",85000.0,Data_Analyst,Mid_level
+102,        General Dynamics Information Technology,"Lanham, MD",85000.0,Data_Analyst,Mid_level
+103,    Salient CRGT,"Arlington, VA",85000.0,Data_Analyst,Mid_level
+104,        Net ESolutions Corporation (NETE),"Rockville, MD",85000.0,Data_Analyst,Mid_level
+0,        Wyle Laboratories,"Anacostia, DC",85000.0,Data_Analyst,Senior_level
+1,        General Dynamics Information Technology,"Washington, DC",85000.0,Data_Analyst,Senior_level
+2,        General Dynamics Information Technology,"Suitland, MD",85000.0,Data_Analyst,Senior_level
+3,        Booz Allen Hamilton,"Washington, DC",85000.0,Data_Analyst,Senior_level
+4,    DataNet Systems Corporation,"Washington, DC",85000.0,Data_Analyst,Senior_level
+5,"    Universal Strategy Group, Inc (USGI)","Washington, DC 20535 (Downtown area)",85000.0,Data_Analyst,Senior_level
+6,    SC3,"Washington, DC",85000.0,Data_Analyst,Senior_level
+7,        ANSER,"Arlington, VA 22206 (Fairlington-Shirlington area)",85000.0,Data_Analyst,Senior_level
+8,    Indev,"Washington, DC",85000.0,Data_Analyst,Senior_level
+9,    IMTAS,"Washington, DC 20535 (Downtown area)",85000.0,Data_Analyst,Senior_level
+10,    New Beginnings LLC,"Washington, DC 20002 (Capitol Hill area)",85000.0,Data_Analyst,Senior_level
+11,"Data Systems Analysts, Inc.","Fairfax, VA 22030",85000.0,Data_Analyst,Senior_level
+12,        Logistics Support,"Washington, DC 20003 (Capitol Hill area)",85000.0,Data_Analyst,Senior_level
+13,        Vencore,"McLean, VA",85000.0,Data_Analyst,Senior_level
+14,    HARKEN DATA INC.,"Washington, DC",85000.0,Data_Analyst,Senior_level
+15,    Garud Technology Services Inc.,"Washington, DC",85000.0,Data_Analyst,Senior_level
+16,        Logistics Support,"Washington, DC 20003 (Capitol Hill area)",85000.0,Data_Analyst,Senior_level
+17,        Dependable Global Solutions,"Washington, DC 20016 (AU-Tenleytown area)",85000.0,Data_Analyst,Senior_level
+18,    IMTAS,"Washington, DC 20001 (Shaw area)",85000.0,Data_Analyst,Senior_level
+19,        Information Innovators Inc.,"Washington, DC",85000.0,Data_Analyst,Senior_level
+20,        Centra Technology,"Washington, DC",85000.0,Data_Analyst,Senior_level
+21,        Booz Allen Hamilton,"Washington, DC",85000.0,Data_Analyst,Senior_level
+22,"    Concord Crossroads, LLC","Washington, DC",85000.0,Data_Analyst,Senior_level
+23,        Booz Allen Hamilton,"Washington, DC",85000.0,Data_Analyst,Senior_level
+24,        ICF International,"Fairfax, VA",85000.0,Data_Analyst,Senior_level
+25,    Leonie,"Arlington, VA",85000.0,Data_Analyst,Senior_level
+26,        The MASY Group,"Washington, DC",85000.0,Data_Analyst,Senior_level
+27,    Prism Inc.,"Vienna, VA",85000.0,Data_Analyst,Senior_level
+28,        IntelliWare Systems,"Washington, DC",85000.0,Data_Analyst,Senior_level
+29,        ACI Federal,"Baltimore, MD",85000.0,Data_Analyst,Senior_level
+30,    Comtech LLC,"Washington, DC",85000.0,Data_Analyst,Senior_level
+31,    Common Securitization Solutions,"Bethesda, MD",85000.0,Data_Analyst,Senior_level
+32,        Booz Allen Hamilton,"Rockville, MD",85000.0,Data_Analyst,Senior_level
+33,        Booz Allen Hamilton,"Fort Belvoir, VA",85000.0,Data_Analyst,Senior_level
+34,        Analytic Services,"Arlington, VA",85000.0,Data_Analyst,Senior_level
+35,        Booz Allen Hamilton,"Washington, DC",85000.0,Data_Analyst,Senior_level
+36,        fhi360,"Washington, DC",85000.0,Data_Analyst,Senior_level
+37,    EXCELLENCE CONSULTING,"Columbia, MD",85000.0,Data_Analyst,Senior_level
+38,        Lockheed Martin,"Washington, DC",85000.0,Data_Analyst,Senior_level
+39,    Systems Support & Integration Inc,"Crystal City, VA",85000.0,Data_Analyst,Senior_level
+40,        Booz Allen Hamilton,"Alexandria, VA",85000.0,Data_Analyst,Senior_level
+41,        Booz Allen Hamilton,"Alexandria, VA",85000.0,Data_Analyst,Senior_level
+42,"    Laulima Government Solutions, LLC.","Falls Church, VA",85000.0,Data_Analyst,Senior_level
+43,        Grant Thornton,"Alexandria, VA 22314 (Southwest Quadrant area)",85000.0,Data_Analyst,Senior_level
+44,    ALQIMI,"Washington, DC",85000.0,Data_Analyst,Senior_level
+45,        Booz Allen Hamilton,"McLean, VA",85000.0,Data_Analyst,Senior_level
+46,    phia,"Arlington, VA",85000.0,Data_Analyst,Senior_level
+47,        The Aerospace Corporation,"Crystal City, VA",85000.0,Data_Analyst,Senior_level
+48,        Amtrak,"Washington, DC 20002 (Capitol Hill area)",85000.0,Data_Analyst,Senior_level
+49,        Powertek Corporation,"Chantilly, VA",85000.0,Data_Analyst,Senior_level
+50,    Kratos Defense,"Arlington, VA 22206 (Fairlington-Shirlington area)",85000.0,Data_Analyst,Senior_level
+51,    phia,"Arlington, VA",85000.0,Data_Analyst,Senior_level
+52,    Ventera,"Washington, DC",85000.0,Data_Analyst,Senior_level
+53,        Sayres and Associates,"Washington, DC",85000.0,Data_Analyst,Senior_level
+54,"    Goldbelt, Inc.","Washington, DC",85000.0,Data_Analyst,Senior_level
+55,"    Sylver Rain Consulting, llc","Washington, DC 20004 (Downtown area)",85000.0,Data_Analyst,Senior_level
+56,        ECS Federal LLC,"Arlington, VA",85000.0,Data_Analyst,Senior_level
+57,        Booz Allen Hamilton,"Washington, DC",85000.0,Data_Analyst,Senior_level
+58,"    Sotera Defense Solutions, Inc.","Washington, DC",85000.0,Data_Analyst,Senior_level
+59,"    GID Solutions, LLC","Quantico, VA",85000.0,Data_Analyst,Senior_level
+60,"    Global Solutions Network, Inc.","Washington, DC",85000.0,Data_Analyst,Senior_level
+61,    Applied Communication Sciences,"College Park, MD",85000.0,Data_Analyst,Senior_level
+62,    TAKE ENTERPRISE SERVICE INC,"Baltimore, MD",85000.0,Data_Analyst,Senior_level
+63,        Booz Allen Hamilton,"Washington, DC",85000.0,Data_Analyst,Senior_level
+64,        Booz Allen Hamilton,"Washington, DC",85000.0,Data_Analyst,Senior_level
+65,"    SnagAJob.com, Inc","Arlington, VA 22201 (Lyon Village area)",85000.0,Data_Analyst,Senior_level
+66,        Maden Technologies,"Washington, DC",85000.0,Data_Analyst,Senior_level
+67,    MDA Information Systems LLC,"Reston, VA",85000.0,Data_Analyst,Senior_level
+68,        Booz Allen Hamilton,"College Park, MD 20740",85000.0,Data_Analyst,Senior_level
+69,        OBXtek,"Tysons Corner, VA",85000.0,Data_Analyst,Senior_level
+70,    OmniSolve Inc,"Washington, DC",85000.0,Data_Analyst,Senior_level
+71,        Engility Corporation,"Springfield, VA 22152",85000.0,Data_Analyst,Senior_level
+72,        Mitre Corporation,"Bethesda, MD",85000.0,Data_Analyst,Senior_level
+73,        Leidos,"Springfield, VA",85000.0,Data_Analyst,Senior_level
+74,"    Bay Dynamics, Inc.","Reston, VA",85000.0,Data_Analyst,Senior_level
+75,        Customer Value Partners,"Washington, DC",85000.0,Data_Analyst,Senior_level
+76,"    Applied Computing Technologies, Inc.","Bluemont, VA",85000.0,Data_Analyst,Senior_level
+77,        Assertive Professionals,"Springfield, VA 22150",85000.0,Data_Analyst,Senior_level
+78,        Booz Allen Hamilton,"Quantico, VA",85000.0,Data_Analyst,Senior_level
+79,    Alqimi,"Washington, DC",85000.0,Data_Analyst,Senior_level
+80,        Booz Allen Hamilton,"Chantilly, VA 20151",85000.0,Data_Analyst,Senior_level
+81,    Knowesis Inc.,"Arlington, VA 22201 (Lyon Village area)",85000.0,Data_Analyst,Senior_level
+82,        Booz Allen Hamilton,"Chantilly, VA 20151",85000.0,Data_Analyst,Senior_level
+83,    Total Systems Technologies Corporation,"Washington, DC",85000.0,Data_Analyst,Senior_level
+84,        Raytheon,"McLean, VA",85000.0,Data_Analyst,Senior_level
+85,        Harris Corporation,"Annapolis Junction, MD 20701",85000.0,Data_Analyst,Senior_level
+86,        Visa,"Ashburn, VA",85000.0,Data_Analyst,Senior_level
+87,    Apex IT Services LLC,"Baltimore, MD",85000.0,Data_Analyst,Senior_level
+88,    Raas Infotek LLC,"Baltimore, MD",85000.0,Data_Analyst,Senior_level
+89,    GovPEO,"Washington, DC",85000.0,Data_Analyst,Senior_level
+90,        Booz Allen Hamilton,"Washington, DC",85000.0,Data_Analyst,Senior_level
+91,        The Aerospace Corporation,"Arlington, VA 22202 (Aurora Highlands area)",85000.0,Data_Analyst,Senior_level
+92,        Logistics Support,"Washington, DC 20003 (Capitol Hill area)",85000.0,Data_Analyst,Senior_level
+93,"    Vector Planning & Services, Inc","Washington, DC",85000.0,Data_Analyst,Senior_level
+94,        Booz Allen Hamilton,"Washington, DC",85000.0,Data_Analyst,Senior_level
+95,    Unity Technologies Corporation,"Frederick, MD",85000.0,Data_Analyst,Senior_level
+96,        Howard Hughes Medical Institute,"Chevy Chase, MD 20815",85000.0,Data_Analyst,Senior_level
+97,        Booz Allen Hamilton,"McLean, VA",85000.0,Data_Analyst,Senior_level
+98,        Camris International,"Washington, DC 20004 (Downtown area)",85000.0,Data_Analyst,Senior_level
+99,        Vox Media,"Washington, DC",85000.0,Data_Analyst,Senior_level
+100,        Booz Allen Hamilton,"Alexandria, VA",85000.0,Data_Analyst,Senior_level
+101,        Kearney & Company,"Alexandria, VA 22314 (Southwest Quadrant area)",85000.0,Data_Analyst,Senior_level
+102,    TCP Stream,"Rosslyn, VA",85000.0,Data_Analyst,Senior_level
+103,        BlackBerry,"Washington, DC",85000.0,Data_Analyst,Senior_level
+104,        General Dynamics Information Technology,"Springfield, VA",85000.0,Data_Analyst,Senior_level
+0,    Datalogic Solutions Inc,"Chantilly, VA",100000.0,Data_Analyst,Entry_level
+1,        Engility Corporation,"Washington, DC 20376",100000.0,Data_Analyst,Entry_level
+2,        Deloitte,"Arlington, VA 22209",100000.0,Data_Analyst,Entry_level
+3,        Booz Allen Hamilton,"Washington, DC",100000.0,Data_Analyst,Entry_level
+4,    FAAZ Consulting LLC,"Washington, DC",100000.0,Data_Analyst,Entry_level
+5,        Booz Allen Hamilton,"Alexandria, VA",100000.0,Data_Analyst,Entry_level
+6,        DISYS,"McLean, VA",100000.0,Data_Analyst,Entry_level
+7,    Insequence Inc.,"Herndon, VA 20171",100000.0,Data_Analyst,Entry_level
+8,        Booz Allen Hamilton,"Washington, DC",100000.0,Data_Analyst,Entry_level
+9,        Vox Media,"Washington, DC",100000.0,Data_Analyst,Entry_level
+10,        Booz Allen Hamilton,"McLean, VA",100000.0,Data_Analyst,Entry_level
+11,"    Integral Consulting Services, Inc.","Rockville, MD",100000.0,Data_Analyst,Entry_level
+12,        U.S. Department of Labor,"Washington, DC",100000.0,Data_Analyst,Entry_level
+13,    The Buffalo Group,"Washington, DC",100000.0,Data_Analyst,Entry_level
+14,        Engility Corporation,"Washington, DC 20376 (Brentwood area)",100000.0,Data_Analyst,Entry_level
+15,        Jobspring Partners,"Washington, DC 20005 (Logan Circle area)",100000.0,Data_Analyst,Entry_level
+16,        CACI,"Washington, DC 20001 (Shaw area)",100000.0,Data_Analyst,Entry_level
+17,"    Ian, Evan & Alexander Corporation","Washington, DC 20037 (Foggy Bottom area)",100000.0,Data_Analyst,Entry_level
+18,    Computing Concepts Inc.,"Baltimore, MD 21230 (West Baltimore area)",100000.0,Data_Analyst,Entry_level
+19,        Blue Canopy,"Arlington, VA",100000.0,Data_Analyst,Entry_level
+20,        SAIC,"McLean, VA",100000.0,Data_Analyst,Entry_level
+21,"    ThreatConnect, Inc.","Arlington, VA",100000.0,Data_Analyst,Entry_level
+22,    SRL TotalSource LLC,"Washington, DC",100000.0,Data_Analyst,Entry_level
+23,        Engility Corporation,"Bethesda, MD 20892",100000.0,Data_Analyst,Entry_level
+24,    Custom Software Systems Inc.,"Washington, DC 20004 (Downtown area)",100000.0,Data_Analyst,Entry_level
+25,    Bulletin Intelligence,"Reston, VA 20191",100000.0,Data_Analyst,Entry_level
+26,        Celerity,"McLean, VA 22102",100000.0,Data_Analyst,Entry_level
+27,    Bulletin Intelligence,"Reston, VA 20191",100000.0,Data_Analyst,Entry_level
+28,    OPTOMI LLC,"Dulles, VA",100000.0,Data_Analyst,Entry_level
+29,    Whiteboard Federal Technologies,"Herndon, VA",100000.0,Data_Analyst,Entry_level
+30,        Alvarez & Marsal,"Washington, DC 20004 (Downtown area)",100000.0,Data_Analyst,Entry_level
+31,        Mitre Corporation,"McLean, VA",100000.0,Data_Analyst,Entry_level
+32,    SC3,"Washington, DC",100000.0,Data_Analyst,Entry_level
+33,        Transportation Security Administration,"Arlington, VA",100000.0,Data_Analyst,Entry_level
+34,    The Tauri Group,"Alexandria, VA",100000.0,Data_Analyst,Entry_level
+35,    Arc Aspicio,"Arlington, VA 22207 (Yorktown area)",100000.0,Data_Analyst,Entry_level
+36,    Veteran Staffing Network of Easter Seals,"McLean, VA",100000.0,Data_Analyst,Entry_level
+37,    Systems & Technology Research,"Arlington, VA 22203 (Bluemont area)",100000.0,Data_Analyst,Entry_level
+38,    Knight Federal Solutions,"Washington, DC",100000.0,Data_Analyst,Entry_level
+39,    Tunnell Consulting,"Washington, DC 20009 (U Street Corridor area)",100000.0,Data_Analyst,Entry_level
+40,    WhiteHawk Inc.,"Baltimore, MD",100000.0,Data_Analyst,Entry_level
+41,        Booz Allen Hamilton,"Alexandria, VA",100000.0,Data_Analyst,Entry_level
+42,    Whiteboard Federal Technologies,"Chantilly, VA",100000.0,Data_Analyst,Entry_level
+43,    Encore Search Partners,"Reston, VA",100000.0,Data_Analyst,Entry_level
+44,"    Quadrant, Inc.","Washington, DC",100000.0,Data_Analyst,Entry_level
+45,        Missile Defense Agency,"Dahlgren, VA",100000.0,Data_Analyst,Entry_level
+46,        Bechtel,"Reston, VA",100000.0,Data_Analyst,Entry_level
+47,"    Continuum Behavioral Health-McLean, VA","McLean, VA 22102",100000.0,Data_Analyst,Entry_level
+48,        Mercy Health Services,"Baltimore, MD",100000.0,Data_Analyst,Entry_level
+49,        CCRi,"Chantilly, VA",100000.0,Data_Analyst,Entry_level
+50,        Fannie Mae,"Washington, DC 20022 (Brentwood area)",100000.0,Data_Analyst,Entry_level
+51,        Jobspring Partners,"McLean, VA",100000.0,Data_Analyst,Entry_level
+52,        Berico Technologies,"Gaithersburg, MD",100000.0,Data_Analyst,Entry_level
+53,    RiskSpan,"Tysons Corner, VA",100000.0,Data_Analyst,Entry_level
+54,        Capital One,"McLean, VA",100000.0,Data_Analyst,Entry_level
+55,        Deloitte,"Arlington, VA 22209 (Radnor-Ft Myer Heights area)",100000.0,Data_Analyst,Entry_level
+56,    Metis Solutions,"Washington, DC",100000.0,Data_Analyst,Entry_level
+57,        AstraZeneca,"Gaithersburg, MD",100000.0,Data_Analyst,Entry_level
+58,        Intelligent Automation,"Rockville, MD 20855",100000.0,Data_Analyst,Entry_level
+59,"    Synchronoss Technologies, Inc.","Reston, VA",100000.0,Data_Analyst,Entry_level
+60,    Novel Applications of Vital Information,"Springfield, VA",100000.0,Data_Analyst,Entry_level
+61,        IBM Kenexa,"Herndon, VA",100000.0,Data_Analyst,Entry_level
+62,        IBM,"Chantilly, VA 20151",100000.0,Data_Analyst,Entry_level
+63,"    BigBear, Inc.","Washington, DC",100000.0,Data_Analyst,Entry_level
+64,        Unisys,"Reston, VA",100000.0,Data_Analyst,Entry_level
+65,        Palantir Technologies,"Washington, DC 20007 (Georgetown area)",100000.0,Data_Analyst,Entry_level
+66,        The MASY Group,"Fort Belvoir, VA 22060",100000.0,Data_Analyst,Entry_level
+67,    Mainsteet Technologies,"Washington, DC",100000.0,Data_Analyst,Entry_level
+68,        Mitre Corporation,"McLean, VA",100000.0,Data_Analyst,Entry_level
+69,"    Custom Software Systems, Inc.","Washington, DC",100000.0,Data_Analyst,Entry_level
+70,"        ERP International, LLC","Washington, DC 20330",100000.0,Data_Analyst,Entry_level
+71,        Vencore,"Laurel, MD",100000.0,Data_Analyst,Entry_level
+72,        U.S. Department of Labor,"Washington, DC",100000.0,Data_Analyst,Entry_level
+73,        Exelon,"Baltimore, MD 21223 (West Baltimore area)",100000.0,Data_Analyst,Entry_level
+74,    Resolute Technologies,"Annapolis Junction, MD",100000.0,Data_Analyst,Entry_level
+75,        Modis,"Gaithersburg, MD 20878",100000.0,Data_Analyst,Entry_level
+76,        Booz Allen Hamilton,"Fort Meade, MD",100000.0,Data_Analyst,Entry_level
+77,    DC&M Partners,"Washington, DC 20001 (Shaw area)",100000.0,Data_Analyst,Entry_level
+78,"    RTGX, Inc.","Beltsville, MD",100000.0,Data_Analyst,Entry_level
+79,    Selby Jennings,"Alexandria, VA",100000.0,Data_Analyst,Entry_level
+80,    Ashton Lane Group,"Baltimore, MD",100000.0,Data_Analyst,Entry_level
+81,    RiskSpan,"Tysons Corner, VA",100000.0,Data_Analyst,Entry_level
+82,        KEYW Corporation,"Annapolis Junction, MD",100000.0,Data_Analyst,Entry_level
+83,        Apex Systems Inc,"Woodlawn, MD",100000.0,Data_Analyst,Entry_level
+84,        Phoenix Operations Group,"Annapolis Junction, MD",100000.0,Data_Analyst,Entry_level
+85,"    Commonwealth Computer Research, Inc.","Chantilly, VA",100000.0,Data_Analyst,Entry_level
+86,        Capital One,"Vienna, VA",100000.0,Data_Analyst,Entry_level
+87,"    Aveshka, Inc.","Arlington, VA 22203 (Bluemont area)",100000.0,Data_Analyst,Entry_level
+88,"        MedImmune, LLC","Gaithersburg, MD",100000.0,Data_Analyst,Entry_level
+89,        SAIC,"McLean, VA",100000.0,Data_Analyst,Entry_level
+90,"    Aveshka, Inc.","McLean, VA",100000.0,Data_Analyst,Entry_level
+91,"    Sphere of Influence, Inc.","West McLean, VA 22102",100000.0,Data_Analyst,Entry_level
+92,        Corporate Brokers,"Baltimore, MD",100000.0,Data_Analyst,Entry_level
+93,        SAIC,"McLean, VA",100000.0,Data_Analyst,Entry_level
+94,    The Squires Group Inc.,"Greenbelt, MD",100000.0,Data_Analyst,Entry_level
+95,        IBM Kenexa,"Chantilly, VA",100000.0,Data_Analyst,Entry_level
+96,    Mesosphere,"Washington, DC",100000.0,Data_Analyst,Entry_level
+97,    ZP Group,"Washington, DC 20019 (Deanwood area)",100000.0,Data_Analyst,Entry_level
+98,        Aegis,"McLean, VA 22102",100000.0,Data_Analyst,Entry_level
+99,        AstraZeneca,"Gaithersburg, MD",100000.0,Data_Analyst,Entry_level
+100,        Green Key Resources,"Washington, DC",100000.0,Data_Analyst,Entry_level
+101,    Foundation Staffing,"Silver Springs, MD",100000.0,Data_Analyst,Entry_level
+102,    Association of Universities for Research in Astron...,"Baltimore, MD",100000.0,Data_Analyst,Entry_level
+103,        Engility Corporation,"Bethesda, MD 20892",100000.0,Data_Analyst,Entry_level
+104,    Predictive Science,United States,100000.0,Data_Analyst,Entry_level
+0,    OmniSolve Inc,"Washington, DC",100000.0,Data_Analyst,Mid_level
+1,    RCM Solutions,"Washington, DC",100000.0,Data_Analyst,Mid_level
+2,    All Things Considered Staffing (ATC-S),"Washington, DC",100000.0,Data_Analyst,Mid_level
+3,        The World Bank,"Washington, DC",100000.0,Data_Analyst,Mid_level
+4,    Compumatics Group,"New Carrollton, MD",100000.0,Data_Analyst,Mid_level
+5,        Booz Allen Hamilton,"Washington, DC",100000.0,Data_Analyst,Mid_level
+6,    Excella Consulting,"Washington, DC 20006 (Foggy Bottom area)",100000.0,Data_Analyst,Mid_level
+7,        Booz Allen Hamilton,"College Park, MD 20740",100000.0,Data_Analyst,Mid_level
+8,        Engility Corporation,"Washington, DC 20376 (Brentwood area)",100000.0,Data_Analyst,Mid_level
+9,        The World Bank,"Washington, DC",100000.0,Data_Analyst,Mid_level
+10,        Systems Planning and Analysis,"Alexandria, VA 22311 (Alexandria Wrest area)",100000.0,Data_Analyst,Mid_level
+11,"    VISUAL SOFT, INC","Washington, DC",100000.0,Data_Analyst,Mid_level
+12,    Karsun Solutions LLC,"Herndon, VA",100000.0,Data_Analyst,Mid_level
+13,    Archimedes Global,"Alexandria, VA",100000.0,Data_Analyst,Mid_level
+14,        ASRC Federal,"Alexandria, VA",100000.0,Data_Analyst,Mid_level
+15,        ANALYTICA,"Washington, DC 20036 (Downtown area)",100000.0,Data_Analyst,Mid_level
+16,        Booz Allen Hamilton,"Alexandria, VA",100000.0,Data_Analyst,Mid_level
+17,        Booz Allen Hamilton,"Fort Meade, MD",100000.0,Data_Analyst,Mid_level
+18,        Vencore,"McLean, VA",100000.0,Data_Analyst,Mid_level
+19,        Altamira Technologies Corporation,"Springfield, VA",100000.0,Data_Analyst,Mid_level
+20,    Command Consulting Group,"Washington, DC 20036 (Downtown area)",100000.0,Data_Analyst,Mid_level
+21,        The World Bank,"Washington, DC",100000.0,Data_Analyst,Mid_level
+22,    OmniSolve Inc,"Washington, DC",100000.0,Data_Analyst,Mid_level
+23,        Verizon,"Silver Spring, MD 20904",100000.0,Data_Analyst,Mid_level
+24,        Booz Allen Hamilton,"McLean, VA",100000.0,Data_Analyst,Mid_level
+25,        The World Bank Group,"Washington, DC",100000.0,Data_Analyst,Mid_level
+26,"    Transportation, District Dept","Washington, DC",100000.0,Data_Analyst,Mid_level
+27,        Booz Allen Hamilton,"Alexandria, VA",100000.0,Data_Analyst,Mid_level
+28,    Oscar Technology,"Baltimore, MD",100000.0,Data_Analyst,Mid_level
+29,    Aquila Technology,"Springfield, VA",100000.0,Data_Analyst,Mid_level
+30,    DataRobot,"Washington, DC",100000.0,Data_Analyst,Mid_level
+31,"    VISUAL SOFT, INC","Washington, DC",100000.0,Data_Analyst,Mid_level
+32,    StraighterLine,"Baltimore, MD",100000.0,Data_Analyst,Mid_level
+33,    IFC,"Washington, DC",100000.0,Data_Analyst,Mid_level
+34,        Ellucian.,"Fairfax, VA",100000.0,Data_Analyst,Mid_level
+35,        Applied Information Sciences,"Washington, DC",100000.0,Data_Analyst,Mid_level
+36,        Altamira Technologies Corporation,"Springfield, VA",100000.0,Data_Analyst,Mid_level
+37,    Novetta,"Crystal City, VA",100000.0,Data_Analyst,Mid_level
+38,        Teradata,"Washington, DC",100000.0,Data_Analyst,Mid_level
+39,        American Society of Clinical Oncology,"Alexandria, VA",100000.0,Data_Analyst,Mid_level
+40,        Mitre Corporation,"Washington, DC 20024 (South West area)",100000.0,Data_Analyst,Mid_level
+41,    DataLab USA,"Germantown, MD 20876",100000.0,Data_Analyst,Mid_level
+42,        COMPASS,"Washington, DC",100000.0,Data_Analyst,Mid_level
+43,        Booz Allen Hamilton,"Washington, DC",100000.0,Data_Analyst,Mid_level
+44,        Barbaricum,"Washington, DC",100000.0,Data_Analyst,Mid_level
+45,"    Onyx Government Services, LLC","Washington, DC",100000.0,Data_Analyst,Mid_level
+46,        Information Innovators Inc.,"Alexandria, VA",100000.0,Data_Analyst,Mid_level
+47,    Novetta,"Springfield, VA",100000.0,Data_Analyst,Mid_level
+48,        Integrity Applications Incorporated,"Springfield, VA",100000.0,Data_Analyst,Mid_level
+49,        Slait Consulting,"Baltimore, MD 21230 (West Baltimore area)",100000.0,Data_Analyst,Mid_level
+50,        The Johns Hopkins Applied Physics Laboratory,"Laurel, MD",100000.0,Data_Analyst,Mid_level
+51,    ByteCubed,"Alexandria, VA",100000.0,Data_Analyst,Mid_level
+52,    Clearsoft Inc.,"Washington, DC",100000.0,Data_Analyst,Mid_level
+53,"    Davis Strategic Innovations, Inc. (DSI)","Alexandria, VA",100000.0,Data_Analyst,Mid_level
+54,        Booz Allen Hamilton,"Reston, VA",100000.0,Data_Analyst,Mid_level
+55,        ICMA-RC,"Washington, DC 20002 (Capitol Hill area)",100000.0,Data_Analyst,Mid_level
+56,        BOEING,"Arlington, VA",100000.0,Data_Analyst,Mid_level
+57,    Invincea,"Arlington, VA",100000.0,Data_Analyst,Mid_level
+58,        Institutional Shareholder Services,"Rockville, MD",100000.0,Data_Analyst,Mid_level
+59,        Project Performance Corporation,"Washington, DC",100000.0,Data_Analyst,Mid_level
+60,        Morgan Stanley,"Baltimore, MD",100000.0,Data_Analyst,Mid_level
+61,    WhiteHawk Inc.,"Baltimore, MD",100000.0,Data_Analyst,Mid_level
+62,        Blue Canopy,"Woodlawn, MD",100000.0,Data_Analyst,Mid_level
+63,        CSRA,"Washington, DC",100000.0,Data_Analyst,Mid_level
+64,        Solutions Development Corporation,"Dahlgren, VA",100000.0,Data_Analyst,Mid_level
+65,"    The Upside Travel Company, LLC","Washington, DC",100000.0,Data_Analyst,Mid_level
+66,        Capital One,"McLean, VA",100000.0,Data_Analyst,Mid_level
+67,    ISPA Technology,"Washington, DC",100000.0,Data_Analyst,Mid_level
+68,    Alderson Loop LLC,"Baltimore, MD",100000.0,Data_Analyst,Mid_level
+69,        Booz Allen Hamilton,"Washington, DC",100000.0,Data_Analyst,Mid_level
+70,        Brillient Corp,"Washington, DC 20002 (Capitol Hill area)",100000.0,Data_Analyst,Mid_level
+71,        IntelliWare Systems,"Washington, DC",100000.0,Data_Analyst,Mid_level
+72,        Green Key Resources,"Washington, DC",100000.0,Data_Analyst,Mid_level
+73,"    FEi Systems, Inc.","Columbia, MD",100000.0,Data_Analyst,Mid_level
+74,        KPMG,"Washington, DC 20036 (Downtown area)",100000.0,Data_Analyst,Mid_level
+75,    LongView International Technology Solutions Inc.,"Reston, VA",100000.0,Data_Analyst,Mid_level
+76,        IBM,"Washington, DC 20005 (Logan Circle area)",100000.0,Data_Analyst,Mid_level
+77,        KPMG,"McLean, VA",100000.0,Data_Analyst,Mid_level
+78,        Booz Allen Hamilton,"Reston, VA",100000.0,Data_Analyst,Mid_level
+79,        Booz Allen Hamilton,"Fort Meade, MD",100000.0,Data_Analyst,Mid_level
+80,        Logistics Management Institute,"Washington, DC",100000.0,Data_Analyst,Mid_level
+81,        Robert Walters,"Washington, DC",100000.0,Data_Analyst,Mid_level
+82,        IBM Kenexa,"Washington, DC",100000.0,Data_Analyst,Mid_level
+83,    Prism Inc.,"Washington, DC",100000.0,Data_Analyst,Mid_level
+84,        USM,"Washington, DC",100000.0,Data_Analyst,Mid_level
+85,        KPMG,"Washington, DC 20036 (Downtown area)",100000.0,Data_Analyst,Mid_level
+86,    T-Rex Corporation,"Greenbelt, MD 20770",100000.0,Data_Analyst,Mid_level
+87,    Common Securitization Solutions,"Bethesda, MD",100000.0,Data_Analyst,Mid_level
+88,        Capital One,"McLean, VA",100000.0,Data_Analyst,Mid_level
+89,"        NCI Information Systems, Inc.","Washington, DC",100000.0,Data_Analyst,Mid_level
+90,"    Integral Consulting Services, Inc.","Arlington, VA",100000.0,Data_Analyst,Mid_level
+91,    ESNS,"Herndon, VA",100000.0,Data_Analyst,Mid_level
+92,        IBM Kenexa,"Washington, DC",100000.0,Data_Analyst,Mid_level
+93,        IBM,"Washington, DC 20005 (Logan Circle area)",100000.0,Data_Analyst,Mid_level
+94,        Engility Corporation,"Reston, VA 20191",100000.0,Data_Analyst,Mid_level
+95,        Modis,"Washington, DC 20036 (Downtown area)",100000.0,Data_Analyst,Mid_level
+96,        CSRA,"Washington, DC",100000.0,Data_Analyst,Mid_level
+97,    Gate Staffing,"Washington, DC 20024 (South West area)",100000.0,Data_Analyst,Mid_level
+98,        Alvarez & Marsal,"Washington, DC 20004 (Downtown area)",100000.0,Data_Analyst,Mid_level
+99,"        Science System and Applications, Inc.","Greenbelt, MD",100000.0,Data_Analyst,Mid_level
+100,        TransVoyant,"Alexandria, VA 22303",100000.0,Data_Analyst,Mid_level
+101,        Asurion,"Sterling, VA",100000.0,Data_Analyst,Mid_level
+102,"    Orbis Technologies, Inc.","Annapolis, MD",100000.0,Data_Analyst,Mid_level
+103,"    The Upside Travel Company, LLC","Washington, DC",100000.0,Data_Analyst,Mid_level
+104,"        FTI Consulting, Inc.","McLean, VA",100000.0,Data_Analyst,Mid_level
+0,        General Dynamics Information Technology,"Springfield, VA",100000.0,Data_Analyst,Senior_level
+1,        WSSC,"Laurel, MD 20707",100000.0,Data_Analyst,Senior_level
+2,        Engility Corporation,"Washington, DC",100000.0,Data_Analyst,Senior_level
+3,        Booz Allen Hamilton,"Washington, DC",100000.0,Data_Analyst,Senior_level
+4,    DataNet Systems Corporation,"Washington, DC",100000.0,Data_Analyst,Senior_level
+5,    Indev,"Washington, DC",100000.0,Data_Analyst,Senior_level
+6,        Vencore,"McLean, VA",100000.0,Data_Analyst,Senior_level
+7,    Garud Technology Services Inc.,"Washington, DC",100000.0,Data_Analyst,Senior_level
+8,        Booz Allen Hamilton,"Washington, DC",100000.0,Data_Analyst,Senior_level
+9,    IMTAS,"Washington, DC 20001 (Shaw area)",100000.0,Data_Analyst,Senior_level
+10,"    Universal Strategy Group, Inc (USGI)","Washington, DC 20535 (Downtown area)",100000.0,Data_Analyst,Senior_level
+11,        Information Innovators Inc.,"Washington, DC",100000.0,Data_Analyst,Senior_level
+12,    Hartman Executive Advisors,"Washington, DC",100000.0,Data_Analyst,Senior_level
+13,    SC3,"Washington, DC",100000.0,Data_Analyst,Senior_level
+14,        Booz Allen Hamilton,"Washington, DC",100000.0,Data_Analyst,Senior_level
+15,        Lockheed Martin,"Washington, DC",100000.0,Data_Analyst,Senior_level
+16,        ACI Federal,"Baltimore, MD",100000.0,Data_Analyst,Senior_level
+17,    Systems Support & Integration Inc,"Crystal City, VA",100000.0,Data_Analyst,Senior_level
+18,        Amtrak,"Washington, DC 20002 (Capitol Hill area)",100000.0,Data_Analyst,Senior_level
+19,        Booz Allen Hamilton,"Alexandria, VA",100000.0,Data_Analyst,Senior_level
+20,        Booz Allen Hamilton,"Alexandria, VA",100000.0,Data_Analyst,Senior_level
+21,"    Goldbelt, Inc.","Washington, DC",100000.0,Data_Analyst,Senior_level
+22,    phia,"Arlington, VA",100000.0,Data_Analyst,Senior_level
+23,        Grant Thornton,"Alexandria, VA 22314 (Southwest Quadrant area)",100000.0,Data_Analyst,Senior_level
+24,"    Laulima Government Solutions, LLC.","Falls Church, VA",100000.0,Data_Analyst,Senior_level
+25,        Booz Allen Hamilton,"Washington, DC",100000.0,Data_Analyst,Senior_level
+26,"    Sylver Rain Consulting, llc","Washington, DC 20004 (Downtown area)",100000.0,Data_Analyst,Senior_level
+27,        The Aerospace Corporation,"Crystal City, VA",100000.0,Data_Analyst,Senior_level
+28,    Novetta,"Washington, DC",100000.0,Data_Analyst,Senior_level
+29,    ALQIMI,"Washington, DC",100000.0,Data_Analyst,Senior_level
+30,"    Concord Crossroads, LLC","Washington, DC",100000.0,Data_Analyst,Senior_level
+31,        Powertek Corporation,"Chantilly, VA",100000.0,Data_Analyst,Senior_level
+32,        The MASY Group,"Washington, DC",100000.0,Data_Analyst,Senior_level
+33,        CSRA,"Washington, DC",100000.0,Data_Analyst,Senior_level
+34,"    Global Solutions Network, Inc.","Washington, DC",100000.0,Data_Analyst,Senior_level
+35,        Booz Allen Hamilton,"Chantilly, VA 20151",100000.0,Data_Analyst,Senior_level
+36,    Applied Communication Sciences,"College Park, MD",100000.0,Data_Analyst,Senior_level
+37,        Booz Allen Hamilton,"College Park, MD 20740",100000.0,Data_Analyst,Senior_level
+38,    LOCFIT LLC,"Washington, DC",100000.0,Data_Analyst,Senior_level
+39,    ITDC,"Washington, DC",100000.0,Data_Analyst,Senior_level
+40,        OBXtek,"Tysons Corner, VA",100000.0,Data_Analyst,Senior_level
+41,        Mitre Corporation,"Bethesda, MD",100000.0,Data_Analyst,Senior_level
+42,"    SnagAJob.com, Inc","Arlington, VA 22201 (Lyon Village area)",100000.0,Data_Analyst,Senior_level
+43,    Total Systems Technologies Corporation,"Washington, DC",100000.0,Data_Analyst,Senior_level
+44,    Raas Infotek LLC,"Baltimore, MD",100000.0,Data_Analyst,Senior_level
+45,    MDA Information Systems LLC,"Reston, VA",100000.0,Data_Analyst,Senior_level
+46,        Visa,"Ashburn, VA",100000.0,Data_Analyst,Senior_level
+47,        Assertive Professionals,"Springfield, VA 22150",100000.0,Data_Analyst,Senior_level
+48,    Apex IT Services LLC,"Baltimore, MD",100000.0,Data_Analyst,Senior_level
+49,    Knowesis Inc.,"Arlington, VA 22201 (Lyon Village area)",100000.0,Data_Analyst,Senior_level
+50,    Unity Technologies Corporation,"Frederick, MD",100000.0,Data_Analyst,Senior_level
+51,        Kearney & Company,"Alexandria, VA 22314 (Southwest Quadrant area)",100000.0,Data_Analyst,Senior_level
+52,    TCP Stream,"Rosslyn, VA",100000.0,Data_Analyst,Senior_level
+53,    Ambit Group LLC,"Washington, DC",100000.0,Data_Analyst,Senior_level
+54,        Booz Allen Hamilton,"Alexandria, VA",100000.0,Data_Analyst,Senior_level
+55,        Blue Canopy,"Washington, DC",100000.0,Data_Analyst,Senior_level
+56,"    Bay Dynamics, Inc.","Reston, VA",100000.0,Data_Analyst,Senior_level
+57,"    Global Science & Technology, Inc.","Greenbelt, MD",100000.0,Data_Analyst,Senior_level
+58,    Alqimi,"Washington, DC",100000.0,Data_Analyst,Senior_level
+59,        The MASY Group,"Washington, DC",100000.0,Data_Analyst,Senior_level
+60,        Systems Planning and Analysis,"Alexandria, VA 22311 (Alexandria Wrest area)",100000.0,Data_Analyst,Senior_level
+61,        Mitre Corporation,"Washington, DC 20024 (South West area)",100000.0,Data_Analyst,Senior_level
+62,        Vox Media,"Washington, DC",100000.0,Data_Analyst,Senior_level
+63,        FICO,"Fairfax, VA",100000.0,Data_Analyst,Senior_level
+64,        Technology Service Corporation,"Alexandria, VA",100000.0,Data_Analyst,Senior_level
+65,        Project Performance Corporation,"Washington, DC",100000.0,Data_Analyst,Senior_level
+66,"    Solutions Through Innovative Technologies, Inc","Arlington, VA",100000.0,Data_Analyst,Senior_level
+67,        Engility Corporation,"Washington, DC",100000.0,Data_Analyst,Senior_level
+68,        Lotame,"Columbia, MD 21045",100000.0,Data_Analyst,Senior_level
+69,        Centra Technology,"Washington, DC",100000.0,Data_Analyst,Senior_level
+70,        Alltech International,"Washington, DC",100000.0,Data_Analyst,Senior_level
+71,        CoStar Group,"Washington, DC",100000.0,Data_Analyst,Senior_level
+72,        Bay State,"Lanham, MD",100000.0,Data_Analyst,Senior_level
+73,    Leonie,"Arlington, VA",100000.0,Data_Analyst,Senior_level
+74,        Booz Allen Hamilton,"Washington, DC",100000.0,Data_Analyst,Senior_level
+75,        EXL,"Reston, VA",100000.0,Data_Analyst,Senior_level
+76,        T. Rowe Price,"Owings Mills, MD",100000.0,Data_Analyst,Senior_level
+77,"    RTGX, Inc.","Rosslyn, VA",100000.0,Data_Analyst,Senior_level
+78,    TAC Integrated Solutions,"Arlington, VA",100000.0,Data_Analyst,Senior_level
+79,        Booz Allen Hamilton,"Falls Church, VA",100000.0,Data_Analyst,Senior_level
+80,        EXL,"Reston, VA",100000.0,Data_Analyst,Senior_level
+81,        Booz Allen Hamilton,"Reston, VA",100000.0,Data_Analyst,Senior_level
+82,        CACI,"Fort Detrick, MD",100000.0,Data_Analyst,Senior_level
+83,        IntelliWare Systems,"Crystal City, VA",100000.0,Data_Analyst,Senior_level
+84,"        Kalman & Company, Inc.","Quantico, VA",100000.0,Data_Analyst,Senior_level
+85,        Leidos,"McLean, VA",100000.0,Data_Analyst,Senior_level
+86,        Apex Systems Inc,"Rockville, MD",100000.0,Data_Analyst,Senior_level
+87,        Vencore,"College Park, MD",100000.0,Data_Analyst,Senior_level
+88,        Exelon,"Baltimore, MD 21223 (West Baltimore area)",100000.0,Data_Analyst,Senior_level
+89,"    T Solutions, LLC","Washington, DC",100000.0,Data_Analyst,Senior_level
+90,        IntelliWare Systems,"Washington, DC",100000.0,Data_Analyst,Senior_level
+91,        Technica Corporation,"Dulles, VA",100000.0,Data_Analyst,Senior_level
+92,        Leidos,"Washington, DC 20001 (Shaw area)",100000.0,Data_Analyst,Senior_level
+93,    Yash Solutions LLC,"Washington, DC",100000.0,Data_Analyst,Senior_level
+94,        SapientNitro,"Arlington, VA",100000.0,Data_Analyst,Senior_level
+95,        Johns Hopkins University,"Baltimore, MD",100000.0,Data_Analyst,Senior_level
+96,        ManTech International Corporation,"Washington, DC",100000.0,Data_Analyst,Senior_level
+97,    iQuasar,"Washington, DC",100000.0,Data_Analyst,Senior_level
+98,        T. Rowe Price,"Baltimore, MD",100000.0,Data_Analyst,Senior_level
+99,        SAIC,"Arlington, VA",100000.0,Data_Analyst,Senior_level
+100,        Raytheon,"Dulles, VA",100000.0,Data_Analyst,Senior_level
+101,    Assured Consulting Solutions,"Landover, MD",100000.0,Data_Analyst,Senior_level
+102,"    Integral Consulting Services, Inc.","Rockville, MD",100000.0,Data_Analyst,Senior_level
+103,        Kearney & Company,"Alexandria, VA 22314",100000.0,Data_Analyst,Senior_level
+104,        BlackBerry,"Washington, DC",100000.0,Data_Analyst,Senior_level

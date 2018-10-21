@@ -1,0 +1,1576 @@
+,Company_name,Location,Salary,Title,Experience
+0,        Lam Research,"Fremont, CA 94538",60000.0,Data_Analyst,Entry_level
+1,        Realogy Corporate,"Emeryville, CA",60000.0,Data_Analyst,Entry_level
+2,        Paypal,"San Jose, CA",60000.0,Data_Analyst,Entry_level
+3,        Roche,"Santa Clara, CA",60000.0,Data_Analyst,Entry_level
+4,        Tailored Brands,"Fremont, CA",60000.0,Data_Analyst,Entry_level
+5,"    Park Computer Systems, Inc.","Mountain View, CA",60000.0,Data_Analyst,Entry_level
+6,    Lyceum dynamics,"Oakland, CA",60000.0,Data_Analyst,Entry_level
+7,        Morgan Lewis,"San Francisco, CA",60000.0,Data_Analyst,Entry_level
+8,    Smaato Inc.,"San Francisco, CA 94108 (Financial District area)",60000.0,Data_Analyst,Entry_level
+9,    Tradeshift,"San Francisco, CA",60000.0,Data_Analyst,Entry_level
+10,    Manage,"Mountain View, CA",60000.0,Data_Analyst,Entry_level
+11,"    Kendo, a division of LVMH","San Francisco, CA",60000.0,Data_Analyst,Entry_level
+12,        Slack,"San Francisco, CA",60000.0,Data_Analyst,Entry_level
+13,    Clicktale,"Berkeley, CA",60000.0,Data_Analyst,Entry_level
+14,        Mosaic,"Oakland, CA",60000.0,Data_Analyst,Entry_level
+15,    Clover Health,"San Francisco, CA",60000.0,Data_Analyst,Entry_level
+16,        Facebook,"Menlo Park, CA",60000.0,Data_Analyst,Entry_level
+17,        SRI International,"Menlo Park, CA 94025",60000.0,Data_Analyst,Entry_level
+18,        Incedo,"Santa Clara, CA 95054",60000.0,Data_Analyst,Entry_level
+19,        Visa,"Foster City, CA",60000.0,Data_Analyst,Entry_level
+20,        Sidecar,"San Francisco, CA",60000.0,Data_Analyst,Entry_level
+21,        Blue Shield of California,"San Francisco, CA 94105 (Financial District area)",60000.0,Data_Analyst,Entry_level
+22,    MachineZone,"Palo Alto, CA",60000.0,Data_Analyst,Entry_level
+23,        Jawbone,"San Francisco, CA",60000.0,Data_Analyst,Entry_level
+24,    Corporate Labs Technology,"Brisbane, CA",60000.0,Data_Analyst,Entry_level
+25,        Uber,"San Francisco, CA 94105 (Financial District area)",60000.0,Data_Analyst,Entry_level
+26,    BlueJeans,"Mountain View, CA",60000.0,Data_Analyst,Entry_level
+27,        Smule,"San Francisco, CA 94107 (South Of Market area)",60000.0,Data_Analyst,Entry_level
+28,        Kaiser Permanente,"Pleasanton, CA",60000.0,Data_Analyst,Entry_level
+29,        Visa,"Foster City, CA",60000.0,Data_Analyst,Entry_level
+30,        Analysis Group,"Menlo Park, CA 94025",60000.0,Data_Analyst,Entry_level
+31,        Earnest,"San Francisco, CA 94110 (Mission area)",60000.0,Data_Analyst,Entry_level
+32,        Kaiser Permanente,"Oakland, CA",60000.0,Data_Analyst,Entry_level
+33,        Facebook,"Menlo Park, CA",60000.0,Data_Analyst,Entry_level
+34,    Stem Inc,"San Francisco Bay Area, CA",60000.0,Data_Analyst,Entry_level
+35,    Swoon Group LLC,"Sunnyvale, CA",60000.0,Data_Analyst,Entry_level
+36,    Realty Shares,"San Francisco, CA",60000.0,Data_Analyst,Entry_level
+37,        omega solutions inc,"Mountain View, CA",60000.0,Data_Analyst,Entry_level
+38,        Microsoft,"San Francisco, CA",60000.0,Data_Analyst,Entry_level
+39,    LendUp,"San Francisco, CA",60000.0,Data_Analyst,Entry_level
+40,        City & County of San Francisco,"San Francisco, CA 94124 (Bayview area)",60000.0,Data_Analyst,Entry_level
+41,    LiveRamp,"San Francisco, CA",60000.0,Data_Analyst,Entry_level
+42,    Affirm,"San Francisco, CA 94126 (Financial District area)",60000.0,Data_Analyst,Entry_level
+43,        IPG Mediabrands,"San Francisco, CA",60000.0,Data_Analyst,Entry_level
+44,        Apple,"San Francisco, CA 94114 (Castro-Upper Market area)",60000.0,Data_Analyst,Entry_level
+45,    Quantifind,"Menlo Park, CA",60000.0,Data_Analyst,Entry_level
+46,    Samba TV,"San Francisco, CA",60000.0,Data_Analyst,Entry_level
+47,        Moody's Analytics,"San Francisco, CA",60000.0,Data_Analyst,Entry_level
+48,    Tanko Lighting,"San Francisco, CA",60000.0,Data_Analyst,Entry_level
+49,    LendUp,"San Francisco, CA",60000.0,Data_Analyst,Entry_level
+50,        TARGET,"Sunnyvale, CA 94086",60000.0,Data_Analyst,Entry_level
+51,        Apex Systems Inc,"Santa Clara, CA",60000.0,Data_Analyst,Entry_level
+52,    Virtually Live,"San Francisco, CA",60000.0,Data_Analyst,Entry_level
+53,    Vegazva,"Sunnyvale, CA",60000.0,Data_Analyst,Entry_level
+54,"        Akraya, Inc.","Sunnyvale, CA 94086",60000.0,Data_Analyst,Entry_level
+55,        Ipsos North America,"San Francisco, CA",60000.0,Data_Analyst,Entry_level
+56,    ClickTale,"San Francisco, CA",60000.0,Data_Analyst,Entry_level
+57,    Locus Energy,"San Francisco, CA",60000.0,Data_Analyst,Entry_level
+58,        Universities Space Research Association,"Mountain View, CA",60000.0,Data_Analyst,Entry_level
+59,        Old Navy,"San Francisco, CA 94103 (South Of Market area)",60000.0,Data_Analyst,Entry_level
+60,        RichRelevance,"San Francisco, CA 94111 (Financial District area)",60000.0,Data_Analyst,Entry_level
+61,        PHD,"San Francisco, CA",60000.0,Data_Analyst,Entry_level
+62,    Apex,"Santa Clara, CA",60000.0,Data_Analyst,Entry_level
+63,        Visa,"San Francisco, CA 94105 (Financial District area)",60000.0,Data_Analyst,Entry_level
+64,        Lawrence Livermore National Laboratory,"Livermore, CA 94550",60000.0,Data_Analyst,Entry_level
+65,        Academy of Art University,"San Francisco, CA",60000.0,Data_Analyst,Entry_level
+66,        Primitive Logic,"San Francisco, CA 94111 (Financial District area)",60000.0,Data_Analyst,Entry_level
+67,        First Tech Federal Credit Union,"Mountain View, CA 94043",60000.0,Data_Analyst,Entry_level
+68,        IDEO,"San Francisco, CA",60000.0,Data_Analyst,Entry_level
+69,    Planet Pharma,"San Francisco, CA",60000.0,Data_Analyst,Entry_level
+70,        Oracle,"San Francisco, CA 94109 (Nob Hill area)",60000.0,Data_Analyst,Entry_level
+71,        NatureBox,"Redwood City, CA 94065",60000.0,Data_Analyst,Entry_level
+72,"    Alambic Investment Management, LP","San Francisco, CA 94111 (Financial District area)",60000.0,Data_Analyst,Entry_level
+73,    Corporate Labs Technology,"Brisbane, CA",60000.0,Data_Analyst,Entry_level
+74,        University of California San Francisco,"San Francisco, CA",60000.0,Data_Analyst,Entry_level
+75,        Cobham Advanced Electronic Solutions,"San Jose, CA",60000.0,Data_Analyst,Entry_level
+76,    Glooko,"Mountain View, CA 94041",60000.0,Data_Analyst,Entry_level
+77,        Adept Solutions,"Menlo Park, CA",60000.0,Data_Analyst,Entry_level
+78,        Lawrence Berkeley National Laboratory,"Berkeley, CA 94720",60000.0,Data_Analyst,Entry_level
+79,        Wellcare,"San Jose, CA",60000.0,Data_Analyst,Entry_level
+80,    GreatSchools,"Oakland, CA 94612 (Northgate area)",60000.0,Data_Analyst,Entry_level
+81,        Houzz,"Palo Alto, CA 94301 (Professorville area)",60000.0,Data_Analyst,Entry_level
+82,        Teespring,"San Francisco, CA",60000.0,Data_Analyst,Entry_level
+83,    Slice Technologies & Unroll.me,"San Mateo, CA",60000.0,Data_Analyst,Entry_level
+84,        Apple,"Santa Clara Valley, CA",60000.0,Data_Analyst,Entry_level
+85,        Apple,"Santa Clara Valley, CA",60000.0,Data_Analyst,Entry_level
+86,        Washington Hospital,"Fremont, CA",60000.0,Data_Analyst,Entry_level
+87,        Demandbase,"San Francisco, CA",60000.0,Data_Analyst,Entry_level
+88,        Facebook,"Menlo Park, CA",60000.0,Data_Analyst,Entry_level
+89,    Grit Matters,"San Mateo, CA",60000.0,Data_Analyst,Entry_level
+90,        MedeAnalytics,"Emeryville, CA",60000.0,Data_Analyst,Entry_level
+91,        Cypress Semiconductor Corporation,"San Jose, CA",60000.0,Data_Analyst,Entry_level
+92,        Apple,"Santa Clara Valley, CA",60000.0,Data_Analyst,Entry_level
+93,        Cisco Meraki,"San Francisco, CA 94158 (South Of Market area)",60000.0,Data_Analyst,Entry_level
+94,"        Akraya, Inc.","Oakland, CA 94612 (Northgate area)",60000.0,Data_Analyst,Entry_level
+95,        Workday,"Pleasanton, CA",60000.0,Data_Analyst,Entry_level
+96,"    Talentburst, Inc.","San Francisco, CA",60000.0,Data_Analyst,Entry_level
+97,        omega solutions inc,"Mountain View, CA",60000.0,Data_Analyst,Entry_level
+98,        Freedom Financial Network,"San Mateo, CA 94402 (Beresford area)",60000.0,Data_Analyst,Entry_level
+99,        University of California San Francisco,"San Francisco, CA",60000.0,Data_Analyst,Entry_level
+100,        Galvanize,"San Francisco, CA",60000.0,Data_Analyst,Entry_level
+101,        Behavioral Health Services,"Santa Clara, CA",60000.0,Data_Analyst,Entry_level
+102,"        Williams-Sonoma, Inc.","San Francisco, CA 94109 (Nob Hill area)",60000.0,Data_Analyst,Entry_level
+103,        Exponent,"Oakland, CA",60000.0,Data_Analyst,Entry_level
+104,        Freedom Financial Network,"San Mateo, CA 94402",60000.0,Data_Analyst,Entry_level
+0,        intuit,"Mountain View, CA 94043",60000.0,Data_Analyst,Mid_level
+1,        Paypal,"San Jose, CA",60000.0,Data_Analyst,Mid_level
+2,        Study.com,"Mountain View, CA 94041",60000.0,Data_Analyst,Mid_level
+3,"    Park Computer Systems, Inc.","Mountain View, CA",60000.0,Data_Analyst,Mid_level
+4,    Adyen,"San Francisco, CA",60000.0,Data_Analyst,Mid_level
+5,        Kaiser Permanente,"Oakland, CA",60000.0,Data_Analyst,Mid_level
+6,        Google,"Mountain View, CA",60000.0,Data_Analyst,Mid_level
+7,    HouseCanary,"San Francisco, CA 94107 (South Of Market area)",60000.0,Data_Analyst,Mid_level
+8,        Google,"San Bruno, CA",60000.0,Data_Analyst,Mid_level
+9,    Chinese Community Health Care Association,"San Francisco, CA 94108 (Financial District area)",60000.0,Data_Analyst,Mid_level
+10,    Sumeru Solutions,"Mountain View, CA",60000.0,Data_Analyst,Mid_level
+11,        Silicon Valley Bank,"Menlo Park, CA 94025",60000.0,Data_Analyst,Mid_level
+12,    Adara Media Inc,"Palo Alto, CA",60000.0,Data_Analyst,Mid_level
+13,        Google,"Mountain View, CA",60000.0,Data_Analyst,Mid_level
+14,        omega solutions inc,"San Francisco, CA",60000.0,Data_Analyst,Mid_level
+15,        Facebook,"Menlo Park, CA",60000.0,Data_Analyst,Mid_level
+16,        Study.com,"Mountain View, CA 94041",60000.0,Data_Analyst,Mid_level
+17,    Nuna,"San Francisco, CA",60000.0,Data_Analyst,Mid_level
+18,        Palo Alto Networks,"Santa Clara, CA 95054",60000.0,Data_Analyst,Mid_level
+19,        Facebook,"Menlo Park, CA",60000.0,Data_Analyst,Mid_level
+20,    Spire Systems Inc,"Mountain View, CA",60000.0,Data_Analyst,Mid_level
+21,        Wish,"San Francisco, CA",60000.0,Data_Analyst,Mid_level
+22,    HomeLight,"San Francisco, CA",60000.0,Data_Analyst,Mid_level
+23,        Visa,"Palo Alto, CA",60000.0,Data_Analyst,Mid_level
+24,        Apple,"Santa Clara Valley, CA",60000.0,Data_Analyst,Mid_level
+25,        MobileIron,"Mountain View, CA",60000.0,Data_Analyst,Mid_level
+26,    Arthur Lawrence,"Sunnyvale, CA",60000.0,Data_Analyst,Mid_level
+27,    Sojern,"San Francisco, CA",60000.0,Data_Analyst,Mid_level
+28,    Informa Business Intelligence,"San Francisco, CA",60000.0,Data_Analyst,Mid_level
+29,        Apex Systems Inc,"Mountain View, CA",60000.0,Data_Analyst,Mid_level
+30,        Dropbox,"San Francisco, CA",60000.0,Data_Analyst,Mid_level
+31,        Constellation Brands,"San Francisco, CA 94111 (Financial District area)",60000.0,Data_Analyst,Mid_level
+32,        UBM,"San Francisco, CA 94107 (South Of Market area)",60000.0,Data_Analyst,Mid_level
+33,    Raag Solutions LLC,"Sunnyvale, CA",60000.0,Data_Analyst,Mid_level
+34,        BNP Paribas,"San Francisco, CA 94111 (Financial District area)",60000.0,Data_Analyst,Mid_level
+35,    Casetext,"San Francisco, CA",60000.0,Data_Analyst,Mid_level
+36,    Coinbase,"San Francisco, CA",60000.0,Data_Analyst,Mid_level
+37,    JEH Solutions,"Mountain View, CA",60000.0,Data_Analyst,Mid_level
+38,    BetterWorks,"Redwood City, CA",60000.0,Data_Analyst,Mid_level
+39,        Instacart,"San Francisco, CA",60000.0,Data_Analyst,Mid_level
+40,"        Rodan & Fields, LLC","San Francisco, CA",60000.0,Data_Analyst,Mid_level
+41,        Esurance,"San Francisco, CA",60000.0,Data_Analyst,Mid_level
+42,        Reed Elsevier,"Menlo Park, CA",60000.0,Data_Analyst,Mid_level
+43,        Uber,"San Francisco, CA 94105 (Financial District area)",60000.0,Data_Analyst,Mid_level
+44,        Square,"San Francisco, CA 94103 (South Of Market area)",60000.0,Data_Analyst,Mid_level
+45,"    Cogitativo, Inc.","Berkeley, CA 94710",60000.0,Data_Analyst,Mid_level
+46,        Apple,"Santa Clara Valley, CA",60000.0,Data_Analyst,Mid_level
+47,"        TalentBurst, Inc.","San Francisco, CA 94105 (Financial District area)",60000.0,Data_Analyst,Mid_level
+48,    SQA Solution,"South San Francisco, CA",60000.0,Data_Analyst,Mid_level
+49,        JLL,"San Francisco, CA",60000.0,Data_Analyst,Mid_level
+50,        Sutter Health,"Burlingame, CA",60000.0,Data_Analyst,Mid_level
+51,        Cisco Meraki,"San Francisco, CA 94158 (South Of Market area)",60000.0,Data_Analyst,Mid_level
+52,        Big Fish,"Oakland, CA",60000.0,Data_Analyst,Mid_level
+53,    BlueJeans,"Mountain View, CA",60000.0,Data_Analyst,Mid_level
+54,    elastic,"Mountain View, CA",60000.0,Data_Analyst,Mid_level
+55,        Constellation Brands,"San Francisco, CA 94111 (Financial District area)",60000.0,Data_Analyst,Mid_level
+56,        Bosch,"Palo Alto, CA",60000.0,Data_Analyst,Mid_level
+57,        Uber,"San Francisco, CA 94103 (South Of Market area)",60000.0,Data_Analyst,Mid_level
+58,        HealthTap,"Palo Alto, CA",60000.0,Data_Analyst,Mid_level
+59,        Fitbit,"San Francisco, CA 94105 (Financial District area)",60000.0,Data_Analyst,Mid_level
+60,        Apple,"Santa Clara Valley, CA",60000.0,Data_Analyst,Mid_level
+61,        Ancestry,"San Francisco, CA",60000.0,Data_Analyst,Mid_level
+62,        Twitch,"San Francisco, CA",60000.0,Data_Analyst,Mid_level
+63,        realtor.com,"Santa Clara, CA",60000.0,Data_Analyst,Mid_level
+64,        Blue Shield of California,"San Francisco, CA 94105 (Financial District area)",60000.0,Data_Analyst,Mid_level
+65,        First Republic Bank,"San Francisco, CA",60000.0,Data_Analyst,Mid_level
+66,"        Rodan & Fields, LLC","San Francisco, CA",60000.0,Data_Analyst,Mid_level
+67,        Houzz,"Palo Alto, CA 94301 (Professorville area)",60000.0,Data_Analyst,Mid_level
+68,        Tapjoy,"San Francisco, CA 94104 (Financial District area)",60000.0,Data_Analyst,Mid_level
+69,        Facebook,"Menlo Park, CA",60000.0,Data_Analyst,Mid_level
+70,        Wellcare,"San Jose, CA",60000.0,Data_Analyst,Mid_level
+71,    Anki,"San Francisco, CA",60000.0,Data_Analyst,Mid_level
+72,    Astreya,"Mountain View, CA",60000.0,Data_Analyst,Mid_level
+73,    CodeFights,"San Francisco, CA",60000.0,Data_Analyst,Mid_level
+74,        Adept Solutions,"San Ramon, CA",60000.0,Data_Analyst,Mid_level
+75,    Xconic,"San Jose, CA 95131 (North Valley area)",60000.0,Data_Analyst,Mid_level
+76,    Method360,"San Francisco, CA 94104 (Financial District area)",60000.0,Data_Analyst,Mid_level
+77,        Earnest,"San Francisco, CA 94110 (Mission area)",60000.0,Data_Analyst,Mid_level
+78,        Good Eggs,"San Francisco, CA",60000.0,Data_Analyst,Mid_level
+79,        University of California San Francisco Medical Cen...,"San Francisco, CA",60000.0,Data_Analyst,Mid_level
+80,        Western Digital,"Milpitas, CA",60000.0,Data_Analyst,Mid_level
+81,    MW Partners,"San Francisco, CA",60000.0,Data_Analyst,Mid_level
+82,        Kaiser Permanente,"Oakland, CA",60000.0,Data_Analyst,Mid_level
+83,    Ebates Inc.,"San Francisco, CA 94107 (South Of Market area)",60000.0,Data_Analyst,Mid_level
+84,        Rabobank,"Santa Rosa, CA",60000.0,Data_Analyst,Mid_level
+85,        Accenture,"San Francisco, CA 94105 (Financial District area)",60000.0,Data_Analyst,Mid_level
+86,        CSC,"San Francisco, CA",60000.0,Data_Analyst,Mid_level
+87,    San Mateo County Harbor District - El Granada,"El Granada, CA 94018",60000.0,Data_Analyst,Mid_level
+88,        Mondo,"San Francisco, CA",60000.0,Data_Analyst,Mid_level
+89,    Fundbox,"San Francisco, CA 94104 (Financial District area)",60000.0,Data_Analyst,Mid_level
+90,        Facebook,"Menlo Park, CA",60000.0,Data_Analyst,Mid_level
+91,        People Science,"Menlo Park, CA 94025",60000.0,Data_Analyst,Mid_level
+92,        Visa,"San Francisco, CA 94105 (Financial District area)",60000.0,Data_Analyst,Mid_level
+93,    Sony Interactive Entertainment PlayStation,"San Mateo, CA",60000.0,Data_Analyst,Mid_level
+94,        Apple,"Santa Clara Valley, CA",60000.0,Data_Analyst,Mid_level
+95,        Tesla Motors,"Fremont, CA 94538 (Irvington area)",60000.0,Data_Analyst,Mid_level
+96,        Roku,"Los Gatos, CA",60000.0,Data_Analyst,Mid_level
+97,    Leanplum,"San Francisco, CA 94103 (South Of Market area)",60000.0,Data_Analyst,Mid_level
+98,        LexisNexis,"Menlo Park, CA",60000.0,Data_Analyst,Mid_level
+99,        Lending Club,"San Francisco, CA 94105 (Financial District area)",60000.0,Data_Analyst,Mid_level
+100,    Latitude 36 Inc,"Pleasanton, CA",60000.0,Data_Analyst,Mid_level
+101,        Facebook,"Menlo Park, CA",60000.0,Data_Analyst,Mid_level
+102,        Facebook,"Menlo Park, CA",60000.0,Data_Analyst,Mid_level
+103,        Stanford Health Care,"Palo Alto, CA 94305",60000.0,Data_Analyst,Mid_level
+104,        Paypal,"San Jose, CA",60000.0,Data_Analyst,Mid_level
+0,        Freedom Financial Network,"San Mateo, CA 94402",60000.0,Data_Analyst,Senior_level
+1,        Stanford Health Care,"Palo Alto, CA 94305",60000.0,Data_Analyst,Senior_level
+2,    iRhythm,"San Francisco, CA",60000.0,Data_Analyst,Senior_level
+3,        Genentech,"South San Francisco, CA",60000.0,Data_Analyst,Senior_level
+4,    iSoft Solutions,"San Francisco, CA",60000.0,Data_Analyst,Senior_level
+5,        Athleta,"San Francisco, CA",60000.0,Data_Analyst,Senior_level
+6,"        Cisco Systems, Inc.","San Jose, CA",60000.0,Data_Analyst,Senior_level
+7,        Intuit,"Mountain View, CA 94039",60000.0,Data_Analyst,Senior_level
+8,    Nuna,"San Francisco, CA",60000.0,Data_Analyst,Senior_level
+9,        Google,"Mountain View, CA",60000.0,Data_Analyst,Senior_level
+10,    Manage,"Mountain View, CA",60000.0,Data_Analyst,Senior_level
+11,        Hired,"San Francisco, CA",60000.0,Data_Analyst,Senior_level
+12,        Capital One,"San Francisco, CA",60000.0,Data_Analyst,Senior_level
+13,        GE Careers,"San Ramon, CA 94583",60000.0,Data_Analyst,Senior_level
+14,        RichRelevance,"San Francisco, CA 94111 (Financial District area)",60000.0,Data_Analyst,Senior_level
+15,        Capital One,"San Francisco, CA",60000.0,Data_Analyst,Senior_level
+16,        Genentech,"South San Francisco, CA",60000.0,Data_Analyst,Senior_level
+17,        University of California Office of the President,"Oakland, CA 94607 (Acorn-Acorn Industrial area)",60000.0,Data_Analyst,Senior_level
+18,        Intel,"Santa Clara, CA 95052",60000.0,Data_Analyst,Senior_level
+19,        City & County of San Francisco,"San Francisco, CA 94124 (Bayview area)",60000.0,Data_Analyst,Senior_level
+20,    Maxton & Company,"San Francisco, CA 94110 (Mission area)",60000.0,Data_Analyst,Senior_level
+21,    Medallia Inc,"Palo Alto, CA 94306 (Barron Park area)",60000.0,Data_Analyst,Senior_level
+22,    MachineZone,"Palo Alto, CA",60000.0,Data_Analyst,Senior_level
+23,        CA Technologies,"Santa Clara, CA",60000.0,Data_Analyst,Senior_level
+24,        Roche,"Santa Clara, CA",60000.0,Data_Analyst,Senior_level
+25,        Mentor Graphics,"Fremont, CA 94538 (Irvington area)",60000.0,Data_Analyst,Senior_level
+26,        Arthur Lawrence,"Sunnyvale, CA",60000.0,Data_Analyst,Senior_level
+27,"    Udacity, Inc.","San Francisco, CA",60000.0,Data_Analyst,Senior_level
+28,        Poshmark,"Redwood City, CA",60000.0,Data_Analyst,Senior_level
+29,        Sutter Health,"San Francisco, CA",60000.0,Data_Analyst,Senior_level
+30,    Change.org,"San Francisco, CA 94103 (South Of Market area)",60000.0,Data_Analyst,Senior_level
+31,    Production Modeling Corporation,"San Francisco, CA",60000.0,Data_Analyst,Senior_level
+32,        Kimpton Hotels & Restaurants,"San Francisco, CA 94108 (Financial District area)",60000.0,Data_Analyst,Senior_level
+33,        GE Careers,"San Ramon, CA 94583",60000.0,Data_Analyst,Senior_level
+34,        A9.com,"Palo Alto, CA",60000.0,Data_Analyst,Senior_level
+35,    Astreya,"Sunnyvale, CA",60000.0,Data_Analyst,Senior_level
+36,        Workday,"Pleasanton, CA",60000.0,Data_Analyst,Senior_level
+37,        Symantec,"Mountain View, CA",60000.0,Data_Analyst,Senior_level
+38,        Google,"Mountain View, CA",60000.0,Data_Analyst,Senior_level
+39,        Sephora,"San Francisco, CA 94105 (Financial District area)",60000.0,Data_Analyst,Senior_level
+40,        Salesforce,"San Francisco, CA",60000.0,Data_Analyst,Senior_level
+41,    Intellipro Group Inc.,"Mountain View, CA",60000.0,Data_Analyst,Senior_level
+42,        Blue Shield of California,"San Francisco, CA 94105 (Financial District area)",60000.0,Data_Analyst,Senior_level
+43,    Gap Inc. Corporate,"San Francisco, CA",60000.0,Data_Analyst,Senior_level
+44,        Gwynnie Bee,"Palo Alto, CA",60000.0,Data_Analyst,Senior_level
+45,        Bank of the West,"San Ramon, CA",60000.0,Data_Analyst,Senior_level
+46,        BNP Paribas,"San Ramon, CA",60000.0,Data_Analyst,Senior_level
+47,        TEKsystems,"San Francisco, CA 94103 (South Of Market area)",60000.0,Data_Analyst,Senior_level
+48,    Gap Inc. Corporate,"San Francisco, CA",60000.0,Data_Analyst,Senior_level
+49,        SolarCity,"San Francisco, CA",60000.0,Data_Analyst,Senior_level
+50,        eBay,"San Jose, CA",60000.0,Data_Analyst,Senior_level
+51,        Apple,"Santa Clara Valley, CA",60000.0,Data_Analyst,Senior_level
+52,    Movoto,"San Mateo, CA 94402 (Beresford area)",60000.0,Data_Analyst,Senior_level
+53,        First Republic Bank,"San Francisco, CA",60000.0,Data_Analyst,Senior_level
+54,    Box,"Redwood City, CA",60000.0,Data_Analyst,Senior_level
+55,        AbbVie,"South San Francisco, CA",60000.0,Data_Analyst,Senior_level
+56,        Academy of Art University,"San Francisco, CA",60000.0,Data_Analyst,Senior_level
+57,    TTS Media,"San Francisco, CA",60000.0,Data_Analyst,Senior_level
+58,        eBay,"San Jose, CA",60000.0,Data_Analyst,Senior_level
+59,        Blue Shield of California,"San Francisco, CA 94105 (Financial District area)",60000.0,Data_Analyst,Senior_level
+60,"    ATR International, Inc.","Walnut Creek, CA",60000.0,Data_Analyst,Senior_level
+61,        Corsair,"Fremont, CA",60000.0,Data_Analyst,Senior_level
+62,    Staffogen,"San Jose, CA",60000.0,Data_Analyst,Senior_level
+63,        Fitbit,"San Francisco, CA 94105 (Financial District area)",60000.0,Data_Analyst,Senior_level
+64,        BNP Paribas,"San Ramon, CA",60000.0,Data_Analyst,Senior_level
+65,        Kaiser Permanente,"San Jose, CA",60000.0,Data_Analyst,Senior_level
+66,    Box,"Redwood City, CA",60000.0,Data_Analyst,Senior_level
+67,    Bayone Solutions Inc.,"San Francisco, CA",60000.0,Data_Analyst,Senior_level
+68,        Gannett Fleming,"San Bruno, CA 94066",60000.0,Data_Analyst,Senior_level
+69,        eBay,"San Jose, CA",60000.0,Data_Analyst,Senior_level
+70,        Dolby,"San Francisco, CA",60000.0,Data_Analyst,Senior_level
+71,    Credit Karma,"San Francisco, CA",60000.0,Data_Analyst,Senior_level
+72,    Credit Karma,"San Francisco, CA",60000.0,Data_Analyst,Senior_level
+73,    Sony Interactive Entertainment PlayStation,"San Mateo, CA",60000.0,Data_Analyst,Senior_level
+74,        ZS Associates,"San Mateo, CA 94402 (Beresford area)",60000.0,Data_Analyst,Senior_level
+75,"        Cisco Systems, Inc.","Santa Clara, CA",60000.0,Data_Analyst,Senior_level
+76,    ab star group,"San Jose, CA",60000.0,Data_Analyst,Senior_level
+77,        Wells Fargo,"San Francisco, CA",60000.0,Data_Analyst,Senior_level
+78,        Symantec,"Mountain View, CA",60000.0,Data_Analyst,Senior_level
+79,        Dolby,"San Francisco, CA",60000.0,Data_Analyst,Senior_level
+80,        Thomson Reuters,"San Francisco, CA",60000.0,Data_Analyst,Senior_level
+81,        Blue Shield of California,"San Francisco, CA 94105 (Financial District area)",60000.0,Data_Analyst,Senior_level
+82,        GE Careers,"San Ramon, CA 94583",60000.0,Data_Analyst,Senior_level
+83,    eTeam Inc.,"Mountain View, CA",60000.0,Data_Analyst,Senior_level
+84,        Google,"Mountain View, CA",60000.0,Data_Analyst,Senior_level
+85,    addastaff,"San Francisco, CA",60000.0,Data_Analyst,Senior_level
+86,        Silicon Valley Bank,"Santa Clara, CA 95054",60000.0,Data_Analyst,Senior_level
+87,        MINDTREE,"San Francisco, CA",60000.0,Data_Analyst,Senior_level
+88,    Acuitus,"Palo Alto, CA",60000.0,Data_Analyst,Senior_level
+89,        Visa,"Foster City, CA",60000.0,Data_Analyst,Senior_level
+90,        CSI Consulting,"San Jose, CA",60000.0,Data_Analyst,Senior_level
+91,        Symantec,"Mountain View, CA",60000.0,Data_Analyst,Senior_level
+92,    RideCell,"San Francisco, CA 94103 (South Of Market area)",60000.0,Data_Analyst,Senior_level
+93,        Dell,"Santa Clara, CA",60000.0,Data_Analyst,Senior_level
+94,        Plex,"Pleasanton, CA",60000.0,Data_Analyst,Senior_level
+95,    Quantifind,"Menlo Park, CA",60000.0,Data_Analyst,Senior_level
+96,    Sony Interactive Entertainment PlayStation,"San Mateo, CA",60000.0,Data_Analyst,Senior_level
+97,        Paypal,"San Jose, CA",60000.0,Data_Analyst,Senior_level
+98,    Sony Interactive Entertainment PlayStation,"San Mateo, CA",60000.0,Data_Analyst,Senior_level
+99,"    InfoVision, Inc.","San Jose, CA",60000.0,Data_Analyst,Senior_level
+100,        Uber,"Palo Alto, CA 94304",60000.0,Data_Analyst,Senior_level
+101,        TEKsystems,"San Francisco, CA 94103 (South Of Market area)",60000.0,Data_Analyst,Senior_level
+102,    MachineZone,"Palo Alto, CA",60000.0,Data_Analyst,Senior_level
+103,        Genentech,"South San Francisco, CA",60000.0,Data_Analyst,Senior_level
+104,        Uber,"San Francisco, CA 94105",60000.0,Data_Analyst,Senior_level
+0,        Lam Research,"Fremont, CA 94538",75000.0,Data_Analyst,Entry_level
+1,        Realogy Corporate,"Emeryville, CA",75000.0,Data_Analyst,Entry_level
+2,        Paypal,"San Jose, CA",75000.0,Data_Analyst,Entry_level
+3,        Roche,"Santa Clara, CA",75000.0,Data_Analyst,Entry_level
+4,    Lyceum dynamics,"Oakland, CA",75000.0,Data_Analyst,Entry_level
+5,    Tradeshift,"San Francisco, CA",75000.0,Data_Analyst,Entry_level
+6,    Manage,"Mountain View, CA",75000.0,Data_Analyst,Entry_level
+7,        Visa,"Foster City, CA",75000.0,Data_Analyst,Entry_level
+8,        Slack,"San Francisco, CA",75000.0,Data_Analyst,Entry_level
+9,    Clover Health,"San Francisco, CA",75000.0,Data_Analyst,Entry_level
+10,        Facebook,"Menlo Park, CA",75000.0,Data_Analyst,Entry_level
+11,        SRI International,"Menlo Park, CA 94025",75000.0,Data_Analyst,Entry_level
+12,        Mosaic,"Oakland, CA",75000.0,Data_Analyst,Entry_level
+13,        Incedo,"Santa Clara, CA 95054",75000.0,Data_Analyst,Entry_level
+14,        Sidecar,"San Francisco, CA",75000.0,Data_Analyst,Entry_level
+15,        Jawbone,"San Francisco, CA",75000.0,Data_Analyst,Entry_level
+16,        Uber,"San Francisco, CA 94105 (Financial District area)",75000.0,Data_Analyst,Entry_level
+17,        Smule,"San Francisco, CA 94107 (South Of Market area)",75000.0,Data_Analyst,Entry_level
+18,    Corporate Labs Technology,"Brisbane, CA",75000.0,Data_Analyst,Entry_level
+19,        Earnest,"San Francisco, CA 94110 (Mission area)",75000.0,Data_Analyst,Entry_level
+20,        Facebook,"Menlo Park, CA",75000.0,Data_Analyst,Entry_level
+21,        omega solutions inc,"Mountain View, CA",75000.0,Data_Analyst,Entry_level
+22,    Stem Inc,"San Francisco Bay Area, CA",75000.0,Data_Analyst,Entry_level
+23,        Kaiser Permanente,"Pleasanton, CA",75000.0,Data_Analyst,Entry_level
+24,        Visa,"Foster City, CA",75000.0,Data_Analyst,Entry_level
+25,    LendUp,"San Francisco, CA",75000.0,Data_Analyst,Entry_level
+26,        Microsoft,"San Francisco, CA",75000.0,Data_Analyst,Entry_level
+27,    LiveRamp,"San Francisco, CA",75000.0,Data_Analyst,Entry_level
+28,    Affirm,"San Francisco, CA 94126 (Financial District area)",75000.0,Data_Analyst,Entry_level
+29,        Apple,"San Francisco, CA 94114 (Castro-Upper Market area)",75000.0,Data_Analyst,Entry_level
+30,        Lawrence Livermore National Laboratory,"Livermore, CA 94550",75000.0,Data_Analyst,Entry_level
+31,    Quantifind,"Menlo Park, CA",75000.0,Data_Analyst,Entry_level
+32,    Vegazva,"Sunnyvale, CA",75000.0,Data_Analyst,Entry_level
+33,        PHD,"San Francisco, CA",75000.0,Data_Analyst,Entry_level
+34,        Moody's Analytics,"San Francisco, CA",75000.0,Data_Analyst,Entry_level
+35,    LendUp,"San Francisco, CA",75000.0,Data_Analyst,Entry_level
+36,        TARGET,"Sunnyvale, CA 94086",75000.0,Data_Analyst,Entry_level
+37,        Visa,"San Francisco, CA 94105 (Financial District area)",75000.0,Data_Analyst,Entry_level
+38,        Universities Space Research Association,"Mountain View, CA",75000.0,Data_Analyst,Entry_level
+39,        Cypress Semiconductor Corporation,"San Jose, CA",75000.0,Data_Analyst,Entry_level
+40,    Planet Pharma,"San Francisco, CA",75000.0,Data_Analyst,Entry_level
+41,        First Tech Federal Credit Union,"Mountain View, CA 94043",75000.0,Data_Analyst,Entry_level
+42,        Oracle,"San Francisco, CA 94109 (Nob Hill area)",75000.0,Data_Analyst,Entry_level
+43,"        Akraya, Inc.","Sunnyvale, CA 94086",75000.0,Data_Analyst,Entry_level
+44,        Adept Solutions,"Menlo Park, CA",75000.0,Data_Analyst,Entry_level
+45,        RichRelevance,"San Francisco, CA 94111 (Financial District area)",75000.0,Data_Analyst,Entry_level
+46,        Primitive Logic,"San Francisco, CA 94111 (Financial District area)",75000.0,Data_Analyst,Entry_level
+47,        Wellcare,"San Jose, CA",75000.0,Data_Analyst,Entry_level
+48,        IDEO,"San Francisco, CA",75000.0,Data_Analyst,Entry_level
+49,    Glooko,"Mountain View, CA 94041",75000.0,Data_Analyst,Entry_level
+50,        Apple,"Santa Clara Valley, CA",75000.0,Data_Analyst,Entry_level
+51,        Houzz,"Palo Alto, CA 94301 (Professorville area)",75000.0,Data_Analyst,Entry_level
+52,    Corporate Labs Technology,"Brisbane, CA",75000.0,Data_Analyst,Entry_level
+53,        Teespring,"San Francisco, CA",75000.0,Data_Analyst,Entry_level
+54,        Lending Club,"San Francisco, CA 94105 (Financial District area)",75000.0,Data_Analyst,Entry_level
+55,        Apple,"Santa Clara Valley, CA",75000.0,Data_Analyst,Entry_level
+56,"        Cisco Systems, Inc.","San Jose, CA",75000.0,Data_Analyst,Entry_level
+57,        Facebook,"Menlo Park, CA",75000.0,Data_Analyst,Entry_level
+58,    Gap Inc. Corporate,"San Francisco, CA",75000.0,Data_Analyst,Entry_level
+59,    Ampush,"San Francisco, CA",75000.0,Data_Analyst,Entry_level
+60,    Grit Matters,"San Mateo, CA",75000.0,Data_Analyst,Entry_level
+61,        Apple,"Santa Clara Valley, CA",75000.0,Data_Analyst,Entry_level
+62,        omega solutions inc,"Mountain View, CA",75000.0,Data_Analyst,Entry_level
+63,        Visa,"San Francisco, CA 94105 (Financial District area)",75000.0,Data_Analyst,Entry_level
+64,    Slice Technologies & Unroll.me,"San Mateo, CA",75000.0,Data_Analyst,Entry_level
+65,        Palo Alto Networks,"Santa Clara, CA 95054",75000.0,Data_Analyst,Entry_level
+66,        Google,"Mountain View, CA",75000.0,Data_Analyst,Entry_level
+67,        Arup,"San Francisco, CA",75000.0,Data_Analyst,Entry_level
+68,    Oculus VR,"Menlo Park, CA",75000.0,Data_Analyst,Entry_level
+69,        SAP,"Palo Alto, CA",75000.0,Data_Analyst,Entry_level
+70,        Behavioral Health Services,"Santa Clara, CA",75000.0,Data_Analyst,Entry_level
+71,    Gap Inc. Corporate,"San Francisco, CA",75000.0,Data_Analyst,Entry_level
+72,    Perceptive Technologies,"Santa Clara, CA",75000.0,Data_Analyst,Entry_level
+73,    Gap Inc. Corporate,"San Francisco, CA",75000.0,Data_Analyst,Entry_level
+74,        MedeAnalytics,"Emeryville, CA",75000.0,Data_Analyst,Entry_level
+75,        Galvanize,"San Francisco, CA",75000.0,Data_Analyst,Entry_level
+76,        Facebook,"Menlo Park, CA",75000.0,Data_Analyst,Entry_level
+77,"        Akraya, Inc.","Oakland, CA 94612 (Northgate area)",75000.0,Data_Analyst,Entry_level
+78,    LendUp,"San Francisco, CA",75000.0,Data_Analyst,Entry_level
+79,        University of California San Francisco,"San Francisco, CA",75000.0,Data_Analyst,Entry_level
+80,        Axius Technologies,"San Francisco, CA",75000.0,Data_Analyst,Entry_level
+81,        Freedom Financial Network,"San Mateo, CA 94402 (Beresford area)",75000.0,Data_Analyst,Entry_level
+82,        Exponent,"Oakland, CA",75000.0,Data_Analyst,Entry_level
+83,        Google,"Mountain View, CA",75000.0,Data_Analyst,Entry_level
+84,    LendingHome,"San Francisco, CA",75000.0,Data_Analyst,Entry_level
+85,    Khan Academy,"Mountain View, CA",75000.0,Data_Analyst,Entry_level
+86,        Salesforce,"Palo Alto, CA",75000.0,Data_Analyst,Entry_level
+87,        Oracle,"Redwood Shores, CA",75000.0,Data_Analyst,Entry_level
+88,    Farmers Business Network,"San Carlos, CA 94070",75000.0,Data_Analyst,Entry_level
+89,        Visa,"Foster City, CA",75000.0,Data_Analyst,Entry_level
+90,        Twitch,"San Francisco, CA",75000.0,Data_Analyst,Entry_level
+91,        Intel,"Santa Clara, CA 95052",75000.0,Data_Analyst,Entry_level
+92,    Rally Health,"San Francisco, CA",75000.0,Data_Analyst,Entry_level
+93,"    Kanjoya, Inc.","San Francisco, CA",75000.0,Data_Analyst,Entry_level
+94,"    Egnyte, Inc.","Mountain View, CA 94043",75000.0,Data_Analyst,Entry_level
+95,        Pure Storage,"Mountain View, CA 94041",75000.0,Data_Analyst,Entry_level
+96,        Workbridge Associates,"San Francisco, CA 94105 (Financial District area)",75000.0,Data_Analyst,Entry_level
+97,        Welocalize,"San Francisco Bay Area, CA",75000.0,Data_Analyst,Entry_level
+98,    Solar Mosaic,"Oakland, CA",75000.0,Data_Analyst,Entry_level
+99,        Apple,"Santa Clara Valley, CA",75000.0,Data_Analyst,Entry_level
+100,        Thumbtack,"San Francisco, CA",75000.0,Data_Analyst,Entry_level
+101,        Zynga,"San Francisco, CA",75000.0,Data_Analyst,Entry_level
+102,        Kaiser Permanente,"San Francisco, CA",75000.0,Data_Analyst,Entry_level
+103,        Exponent,"Oakland, CA",75000.0,Data_Analyst,Entry_level
+104,        Freedom Financial Network,"San Mateo, CA 94402",75000.0,Data_Analyst,Entry_level
+0,        intuit,"Mountain View, CA 94043",75000.0,Data_Analyst,Mid_level
+1,        Paypal,"San Jose, CA",75000.0,Data_Analyst,Mid_level
+2,        Google,"Mountain View, CA",75000.0,Data_Analyst,Mid_level
+3,    Adyen,"San Francisco, CA",75000.0,Data_Analyst,Mid_level
+4,        Kaiser Permanente,"Oakland, CA",75000.0,Data_Analyst,Mid_level
+5,        Google,"Mountain View, CA",75000.0,Data_Analyst,Mid_level
+6,    HouseCanary,"San Francisco, CA 94107 (South Of Market area)",75000.0,Data_Analyst,Mid_level
+7,    Sumeru Solutions,"Mountain View, CA",75000.0,Data_Analyst,Mid_level
+8,        Silicon Valley Bank,"Menlo Park, CA 94025",75000.0,Data_Analyst,Mid_level
+9,        Google,"Mountain View, CA",75000.0,Data_Analyst,Mid_level
+10,        omega solutions inc,"San Francisco, CA",75000.0,Data_Analyst,Mid_level
+11,        Facebook,"Menlo Park, CA",75000.0,Data_Analyst,Mid_level
+12,        Palo Alto Networks,"Santa Clara, CA 95054",75000.0,Data_Analyst,Mid_level
+13,        Facebook,"Menlo Park, CA",75000.0,Data_Analyst,Mid_level
+14,    Spire Systems Inc,"Mountain View, CA",75000.0,Data_Analyst,Mid_level
+15,        Wish,"San Francisco, CA",75000.0,Data_Analyst,Mid_level
+16,    HomeLight,"San Francisco, CA",75000.0,Data_Analyst,Mid_level
+17,        Visa,"Palo Alto, CA",75000.0,Data_Analyst,Mid_level
+18,        UBM,"San Francisco, CA 94107 (South Of Market area)",75000.0,Data_Analyst,Mid_level
+19,        BNP Paribas,"San Francisco, CA 94111 (Financial District area)",75000.0,Data_Analyst,Mid_level
+20,        Apple,"Santa Clara Valley, CA",75000.0,Data_Analyst,Mid_level
+21,        MobileIron,"Mountain View, CA",75000.0,Data_Analyst,Mid_level
+22,    Sojern,"San Francisco, CA",75000.0,Data_Analyst,Mid_level
+23,    Informa Business Intelligence,"San Francisco, CA",75000.0,Data_Analyst,Mid_level
+24,        Apex Systems Inc,"Mountain View, CA",75000.0,Data_Analyst,Mid_level
+25,        Dropbox,"San Francisco, CA",75000.0,Data_Analyst,Mid_level
+26,        Constellation Brands,"San Francisco, CA 94111 (Financial District area)",75000.0,Data_Analyst,Mid_level
+27,        First Republic Bank,"San Francisco, CA",75000.0,Data_Analyst,Mid_level
+28,    Raag Solutions LLC,"Sunnyvale, CA",75000.0,Data_Analyst,Mid_level
+29,    Casetext,"San Francisco, CA",75000.0,Data_Analyst,Mid_level
+30,    Coinbase,"San Francisco, CA",75000.0,Data_Analyst,Mid_level
+31,    BetterWorks,"Redwood City, CA",75000.0,Data_Analyst,Mid_level
+32,        Instacart,"San Francisco, CA",75000.0,Data_Analyst,Mid_level
+33,"        Rodan & Fields, LLC","San Francisco, CA",75000.0,Data_Analyst,Mid_level
+34,        Reed Elsevier,"Menlo Park, CA",75000.0,Data_Analyst,Mid_level
+35,        Uber,"San Francisco, CA 94105 (Financial District area)",75000.0,Data_Analyst,Mid_level
+36,        Square,"San Francisco, CA 94103 (South Of Market area)",75000.0,Data_Analyst,Mid_level
+37,"    Cogitativo, Inc.","Berkeley, CA 94710",75000.0,Data_Analyst,Mid_level
+38,        Apple,"Santa Clara Valley, CA",75000.0,Data_Analyst,Mid_level
+39,"        TalentBurst, Inc.","San Francisco, CA 94105 (Financial District area)",75000.0,Data_Analyst,Mid_level
+40,    SQA Solution,"South San Francisco, CA",75000.0,Data_Analyst,Mid_level
+41,        Sutter Health,"Burlingame, CA",75000.0,Data_Analyst,Mid_level
+42,        Cisco Meraki,"San Francisco, CA 94158 (South Of Market area)",75000.0,Data_Analyst,Mid_level
+43,        Big Fish,"Oakland, CA",75000.0,Data_Analyst,Mid_level
+44,    BlueJeans,"Mountain View, CA",75000.0,Data_Analyst,Mid_level
+45,    elastic,"Mountain View, CA",75000.0,Data_Analyst,Mid_level
+46,        Constellation Brands,"San Francisco, CA 94111 (Financial District area)",75000.0,Data_Analyst,Mid_level
+47,        Bosch,"Palo Alto, CA",75000.0,Data_Analyst,Mid_level
+48,        Uber,"San Francisco, CA 94103 (South Of Market area)",75000.0,Data_Analyst,Mid_level
+49,        HealthTap,"Palo Alto, CA",75000.0,Data_Analyst,Mid_level
+50,        Ancestry,"San Francisco, CA",75000.0,Data_Analyst,Mid_level
+51,        Twitch,"San Francisco, CA",75000.0,Data_Analyst,Mid_level
+52,        realtor.com,"Santa Clara, CA",75000.0,Data_Analyst,Mid_level
+53,        Blue Shield of California,"San Francisco, CA 94105 (Financial District area)",75000.0,Data_Analyst,Mid_level
+54,"        Rodan & Fields, LLC","San Francisco, CA",75000.0,Data_Analyst,Mid_level
+55,        Houzz,"Palo Alto, CA 94301 (Professorville area)",75000.0,Data_Analyst,Mid_level
+56,        Tapjoy,"San Francisco, CA 94104 (Financial District area)",75000.0,Data_Analyst,Mid_level
+57,        Facebook,"Menlo Park, CA",75000.0,Data_Analyst,Mid_level
+58,        Wellcare,"San Jose, CA",75000.0,Data_Analyst,Mid_level
+59,        U.S. Bank,"San Francisco, CA",75000.0,Data_Analyst,Mid_level
+60,    Anki,"San Francisco, CA",75000.0,Data_Analyst,Mid_level
+61,    Astreya,"Mountain View, CA",75000.0,Data_Analyst,Mid_level
+62,    CodeFights,"San Francisco, CA",75000.0,Data_Analyst,Mid_level
+63,        Adept Solutions,"San Ramon, CA",75000.0,Data_Analyst,Mid_level
+64,    Xconic,"San Jose, CA 95131 (North Valley area)",75000.0,Data_Analyst,Mid_level
+65,    Full Circle Insights,"San Mateo, CA",75000.0,Data_Analyst,Mid_level
+66,    Method360,"San Francisco, CA 94104 (Financial District area)",75000.0,Data_Analyst,Mid_level
+67,        Good Eggs,"San Francisco, CA",75000.0,Data_Analyst,Mid_level
+68,        University of California San Francisco Medical Cen...,"San Francisco, CA",75000.0,Data_Analyst,Mid_level
+69,    Ebates Inc.,"San Francisco, CA 94107 (South Of Market area)",75000.0,Data_Analyst,Mid_level
+70,        Rabobank,"Santa Rosa, CA",75000.0,Data_Analyst,Mid_level
+71,        Accenture,"San Francisco, CA 94105 (Financial District area)",75000.0,Data_Analyst,Mid_level
+72,        CSC,"San Francisco, CA",75000.0,Data_Analyst,Mid_level
+73,    San Mateo County Harbor District - El Granada,"El Granada, CA 94018",75000.0,Data_Analyst,Mid_level
+74,        Mondo,"San Francisco, CA",75000.0,Data_Analyst,Mid_level
+75,    Fundbox,"San Francisco, CA 94104 (Financial District area)",75000.0,Data_Analyst,Mid_level
+76,        Facebook,"Menlo Park, CA",75000.0,Data_Analyst,Mid_level
+77,        Visa,"San Francisco, CA 94105 (Financial District area)",75000.0,Data_Analyst,Mid_level
+78,    Sony Interactive Entertainment PlayStation,"San Mateo, CA",75000.0,Data_Analyst,Mid_level
+79,        Tesla Motors,"Fremont, CA 94538 (Irvington area)",75000.0,Data_Analyst,Mid_level
+80,        Roku,"Los Gatos, CA",75000.0,Data_Analyst,Mid_level
+81,    Leanplum,"San Francisco, CA 94103 (South Of Market area)",75000.0,Data_Analyst,Mid_level
+82,        Lending Club,"San Francisco, CA 94105 (Financial District area)",75000.0,Data_Analyst,Mid_level
+83,    Latitude 36 Inc,"Pleasanton, CA",75000.0,Data_Analyst,Mid_level
+84,        Genesis10,"San Francisco, CA 94105 (Financial District area)",75000.0,Data_Analyst,Mid_level
+85,        Google,"Mountain View, CA",75000.0,Data_Analyst,Mid_level
+86,    Arka,"Palo Alto, CA",75000.0,Data_Analyst,Mid_level
+87,        Morgan Stanley,"San Francisco, CA",75000.0,Data_Analyst,Mid_level
+88,        City National Bank,"San Francisco, CA",75000.0,Data_Analyst,Mid_level
+89,"    Bay Systems Consulting, Inc.","Mountain View, CA 94043",75000.0,Data_Analyst,Mid_level
+90,    JD Strategies,"San Francisco, CA 94105 (Financial District area)",75000.0,Data_Analyst,Mid_level
+91,        Silicon Valley Bank,"Santa Clara, CA 95054",75000.0,Data_Analyst,Mid_level
+92,        Amazon Corporate LLC,"Sunnyvale, CA",75000.0,Data_Analyst,Mid_level
+93,        Visa,"Foster City, CA",75000.0,Data_Analyst,Mid_level
+94,    Avispa Technology,"San Francisco, CA",75000.0,Data_Analyst,Mid_level
+95,        Sequoia Hospital,"Redwood City, CA 94062",75000.0,Data_Analyst,Mid_level
+96,        Facebook,"Menlo Park, CA",75000.0,Data_Analyst,Mid_level
+97,        City & County of San Francisco,"San Francisco, CA 94124 (Bayview area)",75000.0,Data_Analyst,Mid_level
+98,        Zendesk,"San Francisco, CA 94103 (South Of Market area)",75000.0,Data_Analyst,Mid_level
+99,        Zynga,"San Francisco, CA",75000.0,Data_Analyst,Mid_level
+100,        Kaiser Permanente,"San Francisco, CA",75000.0,Data_Analyst,Mid_level
+101,        Oracle,"Redwood City, CA",75000.0,Data_Analyst,Mid_level
+102,        Okta,"San Francisco, CA",75000.0,Data_Analyst,Mid_level
+103,        Stanford Health Care,"Palo Alto, CA 94305",75000.0,Data_Analyst,Mid_level
+104,        Paypal,"San Jose, CA",75000.0,Data_Analyst,Mid_level
+0,        Freedom Financial Network,"San Mateo, CA 94402",75000.0,Data_Analyst,Senior_level
+1,        Stanford Health Care,"Palo Alto, CA 94305",75000.0,Data_Analyst,Senior_level
+2,        Genentech,"South San Francisco, CA",75000.0,Data_Analyst,Senior_level
+3,    iSoft Solutions,"San Francisco, CA",75000.0,Data_Analyst,Senior_level
+4,        Genentech,"South San Francisco, CA",75000.0,Data_Analyst,Senior_level
+5,"        Cisco Systems, Inc.","San Jose, CA",75000.0,Data_Analyst,Senior_level
+6,        Athleta,"San Francisco, CA",75000.0,Data_Analyst,Senior_level
+7,        Intuit,"Mountain View, CA 94039",75000.0,Data_Analyst,Senior_level
+8,    Nuna,"San Francisco, CA",75000.0,Data_Analyst,Senior_level
+9,        Google,"Mountain View, CA",75000.0,Data_Analyst,Senior_level
+10,    Manage,"Mountain View, CA",75000.0,Data_Analyst,Senior_level
+11,        Capital One,"San Francisco, CA",75000.0,Data_Analyst,Senior_level
+12,        RichRelevance,"San Francisco, CA 94111 (Financial District area)",75000.0,Data_Analyst,Senior_level
+13,        Intel,"Santa Clara, CA 95052",75000.0,Data_Analyst,Senior_level
+14,        Capital One,"San Francisco, CA",75000.0,Data_Analyst,Senior_level
+15,        Hired,"San Francisco, CA",75000.0,Data_Analyst,Senior_level
+16,        GE Careers,"San Ramon, CA 94583",75000.0,Data_Analyst,Senior_level
+17,        Genentech,"South San Francisco, CA",75000.0,Data_Analyst,Senior_level
+18,        University of California Office of the President,"Oakland, CA 94607 (Acorn-Acorn Industrial area)",75000.0,Data_Analyst,Senior_level
+19,        CA Technologies,"Santa Clara, CA",75000.0,Data_Analyst,Senior_level
+20,        Google,"Mountain View, CA",75000.0,Data_Analyst,Senior_level
+21,    MachineZone,"Palo Alto, CA",75000.0,Data_Analyst,Senior_level
+22,        Arthur Lawrence,"Sunnyvale, CA",75000.0,Data_Analyst,Senior_level
+23,        City & County of San Francisco,"San Francisco, CA 94124 (Bayview area)",75000.0,Data_Analyst,Senior_level
+24,    Maxton & Company,"San Francisco, CA 94110 (Mission area)",75000.0,Data_Analyst,Senior_level
+25,    Medallia Inc,"Palo Alto, CA 94306 (Barron Park area)",75000.0,Data_Analyst,Senior_level
+26,        Poshmark,"Redwood City, CA",75000.0,Data_Analyst,Senior_level
+27,    Production Modeling Corporation,"San Francisco, CA",75000.0,Data_Analyst,Senior_level
+28,        Mentor Graphics,"Fremont, CA 94538 (Irvington area)",75000.0,Data_Analyst,Senior_level
+29,        Sutter Health,"San Francisco, CA",75000.0,Data_Analyst,Senior_level
+30,"    Udacity, Inc.","San Francisco, CA",75000.0,Data_Analyst,Senior_level
+31,        Roche,"Santa Clara, CA",75000.0,Data_Analyst,Senior_level
+32,        Kimpton Hotels & Restaurants,"San Francisco, CA 94108 (Financial District area)",75000.0,Data_Analyst,Senior_level
+33,    Change.org,"San Francisco, CA 94103 (South Of Market area)",75000.0,Data_Analyst,Senior_level
+34,    Astreya,"Sunnyvale, CA",75000.0,Data_Analyst,Senior_level
+35,"    ATR International, Inc.","Walnut Creek, CA",75000.0,Data_Analyst,Senior_level
+36,    Intellipro Group Inc.,"Mountain View, CA",75000.0,Data_Analyst,Senior_level
+37,        TEKsystems,"San Francisco, CA 94103 (South Of Market area)",75000.0,Data_Analyst,Senior_level
+38,        Blue Shield of California,"San Francisco, CA 94105 (Financial District area)",75000.0,Data_Analyst,Senior_level
+39,        Workday,"Pleasanton, CA",75000.0,Data_Analyst,Senior_level
+40,        BNP Paribas,"San Ramon, CA",75000.0,Data_Analyst,Senior_level
+41,        Gwynnie Bee,"Palo Alto, CA",75000.0,Data_Analyst,Senior_level
+42,        Salesforce,"San Francisco, CA",75000.0,Data_Analyst,Senior_level
+43,        A9.com,"Palo Alto, CA",75000.0,Data_Analyst,Senior_level
+44,    TTS Media,"San Francisco, CA",75000.0,Data_Analyst,Senior_level
+45,        eBay,"San Jose, CA",75000.0,Data_Analyst,Senior_level
+46,    Gap Inc. Corporate,"San Francisco, CA",75000.0,Data_Analyst,Senior_level
+47,        GE Careers,"San Ramon, CA 94583",75000.0,Data_Analyst,Senior_level
+48,        Bank of the West,"San Ramon, CA",75000.0,Data_Analyst,Senior_level
+49,        BNP Paribas,"San Ramon, CA",75000.0,Data_Analyst,Senior_level
+50,        Symantec,"Mountain View, CA",75000.0,Data_Analyst,Senior_level
+51,        Sephora,"San Francisco, CA 94105 (Financial District area)",75000.0,Data_Analyst,Senior_level
+52,    Movoto,"San Mateo, CA 94402 (Beresford area)",75000.0,Data_Analyst,Senior_level
+53,        eBay,"San Jose, CA",75000.0,Data_Analyst,Senior_level
+54,    Box,"Redwood City, CA",75000.0,Data_Analyst,Senior_level
+55,        Corsair,"Fremont, CA",75000.0,Data_Analyst,Senior_level
+56,    Bayone Solutions Inc.,"San Francisco, CA",75000.0,Data_Analyst,Senior_level
+57,    Gap Inc. Corporate,"San Francisco, CA",75000.0,Data_Analyst,Senior_level
+58,        Apple,"Santa Clara Valley, CA",75000.0,Data_Analyst,Senior_level
+59,        AbbVie,"South San Francisco, CA",75000.0,Data_Analyst,Senior_level
+60,        SolarCity,"San Francisco, CA",75000.0,Data_Analyst,Senior_level
+61,        Fitbit,"San Francisco, CA 94105 (Financial District area)",75000.0,Data_Analyst,Senior_level
+62,        Gannett Fleming,"San Bruno, CA 94066",75000.0,Data_Analyst,Senior_level
+63,    Box,"Redwood City, CA",75000.0,Data_Analyst,Senior_level
+64,        Blue Shield of California,"San Francisco, CA 94105 (Financial District area)",75000.0,Data_Analyst,Senior_level
+65,        eBay,"San Jose, CA",75000.0,Data_Analyst,Senior_level
+66,    ab star group,"San Jose, CA",75000.0,Data_Analyst,Senior_level
+67,    addastaff,"San Francisco, CA",75000.0,Data_Analyst,Senior_level
+68,        Kaiser Permanente,"San Jose, CA",75000.0,Data_Analyst,Senior_level
+69,        Thomson Reuters,"San Francisco, CA",75000.0,Data_Analyst,Senior_level
+70,        ZS Associates,"San Mateo, CA 94402 (Beresford area)",75000.0,Data_Analyst,Senior_level
+71,        Dolby,"San Francisco, CA",75000.0,Data_Analyst,Senior_level
+72,"        Cisco Systems, Inc.","Santa Clara, CA",75000.0,Data_Analyst,Senior_level
+73,        Google,"Mountain View, CA",75000.0,Data_Analyst,Senior_level
+74,    Credit Karma,"San Francisco, CA",75000.0,Data_Analyst,Senior_level
+75,    Credit Karma,"San Francisco, CA",75000.0,Data_Analyst,Senior_level
+76,        CSI Consulting,"San Jose, CA",75000.0,Data_Analyst,Senior_level
+77,    Adroit Resources Inc,"Fremont, CA 94539 (Cameron Hills area)",75000.0,Data_Analyst,Senior_level
+78,    AllianceIT,"San Ramon, CA",75000.0,Data_Analyst,Senior_level
+79,        Symantec,"Mountain View, CA",75000.0,Data_Analyst,Senior_level
+80,        Symantec,"Mountain View, CA",75000.0,Data_Analyst,Senior_level
+81,        Proofpoint,"Sunnyvale, CA 94089",75000.0,Data_Analyst,Senior_level
+82,        Catalina Marketing,"San Jose, CA",75000.0,Data_Analyst,Senior_level
+83,        GE Careers,"San Ramon, CA 94583",75000.0,Data_Analyst,Senior_level
+84,        TEKsystems,"San Francisco, CA 94103 (South Of Market area)",75000.0,Data_Analyst,Senior_level
+85,    Sony Interactive Entertainment PlayStation,"San Mateo, CA",75000.0,Data_Analyst,Senior_level
+86,    Quantifind,"Menlo Park, CA",75000.0,Data_Analyst,Senior_level
+87,        Silicon Valley Bank,"Santa Clara, CA 95054",75000.0,Data_Analyst,Senior_level
+88,        Uber,"Palo Alto, CA 94304",75000.0,Data_Analyst,Senior_level
+89,        Dolby,"San Francisco, CA",75000.0,Data_Analyst,Senior_level
+90,        Wells Fargo,"San Francisco, CA",75000.0,Data_Analyst,Senior_level
+91,        Visa,"Foster City, CA",75000.0,Data_Analyst,Senior_level
+92,        Blue Shield of California,"San Francisco, CA 94105 (Financial District area)",75000.0,Data_Analyst,Senior_level
+93,    ConnectPoint Search Group,"San Francisco, CA",75000.0,Data_Analyst,Senior_level
+94,        MINDTREE,"San Francisco, CA",75000.0,Data_Analyst,Senior_level
+95,    Sony Interactive Entertainment PlayStation,"San Mateo, CA",75000.0,Data_Analyst,Senior_level
+96,        TrialPay,"Mountain View, CA",75000.0,Data_Analyst,Senior_level
+97,        Paypal,"San Jose, CA",75000.0,Data_Analyst,Senior_level
+98,"    InfoVision, Inc.","San Jose, CA",75000.0,Data_Analyst,Senior_level
+99,    Elevate Recruiting Group,"Palo Alto, CA",75000.0,Data_Analyst,Senior_level
+100,        Tesla Motors,"Newark, CA",75000.0,Data_Analyst,Senior_level
+101,        Plex,"Pleasanton, CA",75000.0,Data_Analyst,Senior_level
+102,        Dell,"Santa Clara, CA",75000.0,Data_Analyst,Senior_level
+103,        Genentech,"South San Francisco, CA",75000.0,Data_Analyst,Senior_level
+104,        Uber,"San Francisco, CA 94105",75000.0,Data_Analyst,Senior_level
+0,        Freedom Financial Network,"San Mateo, CA 94402",85000.0,Data_Analyst,Entry_level
+1,        Paypal,"San Jose, CA",85000.0,Data_Analyst,Entry_level
+2,    Predictive Science,United States,85000.0,Data_Analyst,Entry_level
+3,        Slack,"San Francisco, CA",85000.0,Data_Analyst,Entry_level
+4,    Clover Health,"San Francisco, CA",85000.0,Data_Analyst,Entry_level
+5,        Facebook,"Menlo Park, CA",85000.0,Data_Analyst,Entry_level
+6,        SRI International,"Menlo Park, CA 94025",85000.0,Data_Analyst,Entry_level
+7,        Sidecar,"San Francisco, CA",85000.0,Data_Analyst,Entry_level
+8,        Jawbone,"San Francisco, CA",85000.0,Data_Analyst,Entry_level
+9,        Uber,"San Francisco, CA 94105 (Financial District area)",85000.0,Data_Analyst,Entry_level
+10,        Visa,"Foster City, CA",85000.0,Data_Analyst,Entry_level
+11,        Smule,"San Francisco, CA 94107 (South Of Market area)",85000.0,Data_Analyst,Entry_level
+12,    Corporate Labs Technology,"Brisbane, CA",85000.0,Data_Analyst,Entry_level
+13,        Earnest,"San Francisco, CA 94110 (Mission area)",85000.0,Data_Analyst,Entry_level
+14,        Facebook,"Menlo Park, CA",85000.0,Data_Analyst,Entry_level
+15,        Visa,"Foster City, CA",85000.0,Data_Analyst,Entry_level
+16,    LendUp,"San Francisco, CA",85000.0,Data_Analyst,Entry_level
+17,    Affirm,"San Francisco, CA 94126 (Financial District area)",85000.0,Data_Analyst,Entry_level
+18,        Apple,"San Francisco, CA 94114 (Castro-Upper Market area)",85000.0,Data_Analyst,Entry_level
+19,    Vegazva,"Sunnyvale, CA",85000.0,Data_Analyst,Entry_level
+20,    LendUp,"San Francisco, CA",85000.0,Data_Analyst,Entry_level
+21,        TARGET,"Sunnyvale, CA 94086",85000.0,Data_Analyst,Entry_level
+22,        Visa,"San Francisco, CA 94105 (Financial District area)",85000.0,Data_Analyst,Entry_level
+23,"        Akraya, Inc.","Sunnyvale, CA 94086",85000.0,Data_Analyst,Entry_level
+24,        Adept Solutions,"Menlo Park, CA",85000.0,Data_Analyst,Entry_level
+25,        RichRelevance,"San Francisco, CA 94111 (Financial District area)",85000.0,Data_Analyst,Entry_level
+26,        Wellcare,"San Jose, CA",85000.0,Data_Analyst,Entry_level
+27,        Lawrence Livermore National Laboratory,"Livermore, CA 94550",85000.0,Data_Analyst,Entry_level
+28,    Corporate Labs Technology,"Brisbane, CA",85000.0,Data_Analyst,Entry_level
+29,        Teespring,"San Francisco, CA",85000.0,Data_Analyst,Entry_level
+30,        Lending Club,"San Francisco, CA 94105 (Financial District area)",85000.0,Data_Analyst,Entry_level
+31,        Apple,"Santa Clara Valley, CA",85000.0,Data_Analyst,Entry_level
+32,        Cypress Semiconductor Corporation,"San Jose, CA",85000.0,Data_Analyst,Entry_level
+33,    Grit Matters,"San Mateo, CA",85000.0,Data_Analyst,Entry_level
+34,        Apple,"Santa Clara Valley, CA",85000.0,Data_Analyst,Entry_level
+35,        omega solutions inc,"Mountain View, CA",85000.0,Data_Analyst,Entry_level
+36,        Visa,"San Francisco, CA 94105 (Financial District area)",85000.0,Data_Analyst,Entry_level
+37,    Slice Technologies & Unroll.me,"San Mateo, CA",85000.0,Data_Analyst,Entry_level
+38,        Palo Alto Networks,"Santa Clara, CA 95054",85000.0,Data_Analyst,Entry_level
+39,        Google,"Mountain View, CA",85000.0,Data_Analyst,Entry_level
+40,    Oculus VR,"Menlo Park, CA",85000.0,Data_Analyst,Entry_level
+41,        Behavioral Health Services,"Santa Clara, CA",85000.0,Data_Analyst,Entry_level
+42,    Gap Inc. Corporate,"San Francisco, CA",85000.0,Data_Analyst,Entry_level
+43,    Perceptive Technologies,"Santa Clara, CA",85000.0,Data_Analyst,Entry_level
+44,        MedeAnalytics,"Emeryville, CA",85000.0,Data_Analyst,Entry_level
+45,        Galvanize,"San Francisco, CA",85000.0,Data_Analyst,Entry_level
+46,        University of California San Francisco,"San Francisco, CA",85000.0,Data_Analyst,Entry_level
+47,        Freedom Financial Network,"San Mateo, CA 94402 (Beresford area)",85000.0,Data_Analyst,Entry_level
+48,        Google,"Mountain View, CA",85000.0,Data_Analyst,Entry_level
+49,    LendingHome,"San Francisco, CA",85000.0,Data_Analyst,Entry_level
+50,    Khan Academy,"Mountain View, CA",85000.0,Data_Analyst,Entry_level
+51,        Salesforce,"Palo Alto, CA",85000.0,Data_Analyst,Entry_level
+52,"        Cisco Systems, Inc.","San Jose, CA",85000.0,Data_Analyst,Entry_level
+53,        Oracle,"Redwood Shores, CA",85000.0,Data_Analyst,Entry_level
+54,    Farmers Business Network,"San Carlos, CA 94070",85000.0,Data_Analyst,Entry_level
+55,        Visa,"Foster City, CA",85000.0,Data_Analyst,Entry_level
+56,    Gap Inc. Corporate,"San Francisco, CA",85000.0,Data_Analyst,Entry_level
+57,        Intel,"Santa Clara, CA 95052",85000.0,Data_Analyst,Entry_level
+58,    Rally Health,"San Francisco, CA",85000.0,Data_Analyst,Entry_level
+59,"    Kanjoya, Inc.","San Francisco, CA",85000.0,Data_Analyst,Entry_level
+60,"    Egnyte, Inc.","Mountain View, CA 94043",85000.0,Data_Analyst,Entry_level
+61,        Workbridge Associates,"San Francisco, CA 94105 (Financial District area)",85000.0,Data_Analyst,Entry_level
+62,    Solar Mosaic,"Oakland, CA",85000.0,Data_Analyst,Entry_level
+63,        Thumbtack,"San Francisco, CA",85000.0,Data_Analyst,Entry_level
+64,"    City of Santa Clara, CA","Santa Clara, CA 95050",85000.0,Data_Analyst,Entry_level
+65,        Blue Shield of California,"San Francisco, CA 94105 (Financial District area)",85000.0,Data_Analyst,Entry_level
+66,    Navdy,"San Francisco, CA",85000.0,Data_Analyst,Entry_level
+67,    LendUp,"San Francisco, CA",85000.0,Data_Analyst,Entry_level
+68,        Apple,"Santa Clara Valley, CA",85000.0,Data_Analyst,Entry_level
+69,        Mainz Brady Group,"San Francisco, CA",85000.0,Data_Analyst,Entry_level
+70,    Gap Inc. Corporate,"San Francisco, CA",85000.0,Data_Analyst,Entry_level
+71,    Ingenico ePayments,"San Francisco, CA",85000.0,Data_Analyst,Entry_level
+72,        Salesforce,"San Francisco, CA",85000.0,Data_Analyst,Entry_level
+73,        Apple,"Santa Clara Valley, CA",85000.0,Data_Analyst,Entry_level
+74,        SGT,"Moffett Field, CA",85000.0,Data_Analyst,Entry_level
+75,        Apple,"Santa Clara Valley, CA",85000.0,Data_Analyst,Entry_level
+76,    3MKLLC,"Sunnyvale, CA",85000.0,Data_Analyst,Entry_level
+77,    Intellipro Group Inc.,"Mountain View, CA",85000.0,Data_Analyst,Entry_level
+78,    Stride Search,"San Francisco, CA",85000.0,Data_Analyst,Entry_level
+79,        eBay,"San Jose, CA",85000.0,Data_Analyst,Entry_level
+80,        Rambus,"Sunnyvale, CA 94089",85000.0,Data_Analyst,Entry_level
+81,    iRhythm,"San Francisco, CA",85000.0,Data_Analyst,Entry_level
+82,    360 IT Professionals,"San Francisco, CA",85000.0,Data_Analyst,Entry_level
+83,        Accenture,"San Jose, CA 95113 (Downtown area)",85000.0,Data_Analyst,Entry_level
+84,        Kaiser Permanente,"San Francisco, CA",85000.0,Data_Analyst,Entry_level
+85,        eBay,"San Jose, CA",85000.0,Data_Analyst,Entry_level
+86,        Tesla Motors,"Palo Alto, CA",85000.0,Data_Analyst,Entry_level
+87,"    Grammarly, Inc.","San Francisco, CA",85000.0,Data_Analyst,Entry_level
+88,        Uber,"San Francisco, CA 94103 (South Of Market area)",85000.0,Data_Analyst,Entry_level
+89,        Apple,"Santa Clara Valley, CA",85000.0,Data_Analyst,Entry_level
+90,        Appnomic Systems Pvt. Ltd,"Sunnyvale, CA",85000.0,Data_Analyst,Entry_level
+91,        Paypal,"San Jose, CA",85000.0,Data_Analyst,Entry_level
+92,    JD Strategies,"San Francisco, CA",85000.0,Data_Analyst,Entry_level
+93,    Megansoft Inc,"San Ramon, CA",85000.0,Data_Analyst,Entry_level
+94,        Walmart eCommerce,"Sunnyvale, CA",85000.0,Data_Analyst,Entry_level
+95,    Selby Jennings,"San Francisco, CA",85000.0,Data_Analyst,Entry_level
+96,    MsgAI,"San Francisco, CA",85000.0,Data_Analyst,Entry_level
+97,        VMware,"Palo Alto, CA",85000.0,Data_Analyst,Entry_level
+98,        Intel,"Santa Clara, CA 95052",85000.0,Data_Analyst,Entry_level
+99,    Near,"San Francisco, CA",85000.0,Data_Analyst,Entry_level
+100,        Walmart eCommerce,"Sunnyvale, CA",85000.0,Data_Analyst,Entry_level
+101,"    Outsell, Inc.","Burlingame, CA 94010",85000.0,Data_Analyst,Entry_level
+102,    Gap Inc. Corporate,"San Francisco, CA",85000.0,Data_Analyst,Entry_level
+103,        Sandia National Laboratories,"Livermore, CA",85000.0,Data_Analyst,Entry_level
+104,        Realogy Corporate,"Emeryville, CA",85000.0,Data_Analyst,Entry_level
+0,        Paypal,"San Jose, CA",85000.0,Data_Analyst,Mid_level
+1,        intuit,"Mountain View, CA 94043",85000.0,Data_Analyst,Mid_level
+2,        Sequoia Hospital,"Redwood City, CA 94062",85000.0,Data_Analyst,Mid_level
+3,        Google,"Mountain View, CA",85000.0,Data_Analyst,Mid_level
+4,        Kaiser Permanente,"Oakland, CA",85000.0,Data_Analyst,Mid_level
+5,    Adyen,"San Francisco, CA",85000.0,Data_Analyst,Mid_level
+6,    HomeLight,"San Francisco, CA",85000.0,Data_Analyst,Mid_level
+7,    HouseCanary,"San Francisco, CA 94107 (South Of Market area)",85000.0,Data_Analyst,Mid_level
+8,        Silicon Valley Bank,"Menlo Park, CA 94025",85000.0,Data_Analyst,Mid_level
+9,        Google,"Mountain View, CA",85000.0,Data_Analyst,Mid_level
+10,        Facebook,"Menlo Park, CA",85000.0,Data_Analyst,Mid_level
+11,        Wish,"San Francisco, CA",85000.0,Data_Analyst,Mid_level
+12,        Facebook,"Menlo Park, CA",85000.0,Data_Analyst,Mid_level
+13,    Spire Systems Inc,"Mountain View, CA",85000.0,Data_Analyst,Mid_level
+14,        Apple,"Santa Clara Valley, CA",85000.0,Data_Analyst,Mid_level
+15,        MobileIron,"Mountain View, CA",85000.0,Data_Analyst,Mid_level
+16,    Informa Business Intelligence,"San Francisco, CA",85000.0,Data_Analyst,Mid_level
+17,    Sojern,"San Francisco, CA",85000.0,Data_Analyst,Mid_level
+18,        Apex Systems Inc,"Mountain View, CA",85000.0,Data_Analyst,Mid_level
+19,        Apple,"Santa Clara Valley, CA",85000.0,Data_Analyst,Mid_level
+20,    BetterWorks,"Redwood City, CA",85000.0,Data_Analyst,Mid_level
+21,        Dropbox,"San Francisco, CA",85000.0,Data_Analyst,Mid_level
+22,        Constellation Brands,"San Francisco, CA 94111 (Financial District area)",85000.0,Data_Analyst,Mid_level
+23,    Casetext,"San Francisco, CA",85000.0,Data_Analyst,Mid_level
+24,        UBM,"San Francisco, CA 94107 (South Of Market area)",85000.0,Data_Analyst,Mid_level
+25,        Instacart,"San Francisco, CA",85000.0,Data_Analyst,Mid_level
+26,"        Rodan & Fields, LLC","San Francisco, CA",85000.0,Data_Analyst,Mid_level
+27,"    Cogitativo, Inc.","Berkeley, CA 94710",85000.0,Data_Analyst,Mid_level
+28,        Big Fish,"Oakland, CA",85000.0,Data_Analyst,Mid_level
+29,    SQA Solution,"South San Francisco, CA",85000.0,Data_Analyst,Mid_level
+30,    Coinbase,"San Francisco, CA",85000.0,Data_Analyst,Mid_level
+31,        Square,"San Francisco, CA 94103 (South Of Market area)",85000.0,Data_Analyst,Mid_level
+32,        Bosch,"Palo Alto, CA",85000.0,Data_Analyst,Mid_level
+33,        HealthTap,"Palo Alto, CA",85000.0,Data_Analyst,Mid_level
+34,        Uber,"San Francisco, CA 94103 (South Of Market area)",85000.0,Data_Analyst,Mid_level
+35,    Xconic,"San Jose, CA 95131 (North Valley area)",85000.0,Data_Analyst,Mid_level
+36,        realtor.com,"Santa Clara, CA",85000.0,Data_Analyst,Mid_level
+37,        Houzz,"Palo Alto, CA 94301 (Professorville area)",85000.0,Data_Analyst,Mid_level
+38,        Adept Solutions,"San Ramon, CA",85000.0,Data_Analyst,Mid_level
+39,        Constellation Brands,"San Francisco, CA 94111 (Financial District area)",85000.0,Data_Analyst,Mid_level
+40,"        Rodan & Fields, LLC","San Francisco, CA",85000.0,Data_Analyst,Mid_level
+41,        Twitch,"San Francisco, CA",85000.0,Data_Analyst,Mid_level
+42,        Tapjoy,"San Francisco, CA 94104 (Financial District area)",85000.0,Data_Analyst,Mid_level
+43,        Wellcare,"San Jose, CA",85000.0,Data_Analyst,Mid_level
+44,        Facebook,"Menlo Park, CA",85000.0,Data_Analyst,Mid_level
+45,    BlueJeans,"Mountain View, CA",85000.0,Data_Analyst,Mid_level
+46,    Sony Interactive Entertainment PlayStation,"San Mateo, CA",85000.0,Data_Analyst,Mid_level
+47,        OpenDNS,"San Francisco, CA 94107 (South Of Market area)",85000.0,Data_Analyst,Mid_level
+48,    elastic,"Mountain View, CA",85000.0,Data_Analyst,Mid_level
+49,    CodeFights,"San Francisco, CA",85000.0,Data_Analyst,Mid_level
+50,    San Mateo County Harbor District - El Granada,"El Granada, CA 94018",85000.0,Data_Analyst,Mid_level
+51,        Google,"Mountain View, CA",85000.0,Data_Analyst,Mid_level
+52,        CSC,"San Francisco, CA",85000.0,Data_Analyst,Mid_level
+53,        Rabobank,"Santa Rosa, CA",85000.0,Data_Analyst,Mid_level
+54,        Mondo,"San Francisco, CA",85000.0,Data_Analyst,Mid_level
+55,    Fundbox,"San Francisco, CA 94104 (Financial District area)",85000.0,Data_Analyst,Mid_level
+56,        Roku,"Los Gatos, CA",85000.0,Data_Analyst,Mid_level
+57,    Method360,"San Francisco, CA 94104 (Financial District area)",85000.0,Data_Analyst,Mid_level
+58,    Leanplum,"San Francisco, CA 94103 (South Of Market area)",85000.0,Data_Analyst,Mid_level
+59,        Freedom Financial Network,"San Mateo, CA 94402 (Beresford area)",85000.0,Data_Analyst,Mid_level
+60,        Good Eggs,"San Francisco, CA",85000.0,Data_Analyst,Mid_level
+61,    Astreya,"Sunnyvale, CA",85000.0,Data_Analyst,Mid_level
+62,        Google,"Mountain View, CA",85000.0,Data_Analyst,Mid_level
+63,        Morgan Stanley,"San Francisco, CA",85000.0,Data_Analyst,Mid_level
+64,        Electronic Arts,"Redwood City, CA 94065",85000.0,Data_Analyst,Mid_level
+65,        Visa,"San Francisco, CA 94105 (Financial District area)",85000.0,Data_Analyst,Mid_level
+66,        Infogain,"Los Gatos, CA 95032",85000.0,Data_Analyst,Mid_level
+67,"    Bay Systems Consulting, Inc.","Mountain View, CA 94043",85000.0,Data_Analyst,Mid_level
+68,        Facebook,"Menlo Park, CA",85000.0,Data_Analyst,Mid_level
+69,        SurveyMonkey,"San Mateo, CA",85000.0,Data_Analyst,Mid_level
+70,    Arka,"Palo Alto, CA",85000.0,Data_Analyst,Mid_level
+71,        Zynga,"San Francisco, CA",85000.0,Data_Analyst,Mid_level
+72,        Visa,"Foster City, CA",85000.0,Data_Analyst,Mid_level
+73,        Visa,"Foster City, CA",85000.0,Data_Analyst,Mid_level
+74,        Tesla Motors,"Fremont, CA 94538 (Irvington area)",85000.0,Data_Analyst,Mid_level
+75,    Quad Analytix,"San Mateo, CA",85000.0,Data_Analyst,Mid_level
+76,        Zendesk,"San Francisco, CA 94103 (South Of Market area)",85000.0,Data_Analyst,Mid_level
+77,        Slack,"San Francisco, CA",85000.0,Data_Analyst,Mid_level
+78,        Lending Club,"San Francisco, CA 94105 (Financial District area)",85000.0,Data_Analyst,Mid_level
+79,        McKinsey & Company,"San Francisco, CA",85000.0,Data_Analyst,Mid_level
+80,    MachineZone,"Palo Alto, CA",85000.0,Data_Analyst,Mid_level
+81,        TapInfluence,"Mountain View, CA",85000.0,Data_Analyst,Mid_level
+82,        Silicon Valley Bank,"Santa Clara, CA 95054",85000.0,Data_Analyst,Mid_level
+83,    Intechriti,"San Jose, CA",85000.0,Data_Analyst,Mid_level
+84,    Change.org,"San Francisco, CA 94103 (South Of Market area)",85000.0,Data_Analyst,Mid_level
+85,        Sequoia Hospital,"Redwood City, CA 94062",85000.0,Data_Analyst,Mid_level
+86,        Kaiser Permanente,"San Francisco, CA",85000.0,Data_Analyst,Mid_level
+87,        Amazon Corporate LLC,"Sunnyvale, CA",85000.0,Data_Analyst,Mid_level
+88,        Square,"San Francisco, CA 94103 (South Of Market area)",85000.0,Data_Analyst,Mid_level
+89,        Okta,"San Francisco, CA",85000.0,Data_Analyst,Mid_level
+90,    Avispa Technology,"San Francisco, CA",85000.0,Data_Analyst,Mid_level
+91,        Federal Reserve Bank of San Francisco,"San Francisco, CA",85000.0,Data_Analyst,Mid_level
+92,        San Mateo County Transit District,"San Carlos, CA 94070",85000.0,Data_Analyst,Mid_level
+93,    thredUP,"San Francisco, CA 94104 (Financial District area)",85000.0,Data_Analyst,Mid_level
+94,        Saama Technologies Inc,"Campbell, CA 95008",85000.0,Data_Analyst,Mid_level
+95,        Latitude36 Inc,"Foster City, CA",85000.0,Data_Analyst,Mid_level
+96,"    Linc Global, Inc.","Sunnyvale, CA",85000.0,Data_Analyst,Mid_level
+97,    Claritas Rx,"South San Francisco, CA 94080",85000.0,Data_Analyst,Mid_level
+98,"    Samsung Semiconductor, Inc.","San Jose, CA",85000.0,Data_Analyst,Mid_level
+99,        Fitbit,"San Francisco, CA 94105 (Financial District area)",85000.0,Data_Analyst,Mid_level
+100,        University of California San Francisco,"San Francisco, CA",85000.0,Data_Analyst,Mid_level
+101,    Alan Biller and Associates,"Menlo Park, CA 94025",85000.0,Data_Analyst,Mid_level
+102,    Full Circle Insights,"San Mateo, CA",85000.0,Data_Analyst,Mid_level
+103,        Stanford Health Care,"Palo Alto, CA 94305",85000.0,Data_Analyst,Mid_level
+104,        Paypal,"San Jose, CA",85000.0,Data_Analyst,Mid_level
+0,        Freedom Financial Network,"San Mateo, CA 94402",85000.0,Data_Analyst,Senior_level
+1,        Genentech,"South San Francisco, CA",85000.0,Data_Analyst,Senior_level
+2,        intuit,"Mountain View, CA 94043",85000.0,Data_Analyst,Senior_level
+3,    iSoft Solutions,"San Francisco, CA",85000.0,Data_Analyst,Senior_level
+4,        Genentech,"South San Francisco, CA",85000.0,Data_Analyst,Senior_level
+5,"        Cisco Systems, Inc.","San Jose, CA",85000.0,Data_Analyst,Senior_level
+6,        Athleta,"San Francisco, CA",85000.0,Data_Analyst,Senior_level
+7,        Intuit,"Mountain View, CA 94039",85000.0,Data_Analyst,Senior_level
+8,    Nuna,"San Francisco, CA",85000.0,Data_Analyst,Senior_level
+9,        Google,"Mountain View, CA",85000.0,Data_Analyst,Senior_level
+10,    Manage,"Mountain View, CA",85000.0,Data_Analyst,Senior_level
+11,        Capital One,"San Francisco, CA",85000.0,Data_Analyst,Senior_level
+12,        RichRelevance,"San Francisco, CA 94111 (Financial District area)",85000.0,Data_Analyst,Senior_level
+13,        Intel,"Santa Clara, CA 95052",85000.0,Data_Analyst,Senior_level
+14,        Capital One,"San Francisco, CA",85000.0,Data_Analyst,Senior_level
+15,        Hired,"San Francisco, CA",85000.0,Data_Analyst,Senior_level
+16,        GE Careers,"San Ramon, CA 94583",85000.0,Data_Analyst,Senior_level
+17,        Genentech,"South San Francisco, CA",85000.0,Data_Analyst,Senior_level
+18,        University of California Office of the President,"Oakland, CA 94607 (Acorn-Acorn Industrial area)",85000.0,Data_Analyst,Senior_level
+19,        CA Technologies,"Santa Clara, CA",85000.0,Data_Analyst,Senior_level
+20,    MachineZone,"Palo Alto, CA",85000.0,Data_Analyst,Senior_level
+21,        Arthur Lawrence,"Sunnyvale, CA",85000.0,Data_Analyst,Senior_level
+22,        City & County of San Francisco,"San Francisco, CA 94124 (Bayview area)",85000.0,Data_Analyst,Senior_level
+23,        Poshmark,"Redwood City, CA",85000.0,Data_Analyst,Senior_level
+24,    Production Modeling Corporation,"San Francisco, CA",85000.0,Data_Analyst,Senior_level
+25,        Mentor Graphics,"Fremont, CA 94538 (Irvington area)",85000.0,Data_Analyst,Senior_level
+26,        Sutter Health,"San Francisco, CA",85000.0,Data_Analyst,Senior_level
+27,        Roche,"Santa Clara, CA",85000.0,Data_Analyst,Senior_level
+28,        Symantec,"Mountain View, CA",85000.0,Data_Analyst,Senior_level
+29,    Change.org,"San Francisco, CA 94103 (South Of Market area)",85000.0,Data_Analyst,Senior_level
+30,        Google,"Mountain View, CA",85000.0,Data_Analyst,Senior_level
+31,    Astreya,"Sunnyvale, CA",85000.0,Data_Analyst,Senior_level
+32,    Intellipro Group Inc.,"Mountain View, CA",85000.0,Data_Analyst,Senior_level
+33,        TEKsystems,"San Francisco, CA 94103 (South Of Market area)",85000.0,Data_Analyst,Senior_level
+34,        Workday,"Pleasanton, CA",85000.0,Data_Analyst,Senior_level
+35,        Gwynnie Bee,"Palo Alto, CA",85000.0,Data_Analyst,Senior_level
+36,        A9.com,"Palo Alto, CA",85000.0,Data_Analyst,Senior_level
+37,        eBay,"San Jose, CA",85000.0,Data_Analyst,Senior_level
+38,    Gap Inc. Corporate,"San Francisco, CA",85000.0,Data_Analyst,Senior_level
+39,        GE Careers,"San Ramon, CA 94583",85000.0,Data_Analyst,Senior_level
+40,        Bank of the West,"San Ramon, CA",85000.0,Data_Analyst,Senior_level
+41,        BNP Paribas,"San Ramon, CA",85000.0,Data_Analyst,Senior_level
+42,        Symantec,"Mountain View, CA",85000.0,Data_Analyst,Senior_level
+43,        Sephora,"San Francisco, CA 94105 (Financial District area)",85000.0,Data_Analyst,Senior_level
+44,        eBay,"San Jose, CA",85000.0,Data_Analyst,Senior_level
+45,    Box,"Redwood City, CA",85000.0,Data_Analyst,Senior_level
+46,        Corsair,"Fremont, CA",85000.0,Data_Analyst,Senior_level
+47,    Bayone Solutions Inc.,"San Francisco, CA",85000.0,Data_Analyst,Senior_level
+48,    Gap Inc. Corporate,"San Francisco, CA",85000.0,Data_Analyst,Senior_level
+49,        Fitbit,"San Francisco, CA 94105 (Financial District area)",85000.0,Data_Analyst,Senior_level
+50,        Gannett Fleming,"San Bruno, CA 94066",85000.0,Data_Analyst,Senior_level
+51,        Salesforce,"San Francisco, CA",85000.0,Data_Analyst,Senior_level
+52,    Box,"Redwood City, CA",85000.0,Data_Analyst,Senior_level
+53,        Blue Shield of California,"San Francisco, CA 94105 (Financial District area)",85000.0,Data_Analyst,Senior_level
+54,        eBay,"San Jose, CA",85000.0,Data_Analyst,Senior_level
+55,    ab star group,"San Jose, CA",85000.0,Data_Analyst,Senior_level
+56,    addastaff,"San Francisco, CA",85000.0,Data_Analyst,Senior_level
+57,        Kaiser Permanente,"San Jose, CA",85000.0,Data_Analyst,Senior_level
+58,        Thomson Reuters,"San Francisco, CA",85000.0,Data_Analyst,Senior_level
+59,        ZS Associates,"San Mateo, CA 94402 (Beresford area)",85000.0,Data_Analyst,Senior_level
+60,        Dolby,"San Francisco, CA",85000.0,Data_Analyst,Senior_level
+61,"        Cisco Systems, Inc.","Santa Clara, CA",85000.0,Data_Analyst,Senior_level
+62,        Google,"Mountain View, CA",85000.0,Data_Analyst,Senior_level
+63,    Credit Karma,"San Francisco, CA",85000.0,Data_Analyst,Senior_level
+64,        CSI Consulting,"San Jose, CA",85000.0,Data_Analyst,Senior_level
+65,    Adroit Resources Inc,"Fremont, CA 94539 (Cameron Hills area)",85000.0,Data_Analyst,Senior_level
+66,    AllianceIT,"San Ramon, CA",85000.0,Data_Analyst,Senior_level
+67,        Symantec,"Mountain View, CA",85000.0,Data_Analyst,Senior_level
+68,        Proofpoint,"Sunnyvale, CA 94089",85000.0,Data_Analyst,Senior_level
+69,        GE Careers,"San Ramon, CA 94583",85000.0,Data_Analyst,Senior_level
+70,        TEKsystems,"San Francisco, CA 94103 (South Of Market area)",85000.0,Data_Analyst,Senior_level
+71,    Sony Interactive Entertainment PlayStation,"San Mateo, CA",85000.0,Data_Analyst,Senior_level
+72,    Quantifind,"Menlo Park, CA",85000.0,Data_Analyst,Senior_level
+73,        Silicon Valley Bank,"Santa Clara, CA 95054",85000.0,Data_Analyst,Senior_level
+74,        Uber,"Palo Alto, CA 94304",85000.0,Data_Analyst,Senior_level
+75,        Dolby,"San Francisco, CA",85000.0,Data_Analyst,Senior_level
+76,        Wells Fargo,"San Francisco, CA",85000.0,Data_Analyst,Senior_level
+77,        Visa,"Foster City, CA",85000.0,Data_Analyst,Senior_level
+78,        MINDTREE,"San Francisco, CA",85000.0,Data_Analyst,Senior_level
+79,        TrialPay,"Mountain View, CA",85000.0,Data_Analyst,Senior_level
+80,        Paypal,"San Jose, CA",85000.0,Data_Analyst,Senior_level
+81,"    InfoVision, Inc.","San Jose, CA",85000.0,Data_Analyst,Senior_level
+82,    Elevate Recruiting Group,"Palo Alto, CA",85000.0,Data_Analyst,Senior_level
+83,        Tesla Motors,"Newark, CA",85000.0,Data_Analyst,Senior_level
+84,        Plex,"Pleasanton, CA",85000.0,Data_Analyst,Senior_level
+85,        Dell,"Santa Clara, CA",85000.0,Data_Analyst,Senior_level
+86,        Demandbase,"San Francisco, CA",85000.0,Data_Analyst,Senior_level
+87,    RideCell,"San Francisco, CA 94103 (South Of Market area)",85000.0,Data_Analyst,Senior_level
+88,        Workbridge Associates,"San Francisco, CA 94105 (Financial District area)",85000.0,Data_Analyst,Senior_level
+89,        Trulia,"San Francisco, CA",85000.0,Data_Analyst,Senior_level
+90,        Chegg,"San Francisco, CA",85000.0,Data_Analyst,Senior_level
+91,        Netflix,"Los Gatos, CA",85000.0,Data_Analyst,Senior_level
+92,        Apple,"Santa Clara Valley, CA",85000.0,Data_Analyst,Senior_level
+93,    Medallia Inc,"Palo Alto, CA 94306 (Barron Park area)",85000.0,Data_Analyst,Senior_level
+94,        SAP,"San Francisco, CA",85000.0,Data_Analyst,Senior_level
+95,        Clorox,"Oakland, CA 94612 (Northgate area)",85000.0,Data_Analyst,Senior_level
+96,        Intel,"San Jose, CA 95125 (Willow Glen area)",85000.0,Data_Analyst,Senior_level
+97,        Apple,"Santa Clara Valley, CA",85000.0,Data_Analyst,Senior_level
+98,        University of California San Francisco Medical Cen...,"San Francisco, CA",85000.0,Data_Analyst,Senior_level
+99,    Arka,"San Francisco, CA",85000.0,Data_Analyst,Senior_level
+100,        Adobe,"San Jose, CA",85000.0,Data_Analyst,Senior_level
+101,"    Solutionary, Inc.","East Palo Alto, CA",85000.0,Data_Analyst,Senior_level
+102,        EY,"San Francisco, CA",85000.0,Data_Analyst,Senior_level
+103,        Kforce,"Oakland, CA 94612",85000.0,Data_Analyst,Senior_level
+104,        Stanford Health Care,"Palo Alto, CA 94305",85000.0,Data_Analyst,Senior_level
+0,        Freedom Financial Network,"San Mateo, CA 94402",100000.0,Data_Analyst,Entry_level
+1,    Predictive Science,United States,100000.0,Data_Analyst,Entry_level
+2,        eBay,"San Jose, CA",100000.0,Data_Analyst,Entry_level
+3,        Slack,"San Francisco, CA",100000.0,Data_Analyst,Entry_level
+4,    Clover Health,"San Francisco, CA",100000.0,Data_Analyst,Entry_level
+5,        Jawbone,"San Francisco, CA",100000.0,Data_Analyst,Entry_level
+6,        Uber,"San Francisco, CA 94105 (Financial District area)",100000.0,Data_Analyst,Entry_level
+7,    Corporate Labs Technology,"Brisbane, CA",100000.0,Data_Analyst,Entry_level
+8,        Earnest,"San Francisco, CA 94110 (Mission area)",100000.0,Data_Analyst,Entry_level
+9,        Facebook,"Menlo Park, CA",100000.0,Data_Analyst,Entry_level
+10,        Visa,"Foster City, CA",100000.0,Data_Analyst,Entry_level
+11,    LendUp,"San Francisco, CA",100000.0,Data_Analyst,Entry_level
+12,    Affirm,"San Francisco, CA 94126 (Financial District area)",100000.0,Data_Analyst,Entry_level
+13,        Apple,"San Francisco, CA 94114 (Castro-Upper Market area)",100000.0,Data_Analyst,Entry_level
+14,    LendUp,"San Francisco, CA",100000.0,Data_Analyst,Entry_level
+15,        TARGET,"Sunnyvale, CA 94086",100000.0,Data_Analyst,Entry_level
+16,        Adept Solutions,"Menlo Park, CA",100000.0,Data_Analyst,Entry_level
+17,        RichRelevance,"San Francisco, CA 94111 (Financial District area)",100000.0,Data_Analyst,Entry_level
+18,    Corporate Labs Technology,"Brisbane, CA",100000.0,Data_Analyst,Entry_level
+19,        Teespring,"San Francisco, CA",100000.0,Data_Analyst,Entry_level
+20,        Visa,"San Francisco, CA 94105 (Financial District area)",100000.0,Data_Analyst,Entry_level
+21,    Slice Technologies & Unroll.me,"San Mateo, CA",100000.0,Data_Analyst,Entry_level
+22,        Google,"Mountain View, CA",100000.0,Data_Analyst,Entry_level
+23,        Behavioral Health Services,"Santa Clara, CA",100000.0,Data_Analyst,Entry_level
+24,        MedeAnalytics,"Emeryville, CA",100000.0,Data_Analyst,Entry_level
+25,        Galvanize,"San Francisco, CA",100000.0,Data_Analyst,Entry_level
+26,        University of California San Francisco,"San Francisco, CA",100000.0,Data_Analyst,Entry_level
+27,        Freedom Financial Network,"San Mateo, CA 94402 (Beresford area)",100000.0,Data_Analyst,Entry_level
+28,        Google,"Mountain View, CA",100000.0,Data_Analyst,Entry_level
+29,    LendingHome,"San Francisco, CA",100000.0,Data_Analyst,Entry_level
+30,    Khan Academy,"Mountain View, CA",100000.0,Data_Analyst,Entry_level
+31,"        Cisco Systems, Inc.","San Jose, CA",100000.0,Data_Analyst,Entry_level
+32,    Farmers Business Network,"San Carlos, CA 94070",100000.0,Data_Analyst,Entry_level
+33,        Salesforce,"Palo Alto, CA",100000.0,Data_Analyst,Entry_level
+34,        Visa,"Foster City, CA",100000.0,Data_Analyst,Entry_level
+35,        Intel,"Santa Clara, CA 95052",100000.0,Data_Analyst,Entry_level
+36,    Rally Health,"San Francisco, CA",100000.0,Data_Analyst,Entry_level
+37,"    Egnyte, Inc.","Mountain View, CA 94043",100000.0,Data_Analyst,Entry_level
+38,        Workbridge Associates,"San Francisco, CA 94105 (Financial District area)",100000.0,Data_Analyst,Entry_level
+39,        Thumbtack,"San Francisco, CA",100000.0,Data_Analyst,Entry_level
+40,"    City of Santa Clara, CA","Santa Clara, CA 95050",100000.0,Data_Analyst,Entry_level
+41,    LendUp,"San Francisco, CA",100000.0,Data_Analyst,Entry_level
+42,        Apple,"Santa Clara Valley, CA",100000.0,Data_Analyst,Entry_level
+43,    Ingenico ePayments,"San Francisco, CA",100000.0,Data_Analyst,Entry_level
+44,        Salesforce,"San Francisco, CA",100000.0,Data_Analyst,Entry_level
+45,        Apple,"Santa Clara Valley, CA",100000.0,Data_Analyst,Entry_level
+46,        SGT,"Moffett Field, CA",100000.0,Data_Analyst,Entry_level
+47,        Apple,"Santa Clara Valley, CA",100000.0,Data_Analyst,Entry_level
+48,    3MKLLC,"Sunnyvale, CA",100000.0,Data_Analyst,Entry_level
+49,    Stride Search,"San Francisco, CA",100000.0,Data_Analyst,Entry_level
+50,        eBay,"San Jose, CA",100000.0,Data_Analyst,Entry_level
+51,        Rambus,"Sunnyvale, CA 94089",100000.0,Data_Analyst,Entry_level
+52,    iRhythm,"San Francisco, CA",100000.0,Data_Analyst,Entry_level
+53,        eBay,"San Jose, CA",100000.0,Data_Analyst,Entry_level
+54,"    Grammarly, Inc.","San Francisco, CA",100000.0,Data_Analyst,Entry_level
+55,        Apple,"Santa Clara Valley, CA",100000.0,Data_Analyst,Entry_level
+56,    Megansoft Inc,"San Ramon, CA",100000.0,Data_Analyst,Entry_level
+57,        Walmart eCommerce,"Sunnyvale, CA",100000.0,Data_Analyst,Entry_level
+58,    Selby Jennings,"San Francisco, CA",100000.0,Data_Analyst,Entry_level
+59,    MsgAI,"San Francisco, CA",100000.0,Data_Analyst,Entry_level
+60,        Intel,"Santa Clara, CA 95052",100000.0,Data_Analyst,Entry_level
+61,    Near,"San Francisco, CA",100000.0,Data_Analyst,Entry_level
+62,        GE Careers,"San Ramon, CA 94583",100000.0,Data_Analyst,Entry_level
+63,        Walmart eCommerce,"Sunnyvale, CA",100000.0,Data_Analyst,Entry_level
+64,    Gap Inc. Corporate,"San Francisco, CA",100000.0,Data_Analyst,Entry_level
+65,        Telenav,"Santa Clara, CA",100000.0,Data_Analyst,Entry_level
+66,    Slice Technologies & Unroll.me,"San Mateo, CA",100000.0,Data_Analyst,Entry_level
+67,        Apple,"Santa Clara Valley, CA",100000.0,Data_Analyst,Entry_level
+68,        Jobspring Partners,"San Jose, CA 95113 (Downtown area)",100000.0,Data_Analyst,Entry_level
+69,        Houzz,"Palo Alto, CA 94301 (Professorville area)",100000.0,Data_Analyst,Entry_level
+70,        Uber,"San Francisco, CA 94103 (South Of Market area)",100000.0,Data_Analyst,Entry_level
+71,        Federal Reserve Bank of San Francisco,"San Francisco, CA",100000.0,Data_Analyst,Entry_level
+72,        Criteo,"Palo Alto, CA 94301 (Professorville area)",100000.0,Data_Analyst,Entry_level
+73,        Magento,"Campbell, CA",100000.0,Data_Analyst,Entry_level
+74,"        DUFF AND PHELPS, LLC","San Francisco, CA 94104 (Financial District area)",100000.0,Data_Analyst,Entry_level
+75,    Elevate Recruiting Group,"San Francisco, CA",100000.0,Data_Analyst,Entry_level
+76,        Dropbox,"San Francisco, CA",100000.0,Data_Analyst,Entry_level
+77,        Walmart eCommerce,"San Bruno, CA 94066",100000.0,Data_Analyst,Entry_level
+78,    Spacequant,"San Francisco, CA",100000.0,Data_Analyst,Entry_level
+79,    Stride Search,"San Francisco, CA",100000.0,Data_Analyst,Entry_level
+80,    Color Genomics,"Burlingame, CA",100000.0,Data_Analyst,Entry_level
+81,        Paypal,"San Jose, CA",100000.0,Data_Analyst,Entry_level
+82,    NAI Northern California,"San Francisco, CA",100000.0,Data_Analyst,Entry_level
+83,        Apple,"Santa Clara Valley, CA",100000.0,Data_Analyst,Entry_level
+84,        MedeAnalytics,"Emeryville, CA",100000.0,Data_Analyst,Entry_level
+85,    Nistala Technologies Inc.,"San Francisco, CA",100000.0,Data_Analyst,Entry_level
+86,        LumenData,"Santa Clara, CA 95054",100000.0,Data_Analyst,Entry_level
+87,"        Hitachi America, Ltd.","Santa Clara, CA 95054",100000.0,Data_Analyst,Entry_level
+88,        City of Redwood City,"Redwood City, CA 94063",100000.0,Data_Analyst,Entry_level
+89,"    Kanjoya, Inc.","San Francisco, CA",100000.0,Data_Analyst,Entry_level
+90,        Practice Fusion,"San Francisco, CA 94102 (Downtown area)",100000.0,Data_Analyst,Entry_level
+91,    Selby Jennings,"San Francisco, CA",100000.0,Data_Analyst,Entry_level
+92,        Walmart eCommerce,"San Bruno, CA 94066",100000.0,Data_Analyst,Entry_level
+93,        Opendoor,"San Francisco, CA",100000.0,Data_Analyst,Entry_level
+94,    Walker and Company,"Palo Alto, CA",100000.0,Data_Analyst,Entry_level
+95,"        Cisco Systems, Inc.","San Jose, CA",100000.0,Data_Analyst,Entry_level
+96,        Workbridge Associates,"San Francisco, CA 94105 (Financial District area)",100000.0,Data_Analyst,Entry_level
+97,        Dell,"Santa Clara, CA",100000.0,Data_Analyst,Entry_level
+98,        HTC,"San Francisco, CA",100000.0,Data_Analyst,Entry_level
+99,        Workbridge Associates,"San Francisco, CA",100000.0,Data_Analyst,Entry_level
+100,    HomeSuite,"San Francisco, CA",100000.0,Data_Analyst,Entry_level
+101,        Galvanize,"San Francisco, CA",100000.0,Data_Analyst,Entry_level
+102,    Quora,"Mountain View, CA",100000.0,Data_Analyst,Entry_level
+103,        SGT,"Moffett Field, CA",100000.0,Data_Analyst,Entry_level
+104,        Paypal,"San Jose, CA",100000.0,Data_Analyst,Entry_level
+0,        intuit,"Mountain View, CA 94043",100000.0,Data_Analyst,Mid_level
+1,"    Cogitativo, Inc.","Berkeley, CA 94710",100000.0,Data_Analyst,Mid_level
+2,        Brighterion,"San Francisco, CA 94105",100000.0,Data_Analyst,Mid_level
+3,        Google,"Mountain View, CA",100000.0,Data_Analyst,Mid_level
+4,        Silicon Valley Bank,"Menlo Park, CA 94025",100000.0,Data_Analyst,Mid_level
+5,        Google,"Mountain View, CA",100000.0,Data_Analyst,Mid_level
+6,        Facebook,"Menlo Park, CA",100000.0,Data_Analyst,Mid_level
+7,        Wish,"San Francisco, CA",100000.0,Data_Analyst,Mid_level
+8,    HomeLight,"San Francisco, CA",100000.0,Data_Analyst,Mid_level
+9,        Apple,"Santa Clara Valley, CA",100000.0,Data_Analyst,Mid_level
+10,    Sojern,"San Francisco, CA",100000.0,Data_Analyst,Mid_level
+11,    Informa Business Intelligence,"San Francisco, CA",100000.0,Data_Analyst,Mid_level
+12,        Apex Systems Inc,"Mountain View, CA",100000.0,Data_Analyst,Mid_level
+13,        Dropbox,"San Francisco, CA",100000.0,Data_Analyst,Mid_level
+14,        Constellation Brands,"San Francisco, CA 94111 (Financial District area)",100000.0,Data_Analyst,Mid_level
+15,    Casetext,"San Francisco, CA",100000.0,Data_Analyst,Mid_level
+16,        Instacart,"San Francisco, CA",100000.0,Data_Analyst,Mid_level
+17,"        Rodan & Fields, LLC","San Francisco, CA",100000.0,Data_Analyst,Mid_level
+18,"    Cogitativo, Inc.","Berkeley, CA 94710",100000.0,Data_Analyst,Mid_level
+19,        Big Fish,"Oakland, CA",100000.0,Data_Analyst,Mid_level
+20,    BlueJeans,"Mountain View, CA",100000.0,Data_Analyst,Mid_level
+21,    elastic,"Mountain View, CA",100000.0,Data_Analyst,Mid_level
+22,        Constellation Brands,"San Francisco, CA 94111 (Financial District area)",100000.0,Data_Analyst,Mid_level
+23,        Bosch,"Palo Alto, CA",100000.0,Data_Analyst,Mid_level
+24,        Uber,"San Francisco, CA 94103 (South Of Market area)",100000.0,Data_Analyst,Mid_level
+25,        HealthTap,"Palo Alto, CA",100000.0,Data_Analyst,Mid_level
+26,        Twitch,"San Francisco, CA",100000.0,Data_Analyst,Mid_level
+27,        realtor.com,"Santa Clara, CA",100000.0,Data_Analyst,Mid_level
+28,        Tapjoy,"San Francisco, CA 94104 (Financial District area)",100000.0,Data_Analyst,Mid_level
+29,    CodeFights,"San Francisco, CA",100000.0,Data_Analyst,Mid_level
+30,    Xconic,"San Jose, CA 95131 (North Valley area)",100000.0,Data_Analyst,Mid_level
+31,        Good Eggs,"San Francisco, CA",100000.0,Data_Analyst,Mid_level
+32,        Mondo,"San Francisco, CA",100000.0,Data_Analyst,Mid_level
+33,    Fundbox,"San Francisco, CA 94104 (Financial District area)",100000.0,Data_Analyst,Mid_level
+34,        Visa,"San Francisco, CA 94105 (Financial District area)",100000.0,Data_Analyst,Mid_level
+35,    Sony Interactive Entertainment PlayStation,"San Mateo, CA",100000.0,Data_Analyst,Mid_level
+36,        Lending Club,"San Francisco, CA 94105 (Financial District area)",100000.0,Data_Analyst,Mid_level
+37,        Google,"Mountain View, CA",100000.0,Data_Analyst,Mid_level
+38,    Arka,"Palo Alto, CA",100000.0,Data_Analyst,Mid_level
+39,"    Bay Systems Consulting, Inc.","Mountain View, CA 94043",100000.0,Data_Analyst,Mid_level
+40,        Amazon Corporate LLC,"Sunnyvale, CA",100000.0,Data_Analyst,Mid_level
+41,        Facebook,"Menlo Park, CA",100000.0,Data_Analyst,Mid_level
+42,        Zynga,"San Francisco, CA",100000.0,Data_Analyst,Mid_level
+43,        Okta,"San Francisco, CA",100000.0,Data_Analyst,Mid_level
+44,        Electronic Arts,"Redwood City, CA 94065",100000.0,Data_Analyst,Mid_level
+45,        TapInfluence,"Mountain View, CA",100000.0,Data_Analyst,Mid_level
+46,    MachineZone,"Palo Alto, CA",100000.0,Data_Analyst,Mid_level
+47,        Slack,"San Francisco, CA",100000.0,Data_Analyst,Mid_level
+48,    Change.org,"San Francisco, CA 94103 (South Of Market area)",100000.0,Data_Analyst,Mid_level
+49,        SurveyMonkey,"San Mateo, CA",100000.0,Data_Analyst,Mid_level
+50,    thredUP,"San Francisco, CA 94104 (Financial District area)",100000.0,Data_Analyst,Mid_level
+51,    Alan Biller and Associates,"Menlo Park, CA 94025",100000.0,Data_Analyst,Mid_level
+52,"    Linc Global, Inc.","Sunnyvale, CA",100000.0,Data_Analyst,Mid_level
+53,        Federal Reserve Bank of San Francisco,"San Francisco, CA",100000.0,Data_Analyst,Mid_level
+54,    Full Circle Insights,"San Mateo, CA",100000.0,Data_Analyst,Mid_level
+55,    Quad Analytix,"San Mateo, CA",100000.0,Data_Analyst,Mid_level
+56,        Dropbox,"San Francisco, CA",100000.0,Data_Analyst,Mid_level
+57,    DroneDeploy,"San Francisco, CA",100000.0,Data_Analyst,Mid_level
+58,"    Samsung Semiconductor, Inc.","San Jose, CA",100000.0,Data_Analyst,Mid_level
+59,    Intechriti,"San Jose, CA",100000.0,Data_Analyst,Mid_level
+60,        Fitbit,"San Francisco, CA 94105 (Financial District area)",100000.0,Data_Analyst,Mid_level
+61,        Uber,"San Francisco, CA 94103 (South Of Market area)",100000.0,Data_Analyst,Mid_level
+62,    6sense,"San Francisco, CA",100000.0,Data_Analyst,Mid_level
+63,        Workbridge Associates,"San Francisco, CA 94105 (Financial District area)",100000.0,Data_Analyst,Mid_level
+64,    PNI Sensor Corp,"Santa Rosa, CA 95407",100000.0,Data_Analyst,Mid_level
+65,        Gwynnie Bee,"Palo Alto, CA",100000.0,Data_Analyst,Mid_level
+66,        Salesforce,"San Francisco, CA",100000.0,Data_Analyst,Mid_level
+67,    Paragon,"Mountain View, CA",100000.0,Data_Analyst,Mid_level
+68,        Lending Club,"San Francisco, CA 94105 (Financial District area)",100000.0,Data_Analyst,Mid_level
+69,    Verus Investments,"San Francisco, CA",100000.0,Data_Analyst,Mid_level
+70,        AdRoll,"San Francisco, CA 94103 (South Of Market area)",100000.0,Data_Analyst,Mid_level
+71,        AgilOne,"San Francisco, CA",100000.0,Data_Analyst,Mid_level
+72,        Genentech,"South San Francisco, CA",100000.0,Data_Analyst,Mid_level
+73,    Prezi,"San Francisco, CA 94111 (Financial District area)",100000.0,Data_Analyst,Mid_level
+74,    Oscar Technology,"San Mateo, CA",100000.0,Data_Analyst,Mid_level
+75,    Reputation.com,"Redwood City, CA 94063",100000.0,Data_Analyst,Mid_level
+76,        OpenDNS,"San Francisco, CA 94107 (South Of Market area)",100000.0,Data_Analyst,Mid_level
+77,    Castlight Health,"San Francisco, CA 94105 (Financial District area)",100000.0,Data_Analyst,Mid_level
+78,        Weight Watchers International,"San Francisco, CA",100000.0,Data_Analyst,Mid_level
+79,        EY,"San Francisco, CA",100000.0,Data_Analyst,Mid_level
+80,        Microsoft,"Palo Alto, CA",100000.0,Data_Analyst,Mid_level
+81,        Walmart eCommerce,"Sunnyvale, CA",100000.0,Data_Analyst,Mid_level
+82,        The Climate Corporation,"San Francisco, CA",100000.0,Data_Analyst,Mid_level
+83,        Apple,"Santa Clara Valley, CA",100000.0,Data_Analyst,Mid_level
+84,"        Move, Inc.","Santa Clara, CA",100000.0,Data_Analyst,Mid_level
+85,        Intuit,"Mountain View, CA 94039",100000.0,Data_Analyst,Mid_level
+86,        Facebook,"Menlo Park, CA",100000.0,Data_Analyst,Mid_level
+87,        Workday,"Pleasanton, CA",100000.0,Data_Analyst,Mid_level
+88,    Veear Projects,"Redwood City, CA",100000.0,Data_Analyst,Mid_level
+89,        Tesla Motors,"Palo Alto, CA",100000.0,Data_Analyst,Mid_level
+90,        Talkdesk,"San Francisco, CA",100000.0,Data_Analyst,Mid_level
+91,        Supercell,"San Francisco, CA 94104 (Financial District area)",100000.0,Data_Analyst,Mid_level
+92,    Samba TV,"San Francisco, CA",100000.0,Data_Analyst,Mid_level
+93,        Apple,"Santa Clara Valley, CA",100000.0,Data_Analyst,Mid_level
+94,    Weebly,"San Francisco, CA",100000.0,Data_Analyst,Mid_level
+95,        Paypal,"San Jose, CA",100000.0,Data_Analyst,Mid_level
+96,"    Logyx, LLC","Mountain View, CA 94043",100000.0,Data_Analyst,Mid_level
+97,        eBay,"San Jose, CA",100000.0,Data_Analyst,Mid_level
+98,        Apple,"Santa Clara Valley, CA",100000.0,Data_Analyst,Mid_level
+99,        Walmart eCommerce,"Sunnyvale, CA",100000.0,Data_Analyst,Mid_level
+100,    Second Genome,"South San Francisco, CA 94080",100000.0,Data_Analyst,Mid_level
+101,    Treselle Software,"Campbell, CA",100000.0,Data_Analyst,Mid_level
+102,        Telmate,"San Francisco, CA",100000.0,Data_Analyst,Mid_level
+103,        Big Fish,"Oakland, CA",100000.0,Data_Analyst,Mid_level
+104,        Google,"Mountain View, CA",100000.0,Data_Analyst,Mid_level
+0,        Freedom Financial Network,"San Mateo, CA 94402",100000.0,Data_Analyst,Senior_level
+1,        Genentech,"South San Francisco, CA",100000.0,Data_Analyst,Senior_level
+2,        ServiceNow,"San Francisco, CA",100000.0,Data_Analyst,Senior_level
+3,    iSoft Solutions,"San Francisco, CA",100000.0,Data_Analyst,Senior_level
+4,"        Cisco Systems, Inc.","San Jose, CA",100000.0,Data_Analyst,Senior_level
+5,        Symantec,"Mountain View, CA",100000.0,Data_Analyst,Senior_level
+6,        Intuit,"Mountain View, CA 94039",100000.0,Data_Analyst,Senior_level
+7,    Nuna,"San Francisco, CA",100000.0,Data_Analyst,Senior_level
+8,        Fitbit,"San Francisco, CA 94105 (Financial District area)",100000.0,Data_Analyst,Senior_level
+9,        Google,"Mountain View, CA",100000.0,Data_Analyst,Senior_level
+10,        Capital One,"San Francisco, CA",100000.0,Data_Analyst,Senior_level
+11,        Dolby,"San Francisco, CA",100000.0,Data_Analyst,Senior_level
+12,        RichRelevance,"San Francisco, CA 94111 (Financial District area)",100000.0,Data_Analyst,Senior_level
+13,"        Cisco Systems, Inc.","Santa Clara, CA",100000.0,Data_Analyst,Senior_level
+14,        Intel,"Santa Clara, CA 95052",100000.0,Data_Analyst,Senior_level
+15,        Capital One,"San Francisco, CA",100000.0,Data_Analyst,Senior_level
+16,        Hired,"San Francisco, CA",100000.0,Data_Analyst,Senior_level
+17,        Genentech,"South San Francisco, CA",100000.0,Data_Analyst,Senior_level
+18,        GE Careers,"San Ramon, CA 94583",100000.0,Data_Analyst,Senior_level
+19,"    InfoVision, Inc.","San Jose, CA",100000.0,Data_Analyst,Senior_level
+20,        Apple,"Santa Clara Valley, CA",100000.0,Data_Analyst,Senior_level
+21,        City & County of San Francisco,"San Francisco, CA 94124 (Bayview area)",100000.0,Data_Analyst,Senior_level
+22,    Arka,"San Francisco, CA",100000.0,Data_Analyst,Senior_level
+23,    MachineZone,"Palo Alto, CA",100000.0,Data_Analyst,Senior_level
+24,    Production Modeling Corporation,"San Francisco, CA",100000.0,Data_Analyst,Senior_level
+25,        Mentor Graphics,"Fremont, CA 94538 (Irvington area)",100000.0,Data_Analyst,Senior_level
+26,        Genentech,"South San Francisco, CA",100000.0,Data_Analyst,Senior_level
+27,        Google,"Mountain View, CA",100000.0,Data_Analyst,Senior_level
+28,    Astreya,"Sunnyvale, CA",100000.0,Data_Analyst,Senior_level
+29,        Fitbit,"San Francisco, CA 94105 (Financial District area)",100000.0,Data_Analyst,Senior_level
+30,    Change.org,"San Francisco, CA 94103 (South Of Market area)",100000.0,Data_Analyst,Senior_level
+31,"        Move, Inc.","Santa Clara, CA",100000.0,Data_Analyst,Senior_level
+32,    Intellipro Group Inc.,"Mountain View, CA",100000.0,Data_Analyst,Senior_level
+33,        TEKsystems,"San Francisco, CA 94103 (South Of Market area)",100000.0,Data_Analyst,Senior_level
+34,    LeanTaaS,"Santa Clara, CA",100000.0,Data_Analyst,Senior_level
+35,        Workday,"Pleasanton, CA",100000.0,Data_Analyst,Senior_level
+36,        Gwynnie Bee,"Palo Alto, CA",100000.0,Data_Analyst,Senior_level
+37,        Salesforce,"San Francisco, CA",100000.0,Data_Analyst,Senior_level
+38,        eBay,"San Jose, CA",100000.0,Data_Analyst,Senior_level
+39,        GE Careers,"San Ramon, CA 94583",100000.0,Data_Analyst,Senior_level
+40,        Bank of the West,"San Ramon, CA",100000.0,Data_Analyst,Senior_level
+41,        BNP Paribas,"San Ramon, CA",100000.0,Data_Analyst,Senior_level
+42,    Gap Inc. Corporate,"San Francisco, CA",100000.0,Data_Analyst,Senior_level
+43,        eBay,"San Jose, CA",100000.0,Data_Analyst,Senior_level
+44,        Sephora,"San Francisco, CA 94105 (Financial District area)",100000.0,Data_Analyst,Senior_level
+45,        Corsair,"Fremont, CA",100000.0,Data_Analyst,Senior_level
+46,    Bayone Solutions Inc.,"San Francisco, CA",100000.0,Data_Analyst,Senior_level
+47,    Gap Inc. Corporate,"San Francisco, CA",100000.0,Data_Analyst,Senior_level
+48,        SanDisk,"Milpitas, CA",100000.0,Data_Analyst,Senior_level
+49,        Blue Shield of California,"San Francisco, CA 94105 (Financial District area)",100000.0,Data_Analyst,Senior_level
+50,        Samsung Electronics America,"Mountain View, CA",100000.0,Data_Analyst,Senior_level
+51,    ab star group,"San Jose, CA",100000.0,Data_Analyst,Senior_level
+52,    addastaff,"San Francisco, CA",100000.0,Data_Analyst,Senior_level
+53,        eBay,"San Jose, CA",100000.0,Data_Analyst,Senior_level
+54,        Square,"San Francisco, CA 94103 (South Of Market area)",100000.0,Data_Analyst,Senior_level
+55,    BOLD,"San Francisco, CA",100000.0,Data_Analyst,Senior_level
+56,        ZS Associates,"San Mateo, CA 94402 (Beresford area)",100000.0,Data_Analyst,Senior_level
+57,    Sigmaways,"Palo Alto, CA",100000.0,Data_Analyst,Senior_level
+58,        Google,"Mountain View, CA",100000.0,Data_Analyst,Senior_level
+59,        YuMe,"Redwood City, CA 94063",100000.0,Data_Analyst,Senior_level
+60,    Credit Karma,"San Francisco, CA",100000.0,Data_Analyst,Senior_level
+61,        CSI Consulting,"San Jose, CA",100000.0,Data_Analyst,Senior_level
+62,    Adroit Resources Inc,"Fremont, CA 94539 (Cameron Hills area)",100000.0,Data_Analyst,Senior_level
+63,        Coupang,"Palo Alto, CA",100000.0,Data_Analyst,Senior_level
+64,        Symantec,"Mountain View, CA",100000.0,Data_Analyst,Senior_level
+65,        Proofpoint,"Sunnyvale, CA 94089",100000.0,Data_Analyst,Senior_level
+66,        GE Careers,"San Ramon, CA 94583",100000.0,Data_Analyst,Senior_level
+67,        TEKsystems,"San Francisco, CA 94103 (South Of Market area)",100000.0,Data_Analyst,Senior_level
+68,        Symantec,"Mountain View, CA",100000.0,Data_Analyst,Senior_level
+69,    Sony Interactive Entertainment PlayStation,"San Mateo, CA",100000.0,Data_Analyst,Senior_level
+70,        Silicon Valley Bank,"Santa Clara, CA 95054",100000.0,Data_Analyst,Senior_level
+71,        Uber,"Palo Alto, CA 94304",100000.0,Data_Analyst,Senior_level
+72,        Dolby,"San Francisco, CA",100000.0,Data_Analyst,Senior_level
+73,    Quantifind,"Menlo Park, CA",100000.0,Data_Analyst,Senior_level
+74,        MINDTREE,"San Francisco, CA",100000.0,Data_Analyst,Senior_level
+75,    Veear Projects,"Palo Alto, CA",100000.0,Data_Analyst,Senior_level
+76,        Paypal,"San Jose, CA",100000.0,Data_Analyst,Senior_level
+77,    Elevate Recruiting Group,"Palo Alto, CA",100000.0,Data_Analyst,Senior_level
+78,        Plex,"Pleasanton, CA",100000.0,Data_Analyst,Senior_level
+79,        Dell,"Santa Clara, CA",100000.0,Data_Analyst,Senior_level
+80,        TrialPay,"Mountain View, CA",100000.0,Data_Analyst,Senior_level
+81,    RideCell,"San Francisco, CA 94103 (South Of Market area)",100000.0,Data_Analyst,Senior_level
+82,        Demandbase,"San Francisco, CA",100000.0,Data_Analyst,Senior_level
+83,        Workbridge Associates,"San Francisco, CA 94105 (Financial District area)",100000.0,Data_Analyst,Senior_level
+84,        Chegg,"San Francisco, CA",100000.0,Data_Analyst,Senior_level
+85,        Clorox,"Oakland, CA 94612 (Northgate area)",100000.0,Data_Analyst,Senior_level
+86,        Apple,"Santa Clara Valley, CA",100000.0,Data_Analyst,Senior_level
+87,        University of California San Francisco Medical Cen...,"San Francisco, CA",100000.0,Data_Analyst,Senior_level
+88,        Netflix,"Los Gatos, CA",100000.0,Data_Analyst,Senior_level
+89,        SAP,"San Francisco, CA",100000.0,Data_Analyst,Senior_level
+90,        Adobe,"San Jose, CA",100000.0,Data_Analyst,Senior_level
+91,    Apartment List,"San Francisco, CA",100000.0,Data_Analyst,Senior_level
+92,"    Solutionary, Inc.","East Palo Alto, CA",100000.0,Data_Analyst,Senior_level
+93,        Capgemini,"South San Francisco, CA",100000.0,Data_Analyst,Senior_level
+94,        Peet's Coffee & Tea,"Emeryville, CA 94608",100000.0,Data_Analyst,Senior_level
+95,        Vivo,"San Francisco, CA 94123 (Marina area)",100000.0,Data_Analyst,Senior_level
+96,        Blue Shield of California,"San Francisco, CA 94105 (Financial District area)",100000.0,Data_Analyst,Senior_level
+97,        Zendesk,"San Francisco, CA 94103 (South Of Market area)",100000.0,Data_Analyst,Senior_level
+98,        IMVU,"Redwood City, CA",100000.0,Data_Analyst,Senior_level
+99,    Gap Inc. Corporate,"San Francisco, CA",100000.0,Data_Analyst,Senior_level
+100,        Visa,"Foster City, CA",100000.0,Data_Analyst,Senior_level
+101,        Verifone,"San Jose, CA",100000.0,Data_Analyst,Senior_level
+102,        First Republic Bank,"San Francisco, CA",100000.0,Data_Analyst,Senior_level
+103,        intuit,"Mountain View, CA 94043",100000.0,Data_Analyst,Senior_level
+104,        Genentech,"South San Francisco, CA",100000.0,Data_Analyst,Senior_level
+0,    Predictive Science,United States,115000.0,Data_Analyst,Entry_level
+1,        Sandia National Laboratories,"Livermore, CA",115000.0,Data_Analyst,Entry_level
+2,    Autism Intervention Professionals,"Santa Rosa, CA",115000.0,Data_Analyst,Entry_level
+3,    Clover Health,"San Francisco, CA",115000.0,Data_Analyst,Entry_level
+4,    Corporate Labs Technology,"Brisbane, CA",115000.0,Data_Analyst,Entry_level
+5,    Affirm,"San Francisco, CA 94126 (Financial District area)",115000.0,Data_Analyst,Entry_level
+6,    LendUp,"San Francisco, CA",115000.0,Data_Analyst,Entry_level
+7,    Corporate Labs Technology,"Brisbane, CA",115000.0,Data_Analyst,Entry_level
+8,        Visa,"San Francisco, CA 94105 (Financial District area)",115000.0,Data_Analyst,Entry_level
+9,    LendingHome,"San Francisco, CA",115000.0,Data_Analyst,Entry_level
+10,        Google,"Mountain View, CA",115000.0,Data_Analyst,Entry_level
+11,    Khan Academy,"Mountain View, CA",115000.0,Data_Analyst,Entry_level
+12,    Farmers Business Network,"San Carlos, CA 94070",115000.0,Data_Analyst,Entry_level
+13,        Workbridge Associates,"San Francisco, CA 94105 (Financial District area)",115000.0,Data_Analyst,Entry_level
+14,    Rally Health,"San Francisco, CA",115000.0,Data_Analyst,Entry_level
+15,        Visa,"Foster City, CA",115000.0,Data_Analyst,Entry_level
+16,        Salesforce,"Palo Alto, CA",115000.0,Data_Analyst,Entry_level
+17,        Thumbtack,"San Francisco, CA",115000.0,Data_Analyst,Entry_level
+18,    LendUp,"San Francisco, CA",115000.0,Data_Analyst,Entry_level
+19,        Apple,"Santa Clara Valley, CA",115000.0,Data_Analyst,Entry_level
+20,        Salesforce,"San Francisco, CA",115000.0,Data_Analyst,Entry_level
+21,    Ingenico ePayments,"San Francisco, CA",115000.0,Data_Analyst,Entry_level
+22,    iRhythm,"San Francisco, CA",115000.0,Data_Analyst,Entry_level
+23,    3MKLLC,"Sunnyvale, CA",115000.0,Data_Analyst,Entry_level
+24,        SGT,"Moffett Field, CA",115000.0,Data_Analyst,Entry_level
+25,        eBay,"San Jose, CA",115000.0,Data_Analyst,Entry_level
+26,        eBay,"San Jose, CA",115000.0,Data_Analyst,Entry_level
+27,        Apple,"Santa Clara Valley, CA",115000.0,Data_Analyst,Entry_level
+28,    Selby Jennings,"San Francisco, CA",115000.0,Data_Analyst,Entry_level
+29,        Intel,"Santa Clara, CA 95052",115000.0,Data_Analyst,Entry_level
+30,    Near,"San Francisco, CA",115000.0,Data_Analyst,Entry_level
+31,        Walmart eCommerce,"Sunnyvale, CA",115000.0,Data_Analyst,Entry_level
+32,    MsgAI,"San Francisco, CA",115000.0,Data_Analyst,Entry_level
+33,        Telenav,"Santa Clara, CA",115000.0,Data_Analyst,Entry_level
+34,        Jobspring Partners,"San Jose, CA 95113 (Downtown area)",115000.0,Data_Analyst,Entry_level
+35,        Walmart eCommerce,"Sunnyvale, CA",115000.0,Data_Analyst,Entry_level
+36,    Gap Inc. Corporate,"San Francisco, CA",115000.0,Data_Analyst,Entry_level
+37,        Magento,"Campbell, CA",115000.0,Data_Analyst,Entry_level
+38,        Uber,"San Francisco, CA 94103 (South Of Market area)",115000.0,Data_Analyst,Entry_level
+39,        Walmart eCommerce,"San Bruno, CA 94066",115000.0,Data_Analyst,Entry_level
+40,    Color Genomics,"Burlingame, CA",115000.0,Data_Analyst,Entry_level
+41,    Spacequant,"San Francisco, CA",115000.0,Data_Analyst,Entry_level
+42,    Selby Jennings,"San Francisco, CA",115000.0,Data_Analyst,Entry_level
+43,        Walmart eCommerce,"San Bruno, CA 94066",115000.0,Data_Analyst,Entry_level
+44,    Nistala Technologies Inc.,"San Francisco, CA",115000.0,Data_Analyst,Entry_level
+45,    Clinical Management Consultants,"Richmond, CA",115000.0,Data_Analyst,Entry_level
+46,"        Hitachi America, Ltd.","Santa Clara, CA 95054",115000.0,Data_Analyst,Entry_level
+47,        Workbridge Associates,"San Francisco, CA",115000.0,Data_Analyst,Entry_level
+48,        Opendoor,"San Francisco, CA",115000.0,Data_Analyst,Entry_level
+49,    HomeSuite,"San Francisco, CA",115000.0,Data_Analyst,Entry_level
+50,    Quora,"Mountain View, CA",115000.0,Data_Analyst,Entry_level
+51,        Workbridge Associates,"San Francisco, CA 94105 (Financial District area)",115000.0,Data_Analyst,Entry_level
+52,        Google,"Mountain View, CA",115000.0,Data_Analyst,Entry_level
+53,        Google,"Mountain View, CA",115000.0,Data_Analyst,Entry_level
+54,        Workbridge Associates,"San Francisco, CA",115000.0,Data_Analyst,Entry_level
+55,        Dell,"Santa Clara, CA",115000.0,Data_Analyst,Entry_level
+56,        Apple,"Santa Clara Valley, CA",115000.0,Data_Analyst,Entry_level
+57,        drawbridge,"San Mateo, CA 94403 (Sugerloaf area)",115000.0,Data_Analyst,Entry_level
+58,        HTC,"San Francisco, CA",115000.0,Data_Analyst,Entry_level
+59,        Workbridge Associates,"Mountain View, CA",115000.0,Data_Analyst,Entry_level
+60,        HP,"Palo Alto, CA",115000.0,Data_Analyst,Entry_level
+61,    Rocket Fuel Inc.,"Redwood City, CA",115000.0,Data_Analyst,Entry_level
+62,        Jawbone,"San Francisco, CA",115000.0,Data_Analyst,Entry_level
+63,"    Ruckus Wireless, Inc","Sunnyvale, CA",115000.0,Data_Analyst,Entry_level
+64,        GE Careers,"San Ramon, CA 94583",115000.0,Data_Analyst,Entry_level
+65,    Zone24x7 Inc,"Milpitas, CA 95035",115000.0,Data_Analyst,Entry_level
+66,    Payette Group,"Mountain View, CA",115000.0,Data_Analyst,Entry_level
+67,        City & County of San Francisco,"San Francisco, CA 94124 (Bayview area)",115000.0,Data_Analyst,Entry_level
+68,        Tesla Motors,"Fremont, CA 94538 (Irvington area)",115000.0,Data_Analyst,Entry_level
+69,        Google,"Mountain View, CA",115000.0,Data_Analyst,Entry_level
+70,        Netflix,"Los Gatos, CA",115000.0,Data_Analyst,Entry_level
+71,        Electronic Arts,"Redwood City, CA 94065",115000.0,Data_Analyst,Entry_level
+72,    Elevate Recruiting Group,"San Francisco, CA",115000.0,Data_Analyst,Entry_level
+73,    Autism Intervention Professionals,"Santa Rosa, CA",115000.0,Data_Analyst,Entry_level
+74,        Huawei,"Santa Clara, CA",115000.0,Data_Analyst,Entry_level
+75,        NVIDIA,"Santa Clara, CA",115000.0,Data_Analyst,Entry_level
+76,        Thomson Reuters,"San Francisco, CA",115000.0,Data_Analyst,Entry_level
+77,        Workbridge Associates,"Sausalito, CA 94965",115000.0,Data_Analyst,Entry_level
+78,        Sandia National Laboratories,"Livermore, CA",115000.0,Data_Analyst,Entry_level
+79,    Autism Intervention Professionals,"Santa Rosa, CA",115000.0,Data_Analyst,Entry_level
+80,        Unity Technologies,"San Francisco, CA",115000.0,Data_Analyst,Entry_level
+81,    Elevate Recruiting Group,"Redwood City, CA",115000.0,Data_Analyst,Entry_level
+82,    Gap Inc. Corporate,"San Francisco, CA",115000.0,Data_Analyst,Entry_level
+83,        Slack,"San Francisco, CA",115000.0,Data_Analyst,Entry_level
+84,"        Cisco Systems, Inc.","San Jose, CA",115000.0,Data_Analyst,Entry_level
+85,        City & County of San Francisco,"San Francisco, CA 94124 (Bayview area)",115000.0,Data_Analyst,Entry_level
+86,        Paxata,"Redwood City, CA 94063",115000.0,Data_Analyst,Entry_level
+87,    Treasure Data,"Mountain View, CA 94040",115000.0,Data_Analyst,Entry_level
+88,        Paxata,"Redwood City, CA 94063",115000.0,Data_Analyst,Entry_level
+89,        Hewlett Packard Enterprise,"Sunnyvale, CA",115000.0,Data_Analyst,Entry_level
+90,        Sandia National Laboratories,"Livermore, CA",115000.0,Data_Analyst,Entry_level
+91,"    Studio Search, LLC","San Francisco, CA",115000.0,Data_Analyst,Entry_level
+92,    Quri,"San Francisco, CA",115000.0,Data_Analyst,Entry_level
+93,        Paxata,"Redwood City, CA 94063",115000.0,Data_Analyst,Entry_level
+94,    Alation Inc.,"Redwood City, CA",115000.0,Data_Analyst,Entry_level
+95,        Electronic Arts,"Redwood City, CA 94065",115000.0,Data_Analyst,Entry_level
+96,    Walk Water Technologies,"San Jose, CA",115000.0,Data_Analyst,Entry_level
+97,    Clinical Management Consultants,"Fairfield, CA",115000.0,Data_Analyst,Entry_level
+98,        County of San Mateo,"San Mateo, CA",115000.0,Data_Analyst,Entry_level
+99,        Paxata,"Redwood City, CA 94063",115000.0,Data_Analyst,Entry_level
+100,    NAI Northern California,"San Francisco, CA",115000.0,Data_Analyst,Entry_level
+101,        MuleSoft,"San Francisco, CA 94108 (Financial District area)",115000.0,Data_Analyst,Entry_level
+102,        County of San Mateo,"San Mateo, CA",115000.0,Data_Analyst,Entry_level
+103,        CyberCoders,"Mountain View, CA",115000.0,Data_Analyst,Entry_level
+104,        SGT,"Moffett Field, CA",115000.0,Data_Analyst,Entry_level
+0,        intuit,"Mountain View, CA 94043",115000.0,Data_Analyst,Mid_level
+1,        Amazon Corporate LLC,"Palo Alto, CA",115000.0,Data_Analyst,Mid_level
+2,        Rambus,"Sunnyvale, CA 94089",115000.0,Data_Analyst,Mid_level
+3,        Silicon Valley Bank,"Menlo Park, CA 94025",115000.0,Data_Analyst,Mid_level
+4,        Facebook,"Menlo Park, CA",115000.0,Data_Analyst,Mid_level
+5,        Dropbox,"San Francisco, CA",115000.0,Data_Analyst,Mid_level
+6,    Casetext,"San Francisco, CA",115000.0,Data_Analyst,Mid_level
+7,        Instacart,"San Francisco, CA",115000.0,Data_Analyst,Mid_level
+8,"    Cogitativo, Inc.","Berkeley, CA 94710",115000.0,Data_Analyst,Mid_level
+9,        Bosch,"Palo Alto, CA",115000.0,Data_Analyst,Mid_level
+10,    Xconic,"San Jose, CA 95131 (North Valley area)",115000.0,Data_Analyst,Mid_level
+11,        Tapjoy,"San Francisco, CA 94104 (Financial District area)",115000.0,Data_Analyst,Mid_level
+12,    elastic,"Mountain View, CA",115000.0,Data_Analyst,Mid_level
+13,        Mondo,"San Francisco, CA",115000.0,Data_Analyst,Mid_level
+14,    Fundbox,"San Francisco, CA 94104 (Financial District area)",115000.0,Data_Analyst,Mid_level
+15,        Good Eggs,"San Francisco, CA",115000.0,Data_Analyst,Mid_level
+16,        Electronic Arts,"Redwood City, CA 94065",115000.0,Data_Analyst,Mid_level
+17,"    Bay Systems Consulting, Inc.","Mountain View, CA 94043",115000.0,Data_Analyst,Mid_level
+18,        SurveyMonkey,"San Mateo, CA",115000.0,Data_Analyst,Mid_level
+19,    Arka,"Palo Alto, CA",115000.0,Data_Analyst,Mid_level
+20,        Slack,"San Francisco, CA",115000.0,Data_Analyst,Mid_level
+21,    Intechriti,"San Jose, CA",115000.0,Data_Analyst,Mid_level
+22,        Federal Reserve Bank of San Francisco,"San Francisco, CA",115000.0,Data_Analyst,Mid_level
+23,    thredUP,"San Francisco, CA 94104 (Financial District area)",115000.0,Data_Analyst,Mid_level
+24,"    Linc Global, Inc.","Sunnyvale, CA",115000.0,Data_Analyst,Mid_level
+25,        Fitbit,"San Francisco, CA 94105 (Financial District area)",115000.0,Data_Analyst,Mid_level
+26,    Full Circle Insights,"San Mateo, CA",115000.0,Data_Analyst,Mid_level
+27,        Uber,"San Francisco, CA 94103 (South Of Market area)",115000.0,Data_Analyst,Mid_level
+28,        Workbridge Associates,"San Francisco, CA 94105 (Financial District area)",115000.0,Data_Analyst,Mid_level
+29,    6sense,"San Francisco, CA",115000.0,Data_Analyst,Mid_level
+30,    Oscar Technology,"San Mateo, CA",115000.0,Data_Analyst,Mid_level
+31,        Gwynnie Bee,"Palo Alto, CA",115000.0,Data_Analyst,Mid_level
+32,    DroneDeploy,"San Francisco, CA",115000.0,Data_Analyst,Mid_level
+33,    Prezi,"San Francisco, CA 94111 (Financial District area)",115000.0,Data_Analyst,Mid_level
+34,        AdRoll,"San Francisco, CA 94103 (South Of Market area)",115000.0,Data_Analyst,Mid_level
+35,        Microsoft,"Palo Alto, CA",115000.0,Data_Analyst,Mid_level
+36,        Salesforce,"San Francisco, CA",115000.0,Data_Analyst,Mid_level
+37,        EY,"San Francisco, CA",115000.0,Data_Analyst,Mid_level
+38,        Walmart eCommerce,"Sunnyvale, CA",115000.0,Data_Analyst,Mid_level
+39,        The Climate Corporation,"San Francisco, CA",115000.0,Data_Analyst,Mid_level
+40,    Veear Projects,"Redwood City, CA",115000.0,Data_Analyst,Mid_level
+41,        Intuit,"Mountain View, CA 94039",115000.0,Data_Analyst,Mid_level
+42,        Workday,"Pleasanton, CA",115000.0,Data_Analyst,Mid_level
+43,        AgilOne,"San Francisco, CA",115000.0,Data_Analyst,Mid_level
+44,        Supercell,"San Francisco, CA 94104 (Financial District area)",115000.0,Data_Analyst,Mid_level
+45,        Weight Watchers International,"San Francisco, CA",115000.0,Data_Analyst,Mid_level
+46,    Samba TV,"San Francisco, CA",115000.0,Data_Analyst,Mid_level
+47,        eBay,"San Jose, CA",115000.0,Data_Analyst,Mid_level
+48,"    Logyx, LLC","Mountain View, CA 94043",115000.0,Data_Analyst,Mid_level
+49,        Walmart eCommerce,"Sunnyvale, CA",115000.0,Data_Analyst,Mid_level
+50,        Apple,"Santa Clara Valley, CA",115000.0,Data_Analyst,Mid_level
+51,        DNV GL,"Oakland, CA",115000.0,Data_Analyst,Mid_level
+52,        Salesforce,"San Francisco, CA",115000.0,Data_Analyst,Mid_level
+53,        Telmate,"San Francisco, CA",115000.0,Data_Analyst,Mid_level
+54,        Facebook,"Menlo Park, CA",115000.0,Data_Analyst,Mid_level
+55,        Google,"Mountain View, CA",115000.0,Data_Analyst,Mid_level
+56,    Hoodline,"San Francisco, CA",115000.0,Data_Analyst,Mid_level
+57,    PI Benchmark,"Berkeley, CA",115000.0,Data_Analyst,Mid_level
+58,        Prosper,"San Francisco, CA",115000.0,Data_Analyst,Mid_level
+59,    elastic,"Mountain View, CA",115000.0,Data_Analyst,Mid_level
+60,    Komodo Health,"San Francisco, CA",115000.0,Data_Analyst,Mid_level
+61,        Apple,"Santa Clara Valley, CA",115000.0,Data_Analyst,Mid_level
+62,        NVIDIA,"Santa Clara, CA",115000.0,Data_Analyst,Mid_level
+63,    ForeScout,"San Jose, CA",115000.0,Data_Analyst,Mid_level
+64,        Glassdoor,"Mill Valley, CA 94941",115000.0,Data_Analyst,Mid_level
+65,        Saama Technologies Inc,"Campbell, CA 95008",115000.0,Data_Analyst,Mid_level
+66,        Hitachi Consulting Corporation US,"San Jose, CA",115000.0,Data_Analyst,Mid_level
+67,        Uber,"San Francisco, CA 94103 (South Of Market area)",115000.0,Data_Analyst,Mid_level
+68,    Affirm,"San Francisco, CA 94126 (Financial District area)",115000.0,Data_Analyst,Mid_level
+69,        The Nielsen Company,"San Francisco, CA",115000.0,Data_Analyst,Mid_level
+70,    Adyen,"San Francisco, CA",115000.0,Data_Analyst,Mid_level
+71,    Quixey,"Mountain View, CA",115000.0,Data_Analyst,Mid_level
+72,    Astreya,"Mountain View, CA",115000.0,Data_Analyst,Mid_level
+73,        Microsoft,"Palo Alto, CA",115000.0,Data_Analyst,Mid_level
+74,        Google,"Mountain View, CA",115000.0,Data_Analyst,Mid_level
+75,        Jobspring Partners,"San Jose, CA 95113 (Downtown area)",115000.0,Data_Analyst,Mid_level
+76,    FocusKPI Inc.,"Mountain View, CA",115000.0,Data_Analyst,Mid_level
+77,    Tripping.com,"San Francisco, CA",115000.0,Data_Analyst,Mid_level
+78,        City & County of San Francisco,"San Francisco, CA 94124 (Bayview area)",115000.0,Data_Analyst,Mid_level
+79,        Eventbrite,"San Francisco, CA 94107 (South Of Market area)",115000.0,Data_Analyst,Mid_level
+80,        First Republic Bank,"San Francisco, CA",115000.0,Data_Analyst,Mid_level
+81,        ServiceNow,"Santa Clara, CA",115000.0,Data_Analyst,Mid_level
+82,    ThousandEyes,"San Francisco, CA 94105 (Financial District area)",115000.0,Data_Analyst,Mid_level
+83,        Visa,"Foster City, CA",115000.0,Data_Analyst,Mid_level
+84,        The Climate Corporation,"San Francisco, CA",115000.0,Data_Analyst,Mid_level
+85,        Facebook,"Menlo Park, CA",115000.0,Data_Analyst,Mid_level
+86,        SocialCode,"San Francisco, CA",115000.0,Data_Analyst,Mid_level
+87,        Tesla Motors,"Fremont, CA 94538 (Irvington area)",115000.0,Data_Analyst,Mid_level
+88,    TERADEEP INC.,"Campbell, CA",115000.0,Data_Analyst,Mid_level
+89,        Workbridge Associates,"San Francisco, CA",115000.0,Data_Analyst,Mid_level
+90,        Intel,"Santa Clara, CA 95052",115000.0,Data_Analyst,Mid_level
+91,    CreativeLive,"San Francisco, CA 94107 (South Of Market area)",115000.0,Data_Analyst,Mid_level
+92,        Dropbox,"San Francisco, CA",115000.0,Data_Analyst,Mid_level
+93,    Clara,"San Francisco, CA",115000.0,Data_Analyst,Mid_level
+94,        Oportun,"Redwood City, CA",115000.0,Data_Analyst,Mid_level
+95,    Pinterest,"San Francisco, CA 94103 (South Of Market area)",115000.0,Data_Analyst,Mid_level
+96,    Fanatics Inc.,"San Mateo, CA",115000.0,Data_Analyst,Mid_level
+97,"    Studio Search, LLC","San Francisco, CA",115000.0,Data_Analyst,Mid_level
+98,        OpenTable,"San Francisco, CA 94103 (South Of Market area)",115000.0,Data_Analyst,Mid_level
+99,        Apple,"Santa Clara Valley, CA",115000.0,Data_Analyst,Mid_level
+100,        Amazon Corporate LLC,"Palo Alto, CA",115000.0,Data_Analyst,Mid_level
+101,"        TalentBurst, Inc.","South San Francisco, CA 94080",115000.0,Data_Analyst,Mid_level
+102,        Square,"San Francisco, CA 94103 (South Of Market area)",115000.0,Data_Analyst,Mid_level
+103,        CyberCoders,"San Francisco, CA",115000.0,Data_Analyst,Mid_level
+104,"    Cogitativo, Inc.","Berkeley, CA 94710",115000.0,Data_Analyst,Mid_level
+0,        Freedom Financial Network,"San Mateo, CA 94402",115000.0,Data_Analyst,Senior_level
+1,    BayOne Solutions,"San Francisco, CA 94107",115000.0,Data_Analyst,Senior_level
+2,"    Controller's Group, Inc.","Mountain View, CA",115000.0,Data_Analyst,Senior_level
+3,    iSoft Solutions,"San Francisco, CA",115000.0,Data_Analyst,Senior_level
+4,"        Cisco Systems, Inc.","San Jose, CA",115000.0,Data_Analyst,Senior_level
+5,        Google,"Mountain View, CA",115000.0,Data_Analyst,Senior_level
+6,        Hired,"San Francisco, CA",115000.0,Data_Analyst,Senior_level
+7,        Capital One,"San Francisco, CA",115000.0,Data_Analyst,Senior_level
+8,        GE Careers,"San Ramon, CA 94583",115000.0,Data_Analyst,Senior_level
+9,    MachineZone,"Palo Alto, CA",115000.0,Data_Analyst,Senior_level
+10,        Mentor Graphics,"Fremont, CA 94538 (Irvington area)",115000.0,Data_Analyst,Senior_level
+11,    Change.org,"San Francisco, CA 94103 (South Of Market area)",115000.0,Data_Analyst,Senior_level
+12,    Production Modeling Corporation,"San Francisco, CA",115000.0,Data_Analyst,Senior_level
+13,        GE Careers,"San Ramon, CA 94583",115000.0,Data_Analyst,Senior_level
+14,        Symantec,"Mountain View, CA",115000.0,Data_Analyst,Senior_level
+15,        Sephora,"San Francisco, CA 94105 (Financial District area)",115000.0,Data_Analyst,Senior_level
+16,        Salesforce,"San Francisco, CA",115000.0,Data_Analyst,Senior_level
+17,    Gap Inc. Corporate,"San Francisco, CA",115000.0,Data_Analyst,Senior_level
+18,        Bank of the West,"San Ramon, CA",115000.0,Data_Analyst,Senior_level
+19,        BNP Paribas,"San Ramon, CA",115000.0,Data_Analyst,Senior_level
+20,        TEKsystems,"San Francisco, CA 94103 (South Of Market area)",115000.0,Data_Analyst,Senior_level
+21,    Gap Inc. Corporate,"San Francisco, CA",115000.0,Data_Analyst,Senior_level
+22,        eBay,"San Jose, CA",115000.0,Data_Analyst,Senior_level
+23,        eBay,"San Jose, CA",115000.0,Data_Analyst,Senior_level
+24,        Fitbit,"San Francisco, CA 94105 (Financial District area)",115000.0,Data_Analyst,Senior_level
+25,    Bayone Solutions Inc.,"San Francisco, CA",115000.0,Data_Analyst,Senior_level
+26,        eBay,"San Jose, CA",115000.0,Data_Analyst,Senior_level
+27,        Dolby,"San Francisco, CA",115000.0,Data_Analyst,Senior_level
+28,    Credit Karma,"San Francisco, CA",115000.0,Data_Analyst,Senior_level
+29,        ZS Associates,"San Mateo, CA 94402 (Beresford area)",115000.0,Data_Analyst,Senior_level
+30,"        Cisco Systems, Inc.","Santa Clara, CA",115000.0,Data_Analyst,Senior_level
+31,    ab star group,"San Jose, CA",115000.0,Data_Analyst,Senior_level
+32,        Symantec,"Mountain View, CA",115000.0,Data_Analyst,Senior_level
+33,        GE Careers,"San Ramon, CA 94583",115000.0,Data_Analyst,Senior_level
+34,        Silicon Valley Bank,"Santa Clara, CA 95054",115000.0,Data_Analyst,Senior_level
+35,        MINDTREE,"San Francisco, CA",115000.0,Data_Analyst,Senior_level
+36,        CSI Consulting,"San Jose, CA",115000.0,Data_Analyst,Senior_level
+37,        Symantec,"Mountain View, CA",115000.0,Data_Analyst,Senior_level
+38,    RideCell,"San Francisco, CA 94103 (South Of Market area)",115000.0,Data_Analyst,Senior_level
+39,    Quantifind,"Menlo Park, CA",115000.0,Data_Analyst,Senior_level
+40,"    InfoVision, Inc.","San Jose, CA",115000.0,Data_Analyst,Senior_level
+41,        Uber,"Palo Alto, CA 94304",115000.0,Data_Analyst,Senior_level
+42,        TEKsystems,"San Francisco, CA 94103 (South Of Market area)",115000.0,Data_Analyst,Senior_level
+43,        Proofpoint,"Sunnyvale, CA 94089",115000.0,Data_Analyst,Senior_level
+44,        TrialPay,"Mountain View, CA",115000.0,Data_Analyst,Senior_level
+45,        University of California San Francisco Medical Cen...,"San Francisco, CA",115000.0,Data_Analyst,Senior_level
+46,        Zendesk,"San Francisco, CA 94103 (South Of Market area)",115000.0,Data_Analyst,Senior_level
+47,        Clorox,"Oakland, CA 94612 (Northgate area)",115000.0,Data_Analyst,Senior_level
+48,        Demandbase,"San Francisco, CA",115000.0,Data_Analyst,Senior_level
+49,        Blue Shield of California,"San Francisco, CA 94105 (Financial District area)",115000.0,Data_Analyst,Senior_level
+50,        Apple,"Santa Clara Valley, CA",115000.0,Data_Analyst,Senior_level
+51,        Capgemini,"South San Francisco, CA",115000.0,Data_Analyst,Senior_level
+52,        Chegg,"San Francisco, CA",115000.0,Data_Analyst,Senior_level
+53,        Workbridge Associates,"San Francisco, CA 94105 (Financial District area)",115000.0,Data_Analyst,Senior_level
+54,        Netflix,"Los Gatos, CA",115000.0,Data_Analyst,Senior_level
+55,    Apartment List,"San Francisco, CA",115000.0,Data_Analyst,Senior_level
+56,        Adobe,"San Jose, CA",115000.0,Data_Analyst,Senior_level
+57,    Arka,"San Francisco, CA",115000.0,Data_Analyst,Senior_level
+58,        Practice Fusion,"San Francisco, CA 94102 (Downtown area)",115000.0,Data_Analyst,Senior_level
+59,        Apple,"Santa Clara Valley, CA",115000.0,Data_Analyst,Senior_level
+60,    eero,"San Francisco, CA",115000.0,Data_Analyst,Senior_level
+61,        Visa,"Foster City, CA",115000.0,Data_Analyst,Senior_level
+62,        Fitbit,"San Francisco, CA 94105 (Financial District area)",115000.0,Data_Analyst,Senior_level
+63,    Gap Inc. Corporate,"San Francisco, CA",115000.0,Data_Analyst,Senior_level
+64,        First Republic Bank,"San Francisco, CA",115000.0,Data_Analyst,Senior_level
+65,        Kaiser Permanente,"Pleasanton, CA",115000.0,Data_Analyst,Senior_level
+66,"        Move, Inc.","Santa Clara, CA",115000.0,Data_Analyst,Senior_level
+67,        JPMorgan Chase,"San Francisco, CA",115000.0,Data_Analyst,Senior_level
+68,    Global Placement Firm,"San Francisco, CA",115000.0,Data_Analyst,Senior_level
+69,        Clarity Solution Group,"San Francisco, CA",115000.0,Data_Analyst,Senior_level
+70,        Sephora,"San Francisco, CA 94105 (Financial District area)",115000.0,Data_Analyst,Senior_level
+71,        Accenture,"San Francisco, CA 94105 (Financial District area)",115000.0,Data_Analyst,Senior_level
+72,        Twitch,"San Francisco, CA",115000.0,Data_Analyst,Senior_level
+73,        Samsung,"Mountain View, CA",115000.0,Data_Analyst,Senior_level
+74,        Samsung Electronics America,"Mountain View, CA",115000.0,Data_Analyst,Senior_level
+75,        Samsung Electronics America,"Mountain View, CA",115000.0,Data_Analyst,Senior_level
+76,        Oracle,"Redwood City, CA",115000.0,Data_Analyst,Senior_level
+77,        Silicon Valley Bank,"Santa Clara, CA 95054",115000.0,Data_Analyst,Senior_level
+78,        Google,"Mountain View, CA",115000.0,Data_Analyst,Senior_level
+79,    Infoyogi,"San Jose, CA",115000.0,Data_Analyst,Senior_level
+80,        Intuit,"Mountain View, CA 94039",115000.0,Data_Analyst,Senior_level
+81,        Sephora,"San Francisco, CA 94105 (Financial District area)",115000.0,Data_Analyst,Senior_level
+82,        Chegg,"Santa Clara, CA 95054",115000.0,Data_Analyst,Senior_level
+83,        Equinix,"Redwood City, CA 94065",115000.0,Data_Analyst,Senior_level
+84,"        Cisco Systems, Inc.","San Jose, CA",115000.0,Data_Analyst,Senior_level
+85,    Weebly,"San Francisco, CA",115000.0,Data_Analyst,Senior_level
+86,        Autodesk,"San Francisco, CA",115000.0,Data_Analyst,Senior_level
+87,    HyperGrid,"Mountain View, CA",115000.0,Data_Analyst,Senior_level
+88,    Affirm,"San Francisco, CA 94126 (Financial District area)",115000.0,Data_Analyst,Senior_level
+89,        Netflix,"Los Gatos, CA",115000.0,Data_Analyst,Senior_level
+90,        Evernote,"Redwood City, CA 94063",115000.0,Data_Analyst,Senior_level
+91,        SanDisk,"Milpitas, CA",115000.0,Data_Analyst,Senior_level
+92,    쿠팡,"Palo Alto, CA",115000.0,Data_Analyst,Senior_level
+93,    BOLD,"San Francisco, CA",115000.0,Data_Analyst,Senior_level
+94,"    Controller's Group, Inc.","Mountain View, CA",115000.0,Data_Analyst,Senior_level
+95,        Netflix,"Los Gatos, CA",115000.0,Data_Analyst,Senior_level
+96,        Workbridge Associates,"San Francisco, CA",115000.0,Data_Analyst,Senior_level
+97,        Proofpoint,"Sunnyvale, CA 94089",115000.0,Data_Analyst,Senior_level
+98,    Sigmaways,"Palo Alto, CA",115000.0,Data_Analyst,Senior_level
+99,        Accenture,"San Francisco, CA 94105 (Financial District area)",115000.0,Data_Analyst,Senior_level
+100,        Coupang,"Palo Alto, CA",115000.0,Data_Analyst,Senior_level
+101,    쿠팡,"Palo Alto, CA",115000.0,Data_Analyst,Senior_level
+102,    쿠팡,"Palo Alto, CA",115000.0,Data_Analyst,Senior_level
+103,        CyberCoders,"San Francisco, CA",115000.0,Data_Analyst,Senior_level
+104,        intuit,"Mountain View, CA 94043",115000.0,Data_Analyst,Senior_level

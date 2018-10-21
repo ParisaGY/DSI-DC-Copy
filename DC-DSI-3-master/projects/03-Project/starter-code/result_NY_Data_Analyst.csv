@@ -1,0 +1,1576 @@
+,Company_name,Location,Salary,Title,Experience
+0,    Star Gas Partners LP,"Woodbury, NY",55000.0,Data_Analyst,Entry_level
+1,        ANN INC.,"New York, NY 10001",55000.0,Data_Analyst,Entry_level
+2,    Predictive Science,United States,55000.0,Data_Analyst,Entry_level
+3,    Veterans Sourcing Group,"Brooklyn, NY 11203",55000.0,Data_Analyst,Entry_level
+4,    Viant,"New York, NY",55000.0,Data_Analyst,Entry_level
+5,    New Avon LLC,"New York, NY",55000.0,Data_Analyst,Entry_level
+6,    Schonfeld Group,"New York, NY",55000.0,Data_Analyst,Entry_level
+7,        BMO Financial Group,"New York, NY",55000.0,Data_Analyst,Entry_level
+8,        Dell,"New York, NY",55000.0,Data_Analyst,Entry_level
+9,    Carrot Creative,"New York, NY",55000.0,Data_Analyst,Entry_level
+10,    Global Strategy Group,"New York, NY 10003 (Greenwich Village area)",55000.0,Data_Analyst,Entry_level
+11,        East West Bank,"New York, NY",55000.0,Data_Analyst,Entry_level
+12,    Tilting Point,"New York, NY",55000.0,Data_Analyst,Entry_level
+13,        IBM,"Armonk, NY",55000.0,Data_Analyst,Entry_level
+14,"    Two Sigma Investments, LLC.","New York, NY",55000.0,Data_Analyst,Entry_level
+15,    Corporate Technology,"New York, NY",55000.0,Data_Analyst,Entry_level
+16,        Bloomberg,"New York, NY",55000.0,Data_Analyst,Entry_level
+17,        Memorial Sloan Kettering,"New York, NY",55000.0,Data_Analyst,Entry_level
+18,        AOL,"New York, NY 10011 (Chelsea area)",55000.0,Data_Analyst,Entry_level
+19,        IPG Mediabrands,"New York, NY",55000.0,Data_Analyst,Entry_level
+20,        Weill Cornell Medical College,"New York, NY",55000.0,Data_Analyst,Entry_level
+21,"    Two Sigma Investments, LLC.","New York, NY",55000.0,Data_Analyst,Entry_level
+22,    Moody's Shared Services,"New York, NY",55000.0,Data_Analyst,Entry_level
+23,        Accenture,"New York, NY 10011 (Chelsea area)",55000.0,Data_Analyst,Entry_level
+24,        Ebiquity,"New York, NY",55000.0,Data_Analyst,Entry_level
+25,        Morgan Stanley,"Purchase, NY",55000.0,Data_Analyst,Entry_level
+26,    MUFG,"New York, NY",55000.0,Data_Analyst,Entry_level
+27,    HelloFresh,"New York, NY",55000.0,Data_Analyst,Entry_level
+28,        Hospital for Special Surgery,"New York, NY",55000.0,Data_Analyst,Entry_level
+29,        GroupM,"New York, NY",55000.0,Data_Analyst,Entry_level
+30,        AOL,"New York, NY 10011 (Chelsea area)",55000.0,Data_Analyst,Entry_level
+31,"    Two Sigma Investments, LLC.","New York, NY",55000.0,Data_Analyst,Entry_level
+32,    The Michael J. Fox Foundation for Parkinson's Rese...,"New York, NY",55000.0,Data_Analyst,Entry_level
+33,    Essence,"New York, NY",55000.0,Data_Analyst,Entry_level
+34,        JCA,"New York, NY",55000.0,Data_Analyst,Entry_level
+35,        Morgan Lewis,"Princeton, NJ",55000.0,Data_Analyst,Entry_level
+36,        Advertising Age,"New York, NY",55000.0,Data_Analyst,Entry_level
+37,    Dascase Technologies Inc,"New Brunswick, NJ",55000.0,Data_Analyst,Entry_level
+38,        3Q Digital,"New York, NY",55000.0,Data_Analyst,Entry_level
+39,    Looker,"New York, NY",55000.0,Data_Analyst,Entry_level
+40,        DEPARTMENT OF SANITATION,"New York, NY",55000.0,Data_Analyst,Entry_level
+41,        Ipsos North America,"New York, NY",55000.0,Data_Analyst,Entry_level
+42,        NewYork-Presbyterian/Weill Cornell Medical Center,"New York, NY",55000.0,Data_Analyst,Entry_level
+43,        Intercept Pharmaceuticals,"New York, NY 10013 (Tribeca area)",55000.0,Data_Analyst,Entry_level
+44,        Healthfirst,"New York, NY",55000.0,Data_Analyst,Entry_level
+45,"        Gartner, Inc.","Stamford, CT 06902 (Downtown area)",55000.0,Data_Analyst,Entry_level
+46,    Jamestown Management Corporation,"Brooklyn, NY",55000.0,Data_Analyst,Entry_level
+47,        AOL,"New York, NY 10011 (Chelsea area)",55000.0,Data_Analyst,Entry_level
+48,    AskMyUncleSam,"New York, NY",55000.0,Data_Analyst,Entry_level
+49,        TD Bank,"New York, NY",55000.0,Data_Analyst,Entry_level
+50,        Ipsos North America,"New York, NY",55000.0,Data_Analyst,Entry_level
+51,    Brooklyn Data Science,"New York, NY",55000.0,Data_Analyst,Entry_level
+52,        Cox Media Group,"New York, NY",55000.0,Data_Analyst,Entry_level
+53,    Star Gas Partners LP,"Woodbury, NY",55000.0,Data_Analyst,Entry_level
+54,        True North Inc,"New York, NY 10017 (Midtown area)",55000.0,Data_Analyst,Entry_level
+55,    Rocketrip,"Manhattan, NY",55000.0,Data_Analyst,Entry_level
+56,        Pitney Bowes,"New York, NY",55000.0,Data_Analyst,Entry_level
+57,    Benenson Strategy Group,"New York, NY",55000.0,Data_Analyst,Entry_level
+58,    Veterans Sourcing Group,"New York, NY 10005 (Financial District area)",55000.0,Data_Analyst,Entry_level
+59,        Foresters Financial,"New York, NY",55000.0,Data_Analyst,Entry_level
+60,        Bonobos,"New York, NY",55000.0,Data_Analyst,Entry_level
+61,        Federal Reserve Bank of New York,"New York, NY",55000.0,Data_Analyst,Entry_level
+62,        Morgan Stanley,"New York, NY 10032 (Washington Heights area)",55000.0,Data_Analyst,Entry_level
+63,        Dailymotion,"New York, NY",55000.0,Data_Analyst,Entry_level
+64,        Barnes & Noble,"New York, NY",55000.0,Data_Analyst,Entry_level
+65,        Voya Financial,"New York, NY",55000.0,Data_Analyst,Entry_level
+66,        AIG,"New York, NY",55000.0,Data_Analyst,Entry_level
+67,        Public Health Solutions,"New York, NY 10013 (Tribeca area)",55000.0,Data_Analyst,Entry_level
+68,    New Avon LLC,"New York, NY",55000.0,Data_Analyst,Entry_level
+69,        ShopKeep,"New York, NY",55000.0,Data_Analyst,Entry_level
+70,    Indus Software Solutions Inc.,"New York, NY",55000.0,Data_Analyst,Entry_level
+71,"    InterWorks, Inc.","New York, NY 10014 (West Village area)",55000.0,Data_Analyst,Entry_level
+72,    MUFG,"New York, NY",55000.0,Data_Analyst,Entry_level
+73,        Brown Brothers Harriman,"New York, NY",55000.0,Data_Analyst,Entry_level
+74,        Oxford Solutions,"New York, NY",55000.0,Data_Analyst,Entry_level
+75,    Veterans Sourcing Group,"Jersey City, NJ 07310 (Downtown area)",55000.0,Data_Analyst,Entry_level
+76,        Phreesia,"New York, NY",55000.0,Data_Analyst,Entry_level
+77,        Morgan Stanley,"Purchase, NY",55000.0,Data_Analyst,Entry_level
+78,    Veterans Sourcing Group,"Basking Ridge, NJ 07920",55000.0,Data_Analyst,Entry_level
+79,    Lux Research,"New York, NY",55000.0,Data_Analyst,Entry_level
+80,        Jamestown,"Brooklyn, NY",55000.0,Data_Analyst,Entry_level
+81,        AlixPartners,"New York, NY 10019 (Midtown area)",55000.0,Data_Analyst,Entry_level
+82,        JetBlue Airways Corporation,"Long Island City, NY",55000.0,Data_Analyst,Entry_level
+83,        1010data,"New York, NY",55000.0,Data_Analyst,Entry_level
+84,        Undertone,"New York, NY 10173 (Midtown area)",55000.0,Data_Analyst,Entry_level
+85,    Emerge,"New York, NY 10019 (Midtown area)",55000.0,Data_Analyst,Entry_level
+86,        Kantar Worldpanel,"New York, NY",55000.0,Data_Analyst,Entry_level
+87,    Vbridge Global LLC,"New York, NY",55000.0,Data_Analyst,Entry_level
+88,        Gap,"New York, NY",55000.0,Data_Analyst,Entry_level
+89,        Global Employment Solutions,"New York, NY",55000.0,Data_Analyst,Entry_level
+90,        Starcom,"New York, NY",55000.0,Data_Analyst,Entry_level
+91,        NewYork-Presbyterian/Morgan Stanley Children's Hos...,"New York, NY",55000.0,Data_Analyst,Entry_level
+92,        Viacom,"New York, NY",55000.0,Data_Analyst,Entry_level
+93,"        Williams-Sonoma, Inc.","Brooklyn, NY 11201",55000.0,Data_Analyst,Entry_level
+94,        Marlabs Inc.,"Jersey City, NJ",55000.0,Data_Analyst,Entry_level
+95,        Cold Spring Harbor Laboratory,"Cold Spring Harbor, NY 11724",55000.0,Data_Analyst,Entry_level
+96,        Fidelis Care,"New York, NY",55000.0,Data_Analyst,Entry_level
+97,        Mount Sinai Health System,"New York, NY 10017 (Midtown area)",55000.0,Data_Analyst,Entry_level
+98,        Stamford Hospital,"Stamford, CT",55000.0,Data_Analyst,Entry_level
+99,        NBCUniversal,"New York, NY",55000.0,Data_Analyst,Entry_level
+100,        American Express,"New York, NY",55000.0,Data_Analyst,Entry_level
+101,    NuRide Transportation Group,"Long Island City, NY 11101",55000.0,Data_Analyst,Entry_level
+102,        Intermix,"New York, NY 10018 (Clinton area)",55000.0,Data_Analyst,Entry_level
+103,        Accenture,"New York, NY 10011",55000.0,Data_Analyst,Entry_level
+104,        Indeed,"New York, NY 10036",55000.0,Data_Analyst,Entry_level
+0,"    AbilTo, Inc","New York, NY 10018",55000.0,Data_Analyst,Mid_level
+1,        Crystal Run Healthcare,"Middletown, NY 10941",55000.0,Data_Analyst,Mid_level
+2,        KPMG,"New York, NY 10154",55000.0,Data_Analyst,Mid_level
+3,        NYC Taxi and Limousine Commission,"New York, NY 10004 (Financial District area)",55000.0,Data_Analyst,Mid_level
+4,    Veterans Sourcing Group,"Township of Lawrence, NJ 08648",55000.0,Data_Analyst,Mid_level
+5,        NBCUniversal,"New York, NY",55000.0,Data_Analyst,Mid_level
+6,        Time Warner Cable,"Stamford, CT",55000.0,Data_Analyst,Mid_level
+7,        Citi,"New York, NY",55000.0,Data_Analyst,Mid_level
+8,        Accenture,"New York, NY 10011 (Chelsea area)",55000.0,Data_Analyst,Mid_level
+9,    LOGIXTech Solutions,"New York, NY",55000.0,Data_Analyst,Mid_level
+10,        TAXI & LIMOUSINE COMMISSION,"New York, NY",55000.0,Data_Analyst,Mid_level
+11,    Veterans Sourcing Group,"Pennington, NJ 08534",55000.0,Data_Analyst,Mid_level
+12,        Maxus,"New York, NY",55000.0,Data_Analyst,Mid_level
+13,        GroupM,"New York, NY",55000.0,Data_Analyst,Mid_level
+14,    Veterans Sourcing Group,"New York, NY 10019 (Midtown area)",55000.0,Data_Analyst,Mid_level
+15,    Veterans Sourcing Group,"Pennington, NJ 08534",55000.0,Data_Analyst,Mid_level
+16,        PVH Corp.,"New York, NY",55000.0,Data_Analyst,Mid_level
+17,        NYU Langone Medical Center,"New York, NY",55000.0,Data_Analyst,Mid_level
+18,        Morgan Stanley,"New York, NY 10032 (Washington Heights area)",55000.0,Data_Analyst,Mid_level
+19,        Spotify,"New York, NY 10011 (Chelsea area)",55000.0,Data_Analyst,Mid_level
+20,    GlobeTax,"New York, NY",55000.0,Data_Analyst,Mid_level
+21,        L2,"New York, NY 10012 (Little Italy area)",55000.0,Data_Analyst,Mid_level
+22,        VillageCare,"Manhattan, NY",55000.0,Data_Analyst,Mid_level
+23,    Avanade MY,"New York, NY",55000.0,Data_Analyst,Mid_level
+24,        OmniTech Solutions,"New York, NY",55000.0,Data_Analyst,Mid_level
+25,    DraftKings,"New York, NY 10003 (Greenwich Village area)",55000.0,Data_Analyst,Mid_level
+26,        Weill Cornell Medical College,"New York, NY",55000.0,Data_Analyst,Mid_level
+27,        Ipsos North America,"New York, NY",55000.0,Data_Analyst,Mid_level
+28,        GroupM,"New York, NY",55000.0,Data_Analyst,Mid_level
+29,        Avanade,"New York, NY",55000.0,Data_Analyst,Mid_level
+30,    Prolific Interactive,"New York, NY",55000.0,Data_Analyst,Mid_level
+31,    EMG INCORP,"Long Island City, NY",55000.0,Data_Analyst,Mid_level
+32,        Omnicom Health Group,"New York, NY",55000.0,Data_Analyst,Mid_level
+33,        Roku,"New York, NY 10001 (Chelsea area)",55000.0,Data_Analyst,Mid_level
+34,        Slice,"New York, NY",55000.0,Data_Analyst,Mid_level
+35,"    Snap Interactive, Inc.","New York, NY",55000.0,Data_Analyst,Mid_level
+36,        Barnes & Noble,"New York, NY",55000.0,Data_Analyst,Mid_level
+37,        Voya Financial,"New York, NY",55000.0,Data_Analyst,Mid_level
+38,    Veterans Sourcing Group,"Township of Lawrence, NJ 08648",55000.0,Data_Analyst,Mid_level
+39,    Brooklyn Data Science,"New York, NY",55000.0,Data_Analyst,Mid_level
+40,        Comcast,"New York, NY 10112 (Midtown area)",55000.0,Data_Analyst,Mid_level
+41,        Adept Solutions,"Purchase, NY",55000.0,Data_Analyst,Mid_level
+42,        eBay,"New York, NY 10011 (Chelsea area)",55000.0,Data_Analyst,Mid_level
+43,        Huge,"New York, NY",55000.0,Data_Analyst,Mid_level
+44,        Anheuser-Busch,"New York, NY",55000.0,Data_Analyst,Mid_level
+45,        Fusion,"New York, NY 10019 (Midtown area)",55000.0,Data_Analyst,Mid_level
+46,        Oscar Insurance,"New York, NY 10012 (Little Italy area)",55000.0,Data_Analyst,Mid_level
+47,        EXPERIAN,"New York, NY 10020 (Midtown area)",55000.0,Data_Analyst,Mid_level
+48,        DentaQuest,"New York, NY",55000.0,Data_Analyst,Mid_level
+49,        Kaplan,"New York, NY",55000.0,Data_Analyst,Mid_level
+50,        WeWork,"New York, NY 10005 (Financial District area)",55000.0,Data_Analyst,Mid_level
+51,    Paperless Post,"New York, NY",55000.0,Data_Analyst,Mid_level
+52,    Veterans Sourcing Group,"Township of Lawrence, NJ 08648",55000.0,Data_Analyst,Mid_level
+53,        Kaplan,"New York, NY",55000.0,Data_Analyst,Mid_level
+54,        American Express,"New York, NY",55000.0,Data_Analyst,Mid_level
+55,        Newsela,"New York, NY",55000.0,Data_Analyst,Mid_level
+56,        Canon,"Melville, NY",55000.0,Data_Analyst,Mid_level
+57,        MongoDB,"New York, NY",55000.0,Data_Analyst,Mid_level
+58,        ConEdison,"New York, NY",55000.0,Data_Analyst,Mid_level
+59,        DBRS,"New York, NY 10005 (Financial District area)",55000.0,Data_Analyst,Mid_level
+60,        EXPERIAN,"New York, NY 10020 (Midtown area)",55000.0,Data_Analyst,Mid_level
+61,        Union for Reform Judaism,"New York, NY 10115 (Hamilton Heights area)",55000.0,Data_Analyst,Mid_level
+62,    Orthology Inc.,"New York, NY",55000.0,Data_Analyst,Mid_level
+63,        Voya Financial,"New York, NY",55000.0,Data_Analyst,Mid_level
+64,        Visiting Nurse Service of New York,"Manhattan, NY",55000.0,Data_Analyst,Mid_level
+65,    CavalierIt Inc,"New York, NY",55000.0,Data_Analyst,Mid_level
+66,        Aol,"New York, NY 10011 (Chelsea area)",55000.0,Data_Analyst,Mid_level
+67,    Convex Connections Corporation,"New York, NY",55000.0,Data_Analyst,Mid_level
+68,        Ogilvy CommonHealth Worldwide,"New York, NY",55000.0,Data_Analyst,Mid_level
+69,        Time Warner Cable,"Stamford, CT",55000.0,Data_Analyst,Mid_level
+70,        WinterWyman,"New York, NY 10010 (Gramercy area)",55000.0,Data_Analyst,Mid_level
+71,    GNYHA Services,"New York, NY",55000.0,Data_Analyst,Mid_level
+72,        ShopKeep,"New York, NY",55000.0,Data_Analyst,Mid_level
+73,    TTS Media,"New York, NY",55000.0,Data_Analyst,Mid_level
+74,        Penton,"New York, NY",55000.0,Data_Analyst,Mid_level
+75,        Intersection,"New York, NY",55000.0,Data_Analyst,Mid_level
+76,    MSCI Inc.,"New York, NY 10007 (Financial District area)",55000.0,Data_Analyst,Mid_level
+77,        ICF International,"New York, NY",55000.0,Data_Analyst,Mid_level
+78,        KPMG,"New York, NY 10154 (Midtown area)",55000.0,Data_Analyst,Mid_level
+79,        American Express,"New York, NY",55000.0,Data_Analyst,Mid_level
+80,        TEGNA,"New York, NY",55000.0,Data_Analyst,Mid_level
+81,    SQAD LLC,"Tarrytown, NY",55000.0,Data_Analyst,Mid_level
+82,    Scienaptic Systems Inc,"New York, NY",55000.0,Data_Analyst,Mid_level
+83,    AXA : France,"New York, NY",55000.0,Data_Analyst,Mid_level
+84,        IBM,"Armonk, NY",55000.0,Data_Analyst,Mid_level
+85,        Voya Financial,"New York, NY",55000.0,Data_Analyst,Mid_level
+86,    HARITA INFOTECH,"New York, NY",55000.0,Data_Analyst,Mid_level
+87,        New York City Department of Education .,"New York, NY",55000.0,Data_Analyst,Mid_level
+88,"    Nucleus Marketing Solutions, Inc.","New York, NY 10038 (Financial District area)",55000.0,Data_Analyst,Mid_level
+89,    Veterans Sourcing Group,"New York, NY 10017 (Midtown area)",55000.0,Data_Analyst,Mid_level
+90,    21Tech,"New York, NY",55000.0,Data_Analyst,Mid_level
+91,        Northwell Health,"Manhasset, NY",55000.0,Data_Analyst,Mid_level
+92,    Veterans Sourcing Group,"New York, NY 10004 (Financial District area)",55000.0,Data_Analyst,Mid_level
+93,        Springer Nature,"New York, NY",55000.0,Data_Analyst,Mid_level
+94,        Marc Jacobs,"New York, NY",55000.0,Data_Analyst,Mid_level
+95,        Planned Systems International,"Brooklyn, NY",55000.0,Data_Analyst,Mid_level
+96,    Axiom,"New York, NY",55000.0,Data_Analyst,Mid_level
+97,    Rodale Inc.,"New York, NY",55000.0,Data_Analyst,Mid_level
+98,        Voya Financial,"New York, NY",55000.0,Data_Analyst,Mid_level
+99,        Time Warner Cable,"Stamford, CT",55000.0,Data_Analyst,Mid_level
+100,        American Express,"New York, NY",55000.0,Data_Analyst,Mid_level
+101,        NICE,"New York, NY 10001 (Chelsea area)",55000.0,Data_Analyst,Mid_level
+102,    ASTA CRS INC.,"New York, NY",55000.0,Data_Analyst,Mid_level
+103,        KPMG,"New York, NY 10154",55000.0,Data_Analyst,Mid_level
+104,        KPMG,"New York, NY 10154",55000.0,Data_Analyst,Mid_level
+0,        TD Ameritrade,"Jersey City, NJ",55000.0,Data_Analyst,Senior_level
+1,        Accenture,"New York, NY 10011",55000.0,Data_Analyst,Senior_level
+2,        Crystal Run Healthcare,"Middletown, NY 10941",55000.0,Data_Analyst,Senior_level
+3,    Veterans Sourcing Group,"Brooklyn, NY 11217 (Boerum Hill area)",55000.0,Data_Analyst,Senior_level
+4,    Grubhub,"New York, NY",55000.0,Data_Analyst,Senior_level
+5,        MassMutual Financial Group,"New York, NY",55000.0,Data_Analyst,Senior_level
+6,        American Express,"New York, NY",55000.0,Data_Analyst,Senior_level
+7,    MAYORS OFFICE OF CONTRACT SVCS,"Manhattan, NY",55000.0,Data_Analyst,Senior_level
+8,    FAIR Health,"New York, NY 10017 (Midtown area)",55000.0,Data_Analyst,Senior_level
+9,        Dow Jones,"New York, NY 10176 (Murray Hill area)",55000.0,Data_Analyst,Senior_level
+10,        Razorfish,"New York, NY",55000.0,Data_Analyst,Senior_level
+11,    Veterans Sourcing Group,"Berkeley Heights, NJ 07922",55000.0,Data_Analyst,Senior_level
+12,    ArborSys Group,"Bridgewater, NJ 08807",55000.0,Data_Analyst,Senior_level
+13,        Johnson & Johnson,"New Brunswick, NJ",55000.0,Data_Analyst,Senior_level
+14,        Major League Baseball Advanced Media,"New York, NY",55000.0,Data_Analyst,Senior_level
+15,        Sapient Global Markets,"New York, NY",55000.0,Data_Analyst,Senior_level
+16,        Undertone,"New York, NY 10173 (Midtown area)",55000.0,Data_Analyst,Senior_level
+17,"        Gartner, Inc.","Stamford, CT 06902 (Downtown area)",55000.0,Data_Analyst,Senior_level
+18,    IAC Applications,"Yonkers, NY",55000.0,Data_Analyst,Senior_level
+19,        NYU Langone Medical Center,"New York, NY",55000.0,Data_Analyst,Senior_level
+20,        TIAA,"New York, NY 10002 (Lower East Side area)",55000.0,Data_Analyst,Senior_level
+21,    Moody's Shared Services,"New York, NY",55000.0,Data_Analyst,Senior_level
+22,        Attention,"New York, NY",55000.0,Data_Analyst,Senior_level
+23,"        Brooks Brothers Group, Inc","New York, NY",55000.0,Data_Analyst,Senior_level
+24,        Mount Sinai Health System,"New York, NY 10029 (Yorkville area)",55000.0,Data_Analyst,Senior_level
+25,        Meetup,"New York, NY 10012 (Little Italy area)",55000.0,Data_Analyst,Senior_level
+26,        Univision communications inc,"New York, NY",55000.0,Data_Analyst,Senior_level
+27,"    Kani Soutions, Inc","New York, NY 10019 (Midtown area)",55000.0,Data_Analyst,Senior_level
+28,    CDM New York,"New York, NY",55000.0,Data_Analyst,Senior_level
+29,        TD Ameritrade,"Jersey City, NJ",55000.0,Data_Analyst,Senior_level
+30,        Capital One,"New York, NY",55000.0,Data_Analyst,Senior_level
+31,        American Express,"New York, NY",55000.0,Data_Analyst,Senior_level
+32,    SQA Solution,"New York, NY",55000.0,Data_Analyst,Senior_level
+33,        Arup,"New York, NY",55000.0,Data_Analyst,Senior_level
+34,    Knowledgent Group Inc.,"New York, NY",55000.0,Data_Analyst,Senior_level
+35,"    CTG, Inc.","Brooklyn, NY",55000.0,Data_Analyst,Senior_level
+36,        JPMorgan Chase,"New York, NY",55000.0,Data_Analyst,Senior_level
+37,        comScore,"New York, NY",55000.0,Data_Analyst,Senior_level
+38,        Church Pension Group,"New York, NY",55000.0,Data_Analyst,Senior_level
+39,    Paperless Post,"New York, NY",55000.0,Data_Analyst,Senior_level
+40,        Fareportal Inc.,"New York, NY 10020 (Midtown area)",55000.0,Data_Analyst,Senior_level
+41,        WeWork,"New York, NY 10005 (Financial District area)",55000.0,Data_Analyst,Senior_level
+42,"    Source of Future Technology, Inc.","New York, NY",55000.0,Data_Analyst,Senior_level
+43,        American Express,"New York, NY",55000.0,Data_Analyst,Senior_level
+44,        Momentum,"New York, NY 10013 (Tribeca area)",55000.0,Data_Analyst,Senior_level
+45,    SoHo Dragon,"New York, NY 10004 (Financial District area)",55000.0,Data_Analyst,Senior_level
+46,        BNY Mellon,"Lawrenceville, NJ",55000.0,Data_Analyst,Senior_level
+47,        OrthoNet,"White Plains, NY 10605",55000.0,Data_Analyst,Senior_level
+48,        Disney ABC Television Group,"New York, NY",55000.0,Data_Analyst,Senior_level
+49,    Spreemo,"New York, NY",55000.0,Data_Analyst,Senior_level
+50,        QuintilesIMS,"New York, NY",55000.0,Data_Analyst,Senior_level
+51,    HARITA INFOTECH,"New York, NY",55000.0,Data_Analyst,Senior_level
+52,        ZS Associates,"New York, NY 10017 (Midtown area)",55000.0,Data_Analyst,Senior_level
+53,        HSBC,"New York, NY",55000.0,Data_Analyst,Senior_level
+54,        Goldman Sachs,"New York, NY",55000.0,Data_Analyst,Senior_level
+55,    Huxley Banking & Financial Services,"New York, NY",55000.0,Data_Analyst,Senior_level
+56,        Pearson,"New York, NY 10013 (Tribeca area)",55000.0,Data_Analyst,Senior_level
+57,        Markit,"New York, NY",55000.0,Data_Analyst,Senior_level
+58,        Church Pension Group,"New York, NY",55000.0,Data_Analyst,Senior_level
+59,        GroupM,"New York, NY",55000.0,Data_Analyst,Senior_level
+60,        Ross Stores,"New York, NY",55000.0,Data_Analyst,Senior_level
+61,        Time Warner Cable,"Stamford, CT",55000.0,Data_Analyst,Senior_level
+62,        Accenture,"New York, NY 10011 (Chelsea area)",55000.0,Data_Analyst,Senior_level
+63,    SKIM,"New York, NY",55000.0,Data_Analyst,Senior_level
+64,        Metropolitan Transportation Authority,"Manhattan, NY",55000.0,Data_Analyst,Senior_level
+65,        Daymon,"Stamford, CT",55000.0,Data_Analyst,Senior_level
+66,        Yodle,"New York, NY 10001 (Chelsea area)",55000.0,Data_Analyst,Senior_level
+67,        Time Warner Cable,"Stamford, CT",55000.0,Data_Analyst,Senior_level
+68,        Metropolitan Transportation Authority,"Manhattan, NY",55000.0,Data_Analyst,Senior_level
+69,        American Express,"New York, NY",55000.0,Data_Analyst,Senior_level
+70,    1stdibs.com,"New York, NY",55000.0,Data_Analyst,Senior_level
+71,    MAYORS OFFICE OF CONTRACT SVCS,"Manhattan, NY",55000.0,Data_Analyst,Senior_level
+72,    Veterans Sourcing Group,"Lawrenceville, NJ",55000.0,Data_Analyst,Senior_level
+73,    Integral Ad Science,"New York, NY",55000.0,Data_Analyst,Senior_level
+74,        Absolutdata,"New York, NY",55000.0,Data_Analyst,Senior_level
+75,        Spotify,"New York, NY 10011 (Chelsea area)",55000.0,Data_Analyst,Senior_level
+76,        INTL FCStone,"New York, NY",55000.0,Data_Analyst,Senior_level
+77,"        Intercontinental Exchange, Inc.","New York, NY 10022 (Midtown area)",55000.0,Data_Analyst,Senior_level
+78,    EZOPS,"New Brunswick, NJ",55000.0,Data_Analyst,Senior_level
+79,        Rockwell Collins,"New York, NY",55000.0,Data_Analyst,Senior_level
+80,        Altice USA Cable Operations,"Bethpage, NY",55000.0,Data_Analyst,Senior_level
+81,        NICE,"Hoboken, NJ",55000.0,Data_Analyst,Senior_level
+82,        RAYMOND JAMES FINANCIAL,"New York, NY",55000.0,Data_Analyst,Senior_level
+83,        Dow Jones,"Princeton, NJ 08542",55000.0,Data_Analyst,Senior_level
+84,        CAPCO,"New York, NY 10271 (Financial District area)",55000.0,Data_Analyst,Senior_level
+85,    Rockstar New York,"New York, NY",55000.0,Data_Analyst,Senior_level
+86,    Veterans Sourcing Group,"New Brunswick, NJ 08903",55000.0,Data_Analyst,Senior_level
+87,        Healthfirst,"New York, NY",55000.0,Data_Analyst,Senior_level
+88,        AIG,"New York, NY",55000.0,Data_Analyst,Senior_level
+89,        Aetna,"New York, NY 10016 (Gramercy area)",55000.0,Data_Analyst,Senior_level
+90,    Oliver James Associates,"New York, NY",55000.0,Data_Analyst,Senior_level
+91,        Analytic Recruiting,"New York, NY 10017 (Midtown area)",55000.0,Data_Analyst,Senior_level
+92,        American Express,"New York, NY",55000.0,Data_Analyst,Senior_level
+93,        Perella Weinberg Partners,"New York, NY 10153 (Midtown area)",55000.0,Data_Analyst,Senior_level
+94,        Charter Communications,"Stamford, CT",55000.0,Data_Analyst,Senior_level
+95,    eSystems Inc.,"Princeton, NJ 08540",55000.0,Data_Analyst,Senior_level
+96,    Veterans Sourcing Group,"Lawrenceville, NJ",55000.0,Data_Analyst,Senior_level
+97,    Selby Jennings,"New York, NY 10167 (Midtown area)",55000.0,Data_Analyst,Senior_level
+98,        Mount Sinai Health System,"New York, NY 10019 (Midtown area)",55000.0,Data_Analyst,Senior_level
+99,    MAYORS OFFICE OF CONTRACT SVCS,"Manhattan, NY",55000.0,Data_Analyst,Senior_level
+100,        McGraw-Hill Education,"New York, NY",55000.0,Data_Analyst,Senior_level
+101,"    Hill & Knowlton, Inc.","New York, NY",55000.0,Data_Analyst,Senior_level
+102,        News Corp,"New York, NY 10036",55000.0,Data_Analyst,Senior_level
+103,        Prudential,"Newark, NJ 07101",55000.0,Data_Analyst,Senior_level
+104,        Prudential,"Newark, NJ 07102",55000.0,Data_Analyst,Senior_level
+0,    Star Gas Partners LP,"Woodbury, NY",70000.0,Data_Analyst,Entry_level
+1,        ANN INC.,"New York, NY 10001",70000.0,Data_Analyst,Entry_level
+2,        Time Inc,"New York, NY 10020",70000.0,Data_Analyst,Entry_level
+3,    Veterans Sourcing Group,"Brooklyn, NY 11203",70000.0,Data_Analyst,Entry_level
+4,    New Avon LLC,"New York, NY",70000.0,Data_Analyst,Entry_level
+5,        BMO Financial Group,"New York, NY",70000.0,Data_Analyst,Entry_level
+6,    Viant,"New York, NY",70000.0,Data_Analyst,Entry_level
+7,    Global Strategy Group,"New York, NY 10003 (Greenwich Village area)",70000.0,Data_Analyst,Entry_level
+8,        East West Bank,"New York, NY",70000.0,Data_Analyst,Entry_level
+9,    Tilting Point,"New York, NY",70000.0,Data_Analyst,Entry_level
+10,"    Two Sigma Investments, LLC.","New York, NY",70000.0,Data_Analyst,Entry_level
+11,    Corporate Technology,"New York, NY",70000.0,Data_Analyst,Entry_level
+12,        AOL,"New York, NY 10011 (Chelsea area)",70000.0,Data_Analyst,Entry_level
+13,        IPG Mediabrands,"New York, NY",70000.0,Data_Analyst,Entry_level
+14,        Weill Cornell Medical College,"New York, NY",70000.0,Data_Analyst,Entry_level
+15,"    Two Sigma Investments, LLC.","New York, NY",70000.0,Data_Analyst,Entry_level
+16,    Moody's Shared Services,"New York, NY",70000.0,Data_Analyst,Entry_level
+17,        Accenture,"New York, NY 10011 (Chelsea area)",70000.0,Data_Analyst,Entry_level
+18,    HelloFresh,"New York, NY",70000.0,Data_Analyst,Entry_level
+19,        GroupM,"New York, NY",70000.0,Data_Analyst,Entry_level
+20,        IBM,"Armonk, NY",70000.0,Data_Analyst,Entry_level
+21,        AOL,"New York, NY 10011 (Chelsea area)",70000.0,Data_Analyst,Entry_level
+22,"    Two Sigma Investments, LLC.","New York, NY",70000.0,Data_Analyst,Entry_level
+23,    The Michael J. Fox Foundation for Parkinson's Rese...,"New York, NY",70000.0,Data_Analyst,Entry_level
+24,    Essence,"New York, NY",70000.0,Data_Analyst,Entry_level
+25,    Dascase Technologies Inc,"New Brunswick, NJ",70000.0,Data_Analyst,Entry_level
+26,        3Q Digital,"New York, NY",70000.0,Data_Analyst,Entry_level
+27,    Looker,"New York, NY",70000.0,Data_Analyst,Entry_level
+28,        Ipsos North America,"New York, NY",70000.0,Data_Analyst,Entry_level
+29,        NewYork-Presbyterian/Weill Cornell Medical Center,"New York, NY",70000.0,Data_Analyst,Entry_level
+30,        Intercept Pharmaceuticals,"New York, NY 10013 (Tribeca area)",70000.0,Data_Analyst,Entry_level
+31,        Healthfirst,"New York, NY",70000.0,Data_Analyst,Entry_level
+32,    Jamestown Management Corporation,"Brooklyn, NY",70000.0,Data_Analyst,Entry_level
+33,        AOL,"New York, NY 10011 (Chelsea area)",70000.0,Data_Analyst,Entry_level
+34,    AskMyUncleSam,"New York, NY",70000.0,Data_Analyst,Entry_level
+35,        Ipsos North America,"New York, NY",70000.0,Data_Analyst,Entry_level
+36,    Brooklyn Data Science,"New York, NY",70000.0,Data_Analyst,Entry_level
+37,    Star Gas Partners LP,"Woodbury, NY",70000.0,Data_Analyst,Entry_level
+38,    Rocketrip,"Manhattan, NY",70000.0,Data_Analyst,Entry_level
+39,    Veterans Sourcing Group,"New York, NY 10005 (Financial District area)",70000.0,Data_Analyst,Entry_level
+40,        Bonobos,"New York, NY",70000.0,Data_Analyst,Entry_level
+41,        Federal Reserve Bank of New York,"New York, NY",70000.0,Data_Analyst,Entry_level
+42,        Morgan Stanley,"New York, NY 10032 (Washington Heights area)",70000.0,Data_Analyst,Entry_level
+43,        Dailymotion,"New York, NY",70000.0,Data_Analyst,Entry_level
+44,        Advertising Age,"New York, NY",70000.0,Data_Analyst,Entry_level
+45,        Barnes & Noble,"New York, NY",70000.0,Data_Analyst,Entry_level
+46,        Voya Financial,"New York, NY",70000.0,Data_Analyst,Entry_level
+47,        Public Health Solutions,"New York, NY 10013 (Tribeca area)",70000.0,Data_Analyst,Entry_level
+48,        ShopKeep,"New York, NY",70000.0,Data_Analyst,Entry_level
+49,    Indus Software Solutions Inc.,"New York, NY",70000.0,Data_Analyst,Entry_level
+50,"    InterWorks, Inc.","New York, NY 10014 (West Village area)",70000.0,Data_Analyst,Entry_level
+51,    MUFG,"New York, NY",70000.0,Data_Analyst,Entry_level
+52,        Brown Brothers Harriman,"New York, NY",70000.0,Data_Analyst,Entry_level
+53,        Oxford Solutions,"New York, NY",70000.0,Data_Analyst,Entry_level
+54,    Veterans Sourcing Group,"Jersey City, NJ 07310 (Downtown area)",70000.0,Data_Analyst,Entry_level
+55,        Phreesia,"New York, NY",70000.0,Data_Analyst,Entry_level
+56,    Lux Research,"New York, NY",70000.0,Data_Analyst,Entry_level
+57,        Jamestown,"Brooklyn, NY",70000.0,Data_Analyst,Entry_level
+58,        AlixPartners,"New York, NY 10019 (Midtown area)",70000.0,Data_Analyst,Entry_level
+59,        1010data,"New York, NY",70000.0,Data_Analyst,Entry_level
+60,        Undertone,"New York, NY 10173 (Midtown area)",70000.0,Data_Analyst,Entry_level
+61,        Gap,"New York, NY",70000.0,Data_Analyst,Entry_level
+62,        NewYork-Presbyterian/Morgan Stanley Children's Hos...,"New York, NY",70000.0,Data_Analyst,Entry_level
+63,        Viacom,"New York, NY",70000.0,Data_Analyst,Entry_level
+64,"        Williams-Sonoma, Inc.","Brooklyn, NY 11201",70000.0,Data_Analyst,Entry_level
+65,        Marlabs Inc.,"Jersey City, NJ",70000.0,Data_Analyst,Entry_level
+66,        Fidelis Care,"New York, NY",70000.0,Data_Analyst,Entry_level
+67,        Stamford Hospital,"Stamford, CT",70000.0,Data_Analyst,Entry_level
+68,        NBCUniversal,"New York, NY",70000.0,Data_Analyst,Entry_level
+69,    NuRide Transportation Group,"Long Island City, NY 11101",70000.0,Data_Analyst,Entry_level
+70,        Intermix,"New York, NY 10018 (Clinton area)",70000.0,Data_Analyst,Entry_level
+71,"    BroadPeak Partners, Inc.","New York, NY 10016 (Gramercy area)",70000.0,Data_Analyst,Entry_level
+72,        Humanscale,"Piscataway, NJ 08854",70000.0,Data_Analyst,Entry_level
+73,        McKinsey & Company,"New York, NY 10022 (Midtown area)",70000.0,Data_Analyst,Entry_level
+74,    Datadog,"New York, NY 10001 (Chelsea area)",70000.0,Data_Analyst,Entry_level
+75,    Analytic Partners,"New York, NY 10017 (Midtown area)",70000.0,Data_Analyst,Entry_level
+76,        TD Ameritrade,"Jersey City, NJ",70000.0,Data_Analyst,Entry_level
+77,    Post Acute Partners,"New York, NY",70000.0,Data_Analyst,Entry_level
+78,        Guidepoint Global,"New York, NY 10017 (Midtown area)",70000.0,Data_Analyst,Entry_level
+79,        NASDAQ,"New York, NY",70000.0,Data_Analyst,Entry_level
+80,    GinasTechJobs.com,"New York, NY",70000.0,Data_Analyst,Entry_level
+81,        GE Careers,"Stamford, CT 06902 (Downtown area)",70000.0,Data_Analyst,Entry_level
+82,        Hospital for Special Surgery,"New York, NY",70000.0,Data_Analyst,Entry_level
+83,    Critical Positioning (Recruiting on behalf Client...,"New York, NY",70000.0,Data_Analyst,Entry_level
+84,    Veterans Sourcing Group,"Jersey City, NJ 07310 (Downtown area)",70000.0,Data_Analyst,Entry_level
+85,        American Express,"New York, NY",70000.0,Data_Analyst,Entry_level
+86,        Federal Reserve Bank of New York,"New York, NY",70000.0,Data_Analyst,Entry_level
+87,    SSA & Company,"New York, NY",70000.0,Data_Analyst,Entry_level
+88,        Razorfish,"New York, NY",70000.0,Data_Analyst,Entry_level
+89,        Workbridge Associates,"New York, NY 10017 (Midtown area)",70000.0,Data_Analyst,Entry_level
+90,        Scotiabank,"New York, NY",70000.0,Data_Analyst,Entry_level
+91,    Hilton Garden Inn New York/West 35th Street,"New York, NY",70000.0,Data_Analyst,Entry_level
+92,    Computing Concepts Inc.,"New York, NY 10036",70000.0,Data_Analyst,Entry_level
+93,        IPG Mediabrands,"New York, NY",70000.0,Data_Analyst,Entry_level
+94,        Indeed,"Stamford, CT 06901 (Downtown area)",70000.0,Data_Analyst,Entry_level
+95,    The Week and Mental Floss,"New York, NY 10018 (Clinton area)",70000.0,Data_Analyst,Entry_level
+96,        Vox Media,"New York, NY",70000.0,Data_Analyst,Entry_level
+97,        DEPARTMENT OF SANITATION,"New York, NY",70000.0,Data_Analyst,Entry_level
+98,"    DoubleVerify, Inc","New York, NY 10018 (Clinton area)",70000.0,Data_Analyst,Entry_level
+99,        Visa,"New York, NY 10017 (Midtown area)",70000.0,Data_Analyst,Entry_level
+100,        Macquarie Group Limited,"New York, NY",70000.0,Data_Analyst,Entry_level
+101,        ICF International,"New York, NY",70000.0,Data_Analyst,Entry_level
+102,    Averity,"New York, NY",70000.0,Data_Analyst,Entry_level
+103,    Predictive Science,United States,70000.0,Data_Analyst,Entry_level
+104,        Indeed,"New York, NY 10036",70000.0,Data_Analyst,Entry_level
+0,"    AbilTo, Inc","New York, NY 10018",70000.0,Data_Analyst,Mid_level
+1,        Crystal Run Healthcare,"Middletown, NY 10941",70000.0,Data_Analyst,Mid_level
+2,        KPMG,"New York, NY 10154",70000.0,Data_Analyst,Mid_level
+3,        NYC Taxi and Limousine Commission,"New York, NY 10004 (Financial District area)",70000.0,Data_Analyst,Mid_level
+4,        Time Warner Cable,"Stamford, CT",70000.0,Data_Analyst,Mid_level
+5,        NBCUniversal,"New York, NY",70000.0,Data_Analyst,Mid_level
+6,        Citi,"New York, NY",70000.0,Data_Analyst,Mid_level
+7,        Accenture,"New York, NY 10011 (Chelsea area)",70000.0,Data_Analyst,Mid_level
+8,    Veterans Sourcing Group,"Township of Lawrence, NJ 08648",70000.0,Data_Analyst,Mid_level
+9,    Veterans Sourcing Group,"Pennington, NJ 08534",70000.0,Data_Analyst,Mid_level
+10,        TAXI & LIMOUSINE COMMISSION,"New York, NY",70000.0,Data_Analyst,Mid_level
+11,    Veterans Sourcing Group,"Pennington, NJ 08534",70000.0,Data_Analyst,Mid_level
+12,        Maxus,"New York, NY",70000.0,Data_Analyst,Mid_level
+13,        GroupM,"New York, NY",70000.0,Data_Analyst,Mid_level
+14,    Veterans Sourcing Group,"New York, NY 10019 (Midtown area)",70000.0,Data_Analyst,Mid_level
+15,        NYU Langone Medical Center,"New York, NY",70000.0,Data_Analyst,Mid_level
+16,        Morgan Stanley,"New York, NY 10032 (Washington Heights area)",70000.0,Data_Analyst,Mid_level
+17,        Spotify,"New York, NY 10011 (Chelsea area)",70000.0,Data_Analyst,Mid_level
+18,        L2,"New York, NY 10012 (Little Italy area)",70000.0,Data_Analyst,Mid_level
+19,    GlobeTax,"New York, NY",70000.0,Data_Analyst,Mid_level
+20,        VillageCare,"Manhattan, NY",70000.0,Data_Analyst,Mid_level
+21,        Ipsos North America,"New York, NY",70000.0,Data_Analyst,Mid_level
+22,        Weill Cornell Medical College,"New York, NY",70000.0,Data_Analyst,Mid_level
+23,    Prolific Interactive,"New York, NY",70000.0,Data_Analyst,Mid_level
+24,        GroupM,"New York, NY",70000.0,Data_Analyst,Mid_level
+25,        Roku,"New York, NY 10001 (Chelsea area)",70000.0,Data_Analyst,Mid_level
+26,        Omnicom Health Group,"New York, NY",70000.0,Data_Analyst,Mid_level
+27,"    Snap Interactive, Inc.","New York, NY",70000.0,Data_Analyst,Mid_level
+28,        Slice,"New York, NY",70000.0,Data_Analyst,Mid_level
+29,    EMG INCORP,"Long Island City, NY",70000.0,Data_Analyst,Mid_level
+30,    Brooklyn Data Science,"New York, NY",70000.0,Data_Analyst,Mid_level
+31,        Voya Financial,"New York, NY",70000.0,Data_Analyst,Mid_level
+32,        Barnes & Noble,"New York, NY",70000.0,Data_Analyst,Mid_level
+33,        eBay,"New York, NY 10011 (Chelsea area)",70000.0,Data_Analyst,Mid_level
+34,        Adept Solutions,"Purchase, NY",70000.0,Data_Analyst,Mid_level
+35,        Comcast,"New York, NY 10112 (Midtown area)",70000.0,Data_Analyst,Mid_level
+36,        DentaQuest,"New York, NY",70000.0,Data_Analyst,Mid_level
+37,        Kaplan,"New York, NY",70000.0,Data_Analyst,Mid_level
+38,        Anheuser-Busch,"New York, NY",70000.0,Data_Analyst,Mid_level
+39,    Veterans Sourcing Group,"Township of Lawrence, NJ 08648",70000.0,Data_Analyst,Mid_level
+40,        Fusion,"New York, NY 10019 (Midtown area)",70000.0,Data_Analyst,Mid_level
+41,        WeWork,"New York, NY 10005 (Financial District area)",70000.0,Data_Analyst,Mid_level
+42,        Kaplan,"New York, NY",70000.0,Data_Analyst,Mid_level
+43,        Oscar Insurance,"New York, NY 10012 (Little Italy area)",70000.0,Data_Analyst,Mid_level
+44,        American Express,"New York, NY",70000.0,Data_Analyst,Mid_level
+45,        MongoDB,"New York, NY",70000.0,Data_Analyst,Mid_level
+46,    Paperless Post,"New York, NY",70000.0,Data_Analyst,Mid_level
+47,        EXPERIAN,"New York, NY 10020 (Midtown area)",70000.0,Data_Analyst,Mid_level
+48,        Union for Reform Judaism,"New York, NY 10115 (Hamilton Heights area)",70000.0,Data_Analyst,Mid_level
+49,        Visiting Nurse Service of New York,"Manhattan, NY",70000.0,Data_Analyst,Mid_level
+50,    Convex Connections Corporation,"New York, NY",70000.0,Data_Analyst,Mid_level
+51,        DBRS,"New York, NY 10005 (Financial District area)",70000.0,Data_Analyst,Mid_level
+52,        IBM,"Armonk, NY",70000.0,Data_Analyst,Mid_level
+53,        Ogilvy CommonHealth Worldwide,"New York, NY",70000.0,Data_Analyst,Mid_level
+54,        Intersection,"New York, NY",70000.0,Data_Analyst,Mid_level
+55,        Northwell Health,"Manhasset, NY",70000.0,Data_Analyst,Mid_level
+56,        American Express,"New York, NY",70000.0,Data_Analyst,Mid_level
+57,    TTS Media,"New York, NY",70000.0,Data_Analyst,Mid_level
+58,        KPMG,"New York, NY 10154 (Midtown area)",70000.0,Data_Analyst,Mid_level
+59,    MSCI Inc.,"New York, NY 10007 (Financial District area)",70000.0,Data_Analyst,Mid_level
+60,    SQAD LLC,"Tarrytown, NY",70000.0,Data_Analyst,Mid_level
+61,        Voya Financial,"New York, NY",70000.0,Data_Analyst,Mid_level
+62,"    Nucleus Marketing Solutions, Inc.","New York, NY 10038 (Financial District area)",70000.0,Data_Analyst,Mid_level
+63,    21Tech,"New York, NY",70000.0,Data_Analyst,Mid_level
+64,    AXA : France,"New York, NY",70000.0,Data_Analyst,Mid_level
+65,    HARITA INFOTECH,"New York, NY",70000.0,Data_Analyst,Mid_level
+66,        Voya Financial,"New York, NY",70000.0,Data_Analyst,Mid_level
+67,    ASTA CRS INC.,"New York, NY",70000.0,Data_Analyst,Mid_level
+68,    Rodale Inc.,"New York, NY",70000.0,Data_Analyst,Mid_level
+69,        Healthfirst,"New York, NY",70000.0,Data_Analyst,Mid_level
+70,        Planned Systems International,"Brooklyn, NY",70000.0,Data_Analyst,Mid_level
+71,    Analytic Partners,"New York, NY 10017 (Midtown area)",70000.0,Data_Analyst,Mid_level
+72,        Time Warner Cable,"Stamford, CT",70000.0,Data_Analyst,Mid_level
+73,        Custom Computer Specialists,"Hauppauge, NY",70000.0,Data_Analyst,Mid_level
+74,        EXPERIAN,"New York, NY 10020 (Midtown area)",70000.0,Data_Analyst,Mid_level
+75,        Facebook,"New York, NY",70000.0,Data_Analyst,Mid_level
+76,    W3Global,"Jersey City, NJ",70000.0,Data_Analyst,Mid_level
+77,    Veterans Sourcing Group,"New York, NY 10017 (Midtown area)",70000.0,Data_Analyst,Mid_level
+78,    Orchard Platform,"New York, NY",70000.0,Data_Analyst,Mid_level
+79,        Ralph Lauren,"New York, NY",70000.0,Data_Analyst,Mid_level
+80,        Marc Jacobs,"New York, NY",70000.0,Data_Analyst,Mid_level
+81,    Veterans Sourcing Group,"New York, NY 10004 (Financial District area)",70000.0,Data_Analyst,Mid_level
+82,        Voya Financial,"New York, NY",70000.0,Data_Analyst,Mid_level
+83,    TTS Media,"New York, NY",70000.0,Data_Analyst,Mid_level
+84,"    Conquest Technical Associates, LLC","New York, NY 10016 (Gramercy area)",70000.0,Data_Analyst,Mid_level
+85,    Axiom,"New York, NY",70000.0,Data_Analyst,Mid_level
+86,    Analytic Partners,"New York, NY 10017 (Midtown area)",70000.0,Data_Analyst,Mid_level
+87,        adMarketplace,"New York, NY",70000.0,Data_Analyst,Mid_level
+88,        NICE,"New York, NY 10001 (Chelsea area)",70000.0,Data_Analyst,Mid_level
+89,    Sparks & Honey,"New York, NY",70000.0,Data_Analyst,Mid_level
+90,        Bonnier Corporation,"New York, NY",70000.0,Data_Analyst,Mid_level
+91,    KBRA,"New York, NY 10022 (Midtown area)",70000.0,Data_Analyst,Mid_level
+92,        Milestone Technologies,"New York, NY",70000.0,Data_Analyst,Mid_level
+93,        KPMG,"New York, NY 10154 (Midtown area)",70000.0,Data_Analyst,Mid_level
+94,        Morgan Stanley,"New York, NY 10032 (Washington Heights area)",70000.0,Data_Analyst,Mid_level
+95,        Teledyne LeCroy Inc.,"Chestnut Ridge, NY",70000.0,Data_Analyst,Mid_level
+96,        New York Power Authority,"White Plains, NY 10601",70000.0,Data_Analyst,Mid_level
+97,    Orthology Inc.,"New York, NY",70000.0,Data_Analyst,Mid_level
+98,"    Orzota, Inc.","New York, NY",70000.0,Data_Analyst,Mid_level
+99,        American Express,"New York, NY",70000.0,Data_Analyst,Mid_level
+100,        Brown Advisory,"New York, NY",70000.0,Data_Analyst,Mid_level
+101,        Blue Apron,"New York, NY 10013 (Tribeca area)",70000.0,Data_Analyst,Mid_level
+102,        Phreesia,"New York, NY",70000.0,Data_Analyst,Mid_level
+103,        KPMG,"New York, NY 10154",70000.0,Data_Analyst,Mid_level
+104,        KPMG,"New York, NY 10154",70000.0,Data_Analyst,Mid_level
+0,        TD Ameritrade,"Jersey City, NJ",70000.0,Data_Analyst,Senior_level
+1,        Prudential,"Newark, NJ 07101",70000.0,Data_Analyst,Senior_level
+2,        TD Bank,"Mount Laurel, NJ",70000.0,Data_Analyst,Senior_level
+3,    Veterans Sourcing Group,"Brooklyn, NY 11217 (Boerum Hill area)",70000.0,Data_Analyst,Senior_level
+4,    Grubhub,"New York, NY",70000.0,Data_Analyst,Senior_level
+5,        MassMutual Financial Group,"New York, NY",70000.0,Data_Analyst,Senior_level
+6,        American Express,"New York, NY",70000.0,Data_Analyst,Senior_level
+7,    MAYORS OFFICE OF CONTRACT SVCS,"Manhattan, NY",70000.0,Data_Analyst,Senior_level
+8,    FAIR Health,"New York, NY 10017 (Midtown area)",70000.0,Data_Analyst,Senior_level
+9,        Razorfish,"New York, NY",70000.0,Data_Analyst,Senior_level
+10,    ArborSys Group,"Bridgewater, NJ 08807",70000.0,Data_Analyst,Senior_level
+11,        Major League Baseball Advanced Media,"New York, NY",70000.0,Data_Analyst,Senior_level
+12,        Sapient Global Markets,"New York, NY",70000.0,Data_Analyst,Senior_level
+13,        Undertone,"New York, NY 10173 (Midtown area)",70000.0,Data_Analyst,Senior_level
+14,"        Gartner, Inc.","Stamford, CT 06902 (Downtown area)",70000.0,Data_Analyst,Senior_level
+15,    IAC Applications,"Yonkers, NY",70000.0,Data_Analyst,Senior_level
+16,        NYU Langone Medical Center,"New York, NY",70000.0,Data_Analyst,Senior_level
+17,        TIAA,"New York, NY 10002 (Lower East Side area)",70000.0,Data_Analyst,Senior_level
+18,    Moody's Shared Services,"New York, NY",70000.0,Data_Analyst,Senior_level
+19,    Veterans Sourcing Group,"Berkeley Heights, NJ 07922",70000.0,Data_Analyst,Senior_level
+20,"        Brooks Brothers Group, Inc","New York, NY",70000.0,Data_Analyst,Senior_level
+21,        Mount Sinai Health System,"New York, NY 10029 (Yorkville area)",70000.0,Data_Analyst,Senior_level
+22,        Meetup,"New York, NY 10012 (Little Italy area)",70000.0,Data_Analyst,Senior_level
+23,        Univision communications inc,"New York, NY",70000.0,Data_Analyst,Senior_level
+24,"    Kani Soutions, Inc","New York, NY 10019 (Midtown area)",70000.0,Data_Analyst,Senior_level
+25,    CDM New York,"New York, NY",70000.0,Data_Analyst,Senior_level
+26,        TD Ameritrade,"Jersey City, NJ",70000.0,Data_Analyst,Senior_level
+27,        Capital One,"New York, NY",70000.0,Data_Analyst,Senior_level
+28,        American Express,"New York, NY",70000.0,Data_Analyst,Senior_level
+29,    SQA Solution,"New York, NY",70000.0,Data_Analyst,Senior_level
+30,        Arup,"New York, NY",70000.0,Data_Analyst,Senior_level
+31,    Knowledgent Group Inc.,"New York, NY",70000.0,Data_Analyst,Senior_level
+32,"    CTG, Inc.","Brooklyn, NY",70000.0,Data_Analyst,Senior_level
+33,        JPMorgan Chase,"New York, NY",70000.0,Data_Analyst,Senior_level
+34,        Church Pension Group,"New York, NY",70000.0,Data_Analyst,Senior_level
+35,    Paperless Post,"New York, NY",70000.0,Data_Analyst,Senior_level
+36,        Fareportal Inc.,"New York, NY 10020 (Midtown area)",70000.0,Data_Analyst,Senior_level
+37,        WeWork,"New York, NY 10005 (Financial District area)",70000.0,Data_Analyst,Senior_level
+38,"    Source of Future Technology, Inc.","New York, NY",70000.0,Data_Analyst,Senior_level
+39,        American Express,"New York, NY",70000.0,Data_Analyst,Senior_level
+40,        Momentum,"New York, NY 10013 (Tribeca area)",70000.0,Data_Analyst,Senior_level
+41,    SoHo Dragon,"New York, NY 10004 (Financial District area)",70000.0,Data_Analyst,Senior_level
+42,        BNY Mellon,"Lawrenceville, NJ",70000.0,Data_Analyst,Senior_level
+43,        OrthoNet,"White Plains, NY 10605",70000.0,Data_Analyst,Senior_level
+44,    Spreemo,"New York, NY",70000.0,Data_Analyst,Senior_level
+45,        QuintilesIMS,"New York, NY",70000.0,Data_Analyst,Senior_level
+46,    HARITA INFOTECH,"New York, NY",70000.0,Data_Analyst,Senior_level
+47,        ZS Associates,"New York, NY 10017 (Midtown area)",70000.0,Data_Analyst,Senior_level
+48,        HSBC,"New York, NY",70000.0,Data_Analyst,Senior_level
+49,    Huxley Banking & Financial Services,"New York, NY",70000.0,Data_Analyst,Senior_level
+50,        Pearson,"New York, NY 10013 (Tribeca area)",70000.0,Data_Analyst,Senior_level
+51,        Markit,"New York, NY",70000.0,Data_Analyst,Senior_level
+52,        Church Pension Group,"New York, NY",70000.0,Data_Analyst,Senior_level
+53,        GroupM,"New York, NY",70000.0,Data_Analyst,Senior_level
+54,        Ross Stores,"New York, NY",70000.0,Data_Analyst,Senior_level
+55,        Time Warner Cable,"Stamford, CT",70000.0,Data_Analyst,Senior_level
+56,        Accenture,"New York, NY 10011 (Chelsea area)",70000.0,Data_Analyst,Senior_level
+57,    SKIM,"New York, NY",70000.0,Data_Analyst,Senior_level
+58,        Metropolitan Transportation Authority,"Manhattan, NY",70000.0,Data_Analyst,Senior_level
+59,        Yodle,"New York, NY 10001 (Chelsea area)",70000.0,Data_Analyst,Senior_level
+60,        Time Warner Cable,"Stamford, CT",70000.0,Data_Analyst,Senior_level
+61,        Metropolitan Transportation Authority,"Manhattan, NY",70000.0,Data_Analyst,Senior_level
+62,        American Express,"New York, NY",70000.0,Data_Analyst,Senior_level
+63,    1stdibs.com,"New York, NY",70000.0,Data_Analyst,Senior_level
+64,    MAYORS OFFICE OF CONTRACT SVCS,"Manhattan, NY",70000.0,Data_Analyst,Senior_level
+65,    Veterans Sourcing Group,"Lawrenceville, NJ",70000.0,Data_Analyst,Senior_level
+66,        Absolutdata,"New York, NY",70000.0,Data_Analyst,Senior_level
+67,        Spotify,"New York, NY 10011 (Chelsea area)",70000.0,Data_Analyst,Senior_level
+68,        INTL FCStone,"New York, NY",70000.0,Data_Analyst,Senior_level
+69,"        Intercontinental Exchange, Inc.","New York, NY 10022 (Midtown area)",70000.0,Data_Analyst,Senior_level
+70,    EZOPS,"New Brunswick, NJ",70000.0,Data_Analyst,Senior_level
+71,        Rockwell Collins,"New York, NY",70000.0,Data_Analyst,Senior_level
+72,        Altice USA Cable Operations,"Bethpage, NY",70000.0,Data_Analyst,Senior_level
+73,        NICE,"Hoboken, NJ",70000.0,Data_Analyst,Senior_level
+74,        RAYMOND JAMES FINANCIAL,"New York, NY",70000.0,Data_Analyst,Senior_level
+75,        Dow Jones,"Princeton, NJ 08542",70000.0,Data_Analyst,Senior_level
+76,        CAPCO,"New York, NY 10271 (Financial District area)",70000.0,Data_Analyst,Senior_level
+77,    Rockstar New York,"New York, NY",70000.0,Data_Analyst,Senior_level
+78,    Veterans Sourcing Group,"New Brunswick, NJ 08903",70000.0,Data_Analyst,Senior_level
+79,        AIG,"New York, NY",70000.0,Data_Analyst,Senior_level
+80,        Aetna,"New York, NY 10016 (Gramercy area)",70000.0,Data_Analyst,Senior_level
+81,    Oliver James Associates,"New York, NY",70000.0,Data_Analyst,Senior_level
+82,        Analytic Recruiting,"New York, NY 10017 (Midtown area)",70000.0,Data_Analyst,Senior_level
+83,        Perella Weinberg Partners,"New York, NY 10153 (Midtown area)",70000.0,Data_Analyst,Senior_level
+84,    eSystems Inc.,"Princeton, NJ 08540",70000.0,Data_Analyst,Senior_level
+85,    Veterans Sourcing Group,"Lawrenceville, NJ",70000.0,Data_Analyst,Senior_level
+86,    Selby Jennings,"New York, NY 10167 (Midtown area)",70000.0,Data_Analyst,Senior_level
+87,        Mount Sinai Health System,"New York, NY 10019 (Midtown area)",70000.0,Data_Analyst,Senior_level
+88,    MAYORS OFFICE OF CONTRACT SVCS,"Manhattan, NY",70000.0,Data_Analyst,Senior_level
+89,        McGraw-Hill Education,"New York, NY",70000.0,Data_Analyst,Senior_level
+90,"    Hill & Knowlton, Inc.","New York, NY",70000.0,Data_Analyst,Senior_level
+91,        News Corp,"New York, NY 10036",70000.0,Data_Analyst,Senior_level
+92,        Johnson & Johnson Services Inc.,"New Brunswick, NJ",70000.0,Data_Analyst,Senior_level
+93,        Freddie Mac,"New York, NY 10168 (Murray Hill area)",70000.0,Data_Analyst,Senior_level
+94,        CONSUMER AFFAIRS,"Manhattan, NY",70000.0,Data_Analyst,Senior_level
+95,"        J.Crew Group, Inc.","New York, NY 10003 (Greenwich Village area)",70000.0,Data_Analyst,Senior_level
+96,"        Broadridge Financial Solutions, Inc.","Edgewood, NY 11717",70000.0,Data_Analyst,Senior_level
+97,    Brooklyn Data Science,"New York, NY",70000.0,Data_Analyst,Senior_level
+98,    ULTRA Mobile,"Long Island, NY",70000.0,Data_Analyst,Senior_level
+99,    NetBase Solutions,"New York, NY",70000.0,Data_Analyst,Senior_level
+100,    Two95 International Inc.,"New York, NY",70000.0,Data_Analyst,Senior_level
+101,    Informa Business Intelligence,"New York, NY",70000.0,Data_Analyst,Senior_level
+102,        Express Scripts,"Franklin Lakes, NJ 07417",70000.0,Data_Analyst,Senior_level
+103,        Accenture,"New York, NY 10011",70000.0,Data_Analyst,Senior_level
+104,        Prudential,"Newark, NJ 07102",70000.0,Data_Analyst,Senior_level
+0,    Predictive Science,United States,85000.0,Data_Analyst,Entry_level
+1,        Amazon Corporate LLC,United States,85000.0,Data_Analyst,Entry_level
+2,    The Dedham Group (Midtown West),"New York, NY 10119",85000.0,Data_Analyst,Entry_level
+3,        East West Bank,"New York, NY",85000.0,Data_Analyst,Entry_level
+4,    Viant,"New York, NY",85000.0,Data_Analyst,Entry_level
+5,    New Avon LLC,"New York, NY",85000.0,Data_Analyst,Entry_level
+6,        IBM,"Armonk, NY",85000.0,Data_Analyst,Entry_level
+7,    Tilting Point,"New York, NY",85000.0,Data_Analyst,Entry_level
+8,    Star Gas Partners LP,"Woodbury, NY",85000.0,Data_Analyst,Entry_level
+9,"    Two Sigma Investments, LLC.","New York, NY",85000.0,Data_Analyst,Entry_level
+10,    Rocketrip,"Manhattan, NY",85000.0,Data_Analyst,Entry_level
+11,"    Two Sigma Investments, LLC.","New York, NY",85000.0,Data_Analyst,Entry_level
+12,        GroupM,"New York, NY",85000.0,Data_Analyst,Entry_level
+13,    The Michael J. Fox Foundation for Parkinson's Rese...,"New York, NY",85000.0,Data_Analyst,Entry_level
+14,"    Two Sigma Investments, LLC.","New York, NY",85000.0,Data_Analyst,Entry_level
+15,    Dascase Technologies Inc,"New Brunswick, NJ",85000.0,Data_Analyst,Entry_level
+16,    Looker,"New York, NY",85000.0,Data_Analyst,Entry_level
+17,        Ipsos North America,"New York, NY",85000.0,Data_Analyst,Entry_level
+18,        DEPARTMENT OF SANITATION,"New York, NY",85000.0,Data_Analyst,Entry_level
+19,        Intercept Pharmaceuticals,"New York, NY 10013 (Tribeca area)",85000.0,Data_Analyst,Entry_level
+20,        Indeed,"Stamford, CT 06901 (Downtown area)",85000.0,Data_Analyst,Entry_level
+21,        AOL,"New York, NY 10011 (Chelsea area)",85000.0,Data_Analyst,Entry_level
+22,    Brooklyn Data Science,"New York, NY",85000.0,Data_Analyst,Entry_level
+23,        Ipsos North America,"New York, NY",85000.0,Data_Analyst,Entry_level
+24,    AskMyUncleSam,"New York, NY",85000.0,Data_Analyst,Entry_level
+25,        Federal Reserve Bank of New York,"New York, NY",85000.0,Data_Analyst,Entry_level
+26,        Morgan Stanley,"New York, NY 10032 (Washington Heights area)",85000.0,Data_Analyst,Entry_level
+27,        Dailymotion,"New York, NY",85000.0,Data_Analyst,Entry_level
+28,    Indus Software Solutions Inc.,"New York, NY",85000.0,Data_Analyst,Entry_level
+29,        Oxford Solutions,"New York, NY",85000.0,Data_Analyst,Entry_level
+30,    Veterans Sourcing Group,"Jersey City, NJ 07310 (Downtown area)",85000.0,Data_Analyst,Entry_level
+31,        Phreesia,"New York, NY",85000.0,Data_Analyst,Entry_level
+32,        ShopKeep,"New York, NY",85000.0,Data_Analyst,Entry_level
+33,        Marlabs Inc.,"Jersey City, NJ",85000.0,Data_Analyst,Entry_level
+34,        Voya Financial,"New York, NY",85000.0,Data_Analyst,Entry_level
+35,        1010data,"New York, NY",85000.0,Data_Analyst,Entry_level
+36,    Lux Research,"New York, NY",85000.0,Data_Analyst,Entry_level
+37,    MUFG,"New York, NY",85000.0,Data_Analyst,Entry_level
+38,        Brown Brothers Harriman,"New York, NY",85000.0,Data_Analyst,Entry_level
+39,        Undertone,"New York, NY 10173 (Midtown area)",85000.0,Data_Analyst,Entry_level
+40,        McKinsey & Company,"New York, NY 10022 (Midtown area)",85000.0,Data_Analyst,Entry_level
+41,        AlixPartners,"New York, NY 10019 (Midtown area)",85000.0,Data_Analyst,Entry_level
+42,    Datadog,"New York, NY 10001 (Chelsea area)",85000.0,Data_Analyst,Entry_level
+43,        McKinsey & Company,"New York, NY 10022 (Midtown area)",85000.0,Data_Analyst,Entry_level
+44,        Gap,"New York, NY",85000.0,Data_Analyst,Entry_level
+45,        TD Ameritrade,"Jersey City, NJ",85000.0,Data_Analyst,Entry_level
+46,    GinasTechJobs.com,"New York, NY",85000.0,Data_Analyst,Entry_level
+47,        Bloomberg,"New York, NY",85000.0,Data_Analyst,Entry_level
+48,"        Williams-Sonoma, Inc.","Brooklyn, NY 11201",85000.0,Data_Analyst,Entry_level
+49,        Viacom,"New York, NY",85000.0,Data_Analyst,Entry_level
+50,    Critical Positioning (Recruiting on behalf Client...,"New York, NY",85000.0,Data_Analyst,Entry_level
+51,        Federal Reserve Bank of New York,"New York, NY",85000.0,Data_Analyst,Entry_level
+52,        Guidepoint Global,"New York, NY 10017 (Midtown area)",85000.0,Data_Analyst,Entry_level
+53,    Veterans Sourcing Group,"Jersey City, NJ 07310 (Downtown area)",85000.0,Data_Analyst,Entry_level
+54,        Scotiabank,"New York, NY",85000.0,Data_Analyst,Entry_level
+55,        Workbridge Associates,"New York, NY 10017 (Midtown area)",85000.0,Data_Analyst,Entry_level
+56,    Spearhead Staffing,"Bridgewater, NJ",85000.0,Data_Analyst,Entry_level
+57,    Computing Concepts Inc.,"New York, NY 10036",85000.0,Data_Analyst,Entry_level
+58,"    BroadPeak Partners, Inc.","New York, NY 10016 (Gramercy area)",85000.0,Data_Analyst,Entry_level
+59,        Hospital for Special Surgery,"New York, NY",85000.0,Data_Analyst,Entry_level
+60,    Averity,"New York, NY",85000.0,Data_Analyst,Entry_level
+61,    Averity,"New York, NY",85000.0,Data_Analyst,Entry_level
+62,"    DoubleVerify, Inc","New York, NY 10018 (Clinton area)",85000.0,Data_Analyst,Entry_level
+63,    Post Acute Partners,"New York, NY",85000.0,Data_Analyst,Entry_level
+64,        Macquarie Group Limited,"New York, NY",85000.0,Data_Analyst,Entry_level
+65,    SSA & Company,"New York, NY",85000.0,Data_Analyst,Entry_level
+66,        Blackstone,"New York, NY",85000.0,Data_Analyst,Entry_level
+67,        Galvanize,"New York, NY",85000.0,Data_Analyst,Entry_level
+68,    Averity,"New York, NY",85000.0,Data_Analyst,Entry_level
+69,        Visa,"New York, NY 10017 (Midtown area)",85000.0,Data_Analyst,Entry_level
+70,        Moody's Investors Service,"New York, NY 10007 (Financial District area)",85000.0,Data_Analyst,Entry_level
+71,"    Jefferies & Company, Inc.","New York, NY 10162 (Upper East Side area)",85000.0,Data_Analyst,Entry_level
+72,"        Broadridge Financial Solutions, Inc.","New York, NY 10016 (Gramercy area)",85000.0,Data_Analyst,Entry_level
+73,    Lux Research,"New York, NY",85000.0,Data_Analyst,Entry_level
+74,    SARIAN SOLUTIONS,"Edison, NJ",85000.0,Data_Analyst,Entry_level
+75,    Union Bancaire Privée,"New York, NY",85000.0,Data_Analyst,Entry_level
+76,        Capital One,"New York, NY",85000.0,Data_Analyst,Entry_level
+77,        BNP Paribas,"New York, NY",85000.0,Data_Analyst,Entry_level
+78,        BNP Paribas,"New York, NY",85000.0,Data_Analyst,Entry_level
+79,        S&P Global Ratings,"New York, NY 10002 (Lower East Side area)",85000.0,Data_Analyst,Entry_level
+80,    Oliver James Associates,"New York, NY",85000.0,Data_Analyst,Entry_level
+81,"    eiWorkflow Solutions, LLC","Long Island City, NY 11101",85000.0,Data_Analyst,Entry_level
+82,    SellUp,"New York, NY 10010 (Gramercy area)",85000.0,Data_Analyst,Entry_level
+83,        Analytic Recruiting,"Stamford, CT",85000.0,Data_Analyst,Entry_level
+84,        Ipreo,"New York, NY",85000.0,Data_Analyst,Entry_level
+85,        JPMorgan Chase,"Jersey City, NJ",85000.0,Data_Analyst,Entry_level
+86,        Genworth,"Stamford, CT",85000.0,Data_Analyst,Entry_level
+87,    Prospect 33,"New York, NY",85000.0,Data_Analyst,Entry_level
+88,    Dstillery,"New York, NY",85000.0,Data_Analyst,Entry_level
+89,        Citi,"New York, NY",85000.0,Data_Analyst,Entry_level
+90,    Cavalier IT Solutions,"New Brunswick, NJ 08933",85000.0,Data_Analyst,Entry_level
+91,        pymetrics,"New York, NY 10016 (Gramercy area)",85000.0,Data_Analyst,Entry_level
+92,        JPMorgan Chase,"Brooklyn, NY",85000.0,Data_Analyst,Entry_level
+93,        OnDeck,"New York, NY",85000.0,Data_Analyst,Entry_level
+94,        Altice USA Cable Operations,"Bethpage, NY",85000.0,Data_Analyst,Entry_level
+95,        CAST Software,"New York, NY",85000.0,Data_Analyst,Entry_level
+96,        Susquehanna International Group,"New York, NY 10005 (Financial District area)",85000.0,Data_Analyst,Entry_level
+97,        Rent the Runway,"New York, NY 10013 (Tribeca area)",85000.0,Data_Analyst,Entry_level
+98,        Metropolitan Transportation Authority,"Manhattan, NY",85000.0,Data_Analyst,Entry_level
+99,        PlaceIQ,"New York, NY",85000.0,Data_Analyst,Entry_level
+100,    Averity,"New York, NY",85000.0,Data_Analyst,Entry_level
+101,        Mount Sinai Health System,"New York, NY 10029 (Yorkville area)",85000.0,Data_Analyst,Entry_level
+102,        Xaxis,"New York, NY",85000.0,Data_Analyst,Entry_level
+103,    Star Gas Partners LP,"Woodbury, NY",85000.0,Data_Analyst,Entry_level
+104,        Indeed,"New York, NY 10036",85000.0,Data_Analyst,Entry_level
+0,"    AbilTo, Inc","New York, NY 10018",85000.0,Data_Analyst,Mid_level
+1,        KPMG,"New York, NY 10154",85000.0,Data_Analyst,Mid_level
+2,        KPMG,"New York, NY 10154",85000.0,Data_Analyst,Mid_level
+3,        NYC Taxi and Limousine Commission,"New York, NY 10004 (Financial District area)",85000.0,Data_Analyst,Mid_level
+4,        NBCUniversal,"New York, NY",85000.0,Data_Analyst,Mid_level
+5,        Citi,"New York, NY",85000.0,Data_Analyst,Mid_level
+6,        Accenture,"New York, NY 10011 (Chelsea area)",85000.0,Data_Analyst,Mid_level
+7,        Slice,"New York, NY",85000.0,Data_Analyst,Mid_level
+8,    Veterans Sourcing Group,"Pennington, NJ 08534",85000.0,Data_Analyst,Mid_level
+9,        Maxus,"New York, NY",85000.0,Data_Analyst,Mid_level
+10,        GroupM,"New York, NY",85000.0,Data_Analyst,Mid_level
+11,    Veterans Sourcing Group,"New York, NY 10019 (Midtown area)",85000.0,Data_Analyst,Mid_level
+12,    Veterans Sourcing Group,"Pennington, NJ 08534",85000.0,Data_Analyst,Mid_level
+13,        NYU Langone Medical Center,"New York, NY",85000.0,Data_Analyst,Mid_level
+14,        Spotify,"New York, NY 10011 (Chelsea area)",85000.0,Data_Analyst,Mid_level
+15,    GlobeTax,"New York, NY",85000.0,Data_Analyst,Mid_level
+16,        Morgan Stanley,"New York, NY 10032 (Washington Heights area)",85000.0,Data_Analyst,Mid_level
+17,        Ipsos North America,"New York, NY",85000.0,Data_Analyst,Mid_level
+18,        GroupM,"New York, NY",85000.0,Data_Analyst,Mid_level
+19,    Prolific Interactive,"New York, NY",85000.0,Data_Analyst,Mid_level
+20,    EMG INCORP,"Long Island City, NY",85000.0,Data_Analyst,Mid_level
+21,        Roku,"New York, NY 10001 (Chelsea area)",85000.0,Data_Analyst,Mid_level
+22,"    Snap Interactive, Inc.","New York, NY",85000.0,Data_Analyst,Mid_level
+23,        Voya Financial,"New York, NY",85000.0,Data_Analyst,Mid_level
+24,    Brooklyn Data Science,"New York, NY",85000.0,Data_Analyst,Mid_level
+25,        Comcast,"New York, NY 10112 (Midtown area)",85000.0,Data_Analyst,Mid_level
+26,        Adept Solutions,"Purchase, NY",85000.0,Data_Analyst,Mid_level
+27,        eBay,"New York, NY 10011 (Chelsea area)",85000.0,Data_Analyst,Mid_level
+28,        Anheuser-Busch,"New York, NY",85000.0,Data_Analyst,Mid_level
+29,        Oscar Insurance,"New York, NY 10012 (Little Italy area)",85000.0,Data_Analyst,Mid_level
+30,    Informa Business Intelligence,"New York, NY",85000.0,Data_Analyst,Mid_level
+31,        WeWork,"New York, NY 10005 (Financial District area)",85000.0,Data_Analyst,Mid_level
+32,    Paperless Post,"New York, NY",85000.0,Data_Analyst,Mid_level
+33,        MongoDB,"New York, NY",85000.0,Data_Analyst,Mid_level
+34,        DBRS,"New York, NY 10005 (Financial District area)",85000.0,Data_Analyst,Mid_level
+35,        EXPERIAN,"New York, NY 10020 (Midtown area)",85000.0,Data_Analyst,Mid_level
+36,    Orthology Inc.,"New York, NY",85000.0,Data_Analyst,Mid_level
+37,        Voya Financial,"New York, NY",85000.0,Data_Analyst,Mid_level
+38,    Convex Connections Corporation,"New York, NY",85000.0,Data_Analyst,Mid_level
+39,    PledgeMusic,"New York, NY",85000.0,Data_Analyst,Mid_level
+40,    TTS Media,"New York, NY",85000.0,Data_Analyst,Mid_level
+41,        Intersection,"New York, NY",85000.0,Data_Analyst,Mid_level
+42,        Yodle,"New York, NY 10001 (Chelsea area)",85000.0,Data_Analyst,Mid_level
+43,        KPMG,"New York, NY 10154 (Midtown area)",85000.0,Data_Analyst,Mid_level
+44,    Scienaptic Systems Inc,"New York, NY",85000.0,Data_Analyst,Mid_level
+45,    AXA : France,"New York, NY",85000.0,Data_Analyst,Mid_level
+46,        IBM,"Armonk, NY",85000.0,Data_Analyst,Mid_level
+47,        Voya Financial,"New York, NY",85000.0,Data_Analyst,Mid_level
+48,    Veterans Sourcing Group,"New York, NY 10004 (Financial District area)",85000.0,Data_Analyst,Mid_level
+49,        Quartet,"New York, NY 10018 (Clinton area)",85000.0,Data_Analyst,Mid_level
+50,    Axiom,"New York, NY",85000.0,Data_Analyst,Mid_level
+51,        Voya Financial,"New York, NY",85000.0,Data_Analyst,Mid_level
+52,        American Express,"New York, NY",85000.0,Data_Analyst,Mid_level
+53,        NICE,"New York, NY 10001 (Chelsea area)",85000.0,Data_Analyst,Mid_level
+54,        Healthfirst,"New York, NY",85000.0,Data_Analyst,Mid_level
+55,    Analytic Partners,"New York, NY 10017 (Midtown area)",85000.0,Data_Analyst,Mid_level
+56,        EXPERIAN,"New York, NY 10020 (Midtown area)",85000.0,Data_Analyst,Mid_level
+57,    Analytic Partners,"New York, NY 10017 (Midtown area)",85000.0,Data_Analyst,Mid_level
+58,        Ralph Lauren,"New York, NY",85000.0,Data_Analyst,Mid_level
+59,        AlixPartners,"New York, NY 10019 (Midtown area)",85000.0,Data_Analyst,Mid_level
+60,        Facebook,"New York, NY",85000.0,Data_Analyst,Mid_level
+61,    Orchard Platform,"New York, NY",85000.0,Data_Analyst,Mid_level
+62,        adMarketplace,"New York, NY",85000.0,Data_Analyst,Mid_level
+63,    TTS Media,"New York, NY",85000.0,Data_Analyst,Mid_level
+64,        Spotify,"New York, NY 10011 (Chelsea area)",85000.0,Data_Analyst,Mid_level
+65,        KPMG,"New York, NY 10154 (Midtown area)",85000.0,Data_Analyst,Mid_level
+66,        New York Power Authority,"White Plains, NY 10601",85000.0,Data_Analyst,Mid_level
+67,"    Orzota, Inc.","New York, NY",85000.0,Data_Analyst,Mid_level
+68,        Phreesia,"New York, NY",85000.0,Data_Analyst,Mid_level
+69,        Dailymotion,"New York, NY",85000.0,Data_Analyst,Mid_level
+70,        JPMorgan Chase,"New York, NY",85000.0,Data_Analyst,Mid_level
+71,        Blue Apron,"New York, NY 10013 (Tribeca area)",85000.0,Data_Analyst,Mid_level
+72,        Public Health Solutions,"New York, NY 10013 (Tribeca area)",85000.0,Data_Analyst,Mid_level
+73,    MediQuire,"New York, NY 10018 (Clinton area)",85000.0,Data_Analyst,Mid_level
+74,        Morgan Stanley,"Purchase, NY",85000.0,Data_Analyst,Mid_level
+75,        Blue Apron,"New York, NY 10013 (Tribeca area)",85000.0,Data_Analyst,Mid_level
+76,        JPMorgan Chase - Asset Management,"New York, NY",85000.0,Data_Analyst,Mid_level
+77,        Amherst,"New York, NY 10022 (Midtown area)",85000.0,Data_Analyst,Mid_level
+78,        AllianceBernstein,"New York, NY 10105 (Midtown area)",85000.0,Data_Analyst,Mid_level
+79,    NATIONAL GRID CO USA (NE POWER),"Brooklyn, NY",85000.0,Data_Analyst,Mid_level
+80,        Oracle,"New York, NY",85000.0,Data_Analyst,Mid_level
+81,        Macmillan,"New York, NY 10010 (Gramercy area)",85000.0,Data_Analyst,Mid_level
+82,        JPMorgan Chase,"New York, NY",85000.0,Data_Analyst,Mid_level
+83,    Endurance,"Purchase, NY",85000.0,Data_Analyst,Mid_level
+84,        Bloomberg,"New York, NY",85000.0,Data_Analyst,Mid_level
+85,        WeWork,"New York, NY 10005 (Financial District area)",85000.0,Data_Analyst,Mid_level
+86,        Comcast,"New York, NY 10001 (Chelsea area)",85000.0,Data_Analyst,Mid_level
+87,        TD Insurance,"New York, NY",85000.0,Data_Analyst,Mid_level
+88,    CroytenER,"New York, NY",85000.0,Data_Analyst,Mid_level
+89,        The Economist Group,"New York, NY",85000.0,Data_Analyst,Mid_level
+90,    Brooklyn Data Science,"New York, NY",85000.0,Data_Analyst,Mid_level
+91,    Veterans Sourcing Group,"New York, NY 10038 (Financial District area)",85000.0,Data_Analyst,Mid_level
+92,        Bloomberg,"New York, NY",85000.0,Data_Analyst,Mid_level
+93,        Mount Sinai Health System,"New York, NY 10029 (Yorkville area)",85000.0,Data_Analyst,Mid_level
+94,        Natixis,"New York, NY",85000.0,Data_Analyst,Mid_level
+95,        Workbridge Associates,"New York, NY 10016 (Gramercy area)",85000.0,Data_Analyst,Mid_level
+96,        BNP Paribas,"New York, NY",85000.0,Data_Analyst,Mid_level
+97,        Perella Weinberg Partners,"New York, NY 10153 (Midtown area)",85000.0,Data_Analyst,Mid_level
+98,        IBM,"Armonk, NY",85000.0,Data_Analyst,Mid_level
+99,"    Two Sigma Investments, LLC.","New York, NY",85000.0,Data_Analyst,Mid_level
+100,    ITG,"New York, NY 10017 (Midtown area)",85000.0,Data_Analyst,Mid_level
+101,        BNP Paribas,"New York, NY",85000.0,Data_Analyst,Mid_level
+102,        Morgan Stanley,"New York, NY 10032 (Washington Heights area)",85000.0,Data_Analyst,Mid_level
+103,        KPMG,"New York, NY 10154",85000.0,Data_Analyst,Mid_level
+104,        Crystal Run Healthcare,"Middletown, NY 10941",85000.0,Data_Analyst,Mid_level
+0,        Crystal Run Healthcare,"Middletown, NY 10941",85000.0,Data_Analyst,Senior_level
+1,        Accenture,"New York, NY 10011",85000.0,Data_Analyst,Senior_level
+2,        Weill Cornell Medical College,"New York, NY",85000.0,Data_Analyst,Senior_level
+3,    Grubhub,"New York, NY",85000.0,Data_Analyst,Senior_level
+4,        American Express,"New York, NY",85000.0,Data_Analyst,Senior_level
+5,    Veterans Sourcing Group,"Berkeley Heights, NJ 07922",85000.0,Data_Analyst,Senior_level
+6,        MassMutual Financial Group,"New York, NY",85000.0,Data_Analyst,Senior_level
+7,    FAIR Health,"New York, NY 10017 (Midtown area)",85000.0,Data_Analyst,Senior_level
+8,        Sapient Global Markets,"New York, NY",85000.0,Data_Analyst,Senior_level
+9,        Undertone,"New York, NY 10173 (Midtown area)",85000.0,Data_Analyst,Senior_level
+10,        Major League Baseball Advanced Media,"New York, NY",85000.0,Data_Analyst,Senior_level
+11,        TIAA,"New York, NY 10002 (Lower East Side area)",85000.0,Data_Analyst,Senior_level
+12,    Moody's Shared Services,"New York, NY",85000.0,Data_Analyst,Senior_level
+13,        Meetup,"New York, NY 10012 (Little Italy area)",85000.0,Data_Analyst,Senior_level
+14,        Capital One,"New York, NY",85000.0,Data_Analyst,Senior_level
+15,"    Kani Soutions, Inc","New York, NY 10019 (Midtown area)",85000.0,Data_Analyst,Senior_level
+16,        American Express,"New York, NY",85000.0,Data_Analyst,Senior_level
+17,    Knowledgent Group Inc.,"New York, NY",85000.0,Data_Analyst,Senior_level
+18,        Arup,"New York, NY",85000.0,Data_Analyst,Senior_level
+19,        Fareportal Inc.,"New York, NY 10020 (Midtown area)",85000.0,Data_Analyst,Senior_level
+20,        Yodle,"New York, NY 10001 (Chelsea area)",85000.0,Data_Analyst,Senior_level
+21,    SQA Solution,"New York, NY",85000.0,Data_Analyst,Senior_level
+22,        Church Pension Group,"New York, NY",85000.0,Data_Analyst,Senior_level
+23,    Paperless Post,"New York, NY",85000.0,Data_Analyst,Senior_level
+24,        JPMorgan Chase,"New York, NY",85000.0,Data_Analyst,Senior_level
+25,        WeWork,"New York, NY 10005 (Financial District area)",85000.0,Data_Analyst,Senior_level
+26,        OrthoNet,"White Plains, NY 10605",85000.0,Data_Analyst,Senior_level
+27,        HSBC,"New York, NY",85000.0,Data_Analyst,Senior_level
+28,    Huxley Banking & Financial Services,"New York, NY",85000.0,Data_Analyst,Senior_level
+29,    Spreemo,"New York, NY",85000.0,Data_Analyst,Senior_level
+30,    EZOPS,"New Brunswick, NJ",85000.0,Data_Analyst,Senior_level
+31,        Momentum,"New York, NY 10013 (Tribeca area)",85000.0,Data_Analyst,Senior_level
+32,        ZS Associates,"New York, NY 10017 (Midtown area)",85000.0,Data_Analyst,Senior_level
+33,        QuintilesIMS,"New York, NY",85000.0,Data_Analyst,Senior_level
+34,    SoHo Dragon,"New York, NY 10004 (Financial District area)",85000.0,Data_Analyst,Senior_level
+35,    HARITA INFOTECH,"New York, NY",85000.0,Data_Analyst,Senior_level
+36,"        Intercontinental Exchange, Inc.","New York, NY 10022 (Midtown area)",85000.0,Data_Analyst,Senior_level
+37,        Church Pension Group,"New York, NY",85000.0,Data_Analyst,Senior_level
+38,        GroupM,"New York, NY",85000.0,Data_Analyst,Senior_level
+39,        Spotify,"New York, NY 10011 (Chelsea area)",85000.0,Data_Analyst,Senior_level
+40,        Ross Stores,"New York, NY",85000.0,Data_Analyst,Senior_level
+41,        Absolutdata,"New York, NY",85000.0,Data_Analyst,Senior_level
+42,    1stdibs.com,"New York, NY",85000.0,Data_Analyst,Senior_level
+43,    Veterans Sourcing Group,"Lawrenceville, NJ",85000.0,Data_Analyst,Senior_level
+44,        Analytic Recruiting,"New York, NY 10017 (Midtown area)",85000.0,Data_Analyst,Senior_level
+45,        NICE,"Hoboken, NJ",85000.0,Data_Analyst,Senior_level
+46,        Metropolitan Transportation Authority,"Manhattan, NY",85000.0,Data_Analyst,Senior_level
+47,        Metropolitan Transportation Authority,"Manhattan, NY",85000.0,Data_Analyst,Senior_level
+48,    Selby Jennings,"New York, NY 10167 (Midtown area)",85000.0,Data_Analyst,Senior_level
+49,        INTL FCStone,"New York, NY",85000.0,Data_Analyst,Senior_level
+50,        CAPCO,"New York, NY 10271 (Financial District area)",85000.0,Data_Analyst,Senior_level
+51,        Altice USA Cable Operations,"Bethpage, NY",85000.0,Data_Analyst,Senior_level
+52,        AIG,"New York, NY",85000.0,Data_Analyst,Senior_level
+53,    MAYORS OFFICE OF CONTRACT SVCS,"Manhattan, NY",85000.0,Data_Analyst,Senior_level
+54,    Two95 International Inc.,"New York, NY",85000.0,Data_Analyst,Senior_level
+55,        RAYMOND JAMES FINANCIAL,"New York, NY",85000.0,Data_Analyst,Senior_level
+56,"    Hill & Knowlton, Inc.","New York, NY",85000.0,Data_Analyst,Senior_level
+57,    ConsultUSA,"Brooklyn, NY",85000.0,Data_Analyst,Senior_level
+58,        Perella Weinberg Partners,"New York, NY 10153 (Midtown area)",85000.0,Data_Analyst,Senior_level
+59,        Rockwell Collins,"New York, NY",85000.0,Data_Analyst,Senior_level
+60,        Veredus,"New York, NY",85000.0,Data_Analyst,Senior_level
+61,    Veterans Sourcing Group,"New Brunswick, NJ 08903",85000.0,Data_Analyst,Senior_level
+62,        Priceline.com,"Norwalk, CT 06854",85000.0,Data_Analyst,Senior_level
+63,    Rockstar New York,"New York, NY",85000.0,Data_Analyst,Senior_level
+64,        Bed Bath & Beyond,"Union, NJ 07083",85000.0,Data_Analyst,Senior_level
+65,        Mount Sinai Health System,"New York, NY 10019 (Midtown area)",85000.0,Data_Analyst,Senior_level
+66,        Aetna,"New York, NY 10016 (Gramercy area)",85000.0,Data_Analyst,Senior_level
+67,    eSystems Inc.,"Princeton, NJ 08540",85000.0,Data_Analyst,Senior_level
+68,    Veterans Sourcing Group,"Lawrenceville, NJ",85000.0,Data_Analyst,Senior_level
+69,        Express Scripts,"Franklin Lakes, NJ 07417",85000.0,Data_Analyst,Senior_level
+70,        Mercury Media,"New York, NY 10005 (Financial District area)",85000.0,Data_Analyst,Senior_level
+71,    Brooklyn Data Science,"New York, NY",85000.0,Data_Analyst,Senior_level
+72,        AT&T,"New York, NY",85000.0,Data_Analyst,Senior_level
+73,        News Corp,"New York, NY 10036",85000.0,Data_Analyst,Senior_level
+74,        Johnson & Johnson Services Inc.,"New Brunswick, NJ",85000.0,Data_Analyst,Senior_level
+75,        Citi,"New York, NY",85000.0,Data_Analyst,Senior_level
+76,        McGraw-Hill Education,"New York, NY",85000.0,Data_Analyst,Senior_level
+77,        SiriusXM,"Township of Lawrence, NJ 08648",85000.0,Data_Analyst,Senior_level
+78,    IRI,"Stamford, CT",85000.0,Data_Analyst,Senior_level
+79,        BNY Mellon,"New York, NY",85000.0,Data_Analyst,Senior_level
+80,        Chubb,"Whitehouse Station, NJ",85000.0,Data_Analyst,Senior_level
+81,"        Broadridge Financial Solutions, Inc.","Edgewood, NY 11717",85000.0,Data_Analyst,Senior_level
+82,        FIS,"New York, NY 10034 (Inwood area)",85000.0,Data_Analyst,Senior_level
+83,        Starcom,"New York, NY",85000.0,Data_Analyst,Senior_level
+84,        CONSUMER AFFAIRS,"Manhattan, NY",85000.0,Data_Analyst,Senior_level
+85,    Veterans Sourcing Group,"New Brunswick, NJ 08903",85000.0,Data_Analyst,Senior_level
+86,        Li & Fung,"New York, NY 10018 (Clinton area)",85000.0,Data_Analyst,Senior_level
+87,        Mitchell Martin,"Long Island City, NY 11101",85000.0,Data_Analyst,Senior_level
+88,    Averity,"New York, NY",85000.0,Data_Analyst,Senior_level
+89,        Freddie Mac,"New York, NY 10168 (Murray Hill area)",85000.0,Data_Analyst,Senior_level
+90,    Informa Business Intelligence,"New York, NY",85000.0,Data_Analyst,Senior_level
+91,    Global Data Management Inc,"New York, NY 10018 (Clinton area)",85000.0,Data_Analyst,Senior_level
+92,        AIG,"New York, NY",85000.0,Data_Analyst,Senior_level
+93,        Johnson & Johnson Services Inc.,"New Brunswick, NJ",85000.0,Data_Analyst,Senior_level
+94,"    Horizon Media, Inc.","New York, NY",85000.0,Data_Analyst,Senior_level
+95,        Wolters Kluwer,"New York, NY",85000.0,Data_Analyst,Senior_level
+96,        SiriusXM,"New York, NY 10001 (Chelsea area)",85000.0,Data_Analyst,Senior_level
+97,"        J.Crew Group, Inc.","New York, NY 10003 (Greenwich Village area)",85000.0,Data_Analyst,Senior_level
+98,    Zealogics,"Tarrytown, NY",85000.0,Data_Analyst,Senior_level
+99,    Veterans Sourcing Group,"Lawrenceville, NJ",85000.0,Data_Analyst,Senior_level
+100,    Avesta Computer Services,"Morristown, NJ",85000.0,Data_Analyst,Senior_level
+101,    Pivotal Software,"New York, NY 10017 (Midtown area)",85000.0,Data_Analyst,Senior_level
+102,    Enigma,"New York, NY",85000.0,Data_Analyst,Senior_level
+103,        TD Bank,"Mount Laurel, NJ",85000.0,Data_Analyst,Senior_level
+104,        Prudential,"Newark, NJ 07102",85000.0,Data_Analyst,Senior_level
+0,        Indeed,"New York, NY 10036",95000.0,Data_Analyst,Entry_level
+1,        Celgene,"Summit, NJ 07901",95000.0,Data_Analyst,Entry_level
+2,    The Dedham Group (Midtown West),"New York, NY 10119",95000.0,Data_Analyst,Entry_level
+3,    New Avon LLC,"New York, NY",95000.0,Data_Analyst,Entry_level
+4,"    Two Sigma Investments, LLC.","New York, NY",95000.0,Data_Analyst,Entry_level
+5,"    Two Sigma Investments, LLC.","New York, NY",95000.0,Data_Analyst,Entry_level
+6,        GroupM,"New York, NY",95000.0,Data_Analyst,Entry_level
+7,"    Two Sigma Investments, LLC.","New York, NY",95000.0,Data_Analyst,Entry_level
+8,    The Michael J. Fox Foundation for Parkinson's Rese...,"New York, NY",95000.0,Data_Analyst,Entry_level
+9,    Dascase Technologies Inc,"New Brunswick, NJ",95000.0,Data_Analyst,Entry_level
+10,    Looker,"New York, NY",95000.0,Data_Analyst,Entry_level
+11,        DEPARTMENT OF SANITATION,"New York, NY",95000.0,Data_Analyst,Entry_level
+12,        Intercept Pharmaceuticals,"New York, NY 10013 (Tribeca area)",95000.0,Data_Analyst,Entry_level
+13,        AOL,"New York, NY 10011 (Chelsea area)",95000.0,Data_Analyst,Entry_level
+14,    AskMyUncleSam,"New York, NY",95000.0,Data_Analyst,Entry_level
+15,        Ipsos North America,"New York, NY",95000.0,Data_Analyst,Entry_level
+16,    Brooklyn Data Science,"New York, NY",95000.0,Data_Analyst,Entry_level
+17,    Rocketrip,"Manhattan, NY",95000.0,Data_Analyst,Entry_level
+18,        Federal Reserve Bank of New York,"New York, NY",95000.0,Data_Analyst,Entry_level
+19,        Dailymotion,"New York, NY",95000.0,Data_Analyst,Entry_level
+20,        ShopKeep,"New York, NY",95000.0,Data_Analyst,Entry_level
+21,        Oxford Solutions,"New York, NY",95000.0,Data_Analyst,Entry_level
+22,    Veterans Sourcing Group,"Jersey City, NJ 07310 (Downtown area)",95000.0,Data_Analyst,Entry_level
+23,        1010data,"New York, NY",95000.0,Data_Analyst,Entry_level
+24,        Viacom,"New York, NY",95000.0,Data_Analyst,Entry_level
+25,"    BroadPeak Partners, Inc.","New York, NY 10016 (Gramercy area)",95000.0,Data_Analyst,Entry_level
+26,        McKinsey & Company,"New York, NY 10022 (Midtown area)",95000.0,Data_Analyst,Entry_level
+27,    Datadog,"New York, NY 10001 (Chelsea area)",95000.0,Data_Analyst,Entry_level
+28,    GinasTechJobs.com,"New York, NY",95000.0,Data_Analyst,Entry_level
+29,        Federal Reserve Bank of New York,"New York, NY",95000.0,Data_Analyst,Entry_level
+30,    SSA & Company,"New York, NY",95000.0,Data_Analyst,Entry_level
+31,        Workbridge Associates,"New York, NY 10017 (Midtown area)",95000.0,Data_Analyst,Entry_level
+32,        Scotiabank,"New York, NY",95000.0,Data_Analyst,Entry_level
+33,"    DoubleVerify, Inc","New York, NY 10018 (Clinton area)",95000.0,Data_Analyst,Entry_level
+34,        Visa,"New York, NY 10017 (Midtown area)",95000.0,Data_Analyst,Entry_level
+35,        Macquarie Group Limited,"New York, NY",95000.0,Data_Analyst,Entry_level
+36,    Averity,"New York, NY",95000.0,Data_Analyst,Entry_level
+37,        Galvanize,"New York, NY",95000.0,Data_Analyst,Entry_level
+38,    Averity,"New York, NY",95000.0,Data_Analyst,Entry_level
+39,        Capital One,"New York, NY",95000.0,Data_Analyst,Entry_level
+40,"        Broadridge Financial Solutions, Inc.","New York, NY 10016 (Gramercy area)",95000.0,Data_Analyst,Entry_level
+41,        Blackstone,"New York, NY",95000.0,Data_Analyst,Entry_level
+42,    Averity,"New York, NY",95000.0,Data_Analyst,Entry_level
+43,        Ipreo,"New York, NY",95000.0,Data_Analyst,Entry_level
+44,        Moody's Investors Service,"New York, NY 10007 (Financial District area)",95000.0,Data_Analyst,Entry_level
+45,"    Jefferies & Company, Inc.","New York, NY 10162 (Upper East Side area)",95000.0,Data_Analyst,Entry_level
+46,    Union Bancaire Privée,"New York, NY",95000.0,Data_Analyst,Entry_level
+47,    Spearhead Staffing,"Bridgewater, NJ",95000.0,Data_Analyst,Entry_level
+48,        BNP Paribas,"New York, NY",95000.0,Data_Analyst,Entry_level
+49,        BNP Paribas,"New York, NY",95000.0,Data_Analyst,Entry_level
+50,        Genworth,"Stamford, CT",95000.0,Data_Analyst,Entry_level
+51,    Oliver James Associates,"New York, NY",95000.0,Data_Analyst,Entry_level
+52,        JPMorgan Chase,"Brooklyn, NY",95000.0,Data_Analyst,Entry_level
+53,    SellUp,"New York, NY 10010 (Gramercy area)",95000.0,Data_Analyst,Entry_level
+54,        Susquehanna International Group,"New York, NY 10005 (Financial District area)",95000.0,Data_Analyst,Entry_level
+55,        CAST Software,"New York, NY",95000.0,Data_Analyst,Entry_level
+56,    Dstillery,"New York, NY",95000.0,Data_Analyst,Entry_level
+57,        pymetrics,"New York, NY 10016 (Gramercy area)",95000.0,Data_Analyst,Entry_level
+58,    Cavalier IT Solutions,"New Brunswick, NJ 08933",95000.0,Data_Analyst,Entry_level
+59,"    Two Sigma Investments, LLC.","New York, NY",95000.0,Data_Analyst,Entry_level
+60,        Citi,"New York, NY",95000.0,Data_Analyst,Entry_level
+61,        McKinsey & Company,"New York, NY 10022 (Midtown area)",95000.0,Data_Analyst,Entry_level
+62,        Indeed,"New York, NY 10036",95000.0,Data_Analyst,Entry_level
+63,    ExecThread,"New York, NY",95000.0,Data_Analyst,Entry_level
+64,        Enstoa,"New York, NY",95000.0,Data_Analyst,Entry_level
+65,        Mount Sinai Health System,"New York, NY 10029 (Yorkville area)",95000.0,Data_Analyst,Entry_level
+66,    Averity,"New York, NY",95000.0,Data_Analyst,Entry_level
+67,        AIG,"New York, NY",95000.0,Data_Analyst,Entry_level
+68,        BNY Mellon,"New York, NY",95000.0,Data_Analyst,Entry_level
+69,    Shulman Fleming & Partners,"New York, NY",95000.0,Data_Analyst,Entry_level
+70,        Siemens,"Tarrytown, NY",95000.0,Data_Analyst,Entry_level
+71,        Citi,"New York, NY",95000.0,Data_Analyst,Entry_level
+72,        Morgan Stanley,"New York, NY 10032 (Washington Heights area)",95000.0,Data_Analyst,Entry_level
+73,    Kantar Vermeer,"New York, NY",95000.0,Data_Analyst,Entry_level
+74,        New York Life Insurance Co,"New York, NY",95000.0,Data_Analyst,Entry_level
+75,"    ACA Technology LLC., (FinTech)","New York, NY",95000.0,Data_Analyst,Entry_level
+76,    Hatstand Ltd,"New York, NY",95000.0,Data_Analyst,Entry_level
+77,        Goldman Sachs,"Jersey City, NJ",95000.0,Data_Analyst,Entry_level
+78,        Sterling National Bank,"Yonkers, NY",95000.0,Data_Analyst,Entry_level
+79,        JPMorgan Chase - Asset Management,"New York, NY",95000.0,Data_Analyst,Entry_level
+80,    Lux Research,"New York, NY",95000.0,Data_Analyst,Entry_level
+81,    Appboy,"New York, NY",95000.0,Data_Analyst,Entry_level
+82,        Goldman Sachs,"Jersey City, NJ",95000.0,Data_Analyst,Entry_level
+83,    The Dedham Group (Midtown West),"New York, NY 10119 (Chelsea area)",95000.0,Data_Analyst,Entry_level
+84,"    Software Solutions, Inc","New York, NY",95000.0,Data_Analyst,Entry_level
+85,        Linium,"New York, NY 10010 (Gramercy area)",95000.0,Data_Analyst,Entry_level
+86,        Citi,"New York, NY",95000.0,Data_Analyst,Entry_level
+87,        Celgene Corporation,"Summit, NJ 07901",95000.0,Data_Analyst,Entry_level
+88,    Princeton Consulting,"Stamford, CT",95000.0,Data_Analyst,Entry_level
+89,        New York Life Insurance Co,"Jersey City, NJ 07302 (Downtown area)",95000.0,Data_Analyst,Entry_level
+90,"        Open Systems Technologies, Inc.","New York, NY",95000.0,Data_Analyst,Entry_level
+91,        Green Key Resources,"New York, NY 10016 (Gramercy area)",95000.0,Data_Analyst,Entry_level
+92,        Allstate Insurance,"Hauppauge, NY",95000.0,Data_Analyst,Entry_level
+93,        IntePros Consulting,"Brooklyn, NY",95000.0,Data_Analyst,Entry_level
+94,        Incedo,"Somerset, NJ 08873",95000.0,Data_Analyst,Entry_level
+95,        1010data,"New York, NY",95000.0,Data_Analyst,Entry_level
+96,    Dia&Co,"New York, NY",95000.0,Data_Analyst,Entry_level
+97,        Morgan Stanley,"New York, NY 10032 (Washington Heights area)",95000.0,Data_Analyst,Entry_level
+98,        AIG,"New York, NY",95000.0,Data_Analyst,Entry_level
+99,    Wall Street Options,"New York, NY 10165 (Midtown area)",95000.0,Data_Analyst,Entry_level
+100,        ZS Associates,"Princeton, NJ",95000.0,Data_Analyst,Entry_level
+101,        Centers for Disease Control and Prevention,"New York, NY",95000.0,Data_Analyst,Entry_level
+102,        MediaMath,"New York, NY",95000.0,Data_Analyst,Entry_level
+103,    The Dedham Group (Midtown West),"New York, NY 10119",95000.0,Data_Analyst,Entry_level
+104,    Predictive Science,United States,95000.0,Data_Analyst,Entry_level
+0,        KPMG,"New York, NY 10154",95000.0,Data_Analyst,Mid_level
+1,        KPMG,"New York, NY 10154",95000.0,Data_Analyst,Mid_level
+2,"    Future Technologies, Inc.","Moorestown, NJ",95000.0,Data_Analyst,Mid_level
+3,        Citi,"New York, NY",95000.0,Data_Analyst,Mid_level
+4,    Veterans Sourcing Group,"Pennington, NJ 08534",95000.0,Data_Analyst,Mid_level
+5,    Veterans Sourcing Group,"Pennington, NJ 08534",95000.0,Data_Analyst,Mid_level
+6,        NYU Langone Medical Center,"New York, NY",95000.0,Data_Analyst,Mid_level
+7,        Spotify,"New York, NY 10011 (Chelsea area)",95000.0,Data_Analyst,Mid_level
+8,        Morgan Stanley,"New York, NY 10032 (Washington Heights area)",95000.0,Data_Analyst,Mid_level
+9,        GroupM,"New York, NY",95000.0,Data_Analyst,Mid_level
+10,    CroytenER,"New York, NY",95000.0,Data_Analyst,Mid_level
+11,    EMG INCORP,"Long Island City, NY",95000.0,Data_Analyst,Mid_level
+12,        Roku,"New York, NY 10001 (Chelsea area)",95000.0,Data_Analyst,Mid_level
+13,        Slice,"New York, NY",95000.0,Data_Analyst,Mid_level
+14,"    Snap Interactive, Inc.","New York, NY",95000.0,Data_Analyst,Mid_level
+15,        Voya Financial,"New York, NY",95000.0,Data_Analyst,Mid_level
+16,    Brooklyn Data Science,"New York, NY",95000.0,Data_Analyst,Mid_level
+17,        Comcast,"New York, NY 10112 (Midtown area)",95000.0,Data_Analyst,Mid_level
+18,        eBay,"New York, NY 10011 (Chelsea area)",95000.0,Data_Analyst,Mid_level
+19,        Anheuser-Busch,"New York, NY",95000.0,Data_Analyst,Mid_level
+20,        WeWork,"New York, NY 10005 (Financial District area)",95000.0,Data_Analyst,Mid_level
+21,    Paperless Post,"New York, NY",95000.0,Data_Analyst,Mid_level
+22,        MongoDB,"New York, NY",95000.0,Data_Analyst,Mid_level
+23,        DBRS,"New York, NY 10005 (Financial District area)",95000.0,Data_Analyst,Mid_level
+24,        EXPERIAN,"New York, NY 10020 (Midtown area)",95000.0,Data_Analyst,Mid_level
+25,        Voya Financial,"New York, NY",95000.0,Data_Analyst,Mid_level
+26,    Convex Connections Corporation,"New York, NY",95000.0,Data_Analyst,Mid_level
+27,        Intersection,"New York, NY",95000.0,Data_Analyst,Mid_level
+28,        KPMG,"New York, NY 10154 (Midtown area)",95000.0,Data_Analyst,Mid_level
+29,    Scienaptic Systems Inc,"New York, NY",95000.0,Data_Analyst,Mid_level
+30,    AXA : France,"New York, NY",95000.0,Data_Analyst,Mid_level
+31,        IBM,"Armonk, NY",95000.0,Data_Analyst,Mid_level
+32,    Veterans Sourcing Group,"New York, NY 10004 (Financial District area)",95000.0,Data_Analyst,Mid_level
+33,        American Express,"New York, NY",95000.0,Data_Analyst,Mid_level
+34,    Analytic Partners,"New York, NY 10017 (Midtown area)",95000.0,Data_Analyst,Mid_level
+35,    Analytic Partners,"New York, NY 10017 (Midtown area)",95000.0,Data_Analyst,Mid_level
+36,        AlixPartners,"New York, NY 10019 (Midtown area)",95000.0,Data_Analyst,Mid_level
+37,        Facebook,"New York, NY",95000.0,Data_Analyst,Mid_level
+38,        adMarketplace,"New York, NY",95000.0,Data_Analyst,Mid_level
+39,        Spotify,"New York, NY 10011 (Chelsea area)",95000.0,Data_Analyst,Mid_level
+40,        KPMG,"New York, NY 10154 (Midtown area)",95000.0,Data_Analyst,Mid_level
+41,        New York Power Authority,"White Plains, NY 10601",95000.0,Data_Analyst,Mid_level
+42,"    Orzota, Inc.","New York, NY",95000.0,Data_Analyst,Mid_level
+43,        Phreesia,"New York, NY",95000.0,Data_Analyst,Mid_level
+44,        Dailymotion,"New York, NY",95000.0,Data_Analyst,Mid_level
+45,        JPMorgan Chase,"New York, NY",95000.0,Data_Analyst,Mid_level
+46,        Blue Apron,"New York, NY 10013 (Tribeca area)",95000.0,Data_Analyst,Mid_level
+47,    MediQuire,"New York, NY 10018 (Clinton area)",95000.0,Data_Analyst,Mid_level
+48,        Morgan Stanley,"Purchase, NY",95000.0,Data_Analyst,Mid_level
+49,        Amherst,"New York, NY 10022 (Midtown area)",95000.0,Data_Analyst,Mid_level
+50,    Informa Business Intelligence,"New York, NY",95000.0,Data_Analyst,Mid_level
+51,        AllianceBernstein,"New York, NY 10105 (Midtown area)",95000.0,Data_Analyst,Mid_level
+52,        Macmillan,"New York, NY 10010 (Gramercy area)",95000.0,Data_Analyst,Mid_level
+53,        JPMorgan Chase,"New York, NY",95000.0,Data_Analyst,Mid_level
+54,        Bloomberg,"New York, NY",95000.0,Data_Analyst,Mid_level
+55,        WeWork,"New York, NY 10005 (Financial District area)",95000.0,Data_Analyst,Mid_level
+56,        TD Insurance,"New York, NY",95000.0,Data_Analyst,Mid_level
+57,    Brooklyn Data Science,"New York, NY",95000.0,Data_Analyst,Mid_level
+58,    Veterans Sourcing Group,"New York, NY 10038 (Financial District area)",95000.0,Data_Analyst,Mid_level
+59,        Natixis,"New York, NY",95000.0,Data_Analyst,Mid_level
+60,        Workbridge Associates,"New York, NY 10016 (Gramercy area)",95000.0,Data_Analyst,Mid_level
+61,        BNP Paribas,"New York, NY",95000.0,Data_Analyst,Mid_level
+62,        Perella Weinberg Partners,"New York, NY 10153 (Midtown area)",95000.0,Data_Analyst,Mid_level
+63,    ITG,"New York, NY 10017 (Midtown area)",95000.0,Data_Analyst,Mid_level
+64,        BNP Paribas,"New York, NY",95000.0,Data_Analyst,Mid_level
+65,        Morgan Stanley,"New York, NY 10032 (Washington Heights area)",95000.0,Data_Analyst,Mid_level
+66,    Lazard Ltd.,"New York, NY",95000.0,Data_Analyst,Mid_level
+67,        Yodle,"New York, NY 10001 (Chelsea area)",95000.0,Data_Analyst,Mid_level
+68,        Moody's Investors Service,"New York, NY 10007 (Financial District area)",95000.0,Data_Analyst,Mid_level
+69,    RxSpeed Inc.,"Stamford, CT",95000.0,Data_Analyst,Mid_level
+70,        BP,"Stamford, CT",95000.0,Data_Analyst,Mid_level
+71,        Memorial Sloan Kettering,"New York, NY",95000.0,Data_Analyst,Mid_level
+72,        Citi,"New York, NY",95000.0,Data_Analyst,Mid_level
+73,        Société Générale,"New York, NY",95000.0,Data_Analyst,Mid_level
+74,        Bloomberg,"New York, NY",95000.0,Data_Analyst,Mid_level
+75,        BNP Paribas,"New York, NY",95000.0,Data_Analyst,Mid_level
+76,        Verizon,"Basking Ridge, NJ 07920",95000.0,Data_Analyst,Mid_level
+77,    SQA Solution Agency,"New York, NY 10007 (Financial District area)",95000.0,Data_Analyst,Mid_level
+78,        Beyond,"New York, NY",95000.0,Data_Analyst,Mid_level
+79,    Sampoerna,"New York, NY",95000.0,Data_Analyst,Mid_level
+80,        EXL,"New York, NY 10019 (Midtown area)",95000.0,Data_Analyst,Mid_level
+81,        Princeton University,"Princeton, NJ",95000.0,Data_Analyst,Mid_level
+82,        TD Bank,"New York, NY",95000.0,Data_Analyst,Mid_level
+83,        American Express,"New York, NY",95000.0,Data_Analyst,Mid_level
+84,        Workbridge Associates,"New York, NY 10010 (Gramercy area)",95000.0,Data_Analyst,Mid_level
+85,        Capital One,"New York, NY",95000.0,Data_Analyst,Mid_level
+86,        IBM,"Yorktown Heights, NY",95000.0,Data_Analyst,Mid_level
+87,        Citi,"New York, NY",95000.0,Data_Analyst,Mid_level
+88,        Paypal,"New York, NY",95000.0,Data_Analyst,Mid_level
+89,    Global Intellectuals,"New York, NY",95000.0,Data_Analyst,Mid_level
+90,        Verizon,"Basking Ridge, NJ 07920",95000.0,Data_Analyst,Mid_level
+91,        Fareportal Inc.,"New York, NY 10001 (Chelsea area)",95000.0,Data_Analyst,Mid_level
+92,        Philip Morris International,"New York, NY",95000.0,Data_Analyst,Mid_level
+93,    Selby Jennings,"New York, NY 10167 (Midtown area)",95000.0,Data_Analyst,Mid_level
+94,        Fareportal Inc.,"New York, NY 10001 (Chelsea area)",95000.0,Data_Analyst,Mid_level
+95,        Workbridge Associates,"New York, NY 10016 (Gramercy area)",95000.0,Data_Analyst,Mid_level
+96,        Citi,"New York, NY",95000.0,Data_Analyst,Mid_level
+97,        The Forum Group,"Purchase, NY",95000.0,Data_Analyst,Mid_level
+98,    Sparks & Honey,"New York, NY",95000.0,Data_Analyst,Mid_level
+99,        American Express,"New York, NY",95000.0,Data_Analyst,Mid_level
+100,    Brilliant Leap,"New York, NY",95000.0,Data_Analyst,Mid_level
+101,    UJA Federation of New York,"New York, NY 10022 (Midtown area)",95000.0,Data_Analyst,Mid_level
+102,        BNP Paribas,"New York, NY",95000.0,Data_Analyst,Mid_level
+103,        KPMG,"New York, NY 10154",95000.0,Data_Analyst,Mid_level
+104,        Crystal Run Healthcare,"Middletown, NY 10941",95000.0,Data_Analyst,Mid_level
+0,        Prudential,"Newark, NJ 07102",95000.0,Data_Analyst,Senior_level
+1,        Crystal Run Healthcare,"Middletown, NY 10941",95000.0,Data_Analyst,Senior_level
+2,        Citi,"Long Island City, NY",95000.0,Data_Analyst,Senior_level
+3,        MassMutual Financial Group,"New York, NY",95000.0,Data_Analyst,Senior_level
+4,    FAIR Health,"New York, NY 10017 (Midtown area)",95000.0,Data_Analyst,Senior_level
+5,    Veterans Sourcing Group,"Berkeley Heights, NJ 07922",95000.0,Data_Analyst,Senior_level
+6,    Grubhub,"New York, NY",95000.0,Data_Analyst,Senior_level
+7,        Major League Baseball Advanced Media,"New York, NY",95000.0,Data_Analyst,Senior_level
+8,        Sapient Global Markets,"New York, NY",95000.0,Data_Analyst,Senior_level
+9,        WeWork,"New York, NY 10005 (Financial District area)",95000.0,Data_Analyst,Senior_level
+10,        TIAA,"New York, NY 10002 (Lower East Side area)",95000.0,Data_Analyst,Senior_level
+11,        Meetup,"New York, NY 10012 (Little Italy area)",95000.0,Data_Analyst,Senior_level
+12,        Capital One,"New York, NY",95000.0,Data_Analyst,Senior_level
+13,    SQA Solution,"New York, NY",95000.0,Data_Analyst,Senior_level
+14,        Arup,"New York, NY",95000.0,Data_Analyst,Senior_level
+15,    Refinery29,"New York, NY 10013 (Tribeca area)",95000.0,Data_Analyst,Senior_level
+16,        JPMorgan Chase,"New York, NY",95000.0,Data_Analyst,Senior_level
+17,        Church Pension Group,"New York, NY",95000.0,Data_Analyst,Senior_level
+18,    Paperless Post,"New York, NY",95000.0,Data_Analyst,Senior_level
+19,        Fareportal Inc.,"New York, NY 10020 (Midtown area)",95000.0,Data_Analyst,Senior_level
+20,        WeWork,"New York, NY 10005 (Financial District area)",95000.0,Data_Analyst,Senior_level
+21,        Momentum,"New York, NY 10013 (Tribeca area)",95000.0,Data_Analyst,Senior_level
+22,        SiriusXM,"New York, NY 10001 (Chelsea area)",95000.0,Data_Analyst,Senior_level
+23,    SoHo Dragon,"New York, NY 10004 (Financial District area)",95000.0,Data_Analyst,Senior_level
+24,    Spreemo,"New York, NY",95000.0,Data_Analyst,Senior_level
+25,        QuintilesIMS,"New York, NY",95000.0,Data_Analyst,Senior_level
+26,    HARITA INFOTECH,"New York, NY",95000.0,Data_Analyst,Senior_level
+27,        HSBC,"New York, NY",95000.0,Data_Analyst,Senior_level
+28,        ZS Associates,"New York, NY 10017 (Midtown area)",95000.0,Data_Analyst,Senior_level
+29,    Huxley Banking & Financial Services,"New York, NY",95000.0,Data_Analyst,Senior_level
+30,        GroupM,"New York, NY",95000.0,Data_Analyst,Senior_level
+31,    New York State Office of the Attorney General (OAG...,"New York, NY",95000.0,Data_Analyst,Senior_level
+32,        Yodle,"New York, NY 10001 (Chelsea area)",95000.0,Data_Analyst,Senior_level
+33,    1stdibs.com,"New York, NY",95000.0,Data_Analyst,Senior_level
+34,    Veterans Sourcing Group,"Lawrenceville, NJ",95000.0,Data_Analyst,Senior_level
+35,"        Gartner, Inc.","Stamford, CT 06902 (Downtown area)",95000.0,Data_Analyst,Senior_level
+36,        Absolutdata,"New York, NY",95000.0,Data_Analyst,Senior_level
+37,        Spotify,"New York, NY 10011 (Chelsea area)",95000.0,Data_Analyst,Senior_level
+38,    Security Benefit Web,"Bridgewater, NJ",95000.0,Data_Analyst,Senior_level
+39,        Altice USA Cable Operations,"Bethpage, NY",95000.0,Data_Analyst,Senior_level
+40,        NICE,"Hoboken, NJ",95000.0,Data_Analyst,Senior_level
+41,        RAYMOND JAMES FINANCIAL,"New York, NY",95000.0,Data_Analyst,Senior_level
+42,        CAPCO,"New York, NY 10271 (Financial District area)",95000.0,Data_Analyst,Senior_level
+43,    Rockstar New York,"New York, NY",95000.0,Data_Analyst,Senior_level
+44,    Veterans Sourcing Group,"New Brunswick, NJ 08903",95000.0,Data_Analyst,Senior_level
+45,        AIG,"New York, NY",95000.0,Data_Analyst,Senior_level
+46,        Aetna,"New York, NY 10016 (Gramercy area)",95000.0,Data_Analyst,Senior_level
+47,        Analytic Recruiting,"New York, NY 10017 (Midtown area)",95000.0,Data_Analyst,Senior_level
+48,        Perella Weinberg Partners,"New York, NY 10153 (Midtown area)",95000.0,Data_Analyst,Senior_level
+49,    Veterans Sourcing Group,"Lawrenceville, NJ",95000.0,Data_Analyst,Senior_level
+50,    Selby Jennings,"New York, NY 10167 (Midtown area)",95000.0,Data_Analyst,Senior_level
+51,"    Hill & Knowlton, Inc.","New York, NY",95000.0,Data_Analyst,Senior_level
+52,        Johnson & Johnson Services Inc.,"New Brunswick, NJ",95000.0,Data_Analyst,Senior_level
+53,        Freddie Mac,"New York, NY 10168 (Murray Hill area)",95000.0,Data_Analyst,Senior_level
+54,"        J.Crew Group, Inc.","New York, NY 10003 (Greenwich Village area)",95000.0,Data_Analyst,Senior_level
+55,    Brooklyn Data Science,"New York, NY",95000.0,Data_Analyst,Senior_level
+56,    Two95 International Inc.,"New York, NY",95000.0,Data_Analyst,Senior_level
+57,        Express Scripts,"Franklin Lakes, NJ 07417",95000.0,Data_Analyst,Senior_level
+58,        Mercury Media,"New York, NY 10005 (Financial District area)",95000.0,Data_Analyst,Senior_level
+59,        S&P Global Ratings,"New York, NY 10002 (Lower East Side area)",95000.0,Data_Analyst,Senior_level
+60,        AT&T,"New York, NY",95000.0,Data_Analyst,Senior_level
+61,        Citi,"New York, NY",95000.0,Data_Analyst,Senior_level
+62,        Veredus,"New York, NY",95000.0,Data_Analyst,Senior_level
+63,    Veterans Sourcing Group,"New Brunswick, NJ 08903",95000.0,Data_Analyst,Senior_level
+64,"    Horizon Media, Inc.","New York, NY",95000.0,Data_Analyst,Senior_level
+65,        New York State Office of the Attorney General,"New York, NY",95000.0,Data_Analyst,Senior_level
+66,        BNY Mellon,"New York, NY",95000.0,Data_Analyst,Senior_level
+67,        Johnson & Johnson Services Inc.,"New Brunswick, NJ",95000.0,Data_Analyst,Senior_level
+68,    Zealogics,"Tarrytown, NY",95000.0,Data_Analyst,Senior_level
+69,        AIG,"New York, NY",95000.0,Data_Analyst,Senior_level
+70,        Eurasia Group,"New York, NY 10017 (Midtown area)",95000.0,Data_Analyst,Senior_level
+71,        Mitchell Martin,"Long Island City, NY 11101",95000.0,Data_Analyst,Senior_level
+72,        Chubb,"Whitehouse Station, NJ",95000.0,Data_Analyst,Senior_level
+73,    Veterans Sourcing Group,"Lawrenceville, NJ",95000.0,Data_Analyst,Senior_level
+74,        Wolters Kluwer,"New York, NY",95000.0,Data_Analyst,Senior_level
+75,    Pivotal Software,"New York, NY 10017 (Midtown area)",95000.0,Data_Analyst,Senior_level
+76,        CoStar Group,"New York, NY",95000.0,Data_Analyst,Senior_level
+77,    Averity,"New York, NY",95000.0,Data_Analyst,Senior_level
+78,        L'Oreal USA,"New York, NY",95000.0,Data_Analyst,Senior_level
+79,    Veterans Sourcing Group,"New York, NY 10004 (Financial District area)",95000.0,Data_Analyst,Senior_level
+80,    Outbrain Inc.,"New York, NY",95000.0,Data_Analyst,Senior_level
+81,        BNY Mellon,"New York, NY",95000.0,Data_Analyst,Senior_level
+82,        BNP Paribas,"New York, NY",95000.0,Data_Analyst,Senior_level
+83,    Yash Solutions LLC,"Brooklyn, NY",95000.0,Data_Analyst,Senior_level
+84,    Enigma,"New York, NY",95000.0,Data_Analyst,Senior_level
+85,        BNY Mellon,"New York, NY",95000.0,Data_Analyst,Senior_level
+86,        EXL,"Jersey City, NJ",95000.0,Data_Analyst,Senior_level
+87,        Boehringer Ingelheim,"Ridgefield, CT",95000.0,Data_Analyst,Senior_level
+88,        Priceline.com,"Norwalk, CT 06854",95000.0,Data_Analyst,Senior_level
+89,    CBS Corporate,"New York, NY 10176 (Murray Hill area)",95000.0,Data_Analyst,Senior_level
+90,        New York Life Insurance Co,"Jersey City, NJ 07302 (Downtown area)",95000.0,Data_Analyst,Senior_level
+91,    Avesta Computer Services,"Morristown, NJ",95000.0,Data_Analyst,Senior_level
+92,    Endurance,"New York, NY 10018 (Clinton area)",95000.0,Data_Analyst,Senior_level
+93,        Salesforce,"New York, NY 10017 (Midtown area)",95000.0,Data_Analyst,Senior_level
+94,    Sumitomo Mitsui Banking Corporation.,"New York, NY 10172 (Gramercy area)",95000.0,Data_Analyst,Senior_level
+95,        Fleishman-Hillard,"New York, NY",95000.0,Data_Analyst,Senior_level
+96,        Citi,"Long Island City, NY",95000.0,Data_Analyst,Senior_level
+97,        Bloomberg,"New York, NY",95000.0,Data_Analyst,Senior_level
+98,        Godiva Chocolatier Inc.,"New York, NY",95000.0,Data_Analyst,Senior_level
+99,        Ross Stores,"New York, NY",95000.0,Data_Analyst,Senior_level
+100,        Blue Apron,"New York, NY 10013 (Tribeca area)",95000.0,Data_Analyst,Senior_level
+101,        Allergan,"Jersey City, NJ",95000.0,Data_Analyst,Senior_level
+102,        Tumblr,"New York, NY",95000.0,Data_Analyst,Senior_level
+103,        TD Bank,"Mount Laurel, NJ",95000.0,Data_Analyst,Senior_level
+104,        Accenture,"New York, NY 10011",95000.0,Data_Analyst,Senior_level
+0,    Predictive Science,United States,115000.0,Data_Analyst,Entry_level
+1,    Telecomm Software,"New York, NY 10010",115000.0,Data_Analyst,Entry_level
+2,        CyberCoders,"New York, NY",115000.0,Data_Analyst,Entry_level
+3,"    Two Sigma Investments, LLC.","New York, NY",115000.0,Data_Analyst,Entry_level
+4,    Dascase Technologies Inc,"New Brunswick, NJ",115000.0,Data_Analyst,Entry_level
+5,    AskMyUncleSam,"New York, NY",115000.0,Data_Analyst,Entry_level
+6,        Federal Reserve Bank of New York,"New York, NY",115000.0,Data_Analyst,Entry_level
+7,        ShopKeep,"New York, NY",115000.0,Data_Analyst,Entry_level
+8,        McKinsey & Company,"New York, NY 10022 (Midtown area)",115000.0,Data_Analyst,Entry_level
+9,    Datadog,"New York, NY 10001 (Chelsea area)",115000.0,Data_Analyst,Entry_level
+10,        Viacom,"New York, NY",115000.0,Data_Analyst,Entry_level
+11,        Scotiabank,"New York, NY",115000.0,Data_Analyst,Entry_level
+12,    Spearhead Staffing,"Bridgewater, NJ",115000.0,Data_Analyst,Entry_level
+13,    Averity,"New York, NY",115000.0,Data_Analyst,Entry_level
+14,        Blackstone,"New York, NY",115000.0,Data_Analyst,Entry_level
+15,        Galvanize,"New York, NY",115000.0,Data_Analyst,Entry_level
+16,    Averity,"New York, NY",115000.0,Data_Analyst,Entry_level
+17,        Moody's Investors Service,"New York, NY 10007 (Financial District area)",115000.0,Data_Analyst,Entry_level
+18,        Capital One,"New York, NY",115000.0,Data_Analyst,Entry_level
+19,        BNP Paribas,"New York, NY",115000.0,Data_Analyst,Entry_level
+20,    Dstillery,"New York, NY",115000.0,Data_Analyst,Entry_level
+21,    Cavalier IT Solutions,"New Brunswick, NJ 08933",115000.0,Data_Analyst,Entry_level
+22,        JPMorgan Chase,"Brooklyn, NY",115000.0,Data_Analyst,Entry_level
+23,        Susquehanna International Group,"New York, NY 10005 (Financial District area)",115000.0,Data_Analyst,Entry_level
+24,        McKinsey & Company,"New York, NY 10022 (Midtown area)",115000.0,Data_Analyst,Entry_level
+25,    Averity,"New York, NY",115000.0,Data_Analyst,Entry_level
+26,    ExecThread,"New York, NY",115000.0,Data_Analyst,Entry_level
+27,        AIG,"New York, NY",115000.0,Data_Analyst,Entry_level
+28,    Hatstand Ltd,"New York, NY",115000.0,Data_Analyst,Entry_level
+29,"    Two Sigma Investments, LLC.","New York, NY",115000.0,Data_Analyst,Entry_level
+30,        Linium,"New York, NY 10010 (Gramercy area)",115000.0,Data_Analyst,Entry_level
+31,    Princeton Consulting,"Stamford, CT",115000.0,Data_Analyst,Entry_level
+32,        New York Life Insurance Co,"New York, NY",115000.0,Data_Analyst,Entry_level
+33,"        Open Systems Technologies, Inc.","New York, NY",115000.0,Data_Analyst,Entry_level
+34,        Citi,"New York, NY",115000.0,Data_Analyst,Entry_level
+35,        Morgan Stanley,"New York, NY 10032 (Washington Heights area)",115000.0,Data_Analyst,Entry_level
+36,        New York Life Insurance Co,"Jersey City, NJ 07302 (Downtown area)",115000.0,Data_Analyst,Entry_level
+37,    Wall Street Options,"New York, NY 10165 (Midtown area)",115000.0,Data_Analyst,Entry_level
+38,        MediaMath,"New York, NY",115000.0,Data_Analyst,Entry_level
+39,        Morgan Stanley,"New York, NY 10032 (Washington Heights area)",115000.0,Data_Analyst,Entry_level
+40,    Averity,"New York, NY",115000.0,Data_Analyst,Entry_level
+41,    Aarkay Technologies,"New York, NY 10001 (Chelsea area)",115000.0,Data_Analyst,Entry_level
+42,        BlackRock,"New York, NY 10022 (Midtown area)",115000.0,Data_Analyst,Entry_level
+43,    Selby Jennings,"New York, NY 10167 (Midtown area)",115000.0,Data_Analyst,Entry_level
+44,        JPMorgan Chase,"New York, NY",115000.0,Data_Analyst,Entry_level
+45,        Chubb,"Whitehouse Station, NJ",115000.0,Data_Analyst,Entry_level
+46,        Analytic Recruiting,"New York, NY 10017 (Midtown area)",115000.0,Data_Analyst,Entry_level
+47,    Averity,"New York, NY",115000.0,Data_Analyst,Entry_level
+48,        Goldman Sachs,"New York, NY",115000.0,Data_Analyst,Entry_level
+49,"    Adviser Compliance Associates LLC, Broker-Dealer C...","New York, NY",115000.0,Data_Analyst,Entry_level
+50,        AIG,"New York, NY",115000.0,Data_Analyst,Entry_level
+51,"    Two Sigma Investments, LLC.","New York, NY",115000.0,Data_Analyst,Entry_level
+52,"        DUFF AND PHELPS, LLC","New York, NY",115000.0,Data_Analyst,Entry_level
+53,        Goldman Sachs,"New York, NY",115000.0,Data_Analyst,Entry_level
+54,        BlackRock,"New York, NY 10022 (Midtown area)",115000.0,Data_Analyst,Entry_level
+55,        Verizon,"New York, NY 10010 (Gramercy area)",115000.0,Data_Analyst,Entry_level
+56,        Morgan Stanley,"New York, NY 10032 (Washington Heights area)",115000.0,Data_Analyst,Entry_level
+57,        FactSet Research Systems,"New York, NY 10016 (Gramercy area)",115000.0,Data_Analyst,Entry_level
+58,        Citi,"New York, NY",115000.0,Data_Analyst,Entry_level
+59,    Animoto,"New York, NY",115000.0,Data_Analyst,Entry_level
+60,    Excelsior Professional Search,"New York, NY",115000.0,Data_Analyst,Entry_level
+61,    Averity,"New York, NY",115000.0,Data_Analyst,Entry_level
+62,        Michael Page US,"New York, NY",115000.0,Data_Analyst,Entry_level
+63,    Sonsoft Inc,"Princeton, NJ",115000.0,Data_Analyst,Entry_level
+64,        Spotify,"New York, NY 10011 (Chelsea area)",115000.0,Data_Analyst,Entry_level
+65,        FactSet,"New York, NY 10016 (Gramercy area)",115000.0,Data_Analyst,Entry_level
+66,        Jet,"Hoboken, NJ",115000.0,Data_Analyst,Entry_level
+67,    Applied Communication Sciences,"Basking Ridge, NJ 07920",115000.0,Data_Analyst,Entry_level
+68,        Goldman Sachs,"New York, NY",115000.0,Data_Analyst,Entry_level
+69,        AllianceBernstein,"New York, NY 10105 (Midtown area)",115000.0,Data_Analyst,Entry_level
+70,        Vencore,"Basking Ridge, NJ",115000.0,Data_Analyst,Entry_level
+71,    Creative Data Resources,"New York, NY 10017 (Midtown area)",115000.0,Data_Analyst,Entry_level
+72,"        Marlabs, Inc","New York, NY 10002 (Lower East Side area)",115000.0,Data_Analyst,Entry_level
+73,"    Knotch, Inc.","New York, NY",115000.0,Data_Analyst,Entry_level
+74,    Selby Jennings,"New York, NY 10167 (Midtown area)",115000.0,Data_Analyst,Entry_level
+75,        Google,"New York, NY 10011 (Chelsea area)",115000.0,Data_Analyst,Entry_level
+76,        Execu | Search,"New York, NY",115000.0,Data_Analyst,Entry_level
+77,        Google,"New York, NY 10011 (Chelsea area)",115000.0,Data_Analyst,Entry_level
+78,        Goldman Sachs,"New York, NY",115000.0,Data_Analyst,Entry_level
+79,"    KCG Holdings, Inc.","Jersey City, NJ",115000.0,Data_Analyst,Entry_level
+80,        Workbridge Associates,"New Brunswick, NJ",115000.0,Data_Analyst,Entry_level
+81,        AllianceBernstein,"New York, NY 10105 (Midtown area)",115000.0,Data_Analyst,Entry_level
+82,    2 Bridge Partners,"New York, NY",115000.0,Data_Analyst,Entry_level
+83,        Top Prospect Group,"Stamford, CT",115000.0,Data_Analyst,Entry_level
+84,    Success Academy Charter Schools,"New York, NY 10027 (Hamilton Heights area)",115000.0,Data_Analyst,Entry_level
+85,    Selby Jennings,"New York, NY 10167 (Midtown area)",115000.0,Data_Analyst,Entry_level
+86,        Palantir Technologies,"New York, NY 10014 (West Village area)",115000.0,Data_Analyst,Entry_level
+87,        Michael Page US,"New York, NY",115000.0,Data_Analyst,Entry_level
+88,    Signac,"New York, NY",115000.0,Data_Analyst,Entry_level
+89,        JPMorgan Chase,"New York, NY",115000.0,Data_Analyst,Entry_level
+90,    Smith Arnold Partners,"New York, NY",115000.0,Data_Analyst,Entry_level
+91,"    NSD International, Inc.","New York, NY 10020 (Midtown area)",115000.0,Data_Analyst,Entry_level
+92,    Sonsoft Inc,"Livingston, NJ",115000.0,Data_Analyst,Entry_level
+93,        JPMorgan Chase,"New York, NY",115000.0,Data_Analyst,Entry_level
+94,        Mitchell Martin,"New York, NY 10038 (Financial District area)",115000.0,Data_Analyst,Entry_level
+95,    Averity,"Basking Ridge, NJ",115000.0,Data_Analyst,Entry_level
+96,    Sonsoft Inc,"Livingston, NJ",115000.0,Data_Analyst,Entry_level
+97,        Bond Street,"New York, NY 10012 (Little Italy area)",115000.0,Data_Analyst,Entry_level
+98,        JPMorgan Chase - Asset Management,"New York, NY",115000.0,Data_Analyst,Entry_level
+99,        Employment Staffing,"New York, NY",115000.0,Data_Analyst,Entry_level
+100,    Princeton Consulting,"New York, NY 10018 (Clinton area)",115000.0,Data_Analyst,Entry_level
+101,        JPMorgan Chase,"New York, NY",115000.0,Data_Analyst,Entry_level
+102,        Vencore,"Red Bank, NJ",115000.0,Data_Analyst,Entry_level
+103,    Creative Data Resources,"New York, NY 10017",115000.0,Data_Analyst,Entry_level
+104,"        Marlabs, Inc","New York, NY 10008",115000.0,Data_Analyst,Entry_level
+0,        KPMG,"New York, NY 10154",115000.0,Data_Analyst,Mid_level
+1,        KPMG,"New York, NY 10154",115000.0,Data_Analyst,Mid_level
+2,    Tradeweb Markets LLC,"New York, NY 10036",115000.0,Data_Analyst,Mid_level
+3,        Citi,"New York, NY",115000.0,Data_Analyst,Mid_level
+4,        Spotify,"New York, NY 10011 (Chelsea area)",115000.0,Data_Analyst,Mid_level
+5,    EMG INCORP,"Long Island City, NY",115000.0,Data_Analyst,Mid_level
+6,        Roku,"New York, NY 10001 (Chelsea area)",115000.0,Data_Analyst,Mid_level
+7,        Voya Financial,"New York, NY",115000.0,Data_Analyst,Mid_level
+8,        WeWork,"New York, NY 10005 (Financial District area)",115000.0,Data_Analyst,Mid_level
+9,    Paperless Post,"New York, NY",115000.0,Data_Analyst,Mid_level
+10,        EXPERIAN,"New York, NY 10020 (Midtown area)",115000.0,Data_Analyst,Mid_level
+11,    Convex Connections Corporation,"New York, NY",115000.0,Data_Analyst,Mid_level
+12,    AXA : France,"New York, NY",115000.0,Data_Analyst,Mid_level
+13,        IBM,"Armonk, NY",115000.0,Data_Analyst,Mid_level
+14,    Analytic Partners,"New York, NY 10017 (Midtown area)",115000.0,Data_Analyst,Mid_level
+15,        AlixPartners,"New York, NY 10019 (Midtown area)",115000.0,Data_Analyst,Mid_level
+16,        Facebook,"New York, NY",115000.0,Data_Analyst,Mid_level
+17,        adMarketplace,"New York, NY",115000.0,Data_Analyst,Mid_level
+18,        Spotify,"New York, NY 10011 (Chelsea area)",115000.0,Data_Analyst,Mid_level
+19,        KPMG,"New York, NY 10154 (Midtown area)",115000.0,Data_Analyst,Mid_level
+20,"    Orzota, Inc.","New York, NY",115000.0,Data_Analyst,Mid_level
+21,        Dailymotion,"New York, NY",115000.0,Data_Analyst,Mid_level
+22,        JPMorgan Chase,"New York, NY",115000.0,Data_Analyst,Mid_level
+23,    MediQuire,"New York, NY 10018 (Clinton area)",115000.0,Data_Analyst,Mid_level
+24,        Amherst,"New York, NY 10022 (Midtown area)",115000.0,Data_Analyst,Mid_level
+25,    Informa Business Intelligence,"New York, NY",115000.0,Data_Analyst,Mid_level
+26,        JPMorgan Chase,"New York, NY",115000.0,Data_Analyst,Mid_level
+27,        Bloomberg,"New York, NY",115000.0,Data_Analyst,Mid_level
+28,        WeWork,"New York, NY 10005 (Financial District area)",115000.0,Data_Analyst,Mid_level
+29,    CroytenER,"New York, NY",115000.0,Data_Analyst,Mid_level
+30,    Brooklyn Data Science,"New York, NY",115000.0,Data_Analyst,Mid_level
+31,    Veterans Sourcing Group,"New York, NY 10038 (Financial District area)",115000.0,Data_Analyst,Mid_level
+32,        Workbridge Associates,"New York, NY 10016 (Gramercy area)",115000.0,Data_Analyst,Mid_level
+33,        BNP Paribas,"New York, NY",115000.0,Data_Analyst,Mid_level
+34,        Perella Weinberg Partners,"New York, NY 10153 (Midtown area)",115000.0,Data_Analyst,Mid_level
+35,    ITG,"New York, NY 10017 (Midtown area)",115000.0,Data_Analyst,Mid_level
+36,        BNP Paribas,"New York, NY",115000.0,Data_Analyst,Mid_level
+37,        Morgan Stanley,"New York, NY 10032 (Washington Heights area)",115000.0,Data_Analyst,Mid_level
+38,    Lazard Ltd.,"New York, NY",115000.0,Data_Analyst,Mid_level
+39,    RxSpeed Inc.,"Stamford, CT",115000.0,Data_Analyst,Mid_level
+40,        BP,"Stamford, CT",115000.0,Data_Analyst,Mid_level
+41,        Memorial Sloan Kettering,"New York, NY",115000.0,Data_Analyst,Mid_level
+42,        Société Générale,"New York, NY",115000.0,Data_Analyst,Mid_level
+43,    Sampoerna,"New York, NY",115000.0,Data_Analyst,Mid_level
+44,        Workbridge Associates,"New York, NY 10010 (Gramercy area)",115000.0,Data_Analyst,Mid_level
+45,        Capital One,"New York, NY",115000.0,Data_Analyst,Mid_level
+46,        Citi,"New York, NY",115000.0,Data_Analyst,Mid_level
+47,        Verizon,"Basking Ridge, NJ 07920",115000.0,Data_Analyst,Mid_level
+48,        Fareportal Inc.,"New York, NY 10001 (Chelsea area)",115000.0,Data_Analyst,Mid_level
+49,        Workbridge Associates,"New York, NY 10016 (Gramercy area)",115000.0,Data_Analyst,Mid_level
+50,        The Forum Group,"Purchase, NY",115000.0,Data_Analyst,Mid_level
+51,    Brilliant Leap,"New York, NY",115000.0,Data_Analyst,Mid_level
+52,        BNP Paribas,"New York, NY",115000.0,Data_Analyst,Mid_level
+53,    Asset Staffing,"New York, NY",115000.0,Data_Analyst,Mid_level
+54,        JPMorgan Chase,"New York, NY",115000.0,Data_Analyst,Mid_level
+55,"    Turner, a Time Warner Company","New York, NY",115000.0,Data_Analyst,Mid_level
+56,        Facebook,"New York, NY",115000.0,Data_Analyst,Mid_level
+57,        NBCUniversal,"New York, NY",115000.0,Data_Analyst,Mid_level
+58,    Hatstand Ltd,"New York, NY",115000.0,Data_Analyst,Mid_level
+59,        JPMorgan Chase,"New York, NY",115000.0,Data_Analyst,Mid_level
+60,        KPMG,"New York, NY 10154 (Midtown area)",115000.0,Data_Analyst,Mid_level
+61,    Harnham,"New York, NY",115000.0,Data_Analyst,Mid_level
+62,        Groupe Crédit Agricole,"New York, NY",115000.0,Data_Analyst,Mid_level
+63,        Gilt Groupe,"New York, NY 10016 (Gramercy area)",115000.0,Data_Analyst,Mid_level
+64,        Mars,"Hackettstown, NJ 07840",115000.0,Data_Analyst,Mid_level
+65,    Selby Jennings,"New York, NY 10167 (Midtown area)",115000.0,Data_Analyst,Mid_level
+66,        Morgan Stanley,"New York, NY 10032 (Washington Heights area)",115000.0,Data_Analyst,Mid_level
+67,        Mitchell/Martin Inc.,"New York, NY",115000.0,Data_Analyst,Mid_level
+68,        Airtime,"New York, NY",115000.0,Data_Analyst,Mid_level
+69,"    Cognical, Inc.","New York, NY 10001 (Chelsea area)",115000.0,Data_Analyst,Mid_level
+70,"    Janssen Research & Development, LLC.","Raritan, NJ",115000.0,Data_Analyst,Mid_level
+71,        Verizon,"Basking Ridge, NJ 07920",115000.0,Data_Analyst,Mid_level
+72,        Goldman Sachs,"New York, NY 10282 (Tribeca area)",115000.0,Data_Analyst,Mid_level
+73,    Confluentia,"New York, NY",115000.0,Data_Analyst,Mid_level
+74,        Matlen Silver,"New York, NY",115000.0,Data_Analyst,Mid_level
+75,        Capital One,"New York, NY",115000.0,Data_Analyst,Mid_level
+76,        Siemens,"Princeton, NJ 08540",115000.0,Data_Analyst,Mid_level
+77,        PlaceIQ,"New York, NY",115000.0,Data_Analyst,Mid_level
+78,    Verisk Insurance Solutions,"Jersey City, NJ",115000.0,Data_Analyst,Mid_level
+79,    Komodo Health,"New York, NY",115000.0,Data_Analyst,Mid_level
+80,        Capital One,"New York, NY",115000.0,Data_Analyst,Mid_level
+81,    Veterans Sourcing Group,"New York, NY 10038 (Financial District area)",115000.0,Data_Analyst,Mid_level
+82,        Citi,"New York, NY",115000.0,Data_Analyst,Mid_level
+83,    Marcum Search LLC,"New York, NY",115000.0,Data_Analyst,Mid_level
+84,        Verizon,"Piscataway, NJ 08854",115000.0,Data_Analyst,Mid_level
+85,        Morgan Stanley,"New York, NY 10032 (Washington Heights area)",115000.0,Data_Analyst,Mid_level
+86,    Oliver James Associates,"New York, NY",115000.0,Data_Analyst,Mid_level
+87,        BuzzFeed,"New York, NY",115000.0,Data_Analyst,Mid_level
+88,        Blackstone,"New York, NY",115000.0,Data_Analyst,Mid_level
+89,        New York Life Insurance Co,"New York, NY",115000.0,Data_Analyst,Mid_level
+90,        IPSEN,"Basking Ridge, NJ",115000.0,Data_Analyst,Mid_level
+91,        JPMorgan Chase,"New York, NY",115000.0,Data_Analyst,Mid_level
+92,        Spotify,"New York, NY 10011 (Chelsea area)",115000.0,Data_Analyst,Mid_level
+93,    Federal Home Loan Bank of NY,"New York, NY",115000.0,Data_Analyst,Mid_level
+94,    TW Staffing Solutions,"New York, NY",115000.0,Data_Analyst,Mid_level
+95,"    Source of Future Technology, Inc.","New York, NY",115000.0,Data_Analyst,Mid_level
+96,    The Enosys Group,"Parsippany, NJ",115000.0,Data_Analyst,Mid_level
+97,    Rockstar New York,"New York, NY",115000.0,Data_Analyst,Mid_level
+98,        Accenture,"New York, NY 10011 (Chelsea area)",115000.0,Data_Analyst,Mid_level
+99,        Michael Page US,"New York, NY",115000.0,Data_Analyst,Mid_level
+100,        Execu | Search,"New York, NY",115000.0,Data_Analyst,Mid_level
+101,        Spotify,"New York, NY 10011 (Chelsea area)",115000.0,Data_Analyst,Mid_level
+102,        Ipsos North America,"New York, NY",115000.0,Data_Analyst,Mid_level
+103,        Indeed,"New York, NY 10036",115000.0,Data_Analyst,Mid_level
+104,        KPMG,"New York, NY 10154",115000.0,Data_Analyst,Mid_level
+0,        Prudential,"Newark, NJ 07102",115000.0,Data_Analyst,Senior_level
+1,        Citi,"Long Island City, NY",115000.0,Data_Analyst,Senior_level
+2,    Princeton Consulting,"New York, NY 10018",115000.0,Data_Analyst,Senior_level
+3,    Grubhub,"New York, NY",115000.0,Data_Analyst,Senior_level
+4,        Sapient Global Markets,"New York, NY",115000.0,Data_Analyst,Senior_level
+5,        Major League Baseball Advanced Media,"New York, NY",115000.0,Data_Analyst,Senior_level
+6,        Capital One,"New York, NY",115000.0,Data_Analyst,Senior_level
+7,    Paperless Post,"New York, NY",115000.0,Data_Analyst,Senior_level
+8,        JPMorgan Chase,"New York, NY",115000.0,Data_Analyst,Senior_level
+9,        WeWork,"New York, NY 10005 (Financial District area)",115000.0,Data_Analyst,Senior_level
+10,        HSBC,"New York, NY",115000.0,Data_Analyst,Senior_level
+11,    Huxley Banking & Financial Services,"New York, NY",115000.0,Data_Analyst,Senior_level
+12,    Spreemo,"New York, NY",115000.0,Data_Analyst,Senior_level
+13,        Momentum,"New York, NY 10013 (Tribeca area)",115000.0,Data_Analyst,Senior_level
+14,        ZS Associates,"New York, NY 10017 (Midtown area)",115000.0,Data_Analyst,Senior_level
+15,        GroupM,"New York, NY",115000.0,Data_Analyst,Senior_level
+16,        Spotify,"New York, NY 10011 (Chelsea area)",115000.0,Data_Analyst,Senior_level
+17,        Absolutdata,"New York, NY",115000.0,Data_Analyst,Senior_level
+18,    1stdibs.com,"New York, NY",115000.0,Data_Analyst,Senior_level
+19,        Analytic Recruiting,"New York, NY 10017 (Midtown area)",115000.0,Data_Analyst,Senior_level
+20,        NICE,"Hoboken, NJ",115000.0,Data_Analyst,Senior_level
+21,        AIG,"New York, NY",115000.0,Data_Analyst,Senior_level
+22,        RAYMOND JAMES FINANCIAL,"New York, NY",115000.0,Data_Analyst,Senior_level
+23,"    Hill & Knowlton, Inc.","New York, NY",115000.0,Data_Analyst,Senior_level
+24,    Rockstar New York,"New York, NY",115000.0,Data_Analyst,Senior_level
+25,        Aetna,"New York, NY 10016 (Gramercy area)",115000.0,Data_Analyst,Senior_level
+26,        Mercury Media,"New York, NY 10005 (Financial District area)",115000.0,Data_Analyst,Senior_level
+27,    Brooklyn Data Science,"New York, NY",115000.0,Data_Analyst,Senior_level
+28,        AT&T,"New York, NY",115000.0,Data_Analyst,Senior_level
+29,        Johnson & Johnson Services Inc.,"New Brunswick, NJ",115000.0,Data_Analyst,Senior_level
+30,        BNY Mellon,"New York, NY",115000.0,Data_Analyst,Senior_level
+31,        Chubb,"Whitehouse Station, NJ",115000.0,Data_Analyst,Senior_level
+32,        Mitchell Martin,"Long Island City, NY 11101",115000.0,Data_Analyst,Senior_level
+33,    Averity,"New York, NY",115000.0,Data_Analyst,Senior_level
+34,        Freddie Mac,"New York, NY 10168 (Murray Hill area)",115000.0,Data_Analyst,Senior_level
+35,        AIG,"New York, NY",115000.0,Data_Analyst,Senior_level
+36,        Johnson & Johnson Services Inc.,"New Brunswick, NJ",115000.0,Data_Analyst,Senior_level
+37,        Wolters Kluwer,"New York, NY",115000.0,Data_Analyst,Senior_level
+38,"        J.Crew Group, Inc.","New York, NY 10003 (Greenwich Village area)",115000.0,Data_Analyst,Senior_level
+39,    Zealogics,"Tarrytown, NY",115000.0,Data_Analyst,Senior_level
+40,    Pivotal Software,"New York, NY 10017 (Midtown area)",115000.0,Data_Analyst,Senior_level
+41,        CAPCO,"New York, NY 10271 (Financial District area)",115000.0,Data_Analyst,Senior_level
+42,        New York Life Insurance Co,"Jersey City, NJ 07302 (Downtown area)",115000.0,Data_Analyst,Senior_level
+43,        BNP Paribas,"New York, NY",115000.0,Data_Analyst,Senior_level
+44,        CoStar Group,"New York, NY",115000.0,Data_Analyst,Senior_level
+45,    Outbrain Inc.,"New York, NY",115000.0,Data_Analyst,Senior_level
+46,    Security Benefit Web,"Bridgewater, NJ",115000.0,Data_Analyst,Senior_level
+47,        Citi,"Long Island City, NY",115000.0,Data_Analyst,Senior_level
+48,        Tumblr,"New York, NY",115000.0,Data_Analyst,Senior_level
+49,"        Gartner, Inc.","Stamford, CT 06902 (Downtown area)",115000.0,Data_Analyst,Senior_level
+50,"    NEOTECRA, INC.","Brooklyn, NY",115000.0,Data_Analyst,Senior_level
+51,        Ross Stores,"New York, NY",115000.0,Data_Analyst,Senior_level
+52,        JPMorgan Chase,"Jersey City, NJ",115000.0,Data_Analyst,Senior_level
+53,        AIG,"New York, NY",115000.0,Data_Analyst,Senior_level
+54,        Ethicon Inc.,"Somerville, NJ",115000.0,Data_Analyst,Senior_level
+55,        Foot Locker,"New York, NY",115000.0,Data_Analyst,Senior_level
+56,        Morgan Stanley,"New York, NY 10032 (Washington Heights area)",115000.0,Data_Analyst,Senior_level
+57,    Spartan Resources,"New York, NY",115000.0,Data_Analyst,Senior_level
+58,        Wells Fargo,"New York, NY",115000.0,Data_Analyst,Senior_level
+59,    Princeton Consulting,"New York, NY 10018 (Clinton area)",115000.0,Data_Analyst,Senior_level
+60,        S&P GLOBAL,"New York, NY 10002 (Lower East Side area)",115000.0,Data_Analyst,Senior_level
+61,        WeWork,"New York, NY 10005 (Financial District area)",115000.0,Data_Analyst,Senior_level
+62,        TD Ameritrade,"Jersey City, NJ",115000.0,Data_Analyst,Senior_level
+63,"        Broadridge Financial Solutions, Inc.","Jersey City, NJ 07306 (Journal Square area)",115000.0,Data_Analyst,Senior_level
+64,        BNY Mellon,"Jersey City, NJ 07306 (Journal Square area)",115000.0,Data_Analyst,Senior_level
+65,    Moody's Shared Services,"New York, NY",115000.0,Data_Analyst,Senior_level
+66,        Citi,"New York, NY",115000.0,Data_Analyst,Senior_level
+67,        Prudential,"Newark, NJ",115000.0,Data_Analyst,Senior_level
+68,    Jarvis Walker,"Somerville, NJ",115000.0,Data_Analyst,Senior_level
+69,        BNY Mellon,"Brooklyn, NY",115000.0,Data_Analyst,Senior_level
+70,        Morgan Stanley,"New York, NY 10032 (Washington Heights area)",115000.0,Data_Analyst,Senior_level
+71,        AlphaSights,"New York, NY 10036",115000.0,Data_Analyst,Senior_level
+72,        Boehringer Ingelheim,"Ridgefield, CT",115000.0,Data_Analyst,Senior_level
+73,        Morgan Stanley,"New York, NY 10032 (Washington Heights area)",115000.0,Data_Analyst,Senior_level
+74,        JPMorgan Chase,"Brooklyn, NY",115000.0,Data_Analyst,Senior_level
+75,"    NSD International, Inc.","New York, NY 10020 (Midtown area)",115000.0,Data_Analyst,Senior_level
+76,    Harnham,"New York, NY",115000.0,Data_Analyst,Senior_level
+77,        Société Générale,"New York, NY",115000.0,Data_Analyst,Senior_level
+78,Analysts International,"Manhattan, NY",115000.0,Data_Analyst,Senior_level
+79,    KCS,"New York, NY",115000.0,Data_Analyst,Senior_level
+80,        Allergan,"Parsippany, NJ",115000.0,Data_Analyst,Senior_level
+81,    Selby Jennings,"New York, NY 10167 (Midtown area)",115000.0,Data_Analyst,Senior_level
+82,        2U,"New York, NY",115000.0,Data_Analyst,Senior_level
+83,        JPMorgan Chase,"Jersey City, NJ",115000.0,Data_Analyst,Senior_level
+84,        Eurasia Group,"New York, NY 10017 (Midtown area)",115000.0,Data_Analyst,Senior_level
+85,        NICE Systems,"Hoboken, NJ",115000.0,Data_Analyst,Senior_level
+86,        JPMorgan Chase,"Jersey City, NJ",115000.0,Data_Analyst,Senior_level
+87,    Harnham,"New York, NY",115000.0,Data_Analyst,Senior_level
+88,        BAE Systems Applied Intelligence,"New York, NY",115000.0,Data_Analyst,Senior_level
+89,        Wunderman,"New York, NY 10017 (Midtown area)",115000.0,Data_Analyst,Senior_level
+90,        Capital One,"New York, NY",115000.0,Data_Analyst,Senior_level
+91,    Veterans Sourcing Group,"New York, NY 10179 (Midtown area)",115000.0,Data_Analyst,Senior_level
+92,    Selby Jennings,"New York, NY 10167 (Midtown area)",115000.0,Data_Analyst,Senior_level
+93,        CIT Group,"New York, NY 10036",115000.0,Data_Analyst,Senior_level
+94,        New York Life Insurance Co,"Jersey City, NJ 07302 (Downtown area)",115000.0,Data_Analyst,Senior_level
+95,        Linium,"New York, NY",115000.0,Data_Analyst,Senior_level
+96,        Employment Staffing,"New York, NY",115000.0,Data_Analyst,Senior_level
+97,    OFFICE OF THE COMPTROLLER,"New York, NY 10007 (Financial District area)",115000.0,Data_Analyst,Senior_level
+98,        Ipreo,"New York, NY",115000.0,Data_Analyst,Senior_level
+99,        TravelCLICK,"New York, NY 10018 (Clinton area)",115000.0,Data_Analyst,Senior_level
+100,    Dynamics Associates,"New York, NY",115000.0,Data_Analyst,Senior_level
+101,        Priceline.com,"Norwalk, CT 06854",115000.0,Data_Analyst,Senior_level
+102,    Smith Arnold Partners,"New York, NY",115000.0,Data_Analyst,Senior_level
+103,"    NSD International, Inc.","New York, NY 10020",115000.0,Data_Analyst,Senior_level
+104,        TD Bank,"Mount Laurel, NJ",115000.0,Data_Analyst,Senior_level

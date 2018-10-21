@@ -1,0 +1,788 @@
+,Company_name,Location,Salary,Title,Experience
+0,    AskMyUncleSam,"New York, NY",85000.0,Data_Scientist,Entry_level
+1,        Celgene,"Summit, NJ 07901",85000.0,Data_Scientist,Entry_level
+2,        Technosoft Corporation,"Jersey City, NJ 07097",85000.0,Data_Scientist,Entry_level
+3,        Bloomberg,"New York, NY",85000.0,Data_Scientist,Entry_level
+4,        Dailymotion,"New York, NY",85000.0,Data_Scientist,Entry_level
+5,    Dascase Technologies Inc,"New Brunswick, NJ",85000.0,Data_Scientist,Entry_level
+6,    Datadog,"New York, NY 10001 (Chelsea area)",85000.0,Data_Scientist,Entry_level
+7,        RangTech,"Township of Piscataway, NJ",85000.0,Data_Scientist,Entry_level
+8,        ShopKeep,"New York, NY",85000.0,Data_Scientist,Entry_level
+9,    Veterans Sourcing Group,"Jersey City, NJ 07310 (Downtown area)",85000.0,Data_Scientist,Entry_level
+10,"    DoubleVerify, Inc","New York, NY 10018 (Clinton area)",85000.0,Data_Scientist,Entry_level
+11,    Averity,"New York, NY",85000.0,Data_Scientist,Entry_level
+12,    Shulman Fleming & Partners,"New York, NY",85000.0,Data_Scientist,Entry_level
+13,        New York Life Insurance Co,"New York, NY",85000.0,Data_Scientist,Entry_level
+14,    SARIAN SOLUTIONS,"Edison, NJ",85000.0,Data_Scientist,Entry_level
+15,    Cavalier IT Solutions,"New Brunswick, NJ 08933",85000.0,Data_Scientist,Entry_level
+16,        OnDeck,"New York, NY",85000.0,Data_Scientist,Entry_level
+17,        Marlabs Inc.,"Jersey City, NJ",85000.0,Data_Scientist,Entry_level
+18,    Averity,"New York, NY",85000.0,Data_Scientist,Entry_level
+19,    Averity,"New York, NY",85000.0,Data_Scientist,Entry_level
+20,        Mount Sinai Health System,"New York, NY 10029 (Yorkville area)",85000.0,Data_Scientist,Entry_level
+21,    Payette Group,"New York, NY",85000.0,Data_Scientist,Entry_level
+22,        Incedo,"Somerset, NJ 08873",85000.0,Data_Scientist,Entry_level
+23,    Oliver James Associates,"New York, NY",85000.0,Data_Scientist,Entry_level
+24,        Jobspring Partners,"New York, NY",85000.0,Data_Scientist,Entry_level
+25,    Dia&Co,"New York, NY",85000.0,Data_Scientist,Entry_level
+26,    Dstillery,"New York, NY",85000.0,Data_Scientist,Entry_level
+27,    Averity,"New York, NY",85000.0,Data_Scientist,Entry_level
+28,    Rang Technologies Inc.,"Piscataway, NJ 08854",85000.0,Data_Scientist,Entry_level
+29,        pymetrics,"New York, NY 10016 (Gramercy area)",85000.0,Data_Scientist,Entry_level
+30,    CompIQ,"New York, NY",85000.0,Data_Scientist,Entry_level
+31,        Galvanize,"New York, NY",85000.0,Data_Scientist,Entry_level
+32,        Squarespace,"New York, NY 10014 (West Village area)",85000.0,Data_Scientist,Entry_level
+33,    AskMyUncleSam,"New York, NY",85000.0,Data_Scientist,Entry_level
+34,        AIG,"New York, NY",85000.0,Data_Scientist,Entry_level
+35,        MediaMath,"New York, NY",85000.0,Data_Scientist,Entry_level
+36,        Celgene Corporation,"Summit, NJ 07901",85000.0,Data_Scientist,Entry_level
+37,        Chubb,"Whitehouse Station, NJ",85000.0,Data_Scientist,Entry_level
+38,    ExecThread,"New York, NY",85000.0,Data_Scientist,Entry_level
+39,    Averity,"New York, NY",85000.0,Data_Scientist,Entry_level
+40,        RangTech,"Township of Piscataway, NJ",85000.0,Data_Scientist,Entry_level
+41,"    Knotch, Inc.","New York, NY",85000.0,Data_Scientist,Entry_level
+42,    Cavalier IT Inc,"Jersey City, NJ",85000.0,Data_Scientist,Entry_level
+43,        Verizon,"New York, NY 10010 (Gramercy area)",85000.0,Data_Scientist,Entry_level
+44,        Guidepoint Global,"New York, NY",85000.0,Data_Scientist,Entry_level
+45,    Schrodinger,"New York, NY",85000.0,Data_Scientist,Entry_level
+46,        Workbridge Associates,"New York, NY 10017 (Midtown area)",85000.0,Data_Scientist,Entry_level
+47,        Spotify,"New York, NY 10011 (Chelsea area)",85000.0,Data_Scientist,Entry_level
+48,"        Open Systems Technologies, Inc.","New York, NY",85000.0,Data_Scientist,Entry_level
+49,        Morgan Stanley,"New York, NY 10032 (Washington Heights area)",85000.0,Data_Scientist,Entry_level
+50,        Celgene,"Summit, NJ",85000.0,Data_Scientist,Entry_level
+51,    Averity,"New York, NY",85000.0,Data_Scientist,Entry_level
+52,        Quartet,"New York, NY 10018 (Clinton area)",85000.0,Data_Scientist,Entry_level
+53,        Analytic Recruiting,"New York, NY 10017 (Midtown area)",85000.0,Data_Scientist,Entry_level
+54,        Velocity Resource Group,"New York, NY 10013 (Tribeca area)",85000.0,Data_Scientist,Entry_level
+55,    Selby Jennings,"New York, NY 10167 (Midtown area)",85000.0,Data_Scientist,Entry_level
+56,    Averity,"Basking Ridge, NJ",85000.0,Data_Scientist,Entry_level
+57,    Lamoreaux Search,"Jersey City, NJ",85000.0,Data_Scientist,Entry_level
+58,        Michael Page US,"New York, NY",85000.0,Data_Scientist,Entry_level
+59,        Workbridge Associates,"New Brunswick, NJ",85000.0,Data_Scientist,Entry_level
+60,    Selby Jennings,"New York, NY 10167 (Midtown area)",85000.0,Data_Scientist,Entry_level
+61,        Analytic Recruiting,"New York, NY 10017 (Midtown area)",85000.0,Data_Scientist,Entry_level
+62,        iTech Solutions,"Basking Ridge, NJ 07920",85000.0,Data_Scientist,Entry_level
+63,    Selby Jennings,"New York, NY 10167 (Midtown area)",85000.0,Data_Scientist,Entry_level
+64,"    Radiant System, Inc","Plainsboro, NJ 08536",85000.0,Data_Scientist,Entry_level
+65,        2U,"New York, NY",85000.0,Data_Scientist,Entry_level
+66,        Macquarie Group Limited,"New York, NY",85000.0,Data_Scientist,Entry_level
+67,        Analytic Recruiting,"New York, NY 10017 (Midtown area)",85000.0,Data_Scientist,Entry_level
+68,        Analytic Recruiting,"New York, NY 10017 (Midtown area)",85000.0,Data_Scientist,Entry_level
+69,        Quartet,"New York, NY 10018 (Clinton area)",85000.0,Data_Scientist,Entry_level
+70,    NewAge Clinical,"New Brunswick, NJ",85000.0,Data_Scientist,Entry_level
+71,    Predictive Science,United States,85000.0,Data_Scientist,Entry_level
+0,        KPMG,"New York, NY 10154",85000.0,Data_Scientist,Mid_level
+1,        KPMG,"New York, NY 10154",85000.0,Data_Scientist,Mid_level
+2,    WorkFusion,"New York, NY",85000.0,Data_Scientist,Mid_level
+3,    Tapad,"New York, NY",85000.0,Data_Scientist,Mid_level
+4,        GroupM,"New York, NY",85000.0,Data_Scientist,Mid_level
+5,        WeWork,"New York, NY 10005 (Financial District area)",85000.0,Data_Scientist,Mid_level
+6,        Comcast,"New York, NY 10112 (Midtown area)",85000.0,Data_Scientist,Mid_level
+7,        JPMorgan Chase,"New York, NY",85000.0,Data_Scientist,Mid_level
+8,        EXPERIAN,"New York, NY 10020 (Midtown area)",85000.0,Data_Scientist,Mid_level
+9,        Healthfirst,"New York, NY",85000.0,Data_Scientist,Mid_level
+10,        Roku,"New York, NY 10001 (Chelsea area)",85000.0,Data_Scientist,Mid_level
+11,        Verizon,"Basking Ridge, NJ 07920",85000.0,Data_Scientist,Mid_level
+12,    MediQuire,"New York, NY 10018 (Clinton area)",85000.0,Data_Scientist,Mid_level
+13,        Accenture,"New York, NY 10011 (Chelsea area)",85000.0,Data_Scientist,Mid_level
+14,        Phreesia,"New York, NY",85000.0,Data_Scientist,Mid_level
+15,        New York Power Authority,"White Plains, NY 10601",85000.0,Data_Scientist,Mid_level
+16,    Analytic Partners,"New York, NY 10017 (Midtown area)",85000.0,Data_Scientist,Mid_level
+17,        Spotify,"New York, NY 10011 (Chelsea area)",85000.0,Data_Scientist,Mid_level
+18,        Amherst,"New York, NY 10022 (Midtown area)",85000.0,Data_Scientist,Mid_level
+19,        IBM,"Armonk, NY",85000.0,Data_Scientist,Mid_level
+20,        Perella Weinberg Partners,"New York, NY 10153 (Midtown area)",85000.0,Data_Scientist,Mid_level
+21,        IBM,"Armonk, NY",85000.0,Data_Scientist,Mid_level
+22,        adMarketplace,"New York, NY",85000.0,Data_Scientist,Mid_level
+23,        JPMorgan Chase,"New York, NY",85000.0,Data_Scientist,Mid_level
+24,    Brooklyn Data Science,"New York, NY",85000.0,Data_Scientist,Mid_level
+25,        KPMG,"New York, NY 10154 (Midtown area)",85000.0,Data_Scientist,Mid_level
+26,    ITG,"New York, NY 10017 (Midtown area)",85000.0,Data_Scientist,Mid_level
+27,        Morgan Stanley,"New York, NY 10032 (Washington Heights area)",85000.0,Data_Scientist,Mid_level
+28,        IBM Kenexa,"Armonk, NY",85000.0,Data_Scientist,Mid_level
+29,    Brooklyn Data Science,"New York, NY",85000.0,Data_Scientist,Mid_level
+30,        Siemens,"Princeton, NJ 08540",85000.0,Data_Scientist,Mid_level
+31,        KPMG,"New York, NY 10154 (Midtown area)",85000.0,Data_Scientist,Mid_level
+32,    Munich Health,"Princeton, NJ",85000.0,Data_Scientist,Mid_level
+33,        Munich Re America,"Princeton, NJ",85000.0,Data_Scientist,Mid_level
+34,"    Source of Future Technology, Inc.","New York, NY",85000.0,Data_Scientist,Mid_level
+35,"    Orzota, Inc.","New York, NY",85000.0,Data_Scientist,Mid_level
+36,        DBRS,"New York, NY 10005 (Financial District area)",85000.0,Data_Scientist,Mid_level
+37,        JPMorgan Chase,"New York, NY",85000.0,Data_Scientist,Mid_level
+38,    Sparks & Honey,"New York, NY",85000.0,Data_Scientist,Mid_level
+39,    Scienaptic Systems Inc,"New York, NY",85000.0,Data_Scientist,Mid_level
+40,        Capital One,"New York, NY",85000.0,Data_Scientist,Mid_level
+41,    Paltalk,"New York, NY 10018 (Clinton area)",85000.0,Data_Scientist,Mid_level
+42,        Swiss Re,"Armonk, NY 10504",85000.0,Data_Scientist,Mid_level
+43,        Medidata Solutions,"New York, NY 10003 (Greenwich Village area)",85000.0,Data_Scientist,Mid_level
+44,        Capital One,"New York, NY",85000.0,Data_Scientist,Mid_level
+45,        Facebook,"New York, NY",85000.0,Data_Scientist,Mid_level
+46,        Workbridge Associates,"New York, NY 10010 (Gramercy area)",85000.0,Data_Scientist,Mid_level
+47,"    Cognical, Inc.","New York, NY 10001 (Chelsea area)",85000.0,Data_Scientist,Mid_level
+48,        Gilt Groupe,"New York, NY 10016 (Gramercy area)",85000.0,Data_Scientist,Mid_level
+49,        Verizon,"Basking Ridge, NJ 07920",85000.0,Data_Scientist,Mid_level
+50,        Capital One,"New York, NY",85000.0,Data_Scientist,Mid_level
+51,        Stryker,"Allendale, NJ",85000.0,Data_Scientist,Mid_level
+52,        IBM Kenexa,"New York, NY",85000.0,Data_Scientist,Mid_level
+53,    Oliver James Associates,"New York, NY",85000.0,Data_Scientist,Mid_level
+54,    Komodo Health,"New York, NY",85000.0,Data_Scientist,Mid_level
+55,"        Amazon Web Services, Inc.","New York, NY",85000.0,Data_Scientist,Mid_level
+56,        PlaceIQ,"New York, NY",85000.0,Data_Scientist,Mid_level
+57,    NATIONAL GRID CO USA (NE POWER),"Brooklyn, NY",85000.0,Data_Scientist,Mid_level
+58,    Selby Jennings,"New York, NY 10167 (Midtown area)",85000.0,Data_Scientist,Mid_level
+59,        New York University,"New York, NY",85000.0,Data_Scientist,Mid_level
+60,        IBM Kenexa,"New York, NY",85000.0,Data_Scientist,Mid_level
+61,        IPSEN,"Basking Ridge, NJ",85000.0,Data_Scientist,Mid_level
+62,    Selby Jennings,"New York, NY 10167 (Midtown area)",85000.0,Data_Scientist,Mid_level
+63,    Yashi,"New York, NY",85000.0,Data_Scientist,Mid_level
+64,        Munich Re,"Princeton, NJ",85000.0,Data_Scientist,Mid_level
+65,        AIG,"New York, NY",85000.0,Data_Scientist,Mid_level
+66,        BuzzFeed,"New York, NY",85000.0,Data_Scientist,Mid_level
+67,        Siemens,"Princeton, NJ 08540",85000.0,Data_Scientist,Mid_level
+68,    Dataminr,"New York, NY",85000.0,Data_Scientist,Mid_level
+69,    Countr,"New York, NY",85000.0,Data_Scientist,Mid_level
+70,    Rockstar New York,"New York, NY",85000.0,Data_Scientist,Mid_level
+71,        Spotify,"New York, NY 10011 (Chelsea area)",85000.0,Data_Scientist,Mid_level
+72,        JPMorgan Chase,"New York, NY",85000.0,Data_Scientist,Mid_level
+73,    Elevate Recruiting Group,"New York, NY",85000.0,Data_Scientist,Mid_level
+74,        JPMorgan Chase,"Manhattan, NY",85000.0,Data_Scientist,Mid_level
+75,        Capital One,"New York, NY",85000.0,Data_Scientist,Mid_level
+76,    Verisk Insurance Solutions,"Jersey City, NJ",85000.0,Data_Scientist,Mid_level
+77,        Deloitte,"New York, NY",85000.0,Data_Scientist,Mid_level
+78,        WWE,"Stamford, CT",85000.0,Data_Scientist,Mid_level
+79,        RangTech,"Township of Piscataway, NJ",85000.0,Data_Scientist,Mid_level
+80,        Accenture,"New York, NY 10011 (Chelsea area)",85000.0,Data_Scientist,Mid_level
+81,        PlaceIQ,"New York, NY",85000.0,Data_Scientist,Mid_level
+82,    Integral Ad Science,"New York, NY",85000.0,Data_Scientist,Mid_level
+83,    Dataiku,"New York, NY",85000.0,Data_Scientist,Mid_level
+84,        Morgan Stanley,"New York, NY 10032 (Washington Heights area)",85000.0,Data_Scientist,Mid_level
+85,        The Nielsen Company,"New York, NY 10003 (Greenwich Village area)",85000.0,Data_Scientist,Mid_level
+86,        KPMG,"New York, NY 10154 (Midtown area)",85000.0,Data_Scientist,Mid_level
+87,        PulsePoint,"New York, NY",85000.0,Data_Scientist,Mid_level
+88,        Analytic Recruiting,"New York, NY 10017 (Midtown area)",85000.0,Data_Scientist,Mid_level
+89,        OnDeck,"New York, NY",85000.0,Data_Scientist,Mid_level
+90,        2U,"New York, NY",85000.0,Data_Scientist,Mid_level
+91,    Selby Jennings,"New York, NY 10167 (Midtown area)",85000.0,Data_Scientist,Mid_level
+92,    RxSpeed Inc.,"Stamford, CT",85000.0,Data_Scientist,Mid_level
+93,        Airtime,"New York, NY",85000.0,Data_Scientist,Mid_level
+94,        Johnson & Johnson Services Inc.,"Somerville, NJ",85000.0,Data_Scientist,Mid_level
+95,        Morgan Stanley,"New York, NY 10032 (Washington Heights area)",85000.0,Data_Scientist,Mid_level
+96,        Spencer Ogden,"New York, NY",85000.0,Data_Scientist,Mid_level
+97,        Spotify,"New York, NY 10011 (Chelsea area)",85000.0,Data_Scientist,Mid_level
+98,        Amazon Corporate LLC,"New York, NY",85000.0,Data_Scientist,Mid_level
+99,    Verisk Insurance Solutions,"Jersey City, NJ",85000.0,Data_Scientist,Mid_level
+100,    TW Staffing Solutions,"New York, NY",85000.0,Data_Scientist,Mid_level
+101,        Experis,"New York, NY 10011 (Chelsea area)",85000.0,Data_Scientist,Mid_level
+102,        Rent the Runway,"New York, NY 10013 (Tribeca area)",85000.0,Data_Scientist,Mid_level
+103,        KPMG,"New York, NY 10154",85000.0,Data_Scientist,Mid_level
+104,        KPMG,"New York, NY 10154",85000.0,Data_Scientist,Mid_level
+0,        Accenture,"New York, NY 10011",85000.0,Data_Scientist,Senior_level
+1,    Harnham,"New York, NY 10150",85000.0,Data_Scientist,Senior_level
+2,        TD Bank,"Mount Laurel, NJ",85000.0,Data_Scientist,Senior_level
+3,        MassMutual Financial Group,"New York, NY",85000.0,Data_Scientist,Senior_level
+4,        MLB Advanced Media,"New York, NY 10011 (Chelsea area)",85000.0,Data_Scientist,Senior_level
+5,        Bloomberg,"New York, NY",85000.0,Data_Scientist,Senior_level
+6,        Sapient Global Markets,"New York, NY",85000.0,Data_Scientist,Senior_level
+7,        TIAA,"New York, NY 10002 (Lower East Side area)",85000.0,Data_Scientist,Senior_level
+8,    Paperless Post,"New York, NY",85000.0,Data_Scientist,Senior_level
+9,    Averity,"New York, NY",85000.0,Data_Scientist,Senior_level
+10,        Church Pension Group,"New York, NY",85000.0,Data_Scientist,Senior_level
+11,        Aetna,"New York, NY 10016 (Gramercy area)",85000.0,Data_Scientist,Senior_level
+12,    Spreemo,"New York, NY",85000.0,Data_Scientist,Senior_level
+13,    Pivotal Software,"New York, NY 10017 (Midtown area)",85000.0,Data_Scientist,Senior_level
+14,        Absolutdata,"New York, NY",85000.0,Data_Scientist,Senior_level
+15,    SRP Systems Inc,"Princeton, NJ",85000.0,Data_Scientist,Senior_level
+16,        CAPCO,"New York, NY 10271 (Financial District area)",85000.0,Data_Scientist,Senior_level
+17,        Spotify,"New York, NY 10011 (Chelsea area)",85000.0,Data_Scientist,Senior_level
+18,        AIG,"New York, NY",85000.0,Data_Scientist,Senior_level
+19,        SiriusXM,"Township of Lawrence, NJ 08648",85000.0,Data_Scientist,Senior_level
+20,        FIS,"New York, NY 10034 (Inwood area)",85000.0,Data_Scientist,Senior_level
+21,    Enigma,"New York, NY",85000.0,Data_Scientist,Senior_level
+22,        Tumblr,"New York, NY",85000.0,Data_Scientist,Senior_level
+23,        Viacom,"New York, NY",85000.0,Data_Scientist,Senior_level
+24,        S&P GLOBAL,"New York, NY 10002 (Lower East Side area)",85000.0,Data_Scientist,Senior_level
+25,    Rockstar New York,"New York, NY",85000.0,Data_Scientist,Senior_level
+26,    Harnham,"New York, NY",85000.0,Data_Scientist,Senior_level
+27,    Helix Sleep,"New York, NY",85000.0,Data_Scientist,Senior_level
+28,    Big Cloud Recruitment,"New York, NY",85000.0,Data_Scientist,Senior_level
+29,    Harnham,"New York, NY",85000.0,Data_Scientist,Senior_level
+30,    LearnVest,"New York, NY",85000.0,Data_Scientist,Senior_level
+31,    SRP Systems Inc,"Princeton, NJ",85000.0,Data_Scientist,Senior_level
+32,        Accenture,"New York, NY 10011 (Chelsea area)",85000.0,Data_Scientist,Senior_level
+33,    KCS,"New York, NY",85000.0,Data_Scientist,Senior_level
+34,        AIG,"New York, NY",85000.0,Data_Scientist,Senior_level
+35,    Garrison Associates,"New York, NY 10110 (East Village area)",85000.0,Data_Scientist,Senior_level
+36,    Averity,"Union, NJ",85000.0,Data_Scientist,Senior_level
+37,        Johnson & Johnson Services Inc.,"Bridgewater, NJ",85000.0,Data_Scientist,Senior_level
+38,    FGP International,"New York, NY",85000.0,Data_Scientist,Senior_level
+39,        Accenture,"New York, NY 10011 (Chelsea area)",85000.0,Data_Scientist,Senior_level
+40,        SAP,"Parsippany, NJ",85000.0,Data_Scientist,Senior_level
+41,    The James Allen Companies,"Jersey City, NJ",85000.0,Data_Scientist,Senior_level
+42,        MarketShare,"New York, NY",85000.0,Data_Scientist,Senior_level
+43,        Datameer,"New York, NY",85000.0,Data_Scientist,Senior_level
+0,    AskMyUncleSam,"New York, NY",100000.0,Data_Scientist,Entry_level
+1,        Celgene,"Summit, NJ 07901",100000.0,Data_Scientist,Entry_level
+2,    Datadog,"New York, NY 10001",100000.0,Data_Scientist,Entry_level
+3,        Bloomberg,"New York, NY",100000.0,Data_Scientist,Entry_level
+4,    Datadog,"New York, NY 10001 (Chelsea area)",100000.0,Data_Scientist,Entry_level
+5,    Dascase Technologies Inc,"New Brunswick, NJ",100000.0,Data_Scientist,Entry_level
+6,        ShopKeep,"New York, NY",100000.0,Data_Scientist,Entry_level
+7,    Veterans Sourcing Group,"Jersey City, NJ 07310 (Downtown area)",100000.0,Data_Scientist,Entry_level
+8,"    DoubleVerify, Inc","New York, NY 10018 (Clinton area)",100000.0,Data_Scientist,Entry_level
+9,    Shulman Fleming & Partners,"New York, NY",100000.0,Data_Scientist,Entry_level
+10,        New York Life Insurance Co,"New York, NY",100000.0,Data_Scientist,Entry_level
+11,    Cavalier IT Solutions,"New Brunswick, NJ 08933",100000.0,Data_Scientist,Entry_level
+12,    Averity,"New York, NY",100000.0,Data_Scientist,Entry_level
+13,    Averity,"New York, NY",100000.0,Data_Scientist,Entry_level
+14,    Payette Group,"New York, NY",100000.0,Data_Scientist,Entry_level
+15,    Dia&Co,"New York, NY",100000.0,Data_Scientist,Entry_level
+16,    Dstillery,"New York, NY",100000.0,Data_Scientist,Entry_level
+17,        Incedo,"Somerset, NJ 08873",100000.0,Data_Scientist,Entry_level
+18,    Averity,"New York, NY",100000.0,Data_Scientist,Entry_level
+19,        pymetrics,"New York, NY 10016 (Gramercy area)",100000.0,Data_Scientist,Entry_level
+20,    AskMyUncleSam,"New York, NY",100000.0,Data_Scientist,Entry_level
+21,        Galvanize,"New York, NY",100000.0,Data_Scientist,Entry_level
+22,        AIG,"New York, NY",100000.0,Data_Scientist,Entry_level
+23,        MediaMath,"New York, NY",100000.0,Data_Scientist,Entry_level
+24,    ExecThread,"New York, NY",100000.0,Data_Scientist,Entry_level
+25,        RangTech,"Township of Piscataway, NJ",100000.0,Data_Scientist,Entry_level
+26,    Averity,"New York, NY",100000.0,Data_Scientist,Entry_level
+27,        Chubb,"Whitehouse Station, NJ",100000.0,Data_Scientist,Entry_level
+28,        RangTech,"Township of Piscataway, NJ",100000.0,Data_Scientist,Entry_level
+29,"    Knotch, Inc.","New York, NY",100000.0,Data_Scientist,Entry_level
+30,        Verizon,"New York, NY 10010 (Gramercy area)",100000.0,Data_Scientist,Entry_level
+31,        Workbridge Associates,"New York, NY 10017 (Midtown area)",100000.0,Data_Scientist,Entry_level
+32,"        Marlabs, Inc","New York, NY 10002 (Lower East Side area)",100000.0,Data_Scientist,Entry_level
+33,        Spotify,"New York, NY 10011 (Chelsea area)",100000.0,Data_Scientist,Entry_level
+34,        Morgan Stanley,"New York, NY 10032 (Washington Heights area)",100000.0,Data_Scientist,Entry_level
+35,"        Open Systems Technologies, Inc.","New York, NY",100000.0,Data_Scientist,Entry_level
+36,        Quartet,"New York, NY 10018 (Clinton area)",100000.0,Data_Scientist,Entry_level
+37,    Averity,"New York, NY",100000.0,Data_Scientist,Entry_level
+38,        Analytic Recruiting,"New York, NY 10017 (Midtown area)",100000.0,Data_Scientist,Entry_level
+39,    Selby Jennings,"New York, NY 10167 (Midtown area)",100000.0,Data_Scientist,Entry_level
+40,        Workbridge Associates,"New Brunswick, NJ",100000.0,Data_Scientist,Entry_level
+41,        Michael Page US,"New York, NY",100000.0,Data_Scientist,Entry_level
+42,    Averity,"Basking Ridge, NJ",100000.0,Data_Scientist,Entry_level
+43,    Selby Jennings,"New York, NY 10167 (Midtown area)",100000.0,Data_Scientist,Entry_level
+44,        Analytic Recruiting,"New York, NY 10017 (Midtown area)",100000.0,Data_Scientist,Entry_level
+45,        2U,"New York, NY",100000.0,Data_Scientist,Entry_level
+46,    Selby Jennings,"New York, NY 10167 (Midtown area)",100000.0,Data_Scientist,Entry_level
+47,        Analytic Recruiting,"New York, NY 10017 (Midtown area)",100000.0,Data_Scientist,Entry_level
+48,        Quartet,"New York, NY 10018 (Clinton area)",100000.0,Data_Scientist,Entry_level
+49,        Analytic Recruiting,"New York, NY 10017 (Midtown area)",100000.0,Data_Scientist,Entry_level
+50,    NewAge Clinical,"New Brunswick, NJ",100000.0,Data_Scientist,Entry_level
+51,    Predictive Science,United States,100000.0,Data_Scientist,Entry_level
+0,        KPMG,"New York, NY 10154",100000.0,Data_Scientist,Mid_level
+1,        KPMG,"New York, NY 10154",100000.0,Data_Scientist,Mid_level
+2,    WorkFusion,"New York, NY",100000.0,Data_Scientist,Mid_level
+3,    Tapad,"New York, NY",100000.0,Data_Scientist,Mid_level
+4,        GroupM,"New York, NY",100000.0,Data_Scientist,Mid_level
+5,        WeWork,"New York, NY 10005 (Financial District area)",100000.0,Data_Scientist,Mid_level
+6,        Comcast,"New York, NY 10112 (Midtown area)",100000.0,Data_Scientist,Mid_level
+7,        JPMorgan Chase,"New York, NY",100000.0,Data_Scientist,Mid_level
+8,        EXPERIAN,"New York, NY 10020 (Midtown area)",100000.0,Data_Scientist,Mid_level
+9,        Roku,"New York, NY 10001 (Chelsea area)",100000.0,Data_Scientist,Mid_level
+10,    MediQuire,"New York, NY 10018 (Clinton area)",100000.0,Data_Scientist,Mid_level
+11,        Spotify,"New York, NY 10011 (Chelsea area)",100000.0,Data_Scientist,Mid_level
+12,        Phreesia,"New York, NY",100000.0,Data_Scientist,Mid_level
+13,    Analytic Partners,"New York, NY 10017 (Midtown area)",100000.0,Data_Scientist,Mid_level
+14,        New York Power Authority,"White Plains, NY 10601",100000.0,Data_Scientist,Mid_level
+15,        Verizon,"Basking Ridge, NJ 07920",100000.0,Data_Scientist,Mid_level
+16,        Amherst,"New York, NY 10022 (Midtown area)",100000.0,Data_Scientist,Mid_level
+17,        Perella Weinberg Partners,"New York, NY 10153 (Midtown area)",100000.0,Data_Scientist,Mid_level
+18,        adMarketplace,"New York, NY",100000.0,Data_Scientist,Mid_level
+19,        JPMorgan Chase,"New York, NY",100000.0,Data_Scientist,Mid_level
+20,    Brooklyn Data Science,"New York, NY",100000.0,Data_Scientist,Mid_level
+21,        KPMG,"New York, NY 10154 (Midtown area)",100000.0,Data_Scientist,Mid_level
+22,    ITG,"New York, NY 10017 (Midtown area)",100000.0,Data_Scientist,Mid_level
+23,        Morgan Stanley,"New York, NY 10032 (Washington Heights area)",100000.0,Data_Scientist,Mid_level
+24,    Brooklyn Data Science,"New York, NY",100000.0,Data_Scientist,Mid_level
+25,        KPMG,"New York, NY 10154 (Midtown area)",100000.0,Data_Scientist,Mid_level
+26,"    Source of Future Technology, Inc.","New York, NY",100000.0,Data_Scientist,Mid_level
+27,"    Orzota, Inc.","New York, NY",100000.0,Data_Scientist,Mid_level
+28,        JPMorgan Chase,"New York, NY",100000.0,Data_Scientist,Mid_level
+29,        Siemens,"Princeton, NJ 08540",100000.0,Data_Scientist,Mid_level
+30,    Sparks & Honey,"New York, NY",100000.0,Data_Scientist,Mid_level
+31,    Scienaptic Systems Inc,"New York, NY",100000.0,Data_Scientist,Mid_level
+32,        Capital One,"New York, NY",100000.0,Data_Scientist,Mid_level
+33,    Paltalk,"New York, NY 10018 (Clinton area)",100000.0,Data_Scientist,Mid_level
+34,        Medidata Solutions,"New York, NY 10003 (Greenwich Village area)",100000.0,Data_Scientist,Mid_level
+35,        Capital One,"New York, NY",100000.0,Data_Scientist,Mid_level
+36,        Facebook,"New York, NY",100000.0,Data_Scientist,Mid_level
+37,        Workbridge Associates,"New York, NY 10010 (Gramercy area)",100000.0,Data_Scientist,Mid_level
+38,"    Cognical, Inc.","New York, NY 10001 (Chelsea area)",100000.0,Data_Scientist,Mid_level
+39,        Gilt Groupe,"New York, NY 10016 (Gramercy area)",100000.0,Data_Scientist,Mid_level
+40,        Verizon,"Basking Ridge, NJ 07920",100000.0,Data_Scientist,Mid_level
+41,"        Amazon Web Services, Inc.","New York, NY",100000.0,Data_Scientist,Mid_level
+42,        Capital One,"New York, NY",100000.0,Data_Scientist,Mid_level
+43,        IBM Kenexa,"New York, NY",100000.0,Data_Scientist,Mid_level
+44,    Oliver James Associates,"New York, NY",100000.0,Data_Scientist,Mid_level
+45,        Stryker,"Allendale, NJ",100000.0,Data_Scientist,Mid_level
+46,    Komodo Health,"New York, NY",100000.0,Data_Scientist,Mid_level
+47,        PlaceIQ,"New York, NY",100000.0,Data_Scientist,Mid_level
+48,    Selby Jennings,"New York, NY 10167 (Midtown area)",100000.0,Data_Scientist,Mid_level
+49,        IBM Kenexa,"New York, NY",100000.0,Data_Scientist,Mid_level
+50,        BuzzFeed,"New York, NY",100000.0,Data_Scientist,Mid_level
+51,        Deloitte,"New York, NY",100000.0,Data_Scientist,Mid_level
+52,    Yashi,"New York, NY",100000.0,Data_Scientist,Mid_level
+53,    Selby Jennings,"New York, NY 10167 (Midtown area)",100000.0,Data_Scientist,Mid_level
+54,        AIG,"New York, NY",100000.0,Data_Scientist,Mid_level
+55,        IPSEN,"Basking Ridge, NJ",100000.0,Data_Scientist,Mid_level
+56,        Capital One,"New York, NY",100000.0,Data_Scientist,Mid_level
+57,    Countr,"New York, NY",100000.0,Data_Scientist,Mid_level
+58,    Verisk Insurance Solutions,"Jersey City, NJ",100000.0,Data_Scientist,Mid_level
+59,        Siemens,"Princeton, NJ 08540",100000.0,Data_Scientist,Mid_level
+60,        Spotify,"New York, NY 10011 (Chelsea area)",100000.0,Data_Scientist,Mid_level
+61,    Rockstar New York,"New York, NY",100000.0,Data_Scientist,Mid_level
+62,        JPMorgan Chase,"New York, NY",100000.0,Data_Scientist,Mid_level
+63,        JPMorgan Chase,"Manhattan, NY",100000.0,Data_Scientist,Mid_level
+64,        PlaceIQ,"New York, NY",100000.0,Data_Scientist,Mid_level
+65,        Accenture,"New York, NY 10011 (Chelsea area)",100000.0,Data_Scientist,Mid_level
+66,        Morgan Stanley,"New York, NY 10032 (Washington Heights area)",100000.0,Data_Scientist,Mid_level
+67,        PulsePoint,"New York, NY",100000.0,Data_Scientist,Mid_level
+68,        The Nielsen Company,"New York, NY 10003 (Greenwich Village area)",100000.0,Data_Scientist,Mid_level
+69,    RxSpeed Inc.,"Stamford, CT",100000.0,Data_Scientist,Mid_level
+70,        KPMG,"New York, NY 10154 (Midtown area)",100000.0,Data_Scientist,Mid_level
+71,    Integral Ad Science,"New York, NY",100000.0,Data_Scientist,Mid_level
+72,    Dataiku,"New York, NY",100000.0,Data_Scientist,Mid_level
+73,        2U,"New York, NY",100000.0,Data_Scientist,Mid_level
+74,        Analytic Recruiting,"New York, NY 10017 (Midtown area)",100000.0,Data_Scientist,Mid_level
+75,    Selby Jennings,"New York, NY 10167 (Midtown area)",100000.0,Data_Scientist,Mid_level
+76,        Airtime,"New York, NY",100000.0,Data_Scientist,Mid_level
+77,    Verisk Insurance Solutions,"Jersey City, NJ",100000.0,Data_Scientist,Mid_level
+78,        Johnson & Johnson Services Inc.,"Somerville, NJ",100000.0,Data_Scientist,Mid_level
+79,        Spotify,"New York, NY 10011 (Chelsea area)",100000.0,Data_Scientist,Mid_level
+80,        Morgan Stanley,"New York, NY 10032 (Washington Heights area)",100000.0,Data_Scientist,Mid_level
+81,        Spencer Ogden,"New York, NY",100000.0,Data_Scientist,Mid_level
+82,    TW Staffing Solutions,"New York, NY",100000.0,Data_Scientist,Mid_level
+83,        Amazon Corporate LLC,"New York, NY",100000.0,Data_Scientist,Mid_level
+84,        Experis,"New York, NY 10011 (Chelsea area)",100000.0,Data_Scientist,Mid_level
+85,"    SNAP Interactive, Inc.","New York, NY",100000.0,Data_Scientist,Mid_level
+86,        Rent the Runway,"New York, NY 10013 (Tribeca area)",100000.0,Data_Scientist,Mid_level
+87,        KPMG,"New York, NY 10154 (Midtown area)",100000.0,Data_Scientist,Mid_level
+88,        ISO,"Jersey City, NJ",100000.0,Data_Scientist,Mid_level
+89,        Engage Partners,"New York, NY",100000.0,Data_Scientist,Mid_level
+90,    TTS Media,"New York, NY",100000.0,Data_Scientist,Mid_level
+91,        Accenture,"New York, NY 10011 (Chelsea area)",100000.0,Data_Scientist,Mid_level
+92,    Oliver James Associates,"New York, NY",100000.0,Data_Scientist,Mid_level
+93,    Elevate Recruiting Group,"New York, NY",100000.0,Data_Scientist,Mid_level
+94,        The NPD Group,"Port Washington, NY 11050",100000.0,Data_Scientist,Mid_level
+95,    Verisk Insurance Solutions,"Jersey City, NJ",100000.0,Data_Scientist,Mid_level
+96,        Federal Reserve Bank of New York,"New York, NY",100000.0,Data_Scientist,Mid_level
+97,        KPMG,"New York, NY 10154 (Midtown area)",100000.0,Data_Scientist,Mid_level
+98,        Apex Systems Inc,"New York, NY 10004 (Financial District area)",100000.0,Data_Scientist,Mid_level
+99,        EY,"New York, NY",100000.0,Data_Scientist,Mid_level
+100,    Global Intellectuals,"New York, NY",100000.0,Data_Scientist,Mid_level
+101,        Accenture,"New York, NY 10011 (Chelsea area)",100000.0,Data_Scientist,Mid_level
+102,        Deloitte,"New York, NY",100000.0,Data_Scientist,Mid_level
+103,        KPMG,"New York, NY 10154",100000.0,Data_Scientist,Mid_level
+104,        KPMG,"New York, NY 10154",100000.0,Data_Scientist,Mid_level
+0,        Accenture,"New York, NY 10011",100000.0,Data_Scientist,Senior_level
+1,    Harnham,"New York, NY 10150",100000.0,Data_Scientist,Senior_level
+2,        TD Bank,"Mount Laurel, NJ",100000.0,Data_Scientist,Senior_level
+3,        MassMutual Financial Group,"New York, NY",100000.0,Data_Scientist,Senior_level
+4,        MLB Advanced Media,"New York, NY 10011 (Chelsea area)",100000.0,Data_Scientist,Senior_level
+5,        Sapient Global Markets,"New York, NY",100000.0,Data_Scientist,Senior_level
+6,        Bloomberg,"New York, NY",100000.0,Data_Scientist,Senior_level
+7,        TIAA,"New York, NY 10002 (Lower East Side area)",100000.0,Data_Scientist,Senior_level
+8,    Paperless Post,"New York, NY",100000.0,Data_Scientist,Senior_level
+9,    Averity,"New York, NY",100000.0,Data_Scientist,Senior_level
+10,        Church Pension Group,"New York, NY",100000.0,Data_Scientist,Senior_level
+11,        Aetna,"New York, NY 10016 (Gramercy area)",100000.0,Data_Scientist,Senior_level
+12,    Spreemo,"New York, NY",100000.0,Data_Scientist,Senior_level
+13,        Absolutdata,"New York, NY",100000.0,Data_Scientist,Senior_level
+14,    Pivotal Software,"New York, NY 10017 (Midtown area)",100000.0,Data_Scientist,Senior_level
+15,        Spotify,"New York, NY 10011 (Chelsea area)",100000.0,Data_Scientist,Senior_level
+16,        CAPCO,"New York, NY 10271 (Financial District area)",100000.0,Data_Scientist,Senior_level
+17,        AIG,"New York, NY",100000.0,Data_Scientist,Senior_level
+18,    Enigma,"New York, NY",100000.0,Data_Scientist,Senior_level
+19,        Tumblr,"New York, NY",100000.0,Data_Scientist,Senior_level
+20,        S&P GLOBAL,"New York, NY 10002 (Lower East Side area)",100000.0,Data_Scientist,Senior_level
+21,        Viacom,"New York, NY",100000.0,Data_Scientist,Senior_level
+22,    Harnham,"New York, NY",100000.0,Data_Scientist,Senior_level
+23,    Rockstar New York,"New York, NY",100000.0,Data_Scientist,Senior_level
+24,    Harnham,"New York, NY",100000.0,Data_Scientist,Senior_level
+25,    Big Cloud Recruitment,"New York, NY",100000.0,Data_Scientist,Senior_level
+26,    LearnVest,"New York, NY",100000.0,Data_Scientist,Senior_level
+27,    SRP Systems Inc,"Princeton, NJ",100000.0,Data_Scientist,Senior_level
+28,        Accenture,"New York, NY 10011 (Chelsea area)",100000.0,Data_Scientist,Senior_level
+29,    KCS,"New York, NY",100000.0,Data_Scientist,Senior_level
+30,    Averity,"Union, NJ",100000.0,Data_Scientist,Senior_level
+31,    Garrison Associates,"New York, NY 10110 (East Village area)",100000.0,Data_Scientist,Senior_level
+32,        AIG,"New York, NY",100000.0,Data_Scientist,Senior_level
+33,        Johnson & Johnson Services Inc.,"Bridgewater, NJ",100000.0,Data_Scientist,Senior_level
+34,    FGP International,"New York, NY",100000.0,Data_Scientist,Senior_level
+35,        SAP,"Parsippany, NJ",100000.0,Data_Scientist,Senior_level
+36,        Accenture,"New York, NY 10011 (Chelsea area)",100000.0,Data_Scientist,Senior_level
+37,    The James Allen Companies,"Jersey City, NJ",100000.0,Data_Scientist,Senior_level
+38,        MarketShare,"New York, NY",100000.0,Data_Scientist,Senior_level
+39,        Datameer,"New York, NY",100000.0,Data_Scientist,Senior_level
+0,    AskMyUncleSam,"New York, NY",115000.0,Data_Scientist,Entry_level
+1,    NewAge Clinical,"New Brunswick, NJ",115000.0,Data_Scientist,Entry_level
+2,        Michael Page US,"New York, NY",115000.0,Data_Scientist,Entry_level
+3,        Bloomberg,"New York, NY",115000.0,Data_Scientist,Entry_level
+4,    Datadog,"New York, NY 10001 (Chelsea area)",115000.0,Data_Scientist,Entry_level
+5,    Dascase Technologies Inc,"New Brunswick, NJ",115000.0,Data_Scientist,Entry_level
+6,        ShopKeep,"New York, NY",115000.0,Data_Scientist,Entry_level
+7,        New York Life Insurance Co,"New York, NY",115000.0,Data_Scientist,Entry_level
+8,    Cavalier IT Solutions,"New Brunswick, NJ 08933",115000.0,Data_Scientist,Entry_level
+9,    Averity,"New York, NY",115000.0,Data_Scientist,Entry_level
+10,    Averity,"New York, NY",115000.0,Data_Scientist,Entry_level
+11,    Dstillery,"New York, NY",115000.0,Data_Scientist,Entry_level
+12,    Averity,"New York, NY",115000.0,Data_Scientist,Entry_level
+13,    AskMyUncleSam,"New York, NY",115000.0,Data_Scientist,Entry_level
+14,        Galvanize,"New York, NY",115000.0,Data_Scientist,Entry_level
+15,        AIG,"New York, NY",115000.0,Data_Scientist,Entry_level
+16,        MediaMath,"New York, NY",115000.0,Data_Scientist,Entry_level
+17,    ExecThread,"New York, NY",115000.0,Data_Scientist,Entry_level
+18,    Averity,"New York, NY",115000.0,Data_Scientist,Entry_level
+19,        Chubb,"Whitehouse Station, NJ",115000.0,Data_Scientist,Entry_level
+20,"    Knotch, Inc.","New York, NY",115000.0,Data_Scientist,Entry_level
+21,        Verizon,"New York, NY 10010 (Gramercy area)",115000.0,Data_Scientist,Entry_level
+22,        Workbridge Associates,"New York, NY 10017 (Midtown area)",115000.0,Data_Scientist,Entry_level
+23,"        Marlabs, Inc","New York, NY 10002 (Lower East Side area)",115000.0,Data_Scientist,Entry_level
+24,        Spotify,"New York, NY 10011 (Chelsea area)",115000.0,Data_Scientist,Entry_level
+25,        Morgan Stanley,"New York, NY 10032 (Washington Heights area)",115000.0,Data_Scientist,Entry_level
+26,"        Open Systems Technologies, Inc.","New York, NY",115000.0,Data_Scientist,Entry_level
+27,        Quartet,"New York, NY 10018 (Clinton area)",115000.0,Data_Scientist,Entry_level
+28,    Averity,"New York, NY",115000.0,Data_Scientist,Entry_level
+29,    Selby Jennings,"New York, NY 10167 (Midtown area)",115000.0,Data_Scientist,Entry_level
+30,        Workbridge Associates,"New Brunswick, NJ",115000.0,Data_Scientist,Entry_level
+31,        Michael Page US,"New York, NY",115000.0,Data_Scientist,Entry_level
+32,    Averity,"Basking Ridge, NJ",115000.0,Data_Scientist,Entry_level
+33,    Selby Jennings,"New York, NY 10167 (Midtown area)",115000.0,Data_Scientist,Entry_level
+34,        Analytic Recruiting,"New York, NY 10017 (Midtown area)",115000.0,Data_Scientist,Entry_level
+35,    Selby Jennings,"New York, NY 10167 (Midtown area)",115000.0,Data_Scientist,Entry_level
+36,        Quartet,"New York, NY 10018 (Clinton area)",115000.0,Data_Scientist,Entry_level
+37,        Analytic Recruiting,"New York, NY 10017 (Midtown area)",115000.0,Data_Scientist,Entry_level
+38,    Datadog,"New York, NY 10001",115000.0,Data_Scientist,Entry_level
+39,    Predictive Science,United States,115000.0,Data_Scientist,Entry_level
+0,        KPMG,"New York, NY 10154",115000.0,Data_Scientist,Mid_level
+1,        KPMG,"New York, NY 10154",115000.0,Data_Scientist,Mid_level
+2,        KPMG,"New York, NY 10154",115000.0,Data_Scientist,Mid_level
+3,        WeWork,"New York, NY 10005 (Financial District area)",115000.0,Data_Scientist,Mid_level
+4,        JPMorgan Chase,"New York, NY",115000.0,Data_Scientist,Mid_level
+5,        EXPERIAN,"New York, NY 10020 (Midtown area)",115000.0,Data_Scientist,Mid_level
+6,        Roku,"New York, NY 10001 (Chelsea area)",115000.0,Data_Scientist,Mid_level
+7,        Verizon,"Basking Ridge, NJ 07920",115000.0,Data_Scientist,Mid_level
+8,    MediQuire,"New York, NY 10018 (Clinton area)",115000.0,Data_Scientist,Mid_level
+9,    Analytic Partners,"New York, NY 10017 (Midtown area)",115000.0,Data_Scientist,Mid_level
+10,        Spotify,"New York, NY 10011 (Chelsea area)",115000.0,Data_Scientist,Mid_level
+11,        Amherst,"New York, NY 10022 (Midtown area)",115000.0,Data_Scientist,Mid_level
+12,        Perella Weinberg Partners,"New York, NY 10153 (Midtown area)",115000.0,Data_Scientist,Mid_level
+13,        adMarketplace,"New York, NY",115000.0,Data_Scientist,Mid_level
+14,        JPMorgan Chase,"New York, NY",115000.0,Data_Scientist,Mid_level
+15,    Brooklyn Data Science,"New York, NY",115000.0,Data_Scientist,Mid_level
+16,    ITG,"New York, NY 10017 (Midtown area)",115000.0,Data_Scientist,Mid_level
+17,        Morgan Stanley,"New York, NY 10032 (Washington Heights area)",115000.0,Data_Scientist,Mid_level
+18,        Siemens,"Princeton, NJ 08540",115000.0,Data_Scientist,Mid_level
+19,        KPMG,"New York, NY 10154 (Midtown area)",115000.0,Data_Scientist,Mid_level
+20,"    Source of Future Technology, Inc.","New York, NY",115000.0,Data_Scientist,Mid_level
+21,"    Orzota, Inc.","New York, NY",115000.0,Data_Scientist,Mid_level
+22,        JPMorgan Chase,"New York, NY",115000.0,Data_Scientist,Mid_level
+23,    Sparks & Honey,"New York, NY",115000.0,Data_Scientist,Mid_level
+24,        Capital One,"New York, NY",115000.0,Data_Scientist,Mid_level
+25,    Paltalk,"New York, NY 10018 (Clinton area)",115000.0,Data_Scientist,Mid_level
+26,        Capital One,"New York, NY",115000.0,Data_Scientist,Mid_level
+27,        Facebook,"New York, NY",115000.0,Data_Scientist,Mid_level
+28,        Workbridge Associates,"New York, NY 10010 (Gramercy area)",115000.0,Data_Scientist,Mid_level
+29,"    Cognical, Inc.","New York, NY 10001 (Chelsea area)",115000.0,Data_Scientist,Mid_level
+30,        Gilt Groupe,"New York, NY 10016 (Gramercy area)",115000.0,Data_Scientist,Mid_level
+31,        Verizon,"Basking Ridge, NJ 07920",115000.0,Data_Scientist,Mid_level
+32,        Capital One,"New York, NY",115000.0,Data_Scientist,Mid_level
+33,        IBM Kenexa,"New York, NY",115000.0,Data_Scientist,Mid_level
+34,    Oliver James Associates,"New York, NY",115000.0,Data_Scientist,Mid_level
+35,    Komodo Health,"New York, NY",115000.0,Data_Scientist,Mid_level
+36,"        Amazon Web Services, Inc.","New York, NY",115000.0,Data_Scientist,Mid_level
+37,    Selby Jennings,"New York, NY 10167 (Midtown area)",115000.0,Data_Scientist,Mid_level
+38,        IPSEN,"Basking Ridge, NJ",115000.0,Data_Scientist,Mid_level
+39,    Selby Jennings,"New York, NY 10167 (Midtown area)",115000.0,Data_Scientist,Mid_level
+40,    Yashi,"New York, NY",115000.0,Data_Scientist,Mid_level
+41,        AIG,"New York, NY",115000.0,Data_Scientist,Mid_level
+42,        BuzzFeed,"New York, NY",115000.0,Data_Scientist,Mid_level
+43,    Countr,"New York, NY",115000.0,Data_Scientist,Mid_level
+44,    Rockstar New York,"New York, NY",115000.0,Data_Scientist,Mid_level
+45,        Spotify,"New York, NY 10011 (Chelsea area)",115000.0,Data_Scientist,Mid_level
+46,        JPMorgan Chase,"New York, NY",115000.0,Data_Scientist,Mid_level
+47,        JPMorgan Chase,"Manhattan, NY",115000.0,Data_Scientist,Mid_level
+48,        Capital One,"New York, NY",115000.0,Data_Scientist,Mid_level
+49,    Verisk Insurance Solutions,"Jersey City, NJ",115000.0,Data_Scientist,Mid_level
+50,        Deloitte,"New York, NY",115000.0,Data_Scientist,Mid_level
+51,        PlaceIQ,"New York, NY",115000.0,Data_Scientist,Mid_level
+52,    Integral Ad Science,"New York, NY",115000.0,Data_Scientist,Mid_level
+53,    Dataiku,"New York, NY",115000.0,Data_Scientist,Mid_level
+54,        Morgan Stanley,"New York, NY 10032 (Washington Heights area)",115000.0,Data_Scientist,Mid_level
+55,        The Nielsen Company,"New York, NY 10003 (Greenwich Village area)",115000.0,Data_Scientist,Mid_level
+56,        KPMG,"New York, NY 10154 (Midtown area)",115000.0,Data_Scientist,Mid_level
+57,        PulsePoint,"New York, NY",115000.0,Data_Scientist,Mid_level
+58,        Analytic Recruiting,"New York, NY 10017 (Midtown area)",115000.0,Data_Scientist,Mid_level
+59,    Selby Jennings,"New York, NY 10167 (Midtown area)",115000.0,Data_Scientist,Mid_level
+60,    RxSpeed Inc.,"Stamford, CT",115000.0,Data_Scientist,Mid_level
+61,        Airtime,"New York, NY",115000.0,Data_Scientist,Mid_level
+62,        Johnson & Johnson Services Inc.,"Somerville, NJ",115000.0,Data_Scientist,Mid_level
+63,        Morgan Stanley,"New York, NY 10032 (Washington Heights area)",115000.0,Data_Scientist,Mid_level
+64,        Spencer Ogden,"New York, NY",115000.0,Data_Scientist,Mid_level
+65,        Spotify,"New York, NY 10011 (Chelsea area)",115000.0,Data_Scientist,Mid_level
+66,        Amazon Corporate LLC,"New York, NY",115000.0,Data_Scientist,Mid_level
+67,    Verisk Insurance Solutions,"Jersey City, NJ",115000.0,Data_Scientist,Mid_level
+68,    TW Staffing Solutions,"New York, NY",115000.0,Data_Scientist,Mid_level
+69,        Experis,"New York, NY 10011 (Chelsea area)",115000.0,Data_Scientist,Mid_level
+70,        Rent the Runway,"New York, NY 10013 (Tribeca area)",115000.0,Data_Scientist,Mid_level
+71,        KPMG,"New York, NY 10154 (Midtown area)",115000.0,Data_Scientist,Mid_level
+72,        Engage Partners,"New York, NY",115000.0,Data_Scientist,Mid_level
+73,    Elevate Recruiting Group,"New York, NY",115000.0,Data_Scientist,Mid_level
+74,        Federal Reserve Bank of New York,"New York, NY",115000.0,Data_Scientist,Mid_level
+75,        Apex Systems Inc,"New York, NY 10004 (Financial District area)",115000.0,Data_Scientist,Mid_level
+76,    Verisk Insurance Solutions,"Jersey City, NJ",115000.0,Data_Scientist,Mid_level
+77,    Princeton Consulting,"New York, NY 10018 (Clinton area)",115000.0,Data_Scientist,Mid_level
+78,"        Open Systems Technologies, Inc.","New York, NY",115000.0,Data_Scientist,Mid_level
+79,        KPMG,"New York, NY 10154 (Midtown area)",115000.0,Data_Scientist,Mid_level
+80,        EY,"New York, NY",115000.0,Data_Scientist,Mid_level
+81,        Deloitte,"New York, NY",115000.0,Data_Scientist,Mid_level
+82,    Harnham,"New York, NY",115000.0,Data_Scientist,Mid_level
+83,    Atyeti,"New York, NY",115000.0,Data_Scientist,Mid_level
+84,        Eliassen Group,"New York, NY 10017 (Midtown area)",115000.0,Data_Scientist,Mid_level
+85,        Accenture,"New York, NY 10011 (Chelsea area)",115000.0,Data_Scientist,Mid_level
+86,    Integral Ad Science,"New York, NY",115000.0,Data_Scientist,Mid_level
+87,        KPMG,"New York, NY 10154 (Midtown area)",115000.0,Data_Scientist,Mid_level
+88,        Deloitte,"New York, NY",115000.0,Data_Scientist,Mid_level
+89,        JPMorgan Chase,"New York, NY",115000.0,Data_Scientist,Mid_level
+90,        Accenture,"New York, NY 10011 (Chelsea area)",115000.0,Data_Scientist,Mid_level
+91,        Accenture,"New York, NY 10011 (Chelsea area)",115000.0,Data_Scientist,Mid_level
+92,        Johnson & Johnson Services Inc.,"Bridgewater, NJ",115000.0,Data_Scientist,Mid_level
+93,        AIG,"New York, NY",115000.0,Data_Scientist,Mid_level
+94,        Verisk Analytics,"Jersey City, NJ",115000.0,Data_Scientist,Mid_level
+95,    Selby Jennings,"New York, NY 10167 (Midtown area)",115000.0,Data_Scientist,Mid_level
+96,    Socrata,"New York, NY",115000.0,Data_Scientist,Mid_level
+97,        JPMorgan Chase,"Brooklyn, NY",115000.0,Data_Scientist,Mid_level
+98,        Analytic Recruiting,"New York, NY 10017 (Midtown area)",115000.0,Data_Scientist,Mid_level
+99,        JPMorgan Chase - Asset Management,"New York, NY",115000.0,Data_Scientist,Mid_level
+100,    WorkFusion,"New York, NY",115000.0,Data_Scientist,Mid_level
+101,        Newsela,"New York, NY",115000.0,Data_Scientist,Mid_level
+102,    WorkFusion,"New York, NY",115000.0,Data_Scientist,Mid_level
+103,        KPMG,"New York, NY 10154",115000.0,Data_Scientist,Mid_level
+0,        Accenture,"New York, NY 10011",115000.0,Data_Scientist,Senior_level
+1,    Harnham,"New York, NY 10150",115000.0,Data_Scientist,Senior_level
+2,        TD Bank,"Mount Laurel, NJ",115000.0,Data_Scientist,Senior_level
+3,        MLB Advanced Media,"New York, NY 10011 (Chelsea area)",115000.0,Data_Scientist,Senior_level
+4,        Bloomberg,"New York, NY",115000.0,Data_Scientist,Senior_level
+5,        Sapient Global Markets,"New York, NY",115000.0,Data_Scientist,Senior_level
+6,    Paperless Post,"New York, NY",115000.0,Data_Scientist,Senior_level
+7,    Averity,"New York, NY",115000.0,Data_Scientist,Senior_level
+8,        Aetna,"New York, NY 10016 (Gramercy area)",115000.0,Data_Scientist,Senior_level
+9,    Spreemo,"New York, NY",115000.0,Data_Scientist,Senior_level
+10,    Pivotal Software,"New York, NY 10017 (Midtown area)",115000.0,Data_Scientist,Senior_level
+11,        Absolutdata,"New York, NY",115000.0,Data_Scientist,Senior_level
+12,        Spotify,"New York, NY 10011 (Chelsea area)",115000.0,Data_Scientist,Senior_level
+13,        AIG,"New York, NY",115000.0,Data_Scientist,Senior_level
+14,        Tumblr,"New York, NY",115000.0,Data_Scientist,Senior_level
+15,        Viacom,"New York, NY",115000.0,Data_Scientist,Senior_level
+16,        S&P GLOBAL,"New York, NY 10002 (Lower East Side area)",115000.0,Data_Scientist,Senior_level
+17,        CAPCO,"New York, NY 10271 (Financial District area)",115000.0,Data_Scientist,Senior_level
+18,    Rockstar New York,"New York, NY",115000.0,Data_Scientist,Senior_level
+19,    Harnham,"New York, NY",115000.0,Data_Scientist,Senior_level
+20,    Big Cloud Recruitment,"New York, NY",115000.0,Data_Scientist,Senior_level
+21,    Harnham,"New York, NY",115000.0,Data_Scientist,Senior_level
+22,        Accenture,"New York, NY 10011 (Chelsea area)",115000.0,Data_Scientist,Senior_level
+23,    KCS,"New York, NY",115000.0,Data_Scientist,Senior_level
+24,        AIG,"New York, NY",115000.0,Data_Scientist,Senior_level
+25,    Garrison Associates,"New York, NY 10110 (East Village area)",115000.0,Data_Scientist,Senior_level
+26,    Averity,"Union, NJ",115000.0,Data_Scientist,Senior_level
+27,        Johnson & Johnson Services Inc.,"Bridgewater, NJ",115000.0,Data_Scientist,Senior_level
+28,    FGP International,"New York, NY",115000.0,Data_Scientist,Senior_level
+29,        Accenture,"New York, NY 10011 (Chelsea area)",115000.0,Data_Scientist,Senior_level
+30,    The James Allen Companies,"Jersey City, NJ",115000.0,Data_Scientist,Senior_level
+31,        Celgene Corporation,"Summit, NJ 07901",115000.0,Data_Scientist,Senior_level
+0,        Michael Page US,"New York, NY",125000.0,Data_Scientist,Entry_level
+1,    Averity,"New York, NY 10016",125000.0,Data_Scientist,Entry_level
+2,"    Software, NYC","New York, NY",125000.0,Data_Scientist,Entry_level
+3,        Bloomberg,"New York, NY",125000.0,Data_Scientist,Entry_level
+4,    Averity,"New York, NY",125000.0,Data_Scientist,Entry_level
+5,    Averity,"New York, NY",125000.0,Data_Scientist,Entry_level
+6,    Averity,"New York, NY",125000.0,Data_Scientist,Entry_level
+7,        AIG,"New York, NY",125000.0,Data_Scientist,Entry_level
+8,        MediaMath,"New York, NY",125000.0,Data_Scientist,Entry_level
+9,    ExecThread,"New York, NY",125000.0,Data_Scientist,Entry_level
+10,    Averity,"New York, NY",125000.0,Data_Scientist,Entry_level
+11,        Chubb,"Whitehouse Station, NJ",125000.0,Data_Scientist,Entry_level
+12,"    Knotch, Inc.","New York, NY",125000.0,Data_Scientist,Entry_level
+13,        Verizon,"New York, NY 10010 (Gramercy area)",125000.0,Data_Scientist,Entry_level
+14,        Workbridge Associates,"New York, NY 10017 (Midtown area)",125000.0,Data_Scientist,Entry_level
+15,"        Marlabs, Inc","New York, NY 10002 (Lower East Side area)",125000.0,Data_Scientist,Entry_level
+16,        Morgan Stanley,"New York, NY 10032 (Washington Heights area)",125000.0,Data_Scientist,Entry_level
+17,    Averity,"New York, NY",125000.0,Data_Scientist,Entry_level
+18,    Selby Jennings,"New York, NY 10167 (Midtown area)",125000.0,Data_Scientist,Entry_level
+19,        Michael Page US,"New York, NY",125000.0,Data_Scientist,Entry_level
+20,    Averity,"Basking Ridge, NJ",125000.0,Data_Scientist,Entry_level
+21,    Selby Jennings,"New York, NY 10167 (Midtown area)",125000.0,Data_Scientist,Entry_level
+22,    Selby Jennings,"New York, NY 10167 (Midtown area)",125000.0,Data_Scientist,Entry_level
+23,        Analytic Recruiting,"New York, NY 10017 (Midtown area)",125000.0,Data_Scientist,Entry_level
+0,        KPMG,"New York, NY 10154",125000.0,Data_Scientist,Mid_level
+1,        KPMG,"New York, NY 10154",125000.0,Data_Scientist,Mid_level
+2,    Princeton Consulting,"New York, NY 10018",125000.0,Data_Scientist,Mid_level
+3,        WeWork,"New York, NY 10005 (Financial District area)",125000.0,Data_Scientist,Mid_level
+4,        JPMorgan Chase,"New York, NY",125000.0,Data_Scientist,Mid_level
+5,        EXPERIAN,"New York, NY 10020 (Midtown area)",125000.0,Data_Scientist,Mid_level
+6,        Roku,"New York, NY 10001 (Chelsea area)",125000.0,Data_Scientist,Mid_level
+7,    MediQuire,"New York, NY 10018 (Clinton area)",125000.0,Data_Scientist,Mid_level
+8,        Spotify,"New York, NY 10011 (Chelsea area)",125000.0,Data_Scientist,Mid_level
+9,        Verizon,"Basking Ridge, NJ 07920",125000.0,Data_Scientist,Mid_level
+10,        Amherst,"New York, NY 10022 (Midtown area)",125000.0,Data_Scientist,Mid_level
+11,        adMarketplace,"New York, NY",125000.0,Data_Scientist,Mid_level
+12,        JPMorgan Chase,"New York, NY",125000.0,Data_Scientist,Mid_level
+13,    Brooklyn Data Science,"New York, NY",125000.0,Data_Scientist,Mid_level
+14,"    Source of Future Technology, Inc.","New York, NY",125000.0,Data_Scientist,Mid_level
+15,"    Orzota, Inc.","New York, NY",125000.0,Data_Scientist,Mid_level
+16,        JPMorgan Chase,"New York, NY",125000.0,Data_Scientist,Mid_level
+17,        Siemens,"Princeton, NJ 08540",125000.0,Data_Scientist,Mid_level
+18,    Sparks & Honey,"New York, NY",125000.0,Data_Scientist,Mid_level
+19,        Capital One,"New York, NY",125000.0,Data_Scientist,Mid_level
+20,    Paltalk,"New York, NY 10018 (Clinton area)",125000.0,Data_Scientist,Mid_level
+21,        Capital One,"New York, NY",125000.0,Data_Scientist,Mid_level
+22,        Workbridge Associates,"New York, NY 10010 (Gramercy area)",125000.0,Data_Scientist,Mid_level
+23,"    Cognical, Inc.","New York, NY 10001 (Chelsea area)",125000.0,Data_Scientist,Mid_level
+24,        Gilt Groupe,"New York, NY 10016 (Gramercy area)",125000.0,Data_Scientist,Mid_level
+25,        Capital One,"New York, NY",125000.0,Data_Scientist,Mid_level
+26,    Oliver James Associates,"New York, NY",125000.0,Data_Scientist,Mid_level
+27,    Komodo Health,"New York, NY",125000.0,Data_Scientist,Mid_level
+28,    Selby Jennings,"New York, NY 10167 (Midtown area)",125000.0,Data_Scientist,Mid_level
+29,        BuzzFeed,"New York, NY",125000.0,Data_Scientist,Mid_level
+30,        Deloitte,"New York, NY",125000.0,Data_Scientist,Mid_level
+31,    Selby Jennings,"New York, NY 10167 (Midtown area)",125000.0,Data_Scientist,Mid_level
+32,        AIG,"New York, NY",125000.0,Data_Scientist,Mid_level
+33,        Capital One,"New York, NY",125000.0,Data_Scientist,Mid_level
+34,    Verisk Insurance Solutions,"Jersey City, NJ",125000.0,Data_Scientist,Mid_level
+35,        Spotify,"New York, NY 10011 (Chelsea area)",125000.0,Data_Scientist,Mid_level
+36,    Rockstar New York,"New York, NY",125000.0,Data_Scientist,Mid_level
+37,        JPMorgan Chase,"New York, NY",125000.0,Data_Scientist,Mid_level
+38,        JPMorgan Chase,"Manhattan, NY",125000.0,Data_Scientist,Mid_level
+39,        PlaceIQ,"New York, NY",125000.0,Data_Scientist,Mid_level
+40,        Morgan Stanley,"New York, NY 10032 (Washington Heights area)",125000.0,Data_Scientist,Mid_level
+41,        The Nielsen Company,"New York, NY 10003 (Greenwich Village area)",125000.0,Data_Scientist,Mid_level
+42,        KPMG,"New York, NY 10154 (Midtown area)",125000.0,Data_Scientist,Mid_level
+43,    Integral Ad Science,"New York, NY",125000.0,Data_Scientist,Mid_level
+44,    Selby Jennings,"New York, NY 10167 (Midtown area)",125000.0,Data_Scientist,Mid_level
+45,        Airtime,"New York, NY",125000.0,Data_Scientist,Mid_level
+46,    Verisk Insurance Solutions,"Jersey City, NJ",125000.0,Data_Scientist,Mid_level
+47,        Johnson & Johnson Services Inc.,"Somerville, NJ",125000.0,Data_Scientist,Mid_level
+48,        Spotify,"New York, NY 10011 (Chelsea area)",125000.0,Data_Scientist,Mid_level
+49,        Morgan Stanley,"New York, NY 10032 (Washington Heights area)",125000.0,Data_Scientist,Mid_level
+50,    TW Staffing Solutions,"New York, NY",125000.0,Data_Scientist,Mid_level
+51,        Amazon Corporate LLC,"New York, NY",125000.0,Data_Scientist,Mid_level
+52,        Rent the Runway,"New York, NY 10013 (Tribeca area)",125000.0,Data_Scientist,Mid_level
+53,    Elevate Recruiting Group,"New York, NY",125000.0,Data_Scientist,Mid_level
+54,    Verisk Insurance Solutions,"Jersey City, NJ",125000.0,Data_Scientist,Mid_level
+55,        Federal Reserve Bank of New York,"New York, NY",125000.0,Data_Scientist,Mid_level
+56,        Apex Systems Inc,"New York, NY 10004 (Financial District area)",125000.0,Data_Scientist,Mid_level
+57,        Accenture,"New York, NY 10011 (Chelsea area)",125000.0,Data_Scientist,Mid_level
+58,        Deloitte,"New York, NY",125000.0,Data_Scientist,Mid_level
+59,    Princeton Consulting,"New York, NY 10018 (Clinton area)",125000.0,Data_Scientist,Mid_level
+60,    Harnham,"New York, NY",125000.0,Data_Scientist,Mid_level
+61,    Integral Ad Science,"New York, NY",125000.0,Data_Scientist,Mid_level
+62,    Atyeti,"New York, NY",125000.0,Data_Scientist,Mid_level
+63,        Eliassen Group,"New York, NY 10017 (Midtown area)",125000.0,Data_Scientist,Mid_level
+64,        KPMG,"New York, NY 10154 (Midtown area)",125000.0,Data_Scientist,Mid_level
+65,        Deloitte,"New York, NY",125000.0,Data_Scientist,Mid_level
+66,        Accenture,"New York, NY 10011 (Chelsea area)",125000.0,Data_Scientist,Mid_level
+67,        JPMorgan Chase,"New York, NY",125000.0,Data_Scientist,Mid_level
+68,        Accenture,"New York, NY 10011 (Chelsea area)",125000.0,Data_Scientist,Mid_level
+69,        AIG,"New York, NY",125000.0,Data_Scientist,Mid_level
+70,        Johnson & Johnson Services Inc.,"Bridgewater, NJ",125000.0,Data_Scientist,Mid_level
+71,    Selby Jennings,"New York, NY 10167 (Midtown area)",125000.0,Data_Scientist,Mid_level
+72,        JPMorgan Chase,"Brooklyn, NY",125000.0,Data_Scientist,Mid_level
+73,        Analytic Recruiting,"New York, NY 10017 (Midtown area)",125000.0,Data_Scientist,Mid_level
+74,        JPMorgan Chase - Asset Management,"New York, NY",125000.0,Data_Scientist,Mid_level
+75,    WorkFusion,"New York, NY",125000.0,Data_Scientist,Mid_level
+76,        Deloitte,"New York, NY",125000.0,Data_Scientist,Mid_level
+77,    WorkFusion,"New York, NY",125000.0,Data_Scientist,Mid_level
+0,        Accenture,"New York, NY 10011",125000.0,Data_Scientist,Senior_level
+1,    Harnham,"New York, NY 10150",125000.0,Data_Scientist,Senior_level
+2,        Celgene Corporation,"Summit, NJ 07901",125000.0,Data_Scientist,Senior_level
+3,        MLB Advanced Media,"New York, NY 10011 (Chelsea area)",125000.0,Data_Scientist,Senior_level
+4,        Sapient Global Markets,"New York, NY",125000.0,Data_Scientist,Senior_level
+5,        Bloomberg,"New York, NY",125000.0,Data_Scientist,Senior_level
+6,    Paperless Post,"New York, NY",125000.0,Data_Scientist,Senior_level
+7,    Averity,"New York, NY",125000.0,Data_Scientist,Senior_level
+8,    Spreemo,"New York, NY",125000.0,Data_Scientist,Senior_level
+9,        Absolutdata,"New York, NY",125000.0,Data_Scientist,Senior_level
+10,    Pivotal Software,"New York, NY 10017 (Midtown area)",125000.0,Data_Scientist,Senior_level
+11,        Spotify,"New York, NY 10011 (Chelsea area)",125000.0,Data_Scientist,Senior_level
+12,        AIG,"New York, NY",125000.0,Data_Scientist,Senior_level
+13,        Tumblr,"New York, NY",125000.0,Data_Scientist,Senior_level
+14,        S&P GLOBAL,"New York, NY 10002 (Lower East Side area)",125000.0,Data_Scientist,Senior_level
+15,        Viacom,"New York, NY",125000.0,Data_Scientist,Senior_level
+16,    Harnham,"New York, NY",125000.0,Data_Scientist,Senior_level
+17,    Rockstar New York,"New York, NY",125000.0,Data_Scientist,Senior_level
+18,    Harnham,"New York, NY",125000.0,Data_Scientist,Senior_level
+19,    Big Cloud Recruitment,"New York, NY",125000.0,Data_Scientist,Senior_level
+20,        Accenture,"New York, NY 10011 (Chelsea area)",125000.0,Data_Scientist,Senior_level
+21,    KCS,"New York, NY",125000.0,Data_Scientist,Senior_level
+22,    Averity,"Union, NJ",125000.0,Data_Scientist,Senior_level
+23,    Garrison Associates,"New York, NY 10110 (East Village area)",125000.0,Data_Scientist,Senior_level
+24,        AIG,"New York, NY",125000.0,Data_Scientist,Senior_level
+25,        Johnson & Johnson Services Inc.,"Bridgewater, NJ",125000.0,Data_Scientist,Senior_level
+26,        Accenture,"New York, NY 10011 (Chelsea area)",125000.0,Data_Scientist,Senior_level
+27,    The James Allen Companies,"Jersey City, NJ",125000.0,Data_Scientist,Senior_level
+28,        TD Bank,"Mount Laurel, NJ",125000.0,Data_Scientist,Senior_level
+0,    Averity,"New York, NY 10016",140000.0,Data_Scientist,Entry_level
+1,"    Software, NYC","New York, NY",140000.0,Data_Scientist,Entry_level
+2,    Averity,"New York, NY",140000.0,Data_Scientist,Entry_level
+3,    Averity,"New York, NY",140000.0,Data_Scientist,Entry_level
+4,        MediaMath,"New York, NY",140000.0,Data_Scientist,Entry_level
+5,"    Knotch, Inc.","New York, NY",140000.0,Data_Scientist,Entry_level
+6,        Workbridge Associates,"New York, NY 10017 (Midtown area)",140000.0,Data_Scientist,Entry_level
+7,    Selby Jennings,"New York, NY 10167 (Midtown area)",140000.0,Data_Scientist,Entry_level
+8,    Averity,"Basking Ridge, NJ",140000.0,Data_Scientist,Entry_level
+9,        Analytic Recruiting,"New York, NY 10017 (Midtown area)",140000.0,Data_Scientist,Entry_level
+0,    WorkFusion,"New York, NY",140000.0,Data_Scientist,Mid_level
+1,    Princeton Consulting,"New York, NY 10018",140000.0,Data_Scientist,Mid_level
+2,        Capital Markets Placement,"New York, NY 10005",140000.0,Data_Scientist,Mid_level
+3,        WeWork,"New York, NY 10005 (Financial District area)",140000.0,Data_Scientist,Mid_level
+4,        EXPERIAN,"New York, NY 10020 (Midtown area)",140000.0,Data_Scientist,Mid_level
+5,        Spotify,"New York, NY 10011 (Chelsea area)",140000.0,Data_Scientist,Mid_level
+6,        JPMorgan Chase,"New York, NY",140000.0,Data_Scientist,Mid_level
+7,        JPMorgan Chase,"New York, NY",140000.0,Data_Scientist,Mid_level
+8,        Siemens,"Princeton, NJ 08540",140000.0,Data_Scientist,Mid_level
+9,        Capital One,"New York, NY",140000.0,Data_Scientist,Mid_level
+10,        Workbridge Associates,"New York, NY 10010 (Gramercy area)",140000.0,Data_Scientist,Mid_level
+11,    Selby Jennings,"New York, NY 10167 (Midtown area)",140000.0,Data_Scientist,Mid_level
+12,    Selby Jennings,"New York, NY 10167 (Midtown area)",140000.0,Data_Scientist,Mid_level
+13,        Spotify,"New York, NY 10011 (Chelsea area)",140000.0,Data_Scientist,Mid_level
+14,        JPMorgan Chase,"New York, NY",140000.0,Data_Scientist,Mid_level
+15,        PlaceIQ,"New York, NY",140000.0,Data_Scientist,Mid_level
+16,    Selby Jennings,"New York, NY 10167 (Midtown area)",140000.0,Data_Scientist,Mid_level
+17,        Airtime,"New York, NY",140000.0,Data_Scientist,Mid_level
+18,    Verisk Insurance Solutions,"Jersey City, NJ",140000.0,Data_Scientist,Mid_level
+19,        Spotify,"New York, NY 10011 (Chelsea area)",140000.0,Data_Scientist,Mid_level
+20,        Morgan Stanley,"New York, NY 10032 (Washington Heights area)",140000.0,Data_Scientist,Mid_level
+21,    TW Staffing Solutions,"New York, NY",140000.0,Data_Scientist,Mid_level
+22,        Accenture,"New York, NY 10011 (Chelsea area)",140000.0,Data_Scientist,Mid_level
+23,    Princeton Consulting,"New York, NY 10018 (Clinton area)",140000.0,Data_Scientist,Mid_level
+24,    Harnham,"New York, NY",140000.0,Data_Scientist,Mid_level
+25,        Accenture,"New York, NY 10011 (Chelsea area)",140000.0,Data_Scientist,Mid_level
+26,        JPMorgan Chase,"New York, NY",140000.0,Data_Scientist,Mid_level
+27,        Accenture,"New York, NY 10011 (Chelsea area)",140000.0,Data_Scientist,Mid_level
+28,        AIG,"New York, NY",140000.0,Data_Scientist,Mid_level
+29,    Selby Jennings,"New York, NY 10167 (Midtown area)",140000.0,Data_Scientist,Mid_level
+30,        JPMorgan Chase,"Brooklyn, NY",140000.0,Data_Scientist,Mid_level
+31,        Analytic Recruiting,"New York, NY 10017 (Midtown area)",140000.0,Data_Scientist,Mid_level
+32,        JPMorgan Chase - Asset Management,"New York, NY",140000.0,Data_Scientist,Mid_level
+33,    Harnham,"New York, NY 10150",140000.0,Data_Scientist,Mid_level
+0,    Harnham,"New York, NY 10150",140000.0,Data_Scientist,Senior_level
+1,        TD Bank,"Mount Laurel, NJ",140000.0,Data_Scientist,Senior_level
+2,        MLB Advanced Media,"New York, NY 10011 (Chelsea area)",140000.0,Data_Scientist,Senior_level
+3,    Averity,"New York, NY",140000.0,Data_Scientist,Senior_level
+4,        AIG,"New York, NY",140000.0,Data_Scientist,Senior_level
+5,        Tumblr,"New York, NY",140000.0,Data_Scientist,Senior_level
+6,        S&P GLOBAL,"New York, NY 10002 (Lower East Side area)",140000.0,Data_Scientist,Senior_level
+7,    Harnham,"New York, NY",140000.0,Data_Scientist,Senior_level
+8,    Rockstar New York,"New York, NY",140000.0,Data_Scientist,Senior_level
+9,    Harnham,"New York, NY",140000.0,Data_Scientist,Senior_level
+10,    Big Cloud Recruitment,"New York, NY",140000.0,Data_Scientist,Senior_level
+11,    KCS,"New York, NY",140000.0,Data_Scientist,Senior_level
+12,    Averity,"Union, NJ",140000.0,Data_Scientist,Senior_level
+13,    Garrison Associates,"New York, NY 10110 (East Village area)",140000.0,Data_Scientist,Senior_level
+14,        AIG,"New York, NY",140000.0,Data_Scientist,Senior_level
+15,        Johnson & Johnson Services Inc.,"Bridgewater, NJ",140000.0,Data_Scientist,Senior_level
+16,        Accenture,"New York, NY 10011 (Chelsea area)",140000.0,Data_Scientist,Senior_level
+17,    The James Allen Companies,"Jersey City, NJ",140000.0,Data_Scientist,Senior_level

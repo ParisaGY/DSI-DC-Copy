@@ -1,0 +1,1055 @@
+,Company_name,Location,Salary,Title,Experience
+0,        Realogy Corporate,"Emeryville, CA",90000.0,Data_Scientist,Entry_level
+1,        Sandia National Laboratories,"Livermore, CA",90000.0,Data_Scientist,Entry_level
+2,    Zone24x7 Inc,"Milpitas, CA 95035",90000.0,Data_Scientist,Entry_level
+3,    Clover Health,"San Francisco, CA",90000.0,Data_Scientist,Entry_level
+4,        Jawbone,"San Francisco, CA",90000.0,Data_Scientist,Entry_level
+5,        Facebook,"Menlo Park, CA",90000.0,Data_Scientist,Entry_level
+6,    Affirm,"San Francisco, CA 94126 (Financial District area)",90000.0,Data_Scientist,Entry_level
+7,    LendUp,"San Francisco, CA",90000.0,Data_Scientist,Entry_level
+8,        Palo Alto Networks,"Santa Clara, CA 95054",90000.0,Data_Scientist,Entry_level
+9,        TARGET,"Sunnyvale, CA 94086",90000.0,Data_Scientist,Entry_level
+10,        Apple,"Santa Clara Valley, CA",90000.0,Data_Scientist,Entry_level
+11,    Farmers Business Network,"San Carlos, CA 94070",90000.0,Data_Scientist,Entry_level
+12,    LendingHome,"San Francisco, CA",90000.0,Data_Scientist,Entry_level
+13,    Corporate Labs Technology,"Brisbane, CA",90000.0,Data_Scientist,Entry_level
+14,"    Egnyte, Inc.","Mountain View, CA 94043",90000.0,Data_Scientist,Entry_level
+15,        Apple,"Santa Clara Valley, CA",90000.0,Data_Scientist,Entry_level
+16,        Thumbtack,"San Francisco, CA",90000.0,Data_Scientist,Entry_level
+17,        Salesforce,"Palo Alto, CA",90000.0,Data_Scientist,Entry_level
+18,        Walmart eCommerce,"Sunnyvale, CA",90000.0,Data_Scientist,Entry_level
+19,        Apple,"Santa Clara Valley, CA",90000.0,Data_Scientist,Entry_level
+20,    Slice Technologies & Unroll.me,"San Mateo, CA",90000.0,Data_Scientist,Entry_level
+21,        Apple,"Santa Clara Valley, CA",90000.0,Data_Scientist,Entry_level
+22,        eBay,"San Jose, CA",90000.0,Data_Scientist,Entry_level
+23,    Rally Health,"San Francisco, CA",90000.0,Data_Scientist,Entry_level
+24,    Nistala Technologies Inc.,"San Francisco, CA",90000.0,Data_Scientist,Entry_level
+25,        Workbridge Associates,"San Francisco, CA 94105 (Financial District area)",90000.0,Data_Scientist,Entry_level
+26,    Stride Search,"San Francisco, CA",90000.0,Data_Scientist,Entry_level
+27,    Gap Inc. Corporate,"San Francisco, CA",90000.0,Data_Scientist,Entry_level
+28,    Grammarly,"San Francisco, CA",90000.0,Data_Scientist,Entry_level
+29,    Slice Technologies & Unroll.me,"San Mateo, CA",90000.0,Data_Scientist,Entry_level
+30,    Corporate Labs Technology,"Brisbane, CA",90000.0,Data_Scientist,Entry_level
+31,    iRhythm,"San Francisco, CA",90000.0,Data_Scientist,Entry_level
+32,        Intel,"Santa Clara, CA 95052",90000.0,Data_Scientist,Entry_level
+33,        Jobspring Partners,"San Jose, CA 95113 (Downtown area)",90000.0,Data_Scientist,Entry_level
+34,"    Kanjoya, Inc.","San Francisco, CA",90000.0,Data_Scientist,Entry_level
+35,        Apple,"Santa Clara Valley, CA",90000.0,Data_Scientist,Entry_level
+36,        Appnomic Systems Pvt. Ltd,"Sunnyvale, CA",90000.0,Data_Scientist,Entry_level
+37,    MsgAI,"San Francisco, CA",90000.0,Data_Scientist,Entry_level
+38,    Near,"San Francisco, CA",90000.0,Data_Scientist,Entry_level
+39,    Andiamo! Group,"San Francisco, CA",90000.0,Data_Scientist,Entry_level
+40,        Paypal,"San Jose, CA",90000.0,Data_Scientist,Entry_level
+41,        Intel,"Santa Clara, CA 95052",90000.0,Data_Scientist,Entry_level
+42,        Telenav,"Santa Clara, CA",90000.0,Data_Scientist,Entry_level
+43,        Walmart eCommerce,"Sunnyvale, CA",90000.0,Data_Scientist,Entry_level
+44,        Magento,"Campbell, CA",90000.0,Data_Scientist,Entry_level
+45,        Criteo,"Palo Alto, CA 94301 (Professorville area)",90000.0,Data_Scientist,Entry_level
+46,    Selby Jennings,"San Francisco, CA",90000.0,Data_Scientist,Entry_level
+47,        Galvanize,"San Francisco, CA",90000.0,Data_Scientist,Entry_level
+48,        Walmart eCommerce,"San Bruno, CA 94066",90000.0,Data_Scientist,Entry_level
+49,        Apple,"Santa Clara Valley, CA",90000.0,Data_Scientist,Entry_level
+50,    3MKLLC,"Sunnyvale, CA",90000.0,Data_Scientist,Entry_level
+51,    Elevate Recruiting Group,"San Francisco, CA",90000.0,Data_Scientist,Entry_level
+52,        Galvanize,"San Francisco, CA",90000.0,Data_Scientist,Entry_level
+53,    Selby Jennings,"San Francisco, CA",90000.0,Data_Scientist,Entry_level
+54,        Dropbox,"San Francisco, CA",90000.0,Data_Scientist,Entry_level
+55,        LumenData,"Santa Clara, CA 95054",90000.0,Data_Scientist,Entry_level
+56,        NVIDIA,"Santa Clara, CA",90000.0,Data_Scientist,Entry_level
+57,    Color Genomics,"Burlingame, CA",90000.0,Data_Scientist,Entry_level
+58,        Workday,"San Francisco, CA 94105 (Financial District area)",90000.0,Data_Scientist,Entry_level
+59,        Samsung Research America,"Mountain View, CA 94043",90000.0,Data_Scientist,Entry_level
+60,        Walmart eCommerce,"San Bruno, CA 94066",90000.0,Data_Scientist,Entry_level
+61,"    Ruckus Wireless, Inc","Sunnyvale, CA",90000.0,Data_Scientist,Entry_level
+62,        Apple,"San Francisco, CA 94114 (Castro-Upper Market area)",90000.0,Data_Scientist,Entry_level
+63,        Samsung Research America,"Mountain View, CA 94043",90000.0,Data_Scientist,Entry_level
+64,        The Climate Corporation,"San Francisco, CA",90000.0,Data_Scientist,Entry_level
+65,    Quora,"Mountain View, CA",90000.0,Data_Scientist,Entry_level
+66,    Swatcloud,"San Ramon, CA",90000.0,Data_Scientist,Entry_level
+67,    HomeSuite,"San Francisco, CA",90000.0,Data_Scientist,Entry_level
+68,        Upstart,"San Carlos, CA",90000.0,Data_Scientist,Entry_level
+69,        Realogy Corporate,"Emeryville, CA",90000.0,Data_Scientist,Entry_level
+70,        Workbridge Associates,"San Francisco, CA",90000.0,Data_Scientist,Entry_level
+71,        GE Careers,"San Ramon, CA 94583",90000.0,Data_Scientist,Entry_level
+72,        drawbridge,"San Mateo, CA 94403 (Sugerloaf area)",90000.0,Data_Scientist,Entry_level
+73,        Salesforce,"San Francisco, CA",90000.0,Data_Scientist,Entry_level
+74,    Payette Group,"Mountain View, CA",90000.0,Data_Scientist,Entry_level
+75,        Workbridge Associates,"San Francisco, CA",90000.0,Data_Scientist,Entry_level
+76,        Uber,"San Francisco, CA 94103 (South Of Market area)",90000.0,Data_Scientist,Entry_level
+77,        Workbridge Associates,"Mountain View, CA",90000.0,Data_Scientist,Entry_level
+78,        Opendoor,"San Francisco, CA",90000.0,Data_Scientist,Entry_level
+79,        Sandia National Laboratories,"Livermore, CA",90000.0,Data_Scientist,Entry_level
+80,        Workbridge Associates,"San Francisco, CA 94105 (Financial District area)",90000.0,Data_Scientist,Entry_level
+81,    Zone24x7 Inc,"Milpitas, CA 95035",90000.0,Data_Scientist,Entry_level
+82,    Jetlore,"Sunnyvale, CA",90000.0,Data_Scientist,Entry_level
+83,    Rainterra,"Sunnyvale, CA 94085",90000.0,Data_Scientist,Entry_level
+84,    Spacequant,"San Francisco, CA",90000.0,Data_Scientist,Entry_level
+85,    Aipoly,"San Francisco, CA",90000.0,Data_Scientist,Entry_level
+86,        eBay,"San Francisco, CA",90000.0,Data_Scientist,Entry_level
+87,    Elevate Recruiting Group,"Redwood City, CA",90000.0,Data_Scientist,Entry_level
+88,    Elevate Recruiting Group,"San Francisco, CA",90000.0,Data_Scientist,Entry_level
+89,        Sandia National Laboratories,"Livermore, CA",90000.0,Data_Scientist,Entry_level
+90,    Lyra Health,"Burlingame, CA",90000.0,Data_Scientist,Entry_level
+91,    Sentient,"San Francisco, CA",90000.0,Data_Scientist,Entry_level
+92,        Harvey Nash USA,"Sunnyvale, CA",90000.0,Data_Scientist,Entry_level
+93,        AppleOne,"San Francisco, CA 94104 (Financial District area)",90000.0,Data_Scientist,Entry_level
+94,        Workday,"Pleasanton, CA",90000.0,Data_Scientist,Entry_level
+95,        Yahoo! Inc.,"Sunnyvale, CA",90000.0,Data_Scientist,Entry_level
+96,        Sandia National Laboratories,"Livermore, CA",90000.0,Data_Scientist,Entry_level
+97,        Jobspring Partners,"San Jose, CA 95113 (Downtown area)",90000.0,Data_Scientist,Entry_level
+98,    Hoodline,"San Francisco, CA",90000.0,Data_Scientist,Entry_level
+99,    Plexchat,"Redwood City, CA",90000.0,Data_Scientist,Entry_level
+100,    Infer,"Palo Alto, CA",90000.0,Data_Scientist,Entry_level
+101,    DW Simpson Global Actuarial Recruitment,California,90000.0,Data_Scientist,Entry_level
+102,    Predictive Science,United States,90000.0,Data_Scientist,Entry_level
+0,        Google,"Mountain View, CA",90000.0,Data_Scientist,Mid_level
+1,        Big Fish,"Oakland, CA",90000.0,Data_Scientist,Mid_level
+2,        Deloitte,"San Francisco, CA",90000.0,Data_Scientist,Mid_level
+3,        Facebook,"Menlo Park, CA",90000.0,Data_Scientist,Mid_level
+4,        AgilOne,"San Francisco, CA",90000.0,Data_Scientist,Mid_level
+5,        Instacart,"San Francisco, CA",90000.0,Data_Scientist,Mid_level
+6,    Casetext,"San Francisco, CA",90000.0,Data_Scientist,Mid_level
+7,        realtor.com,"Santa Clara, CA",90000.0,Data_Scientist,Mid_level
+8,        HealthTap,"Palo Alto, CA",90000.0,Data_Scientist,Mid_level
+9,"        Rodan & Fields, LLC","San Francisco, CA",90000.0,Data_Scientist,Mid_level
+10,"    Cogitativo, Inc.","Berkeley, CA 94710",90000.0,Data_Scientist,Mid_level
+11,        Tesla Motors,"Palo Alto, CA",90000.0,Data_Scientist,Mid_level
+12,    Tripping.com,"San Francisco, CA",90000.0,Data_Scientist,Mid_level
+13,        Uber,"San Francisco, CA 94103 (South Of Market area)",90000.0,Data_Scientist,Mid_level
+14,        TapInfluence,"Mountain View, CA",90000.0,Data_Scientist,Mid_level
+15,    MachineZone,"Palo Alto, CA",90000.0,Data_Scientist,Mid_level
+16,    6sense,"San Francisco, CA",90000.0,Data_Scientist,Mid_level
+17,        Electronic Arts,"Redwood City, CA 94065",90000.0,Data_Scientist,Mid_level
+18,"    Samsung Semiconductor, Inc.","San Jose, CA",90000.0,Data_Scientist,Mid_level
+19,        Mondo,"San Francisco, CA",90000.0,Data_Scientist,Mid_level
+20,        McKinsey & Company,"San Francisco, CA",90000.0,Data_Scientist,Mid_level
+21,    FocusKPI Inc.,"Mountain View, CA",90000.0,Data_Scientist,Mid_level
+22,        SAP,"Palo Alto, CA",90000.0,Data_Scientist,Mid_level
+23,        Tapjoy,"San Francisco, CA 94104 (Financial District area)",90000.0,Data_Scientist,Mid_level
+24,    Intellipro Group,"Sunnyvale, CA",90000.0,Data_Scientist,Mid_level
+25,    Second Genome,"South San Francisco, CA 94080",90000.0,Data_Scientist,Mid_level
+26,        Big Fish,"Oakland, CA",90000.0,Data_Scientist,Mid_level
+27,        Coupang,"Palo Alto, CA",90000.0,Data_Scientist,Mid_level
+28,    Oscar Technology,"San Mateo, CA",90000.0,Data_Scientist,Mid_level
+29,        Gwynnie Bee,"Palo Alto, CA",90000.0,Data_Scientist,Mid_level
+30,        Workday,"Pleasanton, CA",90000.0,Data_Scientist,Mid_level
+31,        Walmart eCommerce,"Sunnyvale, CA",90000.0,Data_Scientist,Mid_level
+32,"        Move, Inc.","Santa Clara, CA",90000.0,Data_Scientist,Mid_level
+33,        Walmart eCommerce,"Sunnyvale, CA",90000.0,Data_Scientist,Mid_level
+34,        Intuit,"Mountain View, CA 94039",90000.0,Data_Scientist,Mid_level
+35,        Nexient,"Foster City, CA",90000.0,Data_Scientist,Mid_level
+36,    Intechriti,"San Jose, CA",90000.0,Data_Scientist,Mid_level
+37,        Workbridge Associates,"San Francisco, CA 94105 (Financial District area)",90000.0,Data_Scientist,Mid_level
+38,    Treselle Software,"Campbell, CA",90000.0,Data_Scientist,Mid_level
+39,        The Climate Corporation,"San Francisco, CA",90000.0,Data_Scientist,Mid_level
+40,        Facebook,"Menlo Park, CA",90000.0,Data_Scientist,Mid_level
+41,        Supercell,"San Francisco, CA 94104 (Financial District area)",90000.0,Data_Scientist,Mid_level
+42,        Salesforce,"San Francisco, CA",90000.0,Data_Scientist,Mid_level
+43,    Veear Projects,"Redwood City, CA",90000.0,Data_Scientist,Mid_level
+44,    Level Education from Northeastern University,"San Jose, CA",90000.0,Data_Scientist,Mid_level
+45,    Metromile,"San Francisco, CA",90000.0,Data_Scientist,Mid_level
+46,        DNV GL,"Oakland, CA",90000.0,Data_Scientist,Mid_level
+47,        Apple,"Santa Clara Valley, CA",90000.0,Data_Scientist,Mid_level
+48,        Nimble Storage,"San Jose, CA 95134 (North San Jose area)",90000.0,Data_Scientist,Mid_level
+49,        eBay,"San Jose, CA",90000.0,Data_Scientist,Mid_level
+50,    Nuna,"San Francisco, CA",90000.0,Data_Scientist,Mid_level
+51,    PI Benchmark,"Berkeley, CA",90000.0,Data_Scientist,Mid_level
+52,        Jobspring Partners,"San Jose, CA 95113 (Downtown area)",90000.0,Data_Scientist,Mid_level
+53,        Eaze,"San Francisco, CA",90000.0,Data_Scientist,Mid_level
+54,        NVIDIA,"Santa Clara, CA",90000.0,Data_Scientist,Mid_level
+55,        Daimler,"Sunnyvale, CA",90000.0,Data_Scientist,Mid_level
+56,    Xconic,"San Jose, CA 95131 (North Valley area)",90000.0,Data_Scientist,Mid_level
+57,    PNI Sensor Corp,"Santa Rosa, CA 95407",90000.0,Data_Scientist,Mid_level
+58,        Symantec,"Mountain View, CA",90000.0,Data_Scientist,Mid_level
+59,    ForeScout,"San Jose, CA",90000.0,Data_Scientist,Mid_level
+60,    LeanTaaS,"Santa Clara, CA",90000.0,Data_Scientist,Mid_level
+61,        Coursera,"Mountain View, CA 94041",90000.0,Data_Scientist,Mid_level
+62,        Brighterion,"San Francisco, CA 94105 (Financial District area)",90000.0,Data_Scientist,Mid_level
+63,    Reputation.com,"Redwood City, CA 94063",90000.0,Data_Scientist,Mid_level
+64,        Amazon Corporate LLC,"Palo Alto, CA",90000.0,Data_Scientist,Mid_level
+65,    Komodo Health,"San Francisco, CA",90000.0,Data_Scientist,Mid_level
+66,        Glassdoor,"Mill Valley, CA 94941",90000.0,Data_Scientist,Mid_level
+67,        Saama Technologies Inc,"Campbell, CA 95008",90000.0,Data_Scientist,Mid_level
+68,    Zymergen,"Emeryville, CA 94608",90000.0,Data_Scientist,Mid_level
+69,        Microsoft,"Palo Alto, CA",90000.0,Data_Scientist,Mid_level
+70,        Workbridge Associates,"San Francisco, CA 94103 (South Of Market area)",90000.0,Data_Scientist,Mid_level
+71,        SocialCode,"San Francisco, CA",90000.0,Data_Scientist,Mid_level
+72,    Divergent 3D,"Palo Alto, CA",90000.0,Data_Scientist,Mid_level
+73,        Uber,"San Francisco, CA 94103 (South Of Market area)",90000.0,Data_Scientist,Mid_level
+74,        Oracle,"San Francisco, CA 94109 (Nob Hill area)",90000.0,Data_Scientist,Mid_level
+75,        Apple,"Santa Clara Valley, CA",90000.0,Data_Scientist,Mid_level
+76,"    Linc Global, Inc.","Sunnyvale, CA",90000.0,Data_Scientist,Mid_level
+77,    Affirm,"San Francisco, CA 94126 (Financial District area)",90000.0,Data_Scientist,Mid_level
+78,"    Apixio, Inc.","San Mateo, CA",90000.0,Data_Scientist,Mid_level
+79,    Pulsate,"San Francisco, CA",90000.0,Data_Scientist,Mid_level
+80,    Hoodline,"San Francisco, CA",90000.0,Data_Scientist,Mid_level
+81,    Third Eye Consulting Services & Solutions LLC.,"San Francisco, CA",90000.0,Data_Scientist,Mid_level
+82,        Groupon,"Palo Alto, CA 94306 (Barron Park area)",90000.0,Data_Scientist,Mid_level
+83,"    Studio Search, LLC","San Francisco, CA",90000.0,Data_Scientist,Mid_level
+84,        SAP,"Palo Alto, CA",90000.0,Data_Scientist,Mid_level
+85,        Google,"Mountain View, CA",90000.0,Data_Scientist,Mid_level
+86,        ServiceNow,"Santa Clara, CA",90000.0,Data_Scientist,Mid_level
+87,        Okta,"San Francisco, CA",90000.0,Data_Scientist,Mid_level
+88,        Chegg,"Santa Clara, CA 95054",90000.0,Data_Scientist,Mid_level
+89,    Samba TV,"San Francisco, CA",90000.0,Data_Scientist,Mid_level
+90,        A9.com,"Palo Alto, CA",90000.0,Data_Scientist,Mid_level
+91,    Propeller Health,"San Francisco, CA",90000.0,Data_Scientist,Mid_level
+92,    TERADEEP INC.,"Campbell, CA",90000.0,Data_Scientist,Mid_level
+93,        WePay,"Redwood City, CA",90000.0,Data_Scientist,Mid_level
+94,        ASML,"San Jose, CA 95131 (North Valley area)",90000.0,Data_Scientist,Mid_level
+95,    Fanatics Inc.,"San Mateo, CA",90000.0,Data_Scientist,Mid_level
+96,    thredUP,"San Francisco, CA 94104 (Financial District area)",90000.0,Data_Scientist,Mid_level
+97,        Deloitte,"San Francisco, CA",90000.0,Data_Scientist,Mid_level
+98,    Hoodline,"San Francisco, CA",90000.0,Data_Scientist,Mid_level
+99,        Apple,"Santa Clara Valley, CA",90000.0,Data_Scientist,Mid_level
+100,"    Studio Search, LLC","San Francisco, CA",90000.0,Data_Scientist,Mid_level
+101,        Intel,"Santa Clara, CA 95052",90000.0,Data_Scientist,Mid_level
+102,        Facebook,"Menlo Park, CA",90000.0,Data_Scientist,Mid_level
+103,        Brighterion,"San Francisco, CA 94105",90000.0,Data_Scientist,Mid_level
+104,"    Cogitativo, Inc.","Berkeley, CA 94710",90000.0,Data_Scientist,Mid_level
+0,        Genentech,"South San Francisco, CA",90000.0,Data_Scientist,Senior_level
+1,        Datameer,"San Francisco, CA",90000.0,Data_Scientist,Senior_level
+2,    iSoft Solutions,"San Francisco, CA",90000.0,Data_Scientist,Senior_level
+3,        Hired,"San Francisco, CA",90000.0,Data_Scientist,Senior_level
+4,        Genentech,"South San Francisco, CA",90000.0,Data_Scientist,Senior_level
+5,"    Apixio, Inc.","San Mateo, CA",90000.0,Data_Scientist,Senior_level
+6,        CA Technologies,"Santa Clara, CA",90000.0,Data_Scientist,Senior_level
+7,        Symantec,"Mountain View, CA",90000.0,Data_Scientist,Senior_level
+8,        GE Careers,"San Ramon, CA 94583",90000.0,Data_Scientist,Senior_level
+9,        GE Careers,"San Ramon, CA 94583",90000.0,Data_Scientist,Senior_level
+10,    MachineZone,"Palo Alto, CA",90000.0,Data_Scientist,Senior_level
+11,    Sigmaways,"Palo Alto, CA",90000.0,Data_Scientist,Senior_level
+12,        Fitbit,"San Francisco, CA 94105 (Financial District area)",90000.0,Data_Scientist,Senior_level
+13,    Change.org,"San Francisco, CA 94103 (South Of Market area)",90000.0,Data_Scientist,Senior_level
+14,    LeanTaaS,"Santa Clara, CA",90000.0,Data_Scientist,Senior_level
+15,        TEKsystems,"San Francisco, CA 94103 (South Of Market area)",90000.0,Data_Scientist,Senior_level
+16,    Gap Inc. Corporate,"San Francisco, CA",90000.0,Data_Scientist,Senior_level
+17,"        Cisco Systems, Inc.","San Jose, CA",90000.0,Data_Scientist,Senior_level
+18,        Workbridge Associates,"San Francisco, CA 94105 (Financial District area)",90000.0,Data_Scientist,Senior_level
+19,    Bayone Solutions Inc.,"San Francisco, CA",90000.0,Data_Scientist,Senior_level
+20,"    InfoVision, Inc.","San Jose, CA",90000.0,Data_Scientist,Senior_level
+21,    Quantifind,"Menlo Park, CA",90000.0,Data_Scientist,Senior_level
+22,        eBay,"San Jose, CA",90000.0,Data_Scientist,Senior_level
+23,        Square,"San Francisco, CA 94103 (South Of Market area)",90000.0,Data_Scientist,Senior_level
+24,        Thomson Reuters,"San Francisco, CA",90000.0,Data_Scientist,Senior_level
+25,        YuMe,"Redwood City, CA 94063",90000.0,Data_Scientist,Senior_level
+26,        Proofpoint,"Sunnyvale, CA 94089",90000.0,Data_Scientist,Senior_level
+27,        Demandbase,"San Francisco, CA",90000.0,Data_Scientist,Senior_level
+28,"        Move, Inc.","Santa Clara, CA",90000.0,Data_Scientist,Senior_level
+29,        TrialPay,"Mountain View, CA",90000.0,Data_Scientist,Senior_level
+30,        Datameer,"San Francisco, CA 94103 (South Of Market area)",90000.0,Data_Scientist,Senior_level
+31,        Chegg,"Santa Clara, CA 95054",90000.0,Data_Scientist,Senior_level
+32,        Workbridge Associates,"San Francisco, CA",90000.0,Data_Scientist,Senior_level
+33,        Chegg,"San Francisco, CA",90000.0,Data_Scientist,Senior_level
+34,        Coupang,"Palo Alto, CA",90000.0,Data_Scientist,Senior_level
+35,        Netflix,"Los Gatos, CA",90000.0,Data_Scientist,Senior_level
+36,        SAP,"San Francisco, CA",90000.0,Data_Scientist,Senior_level
+37,        Adobe,"San Jose, CA",90000.0,Data_Scientist,Senior_level
+38,        Symantec,"Mountain View, CA",90000.0,Data_Scientist,Senior_level
+39,        Netflix,"Los Gatos, CA",90000.0,Data_Scientist,Senior_level
+40,        SanDisk,"Milpitas, CA",90000.0,Data_Scientist,Senior_level
+41,    BOLD,"San Francisco, CA",90000.0,Data_Scientist,Senior_level
+42,        Samsung Electronics America,"Mountain View, CA",90000.0,Data_Scientist,Senior_level
+43,"    Solutionary, Inc.","East Palo Alto, CA",90000.0,Data_Scientist,Senior_level
+44,        Kaiser Permanente,"Oakland, CA",90000.0,Data_Scientist,Senior_level
+45,    Veear Projects,"Palo Alto, CA",90000.0,Data_Scientist,Senior_level
+46,        Insight Data Science,"Palo Alto, CA",90000.0,Data_Scientist,Senior_level
+47,    All-In Analytics,"San Francisco, CA",90000.0,Data_Scientist,Senior_level
+48,"    InsideSales.com, Inc.","San Mateo, CA",90000.0,Data_Scientist,Senior_level
+49,        Ten-X,"Belmont, CA",90000.0,Data_Scientist,Senior_level
+50,        Ancestry,"San Francisco, CA",90000.0,Data_Scientist,Senior_level
+51,    Arka,"San Francisco, CA",90000.0,Data_Scientist,Senior_level
+52,        Chegg,"Santa Clara, CA 95054",90000.0,Data_Scientist,Senior_level
+53,        Jobspring Partners,"San Jose, CA 95113 (Downtown area)",90000.0,Data_Scientist,Senior_level
+54,    Elevate Recruiting Group,"Redwood City, CA",90000.0,Data_Scientist,Senior_level
+55,        IMVU,"Redwood City, CA",90000.0,Data_Scientist,Senior_level
+56,        Chegg,"San Francisco, CA",90000.0,Data_Scientist,Senior_level
+57,        Netflix,"Los Gatos, CA",90000.0,Data_Scientist,Senior_level
+58,        Capgemini,"South San Francisco, CA",90000.0,Data_Scientist,Senior_level
+59,"        Cisco Systems, Inc.","San Jose, CA",90000.0,Data_Scientist,Senior_level
+60,        Dropbox,"San Francisco, CA",90000.0,Data_Scientist,Senior_level
+61,        Intuit,"Mountain View, CA 94039",90000.0,Data_Scientist,Senior_level
+62,"        Pandora Media, Inc.","Oakland, CA",90000.0,Data_Scientist,Senior_level
+63,        Electronic Arts,"Redwood City, CA 94065",90000.0,Data_Scientist,Senior_level
+64,    Apartment List,"San Francisco, CA",90000.0,Data_Scientist,Senior_level
+65,    EOS DA,"Menlo Park, CA",90000.0,Data_Scientist,Senior_level
+66,        Accenture,"San Francisco, CA 94105 (Financial District area)",90000.0,Data_Scientist,Senior_level
+67,    Redfish Technology - High Tech Executive Recruiter...,"San Francisco, CA",90000.0,Data_Scientist,Senior_level
+68,        Microsoft,"San Francisco, CA",90000.0,Data_Scientist,Senior_level
+69,        NTT Security,"Palo Alto, CA 94303 (Duveneck-Saint Francis area)",90000.0,Data_Scientist,Senior_level
+70,        Oracle,"Redwood Shores, CA",90000.0,Data_Scientist,Senior_level
+71,    Elevate Recruiting Group,"Palo Alto, CA",90000.0,Data_Scientist,Senior_level
+72,        Lyft Corporate,"San Francisco, CA",90000.0,Data_Scientist,Senior_level
+73,        Datameer,"San Francisco, CA 94103 (South Of Market area)",90000.0,Data_Scientist,Senior_level
+74,    Risk Management Solutions (RMS),"Newark, CA",90000.0,Data_Scientist,Senior_level
+75,        Yahoo! Inc.,"Sunnyvale, CA",90000.0,Data_Scientist,Senior_level
+76,        Accenture,"San Francisco, CA 94105 (Financial District area)",90000.0,Data_Scientist,Senior_level
+77,        Oxford International,"Sunnyvale, CA",90000.0,Data_Scientist,Senior_level
+78,        GE Careers,"San Ramon, CA 94583",90000.0,Data_Scientist,Senior_level
+79,    StyleSeat,"San Francisco, CA",90000.0,Data_Scientist,Senior_level
+80,"    Quality IT Source, LLC","San Francisco, CA",90000.0,Data_Scientist,Senior_level
+81,        Charles Schwab,"San Francisco, CA 94102 (Downtown area)",90000.0,Data_Scientist,Senior_level
+82,        GE Careers,"San Ramon, CA 94583",90000.0,Data_Scientist,Senior_level
+83,        Accenture,"San Francisco, CA 94105 (Financial District area)",90000.0,Data_Scientist,Senior_level
+84,    Zendrive,"San Francisco, CA",90000.0,Data_Scientist,Senior_level
+0,    Predictive Science,United States,105000.0,Data_Scientist,Entry_level
+1,    Zone24x7 Inc,"Milpitas, CA 95035",105000.0,Data_Scientist,Entry_level
+2,        Sandia National Laboratories,"Livermore, CA",105000.0,Data_Scientist,Entry_level
+3,    Clover Health,"San Francisco, CA",105000.0,Data_Scientist,Entry_level
+4,    Affirm,"San Francisco, CA 94126 (Financial District area)",105000.0,Data_Scientist,Entry_level
+5,    LendUp,"San Francisco, CA",105000.0,Data_Scientist,Entry_level
+6,        Apple,"Santa Clara Valley, CA",105000.0,Data_Scientist,Entry_level
+7,    LendingHome,"San Francisco, CA",105000.0,Data_Scientist,Entry_level
+8,    Farmers Business Network,"San Carlos, CA 94070",105000.0,Data_Scientist,Entry_level
+9,"    Egnyte, Inc.","Mountain View, CA 94043",105000.0,Data_Scientist,Entry_level
+10,    Corporate Labs Technology,"Brisbane, CA",105000.0,Data_Scientist,Entry_level
+11,        Apple,"Santa Clara Valley, CA",105000.0,Data_Scientist,Entry_level
+12,        Salesforce,"Palo Alto, CA",105000.0,Data_Scientist,Entry_level
+13,        Thumbtack,"San Francisco, CA",105000.0,Data_Scientist,Entry_level
+14,        Walmart eCommerce,"Sunnyvale, CA",105000.0,Data_Scientist,Entry_level
+15,        Apple,"Santa Clara Valley, CA",105000.0,Data_Scientist,Entry_level
+16,        Apple,"Santa Clara Valley, CA",105000.0,Data_Scientist,Entry_level
+17,    Rally Health,"San Francisco, CA",105000.0,Data_Scientist,Entry_level
+18,    Slice Technologies & Unroll.me,"San Mateo, CA",105000.0,Data_Scientist,Entry_level
+19,        eBay,"San Jose, CA",105000.0,Data_Scientist,Entry_level
+20,        Workbridge Associates,"San Francisco, CA 94105 (Financial District area)",105000.0,Data_Scientist,Entry_level
+21,    Nistala Technologies Inc.,"San Francisco, CA",105000.0,Data_Scientist,Entry_level
+22,    Stride Search,"San Francisco, CA",105000.0,Data_Scientist,Entry_level
+23,    Corporate Labs Technology,"Brisbane, CA",105000.0,Data_Scientist,Entry_level
+24,    iRhythm,"San Francisco, CA",105000.0,Data_Scientist,Entry_level
+25,    Slice Technologies & Unroll.me,"San Mateo, CA",105000.0,Data_Scientist,Entry_level
+26,        Intel,"Santa Clara, CA 95052",105000.0,Data_Scientist,Entry_level
+27,        Paypal,"San Jose, CA",105000.0,Data_Scientist,Entry_level
+28,    MsgAI,"San Francisco, CA",105000.0,Data_Scientist,Entry_level
+29,    Near,"San Francisco, CA",105000.0,Data_Scientist,Entry_level
+30,        Jobspring Partners,"San Jose, CA 95113 (Downtown area)",105000.0,Data_Scientist,Entry_level
+31,        Intel,"Santa Clara, CA 95052",105000.0,Data_Scientist,Entry_level
+32,        Telenav,"Santa Clara, CA",105000.0,Data_Scientist,Entry_level
+33,        Walmart eCommerce,"Sunnyvale, CA",105000.0,Data_Scientist,Entry_level
+34,        Galvanize,"San Francisco, CA",105000.0,Data_Scientist,Entry_level
+35,    Selby Jennings,"San Francisco, CA",105000.0,Data_Scientist,Entry_level
+36,        Criteo,"Palo Alto, CA 94301 (Professorville area)",105000.0,Data_Scientist,Entry_level
+37,        Magento,"Campbell, CA",105000.0,Data_Scientist,Entry_level
+38,    3MKLLC,"Sunnyvale, CA",105000.0,Data_Scientist,Entry_level
+39,        Workday,"San Francisco, CA 94105 (Financial District area)",105000.0,Data_Scientist,Entry_level
+40,        Apple,"Santa Clara Valley, CA",105000.0,Data_Scientist,Entry_level
+41,    Elevate Recruiting Group,"San Francisco, CA",105000.0,Data_Scientist,Entry_level
+42,        NVIDIA,"Santa Clara, CA",105000.0,Data_Scientist,Entry_level
+43,    Selby Jennings,"San Francisco, CA",105000.0,Data_Scientist,Entry_level
+44,        Dropbox,"San Francisco, CA",105000.0,Data_Scientist,Entry_level
+45,        Walmart eCommerce,"San Bruno, CA 94066",105000.0,Data_Scientist,Entry_level
+46,        Samsung Research America,"Mountain View, CA 94043",105000.0,Data_Scientist,Entry_level
+47,    Color Genomics,"Burlingame, CA",105000.0,Data_Scientist,Entry_level
+48,"    Ruckus Wireless, Inc","Sunnyvale, CA",105000.0,Data_Scientist,Entry_level
+49,        Apple,"San Francisco, CA 94114 (Castro-Upper Market area)",105000.0,Data_Scientist,Entry_level
+50,        Walmart eCommerce,"San Bruno, CA 94066",105000.0,Data_Scientist,Entry_level
+51,        Samsung Research America,"Mountain View, CA 94043",105000.0,Data_Scientist,Entry_level
+52,        The Climate Corporation,"San Francisco, CA",105000.0,Data_Scientist,Entry_level
+53,    Quora,"Mountain View, CA",105000.0,Data_Scientist,Entry_level
+54,        GE Careers,"San Ramon, CA 94583",105000.0,Data_Scientist,Entry_level
+55,    HomeSuite,"San Francisco, CA",105000.0,Data_Scientist,Entry_level
+56,        Salesforce,"San Francisco, CA",105000.0,Data_Scientist,Entry_level
+57,    Swatcloud,"San Ramon, CA",105000.0,Data_Scientist,Entry_level
+58,        Upstart,"San Carlos, CA",105000.0,Data_Scientist,Entry_level
+59,        Workbridge Associates,"San Francisco, CA",105000.0,Data_Scientist,Entry_level
+60,        Uber,"San Francisco, CA 94103 (South Of Market area)",105000.0,Data_Scientist,Entry_level
+61,    Payette Group,"Mountain View, CA",105000.0,Data_Scientist,Entry_level
+62,        drawbridge,"San Mateo, CA 94403 (Sugerloaf area)",105000.0,Data_Scientist,Entry_level
+63,        Workbridge Associates,"San Francisco, CA",105000.0,Data_Scientist,Entry_level
+64,        Workbridge Associates,"Mountain View, CA",105000.0,Data_Scientist,Entry_level
+65,        Opendoor,"San Francisco, CA",105000.0,Data_Scientist,Entry_level
+66,        Workbridge Associates,"San Francisco, CA 94105 (Financial District area)",105000.0,Data_Scientist,Entry_level
+67,        Sandia National Laboratories,"Livermore, CA",105000.0,Data_Scientist,Entry_level
+68,    Zone24x7 Inc,"Milpitas, CA 95035",105000.0,Data_Scientist,Entry_level
+69,    Spacequant,"San Francisco, CA",105000.0,Data_Scientist,Entry_level
+70,    Aipoly,"San Francisco, CA",105000.0,Data_Scientist,Entry_level
+71,        eBay,"San Francisco, CA",105000.0,Data_Scientist,Entry_level
+72,    Elevate Recruiting Group,"Redwood City, CA",105000.0,Data_Scientist,Entry_level
+73,    Sentient,"San Francisco, CA",105000.0,Data_Scientist,Entry_level
+74,    Elevate Recruiting Group,"San Francisco, CA",105000.0,Data_Scientist,Entry_level
+75,        Sandia National Laboratories,"Livermore, CA",105000.0,Data_Scientist,Entry_level
+76,        Harvey Nash USA,"Sunnyvale, CA",105000.0,Data_Scientist,Entry_level
+77,        Yahoo! Inc.,"Sunnyvale, CA",105000.0,Data_Scientist,Entry_level
+78,        AppleOne,"San Francisco, CA 94104 (Financial District area)",105000.0,Data_Scientist,Entry_level
+79,        Workday,"Pleasanton, CA",105000.0,Data_Scientist,Entry_level
+80,        Sandia National Laboratories,"Livermore, CA",105000.0,Data_Scientist,Entry_level
+81,        Jobspring Partners,"San Jose, CA 95113 (Downtown area)",105000.0,Data_Scientist,Entry_level
+82,    Hoodline,"San Francisco, CA",105000.0,Data_Scientist,Entry_level
+83,    Infer,"Palo Alto, CA",105000.0,Data_Scientist,Entry_level
+84,        Sandia National Laboratories,"Livermore, CA",105000.0,Data_Scientist,Entry_level
+85,        Sandia National Laboratories,"Livermore, CA",105000.0,Data_Scientist,Entry_level
+0,        Google,"Mountain View, CA",105000.0,Data_Scientist,Mid_level
+1,        Big Fish,"Oakland, CA",105000.0,Data_Scientist,Mid_level
+2,        Deloitte,"San Francisco, CA",105000.0,Data_Scientist,Mid_level
+3,        Facebook,"Menlo Park, CA",105000.0,Data_Scientist,Mid_level
+4,        AgilOne,"San Francisco, CA",105000.0,Data_Scientist,Mid_level
+5,        Instacart,"San Francisco, CA",105000.0,Data_Scientist,Mid_level
+6,    Casetext,"San Francisco, CA",105000.0,Data_Scientist,Mid_level
+7,        HealthTap,"Palo Alto, CA",105000.0,Data_Scientist,Mid_level
+8,"        Rodan & Fields, LLC","San Francisco, CA",105000.0,Data_Scientist,Mid_level
+9,        Tesla Motors,"Palo Alto, CA",105000.0,Data_Scientist,Mid_level
+10,"    Cogitativo, Inc.","Berkeley, CA 94710",105000.0,Data_Scientist,Mid_level
+11,    Tripping.com,"San Francisco, CA",105000.0,Data_Scientist,Mid_level
+12,        Uber,"San Francisco, CA 94103 (South Of Market area)",105000.0,Data_Scientist,Mid_level
+13,        TapInfluence,"Mountain View, CA",105000.0,Data_Scientist,Mid_level
+14,    6sense,"San Francisco, CA",105000.0,Data_Scientist,Mid_level
+15,        Mondo,"San Francisco, CA",105000.0,Data_Scientist,Mid_level
+16,"    Samsung Semiconductor, Inc.","San Jose, CA",105000.0,Data_Scientist,Mid_level
+17,        Electronic Arts,"Redwood City, CA 94065",105000.0,Data_Scientist,Mid_level
+18,        SAP,"Palo Alto, CA",105000.0,Data_Scientist,Mid_level
+19,    FocusKPI Inc.,"Mountain View, CA",105000.0,Data_Scientist,Mid_level
+20,        Tapjoy,"San Francisco, CA 94104 (Financial District area)",105000.0,Data_Scientist,Mid_level
+21,        Gwynnie Bee,"Palo Alto, CA",105000.0,Data_Scientist,Mid_level
+22,        Big Fish,"Oakland, CA",105000.0,Data_Scientist,Mid_level
+23,        Walmart eCommerce,"Sunnyvale, CA",105000.0,Data_Scientist,Mid_level
+24,    Oscar Technology,"San Mateo, CA",105000.0,Data_Scientist,Mid_level
+25,        Workday,"Pleasanton, CA",105000.0,Data_Scientist,Mid_level
+26,        Walmart eCommerce,"Sunnyvale, CA",105000.0,Data_Scientist,Mid_level
+27,        Workbridge Associates,"San Francisco, CA 94105 (Financial District area)",105000.0,Data_Scientist,Mid_level
+28,        Intuit,"Mountain View, CA 94039",105000.0,Data_Scientist,Mid_level
+29,    Level Education from Northeastern University,"San Jose, CA",105000.0,Data_Scientist,Mid_level
+30,        Salesforce,"San Francisco, CA",105000.0,Data_Scientist,Mid_level
+31,        The Climate Corporation,"San Francisco, CA",105000.0,Data_Scientist,Mid_level
+32,        Supercell,"San Francisco, CA 94104 (Financial District area)",105000.0,Data_Scientist,Mid_level
+33,    Intechriti,"San Jose, CA",105000.0,Data_Scientist,Mid_level
+34,    Treselle Software,"Campbell, CA",105000.0,Data_Scientist,Mid_level
+35,    Veear Projects,"Redwood City, CA",105000.0,Data_Scientist,Mid_level
+36,        Apple,"Santa Clara Valley, CA",105000.0,Data_Scientist,Mid_level
+37,        DNV GL,"Oakland, CA",105000.0,Data_Scientist,Mid_level
+38,    Nuna,"San Francisco, CA",105000.0,Data_Scientist,Mid_level
+39,        eBay,"San Jose, CA",105000.0,Data_Scientist,Mid_level
+40,        Daimler,"Sunnyvale, CA",105000.0,Data_Scientist,Mid_level
+41,        Symantec,"Mountain View, CA",105000.0,Data_Scientist,Mid_level
+42,    LeanTaaS,"Santa Clara, CA",105000.0,Data_Scientist,Mid_level
+43,    PI Benchmark,"Berkeley, CA",105000.0,Data_Scientist,Mid_level
+44,        NVIDIA,"Santa Clara, CA",105000.0,Data_Scientist,Mid_level
+45,    PNI Sensor Corp,"Santa Rosa, CA 95407",105000.0,Data_Scientist,Mid_level
+46,        Jobspring Partners,"San Jose, CA 95113 (Downtown area)",105000.0,Data_Scientist,Mid_level
+47,    Xconic,"San Jose, CA 95131 (North Valley area)",105000.0,Data_Scientist,Mid_level
+48,        Coursera,"Mountain View, CA 94041",105000.0,Data_Scientist,Mid_level
+49,        Brighterion,"San Francisco, CA 94105 (Financial District area)",105000.0,Data_Scientist,Mid_level
+50,        SocialCode,"San Francisco, CA",105000.0,Data_Scientist,Mid_level
+51,    ForeScout,"San Jose, CA",105000.0,Data_Scientist,Mid_level
+52,        Microsoft,"Palo Alto, CA",105000.0,Data_Scientist,Mid_level
+53,    Komodo Health,"San Francisco, CA",105000.0,Data_Scientist,Mid_level
+54,"    Linc Global, Inc.","Sunnyvale, CA",105000.0,Data_Scientist,Mid_level
+55,    Divergent 3D,"Palo Alto, CA",105000.0,Data_Scientist,Mid_level
+56,        Amazon Corporate LLC,"Palo Alto, CA",105000.0,Data_Scientist,Mid_level
+57,    Zymergen,"Emeryville, CA 94608",105000.0,Data_Scientist,Mid_level
+58,        Glassdoor,"Mill Valley, CA 94941",105000.0,Data_Scientist,Mid_level
+59,        Saama Technologies Inc,"Campbell, CA 95008",105000.0,Data_Scientist,Mid_level
+60,"    Apixio, Inc.","San Mateo, CA",105000.0,Data_Scientist,Mid_level
+61,        Okta,"San Francisco, CA",105000.0,Data_Scientist,Mid_level
+62,    Affirm,"San Francisco, CA 94126 (Financial District area)",105000.0,Data_Scientist,Mid_level
+63,        Workbridge Associates,"San Francisco, CA 94103 (South Of Market area)",105000.0,Data_Scientist,Mid_level
+64,        Oracle,"San Francisco, CA 94109 (Nob Hill area)",105000.0,Data_Scientist,Mid_level
+65,        Uber,"San Francisco, CA 94103 (South Of Market area)",105000.0,Data_Scientist,Mid_level
+66,        Google,"Mountain View, CA",105000.0,Data_Scientist,Mid_level
+67,    Third Eye Consulting Services & Solutions LLC.,"San Francisco, CA",105000.0,Data_Scientist,Mid_level
+68,"    Studio Search, LLC","San Francisco, CA",105000.0,Data_Scientist,Mid_level
+69,        Deloitte,"San Francisco, CA",105000.0,Data_Scientist,Mid_level
+70,        A9.com,"Palo Alto, CA",105000.0,Data_Scientist,Mid_level
+71,    Samba TV,"San Francisco, CA",105000.0,Data_Scientist,Mid_level
+72,    thredUP,"San Francisco, CA 94104 (Financial District area)",105000.0,Data_Scientist,Mid_level
+73,        ServiceNow,"Santa Clara, CA",105000.0,Data_Scientist,Mid_level
+74,        ASML,"San Jose, CA 95131 (North Valley area)",105000.0,Data_Scientist,Mid_level
+75,    Arka,"Palo Alto, CA",105000.0,Data_Scientist,Mid_level
+76,    Propeller Health,"San Francisco, CA",105000.0,Data_Scientist,Mid_level
+77,        WePay,"Redwood City, CA",105000.0,Data_Scientist,Mid_level
+78,    Hoodline,"San Francisco, CA",105000.0,Data_Scientist,Mid_level
+79,    TERADEEP INC.,"Campbell, CA",105000.0,Data_Scientist,Mid_level
+80,    Fanatics Inc.,"San Mateo, CA",105000.0,Data_Scientist,Mid_level
+81,        OpenTable,"San Francisco, CA 94103 (South Of Market area)",105000.0,Data_Scientist,Mid_level
+82,        AdRoll,"San Francisco, CA 94103 (South Of Market area)",105000.0,Data_Scientist,Mid_level
+83,"    Studio Search, LLC","San Francisco, CA",105000.0,Data_Scientist,Mid_level
+84,        Apple,"Santa Clara Valley, CA",105000.0,Data_Scientist,Mid_level
+85,        Intel,"Santa Clara, CA 95052",105000.0,Data_Scientist,Mid_level
+86,        Coursera,"Mountain View, CA 94041",105000.0,Data_Scientist,Mid_level
+87,        Huawei,"Santa Clara, CA",105000.0,Data_Scientist,Mid_level
+88,        Teradata,"San Jose, CA",105000.0,Data_Scientist,Mid_level
+89,        Yahoo! Inc.,"Sunnyvale, CA",105000.0,Data_Scientist,Mid_level
+90,        Apple,"Santa Clara Valley, CA",105000.0,Data_Scientist,Mid_level
+91,    Slice Technologies & Unroll.me,"San Mateo, CA",105000.0,Data_Scientist,Mid_level
+92,        Netflix,"Los Gatos, CA",105000.0,Data_Scientist,Mid_level
+93,        Workbridge Associates,"San Francisco, CA",105000.0,Data_Scientist,Mid_level
+94,        Netflix,"Los Gatos, CA",105000.0,Data_Scientist,Mid_level
+95,        Workbridge Associates,"San Francisco, CA 94105 (Financial District area)",105000.0,Data_Scientist,Mid_level
+96,    Elevate Recruiting Group,"Palo Alto, CA",105000.0,Data_Scientist,Mid_level
+97,        NVIDIA,"Santa Clara, CA",105000.0,Data_Scientist,Mid_level
+98,        Eventbrite,"San Francisco, CA 94107 (South Of Market area)",105000.0,Data_Scientist,Mid_level
+99,        Netflix,"Los Gatos, CA",105000.0,Data_Scientist,Mid_level
+100,        Storm8,"Redwood City, CA 94065",105000.0,Data_Scientist,Mid_level
+101,        Yelp,"San Francisco, CA 94103 (South Of Market area)",105000.0,Data_Scientist,Mid_level
+102,        DNV GL,"Oakland, CA",105000.0,Data_Scientist,Mid_level
+103,        Brighterion,"San Francisco, CA 94105",105000.0,Data_Scientist,Mid_level
+104,"    Cogitativo, Inc.","Berkeley, CA 94710",105000.0,Data_Scientist,Mid_level
+0,        Genentech,"South San Francisco, CA",105000.0,Data_Scientist,Senior_level
+1,        Datameer,"San Francisco, CA",105000.0,Data_Scientist,Senior_level
+2,    iSoft Solutions,"San Francisco, CA",105000.0,Data_Scientist,Senior_level
+3,        Hired,"San Francisco, CA",105000.0,Data_Scientist,Senior_level
+4,"    Apixio, Inc.","San Mateo, CA",105000.0,Data_Scientist,Senior_level
+5,        Genentech,"South San Francisco, CA",105000.0,Data_Scientist,Senior_level
+6,        Symantec,"Mountain View, CA",105000.0,Data_Scientist,Senior_level
+7,        GE Careers,"San Ramon, CA 94583",105000.0,Data_Scientist,Senior_level
+8,        GE Careers,"San Ramon, CA 94583",105000.0,Data_Scientist,Senior_level
+9,    MachineZone,"Palo Alto, CA",105000.0,Data_Scientist,Senior_level
+10,    Sigmaways,"Palo Alto, CA",105000.0,Data_Scientist,Senior_level
+11,    Change.org,"San Francisco, CA 94103 (South Of Market area)",105000.0,Data_Scientist,Senior_level
+12,    LeanTaaS,"Santa Clara, CA",105000.0,Data_Scientist,Senior_level
+13,        Fitbit,"San Francisco, CA 94105 (Financial District area)",105000.0,Data_Scientist,Senior_level
+14,        TEKsystems,"San Francisco, CA 94103 (South Of Market area)",105000.0,Data_Scientist,Senior_level
+15,    Gap Inc. Corporate,"San Francisco, CA",105000.0,Data_Scientist,Senior_level
+16,"        Cisco Systems, Inc.","San Jose, CA",105000.0,Data_Scientist,Senior_level
+17,"    InfoVision, Inc.","San Jose, CA",105000.0,Data_Scientist,Senior_level
+18,        Workbridge Associates,"San Francisco, CA 94105 (Financial District area)",105000.0,Data_Scientist,Senior_level
+19,    Bayone Solutions Inc.,"San Francisco, CA",105000.0,Data_Scientist,Senior_level
+20,        eBay,"San Jose, CA",105000.0,Data_Scientist,Senior_level
+21,    Quantifind,"Menlo Park, CA",105000.0,Data_Scientist,Senior_level
+22,        Square,"San Francisco, CA 94103 (South Of Market area)",105000.0,Data_Scientist,Senior_level
+23,        YuMe,"Redwood City, CA 94063",105000.0,Data_Scientist,Senior_level
+24,        Demandbase,"San Francisco, CA",105000.0,Data_Scientist,Senior_level
+25,        Proofpoint,"Sunnyvale, CA 94089",105000.0,Data_Scientist,Senior_level
+26,        Datameer,"San Francisco, CA 94103 (South Of Market area)",105000.0,Data_Scientist,Senior_level
+27,"        Move, Inc.","Santa Clara, CA",105000.0,Data_Scientist,Senior_level
+28,        TrialPay,"Mountain View, CA",105000.0,Data_Scientist,Senior_level
+29,        Samsung Electronics America,"Mountain View, CA",105000.0,Data_Scientist,Senior_level
+30,        Chegg,"San Francisco, CA",105000.0,Data_Scientist,Senior_level
+31,        SAP,"San Francisco, CA",105000.0,Data_Scientist,Senior_level
+32,        Workbridge Associates,"San Francisco, CA",105000.0,Data_Scientist,Senior_level
+33,        Netflix,"Los Gatos, CA",105000.0,Data_Scientist,Senior_level
+34,        Coupang,"Palo Alto, CA",105000.0,Data_Scientist,Senior_level
+35,        Symantec,"Mountain View, CA",105000.0,Data_Scientist,Senior_level
+36,        Adobe,"San Jose, CA",105000.0,Data_Scientist,Senior_level
+37,        Netflix,"Los Gatos, CA",105000.0,Data_Scientist,Senior_level
+38,    BOLD,"San Francisco, CA",105000.0,Data_Scientist,Senior_level
+39,        SanDisk,"Milpitas, CA",105000.0,Data_Scientist,Senior_level
+40,        Ancestry,"San Francisco, CA",105000.0,Data_Scientist,Senior_level
+41,"    Solutionary, Inc.","East Palo Alto, CA",105000.0,Data_Scientist,Senior_level
+42,    Arka,"San Francisco, CA",105000.0,Data_Scientist,Senior_level
+43,    All-In Analytics,"San Francisco, CA",105000.0,Data_Scientist,Senior_level
+44,"    InsideSales.com, Inc.","San Mateo, CA",105000.0,Data_Scientist,Senior_level
+45,        Ten-X,"Belmont, CA",105000.0,Data_Scientist,Senior_level
+46,        Capgemini,"South San Francisco, CA",105000.0,Data_Scientist,Senior_level
+47,        Chegg,"Santa Clara, CA 95054",105000.0,Data_Scientist,Senior_level
+48,        Jobspring Partners,"San Jose, CA 95113 (Downtown area)",105000.0,Data_Scientist,Senior_level
+49,        Netflix,"Los Gatos, CA",105000.0,Data_Scientist,Senior_level
+50,        IMVU,"Redwood City, CA",105000.0,Data_Scientist,Senior_level
+51,        Dropbox,"San Francisco, CA",105000.0,Data_Scientist,Senior_level
+52,        Intuit,"Mountain View, CA 94039",105000.0,Data_Scientist,Senior_level
+53,    Apartment List,"San Francisco, CA",105000.0,Data_Scientist,Senior_level
+54,        Electronic Arts,"Redwood City, CA 94065",105000.0,Data_Scientist,Senior_level
+55,        Accenture,"San Francisco, CA 94105 (Financial District area)",105000.0,Data_Scientist,Senior_level
+56,        Microsoft,"San Francisco, CA",105000.0,Data_Scientist,Senior_level
+57,    EOS DA,"Menlo Park, CA",105000.0,Data_Scientist,Senior_level
+58,"        Cisco Systems, Inc.","San Jose, CA",105000.0,Data_Scientist,Senior_level
+59,    Redfish Technology - High Tech Executive Recruiter...,"San Francisco, CA",105000.0,Data_Scientist,Senior_level
+60,        Datameer,"San Francisco, CA 94103 (South Of Market area)",105000.0,Data_Scientist,Senior_level
+61,        Oracle,"Redwood Shores, CA",105000.0,Data_Scientist,Senior_level
+62,        NTT Security,"Palo Alto, CA 94303 (Duveneck-Saint Francis area)",105000.0,Data_Scientist,Senior_level
+63,        Lyft Corporate,"San Francisco, CA",105000.0,Data_Scientist,Senior_level
+64,    Elevate Recruiting Group,"Palo Alto, CA",105000.0,Data_Scientist,Senior_level
+65,        Accenture,"San Francisco, CA 94105 (Financial District area)",105000.0,Data_Scientist,Senior_level
+66,        GE Careers,"San Ramon, CA 94583",105000.0,Data_Scientist,Senior_level
+67,    StyleSeat,"San Francisco, CA",105000.0,Data_Scientist,Senior_level
+68,"    Quality IT Source, LLC","San Francisco, CA",105000.0,Data_Scientist,Senior_level
+69,        GE Careers,"San Ramon, CA 94583",105000.0,Data_Scientist,Senior_level
+70,        Accenture,"San Francisco, CA 94105 (Financial District area)",105000.0,Data_Scientist,Senior_level
+71,    Zendrive,"San Francisco, CA",105000.0,Data_Scientist,Senior_level
+0,    Predictive Science,United States,115000.0,Data_Scientist,Entry_level
+1,    Zone24x7 Inc,"Milpitas, CA 95035",115000.0,Data_Scientist,Entry_level
+2,        Sandia National Laboratories,"Livermore, CA",115000.0,Data_Scientist,Entry_level
+3,    Clover Health,"San Francisco, CA",115000.0,Data_Scientist,Entry_level
+4,    Affirm,"San Francisco, CA 94126 (Financial District area)",115000.0,Data_Scientist,Entry_level
+5,    LendUp,"San Francisco, CA",115000.0,Data_Scientist,Entry_level
+6,    Farmers Business Network,"San Carlos, CA 94070",115000.0,Data_Scientist,Entry_level
+7,    LendingHome,"San Francisco, CA",115000.0,Data_Scientist,Entry_level
+8,    Corporate Labs Technology,"Brisbane, CA",115000.0,Data_Scientist,Entry_level
+9,        Apple,"Santa Clara Valley, CA",115000.0,Data_Scientist,Entry_level
+10,        Thumbtack,"San Francisco, CA",115000.0,Data_Scientist,Entry_level
+11,        Salesforce,"Palo Alto, CA",115000.0,Data_Scientist,Entry_level
+12,        Walmart eCommerce,"Sunnyvale, CA",115000.0,Data_Scientist,Entry_level
+13,        Apple,"Santa Clara Valley, CA",115000.0,Data_Scientist,Entry_level
+14,        eBay,"San Jose, CA",115000.0,Data_Scientist,Entry_level
+15,    Rally Health,"San Francisco, CA",115000.0,Data_Scientist,Entry_level
+16,    Nistala Technologies Inc.,"San Francisco, CA",115000.0,Data_Scientist,Entry_level
+17,        Workbridge Associates,"San Francisco, CA 94105 (Financial District area)",115000.0,Data_Scientist,Entry_level
+18,    Corporate Labs Technology,"Brisbane, CA",115000.0,Data_Scientist,Entry_level
+19,    iRhythm,"San Francisco, CA",115000.0,Data_Scientist,Entry_level
+20,        Jobspring Partners,"San Jose, CA 95113 (Downtown area)",115000.0,Data_Scientist,Entry_level
+21,    MsgAI,"San Francisco, CA",115000.0,Data_Scientist,Entry_level
+22,    Near,"San Francisco, CA",115000.0,Data_Scientist,Entry_level
+23,        Intel,"Santa Clara, CA 95052",115000.0,Data_Scientist,Entry_level
+24,        Telenav,"Santa Clara, CA",115000.0,Data_Scientist,Entry_level
+25,        Walmart eCommerce,"Sunnyvale, CA",115000.0,Data_Scientist,Entry_level
+26,        Magento,"Campbell, CA",115000.0,Data_Scientist,Entry_level
+27,    Selby Jennings,"San Francisco, CA",115000.0,Data_Scientist,Entry_level
+28,        Walmart eCommerce,"San Bruno, CA 94066",115000.0,Data_Scientist,Entry_level
+29,    3MKLLC,"Sunnyvale, CA",115000.0,Data_Scientist,Entry_level
+30,    Selby Jennings,"San Francisco, CA",115000.0,Data_Scientist,Entry_level
+31,        NVIDIA,"Santa Clara, CA",115000.0,Data_Scientist,Entry_level
+32,    Color Genomics,"Burlingame, CA",115000.0,Data_Scientist,Entry_level
+33,        Walmart eCommerce,"San Bruno, CA 94066",115000.0,Data_Scientist,Entry_level
+34,"    Ruckus Wireless, Inc","Sunnyvale, CA",115000.0,Data_Scientist,Entry_level
+35,    Quora,"Mountain View, CA",115000.0,Data_Scientist,Entry_level
+36,    HomeSuite,"San Francisco, CA",115000.0,Data_Scientist,Entry_level
+37,        Workbridge Associates,"San Francisco, CA",115000.0,Data_Scientist,Entry_level
+38,        GE Careers,"San Ramon, CA 94583",115000.0,Data_Scientist,Entry_level
+39,        drawbridge,"San Mateo, CA 94403 (Sugerloaf area)",115000.0,Data_Scientist,Entry_level
+40,    Payette Group,"Mountain View, CA",115000.0,Data_Scientist,Entry_level
+41,        Workbridge Associates,"San Francisco, CA",115000.0,Data_Scientist,Entry_level
+42,        Uber,"San Francisco, CA 94103 (South Of Market area)",115000.0,Data_Scientist,Entry_level
+43,        Workbridge Associates,"Mountain View, CA",115000.0,Data_Scientist,Entry_level
+44,        Opendoor,"San Francisco, CA",115000.0,Data_Scientist,Entry_level
+45,        Sandia National Laboratories,"Livermore, CA",115000.0,Data_Scientist,Entry_level
+46,        Workbridge Associates,"San Francisco, CA 94105 (Financial District area)",115000.0,Data_Scientist,Entry_level
+47,    Zone24x7 Inc,"Milpitas, CA 95035",115000.0,Data_Scientist,Entry_level
+48,    Spacequant,"San Francisco, CA",115000.0,Data_Scientist,Entry_level
+49,    Aipoly,"San Francisco, CA",115000.0,Data_Scientist,Entry_level
+50,    Elevate Recruiting Group,"Redwood City, CA",115000.0,Data_Scientist,Entry_level
+51,    Elevate Recruiting Group,"San Francisco, CA",115000.0,Data_Scientist,Entry_level
+52,        Sandia National Laboratories,"Livermore, CA",115000.0,Data_Scientist,Entry_level
+53,    Sentient,"San Francisco, CA",115000.0,Data_Scientist,Entry_level
+54,        Harvey Nash USA,"Sunnyvale, CA",115000.0,Data_Scientist,Entry_level
+55,        Sandia National Laboratories,"Livermore, CA",115000.0,Data_Scientist,Entry_level
+56,        Jobspring Partners,"San Jose, CA 95113 (Downtown area)",115000.0,Data_Scientist,Entry_level
+57,    Hoodline,"San Francisco, CA",115000.0,Data_Scientist,Entry_level
+58,    Infer,"Palo Alto, CA",115000.0,Data_Scientist,Entry_level
+59,        Sandia National Laboratories,"Livermore, CA",115000.0,Data_Scientist,Entry_level
+60,        Sandia National Laboratories,"Livermore, CA",115000.0,Data_Scientist,Entry_level
+0,"    Cogitativo, Inc.","Berkeley, CA 94710",115000.0,Data_Scientist,Mid_level
+1,        Zebra Technologies,"San Jose, CA 95134",115000.0,Data_Scientist,Mid_level
+2,"        Pasona N A, Inc.","San Mateo, CA",115000.0,Data_Scientist,Mid_level
+3,        Facebook,"Menlo Park, CA",115000.0,Data_Scientist,Mid_level
+4,        AgilOne,"San Francisco, CA",115000.0,Data_Scientist,Mid_level
+5,        Instacart,"San Francisco, CA",115000.0,Data_Scientist,Mid_level
+6,    Casetext,"San Francisco, CA",115000.0,Data_Scientist,Mid_level
+7,"    Cogitativo, Inc.","Berkeley, CA 94710",115000.0,Data_Scientist,Mid_level
+8,    Tripping.com,"San Francisco, CA",115000.0,Data_Scientist,Mid_level
+9,        Uber,"San Francisco, CA 94103 (South Of Market area)",115000.0,Data_Scientist,Mid_level
+10,    6sense,"San Francisco, CA",115000.0,Data_Scientist,Mid_level
+11,        Mondo,"San Francisco, CA",115000.0,Data_Scientist,Mid_level
+12,        Electronic Arts,"Redwood City, CA 94065",115000.0,Data_Scientist,Mid_level
+13,    FocusKPI Inc.,"Mountain View, CA",115000.0,Data_Scientist,Mid_level
+14,        Tapjoy,"San Francisco, CA 94104 (Financial District area)",115000.0,Data_Scientist,Mid_level
+15,        Gwynnie Bee,"Palo Alto, CA",115000.0,Data_Scientist,Mid_level
+16,        Walmart eCommerce,"Sunnyvale, CA",115000.0,Data_Scientist,Mid_level
+17,    Oscar Technology,"San Mateo, CA",115000.0,Data_Scientist,Mid_level
+18,        Workday,"Pleasanton, CA",115000.0,Data_Scientist,Mid_level
+19,        Walmart eCommerce,"Sunnyvale, CA",115000.0,Data_Scientist,Mid_level
+20,        Workbridge Associates,"San Francisco, CA 94105 (Financial District area)",115000.0,Data_Scientist,Mid_level
+21,        Intuit,"Mountain View, CA 94039",115000.0,Data_Scientist,Mid_level
+22,    Level Education from Northeastern University,"San Jose, CA",115000.0,Data_Scientist,Mid_level
+23,        Salesforce,"San Francisco, CA",115000.0,Data_Scientist,Mid_level
+24,        The Climate Corporation,"San Francisco, CA",115000.0,Data_Scientist,Mid_level
+25,        Supercell,"San Francisco, CA 94104 (Financial District area)",115000.0,Data_Scientist,Mid_level
+26,    Intechriti,"San Jose, CA",115000.0,Data_Scientist,Mid_level
+27,    Veear Projects,"Redwood City, CA",115000.0,Data_Scientist,Mid_level
+28,        Apple,"Santa Clara Valley, CA",115000.0,Data_Scientist,Mid_level
+29,        DNV GL,"Oakland, CA",115000.0,Data_Scientist,Mid_level
+30,        eBay,"San Jose, CA",115000.0,Data_Scientist,Mid_level
+31,        Symantec,"Mountain View, CA",115000.0,Data_Scientist,Mid_level
+32,    LeanTaaS,"Santa Clara, CA",115000.0,Data_Scientist,Mid_level
+33,    PI Benchmark,"Berkeley, CA",115000.0,Data_Scientist,Mid_level
+34,        NVIDIA,"Santa Clara, CA",115000.0,Data_Scientist,Mid_level
+35,        Jobspring Partners,"San Jose, CA 95113 (Downtown area)",115000.0,Data_Scientist,Mid_level
+36,    Xconic,"San Jose, CA 95131 (North Valley area)",115000.0,Data_Scientist,Mid_level
+37,        SocialCode,"San Francisco, CA",115000.0,Data_Scientist,Mid_level
+38,    ForeScout,"San Jose, CA",115000.0,Data_Scientist,Mid_level
+39,        Microsoft,"Palo Alto, CA",115000.0,Data_Scientist,Mid_level
+40,    Komodo Health,"San Francisco, CA",115000.0,Data_Scientist,Mid_level
+41,"    Linc Global, Inc.","Sunnyvale, CA",115000.0,Data_Scientist,Mid_level
+42,    Divergent 3D,"Palo Alto, CA",115000.0,Data_Scientist,Mid_level
+43,        Amazon Corporate LLC,"Palo Alto, CA",115000.0,Data_Scientist,Mid_level
+44,        Glassdoor,"Mill Valley, CA 94941",115000.0,Data_Scientist,Mid_level
+45,        Saama Technologies Inc,"Campbell, CA 95008",115000.0,Data_Scientist,Mid_level
+46,"    Apixio, Inc.","San Mateo, CA",115000.0,Data_Scientist,Mid_level
+47,    Affirm,"San Francisco, CA 94126 (Financial District area)",115000.0,Data_Scientist,Mid_level
+48,        Workbridge Associates,"San Francisco, CA 94103 (South Of Market area)",115000.0,Data_Scientist,Mid_level
+49,        Uber,"San Francisco, CA 94103 (South Of Market area)",115000.0,Data_Scientist,Mid_level
+50,        Deloitte,"San Francisco, CA",115000.0,Data_Scientist,Mid_level
+51,    Samba TV,"San Francisco, CA",115000.0,Data_Scientist,Mid_level
+52,    thredUP,"San Francisco, CA 94104 (Financial District area)",115000.0,Data_Scientist,Mid_level
+53,        ServiceNow,"Santa Clara, CA",115000.0,Data_Scientist,Mid_level
+54,        ASML,"San Jose, CA 95131 (North Valley area)",115000.0,Data_Scientist,Mid_level
+55,    Arka,"Palo Alto, CA",115000.0,Data_Scientist,Mid_level
+56,    Propeller Health,"San Francisco, CA",115000.0,Data_Scientist,Mid_level
+57,        WePay,"Redwood City, CA",115000.0,Data_Scientist,Mid_level
+58,    Hoodline,"San Francisco, CA",115000.0,Data_Scientist,Mid_level
+59,    TERADEEP INC.,"Campbell, CA",115000.0,Data_Scientist,Mid_level
+60,    Fanatics Inc.,"San Mateo, CA",115000.0,Data_Scientist,Mid_level
+61,        OpenTable,"San Francisco, CA 94103 (South Of Market area)",115000.0,Data_Scientist,Mid_level
+62,        AdRoll,"San Francisco, CA 94103 (South Of Market area)",115000.0,Data_Scientist,Mid_level
+63,"    Studio Search, LLC","San Francisco, CA",115000.0,Data_Scientist,Mid_level
+64,        Apple,"Santa Clara Valley, CA",115000.0,Data_Scientist,Mid_level
+65,        Intel,"Santa Clara, CA 95052",115000.0,Data_Scientist,Mid_level
+66,        Huawei,"Santa Clara, CA",115000.0,Data_Scientist,Mid_level
+67,        Teradata,"San Jose, CA",115000.0,Data_Scientist,Mid_level
+68,        Yahoo! Inc.,"Sunnyvale, CA",115000.0,Data_Scientist,Mid_level
+69,    Slice Technologies & Unroll.me,"San Mateo, CA",115000.0,Data_Scientist,Mid_level
+70,        Netflix,"Los Gatos, CA",115000.0,Data_Scientist,Mid_level
+71,        Workbridge Associates,"San Francisco, CA",115000.0,Data_Scientist,Mid_level
+72,        Netflix,"Los Gatos, CA",115000.0,Data_Scientist,Mid_level
+73,        Workbridge Associates,"San Francisco, CA 94105 (Financial District area)",115000.0,Data_Scientist,Mid_level
+74,    Elevate Recruiting Group,"Palo Alto, CA",115000.0,Data_Scientist,Mid_level
+75,        NVIDIA,"Santa Clara, CA",115000.0,Data_Scientist,Mid_level
+76,        Eventbrite,"San Francisco, CA 94107 (South Of Market area)",115000.0,Data_Scientist,Mid_level
+77,        Netflix,"Los Gatos, CA",115000.0,Data_Scientist,Mid_level
+78,        Storm8,"Redwood City, CA 94065",115000.0,Data_Scientist,Mid_level
+79,        DNV GL,"Oakland, CA",115000.0,Data_Scientist,Mid_level
+80,        Roche,"Santa Clara, CA",115000.0,Data_Scientist,Mid_level
+81,        The Nielsen Company,"San Francisco, CA",115000.0,Data_Scientist,Mid_level
+82,        Microsoft,"San Francisco, CA",115000.0,Data_Scientist,Mid_level
+83,        Capital One,"San Francisco, CA",115000.0,Data_Scientist,Mid_level
+84,        Kaiser Permanente,"Oakland, CA",115000.0,Data_Scientist,Mid_level
+85,        FICO,"San Jose, CA 95110 (Downtown area)",115000.0,Data_Scientist,Mid_level
+86,        Apple,"Santa Clara, CA",115000.0,Data_Scientist,Mid_level
+87,    BuildZoom,"San Francisco, CA",115000.0,Data_Scientist,Mid_level
+88,        ZestFinance,"San Francisco, CA",115000.0,Data_Scientist,Mid_level
+89,        Coupang,"Palo Alto, CA",115000.0,Data_Scientist,Mid_level
+90,        Fitbit,"San Francisco, CA 94105 (Financial District area)",115000.0,Data_Scientist,Mid_level
+91,        Bayside Solutions,"San Francisco, CA",115000.0,Data_Scientist,Mid_level
+92,    Payette Group,"San Francisco, CA",115000.0,Data_Scientist,Mid_level
+93,    Space-Time Insight,"San Mateo, CA",115000.0,Data_Scientist,Mid_level
+94,        Capital Markets Placement,"San Francisco, CA 94102 (Downtown area)",115000.0,Data_Scientist,Mid_level
+95,        Deloitte,"San Francisco, CA",115000.0,Data_Scientist,Mid_level
+96,        Workbridge Associates,"San Francisco, CA",115000.0,Data_Scientist,Mid_level
+97,        Dropbox,"San Francisco, CA",115000.0,Data_Scientist,Mid_level
+98,        Netflix,"Los Gatos, CA",115000.0,Data_Scientist,Mid_level
+99,        Netflix,"Los Gatos, CA",115000.0,Data_Scientist,Mid_level
+100,"        Cisco Systems, Inc.","San Jose, CA",115000.0,Data_Scientist,Mid_level
+101,    GE Digital Predix,"San Ramon, CA",115000.0,Data_Scientist,Mid_level
+102,        drawbridge,"San Mateo, CA 94403 (Sugerloaf area)",115000.0,Data_Scientist,Mid_level
+103,    Level Education from Northeastern University,"San Jose, CA",115000.0,Data_Scientist,Mid_level
+104,        Deloitte,"San Francisco, CA",115000.0,Data_Scientist,Mid_level
+0,        Datameer,"San Francisco, CA",115000.0,Data_Scientist,Senior_level
+1,    iSoft Solutions,"San Francisco, CA",115000.0,Data_Scientist,Senior_level
+2,        Hired,"San Francisco, CA",115000.0,Data_Scientist,Senior_level
+3,"    Apixio, Inc.","San Mateo, CA",115000.0,Data_Scientist,Senior_level
+4,        Symantec,"Mountain View, CA",115000.0,Data_Scientist,Senior_level
+5,        GE Careers,"San Ramon, CA 94583",115000.0,Data_Scientist,Senior_level
+6,        GE Careers,"San Ramon, CA 94583",115000.0,Data_Scientist,Senior_level
+7,    MachineZone,"Palo Alto, CA",115000.0,Data_Scientist,Senior_level
+8,    Sigmaways,"Palo Alto, CA",115000.0,Data_Scientist,Senior_level
+9,        Fitbit,"San Francisco, CA 94105 (Financial District area)",115000.0,Data_Scientist,Senior_level
+10,    Change.org,"San Francisco, CA 94103 (South Of Market area)",115000.0,Data_Scientist,Senior_level
+11,    LeanTaaS,"Santa Clara, CA",115000.0,Data_Scientist,Senior_level
+12,        TEKsystems,"San Francisco, CA 94103 (South Of Market area)",115000.0,Data_Scientist,Senior_level
+13,    Gap Inc. Corporate,"San Francisco, CA",115000.0,Data_Scientist,Senior_level
+14,"        Cisco Systems, Inc.","San Jose, CA",115000.0,Data_Scientist,Senior_level
+15,        Workbridge Associates,"San Francisco, CA 94105 (Financial District area)",115000.0,Data_Scientist,Senior_level
+16,    Bayone Solutions Inc.,"San Francisco, CA",115000.0,Data_Scientist,Senior_level
+17,"    InfoVision, Inc.","San Jose, CA",115000.0,Data_Scientist,Senior_level
+18,    Quantifind,"Menlo Park, CA",115000.0,Data_Scientist,Senior_level
+19,        eBay,"San Jose, CA",115000.0,Data_Scientist,Senior_level
+20,        Square,"San Francisco, CA 94103 (South Of Market area)",115000.0,Data_Scientist,Senior_level
+21,        Proofpoint,"Sunnyvale, CA 94089",115000.0,Data_Scientist,Senior_level
+22,        Demandbase,"San Francisco, CA",115000.0,Data_Scientist,Senior_level
+23,"        Move, Inc.","Santa Clara, CA",115000.0,Data_Scientist,Senior_level
+24,        TrialPay,"Mountain View, CA",115000.0,Data_Scientist,Senior_level
+25,        Datameer,"San Francisco, CA 94103 (South Of Market area)",115000.0,Data_Scientist,Senior_level
+26,        Workbridge Associates,"San Francisco, CA",115000.0,Data_Scientist,Senior_level
+27,        Chegg,"San Francisco, CA",115000.0,Data_Scientist,Senior_level
+28,        Coupang,"Palo Alto, CA",115000.0,Data_Scientist,Senior_level
+29,        Netflix,"Los Gatos, CA",115000.0,Data_Scientist,Senior_level
+30,        Adobe,"San Jose, CA",115000.0,Data_Scientist,Senior_level
+31,        Symantec,"Mountain View, CA",115000.0,Data_Scientist,Senior_level
+32,        Netflix,"Los Gatos, CA",115000.0,Data_Scientist,Senior_level
+33,        SanDisk,"Milpitas, CA",115000.0,Data_Scientist,Senior_level
+34,    BOLD,"San Francisco, CA",115000.0,Data_Scientist,Senior_level
+35,        Samsung Electronics America,"Mountain View, CA",115000.0,Data_Scientist,Senior_level
+36,    All-In Analytics,"San Francisco, CA",115000.0,Data_Scientist,Senior_level
+37,"    InsideSales.com, Inc.","San Mateo, CA",115000.0,Data_Scientist,Senior_level
+38,        Ten-X,"Belmont, CA",115000.0,Data_Scientist,Senior_level
+39,        Ancestry,"San Francisco, CA",115000.0,Data_Scientist,Senior_level
+40,    Arka,"San Francisco, CA",115000.0,Data_Scientist,Senior_level
+41,        Chegg,"Santa Clara, CA 95054",115000.0,Data_Scientist,Senior_level
+42,        Jobspring Partners,"San Jose, CA 95113 (Downtown area)",115000.0,Data_Scientist,Senior_level
+43,        Netflix,"Los Gatos, CA",115000.0,Data_Scientist,Senior_level
+44,        Capgemini,"South San Francisco, CA",115000.0,Data_Scientist,Senior_level
+45,"        Cisco Systems, Inc.","San Jose, CA",115000.0,Data_Scientist,Senior_level
+46,        Dropbox,"San Francisco, CA",115000.0,Data_Scientist,Senior_level
+47,        Intuit,"Mountain View, CA 94039",115000.0,Data_Scientist,Senior_level
+48,        Electronic Arts,"Redwood City, CA 94065",115000.0,Data_Scientist,Senior_level
+49,    Apartment List,"San Francisco, CA",115000.0,Data_Scientist,Senior_level
+50,    EOS DA,"Menlo Park, CA",115000.0,Data_Scientist,Senior_level
+51,        Accenture,"San Francisco, CA 94105 (Financial District area)",115000.0,Data_Scientist,Senior_level
+52,    Redfish Technology - High Tech Executive Recruiter...,"San Francisco, CA",115000.0,Data_Scientist,Senior_level
+53,        NTT Security,"Palo Alto, CA 94303 (Duveneck-Saint Francis area)",115000.0,Data_Scientist,Senior_level
+54,        Lyft Corporate,"San Francisco, CA",115000.0,Data_Scientist,Senior_level
+55,        Datameer,"San Francisco, CA 94103 (South Of Market area)",115000.0,Data_Scientist,Senior_level
+56,        Accenture,"San Francisco, CA 94105 (Financial District area)",115000.0,Data_Scientist,Senior_level
+57,        GE Careers,"San Ramon, CA 94583",115000.0,Data_Scientist,Senior_level
+58,    StyleSeat,"San Francisco, CA",115000.0,Data_Scientist,Senior_level
+59,"    Quality IT Source, LLC","San Francisco, CA",115000.0,Data_Scientist,Senior_level
+60,        GE Careers,"San Ramon, CA 94583",115000.0,Data_Scientist,Senior_level
+61,        Accenture,"San Francisco, CA 94105 (Financial District area)",115000.0,Data_Scientist,Senior_level
+0,        Sandia National Laboratories,"Livermore, CA",125000.0,Data_Scientist,Entry_level
+1,    Zone24x7 Inc,"Milpitas, CA 95035",125000.0,Data_Scientist,Entry_level
+2,        Sandia National Laboratories,"Livermore, CA",125000.0,Data_Scientist,Entry_level
+3,    Clover Health,"San Francisco, CA",125000.0,Data_Scientist,Entry_level
+4,    Affirm,"San Francisco, CA 94126 (Financial District area)",125000.0,Data_Scientist,Entry_level
+5,    LendUp,"San Francisco, CA",125000.0,Data_Scientist,Entry_level
+6,    Farmers Business Network,"San Carlos, CA 94070",125000.0,Data_Scientist,Entry_level
+7,    LendingHome,"San Francisco, CA",125000.0,Data_Scientist,Entry_level
+8,    Corporate Labs Technology,"Brisbane, CA",125000.0,Data_Scientist,Entry_level
+9,        Thumbtack,"San Francisco, CA",125000.0,Data_Scientist,Entry_level
+10,        Salesforce,"Palo Alto, CA",125000.0,Data_Scientist,Entry_level
+11,        Walmart eCommerce,"Sunnyvale, CA",125000.0,Data_Scientist,Entry_level
+12,        Apple,"Santa Clara Valley, CA",125000.0,Data_Scientist,Entry_level
+13,        eBay,"San Jose, CA",125000.0,Data_Scientist,Entry_level
+14,        Workbridge Associates,"San Francisco, CA 94105 (Financial District area)",125000.0,Data_Scientist,Entry_level
+15,    Corporate Labs Technology,"Brisbane, CA",125000.0,Data_Scientist,Entry_level
+16,    iRhythm,"San Francisco, CA",125000.0,Data_Scientist,Entry_level
+17,        Jobspring Partners,"San Jose, CA 95113 (Downtown area)",125000.0,Data_Scientist,Entry_level
+18,    MsgAI,"San Francisco, CA",125000.0,Data_Scientist,Entry_level
+19,    Near,"San Francisco, CA",125000.0,Data_Scientist,Entry_level
+20,        Walmart eCommerce,"Sunnyvale, CA",125000.0,Data_Scientist,Entry_level
+21,        Magento,"Campbell, CA",125000.0,Data_Scientist,Entry_level
+22,    Selby Jennings,"San Francisco, CA",125000.0,Data_Scientist,Entry_level
+23,        Walmart eCommerce,"San Bruno, CA 94066",125000.0,Data_Scientist,Entry_level
+24,    Selby Jennings,"San Francisco, CA",125000.0,Data_Scientist,Entry_level
+25,        NVIDIA,"Santa Clara, CA",125000.0,Data_Scientist,Entry_level
+26,    Color Genomics,"Burlingame, CA",125000.0,Data_Scientist,Entry_level
+27,        Walmart eCommerce,"San Bruno, CA 94066",125000.0,Data_Scientist,Entry_level
+28,    HomeSuite,"San Francisco, CA",125000.0,Data_Scientist,Entry_level
+29,        Workbridge Associates,"San Francisco, CA",125000.0,Data_Scientist,Entry_level
+30,        GE Careers,"San Ramon, CA 94583",125000.0,Data_Scientist,Entry_level
+31,        drawbridge,"San Mateo, CA 94403 (Sugerloaf area)",125000.0,Data_Scientist,Entry_level
+32,        Workbridge Associates,"San Francisco, CA",125000.0,Data_Scientist,Entry_level
+33,        Workbridge Associates,"Mountain View, CA",125000.0,Data_Scientist,Entry_level
+34,        Sandia National Laboratories,"Livermore, CA",125000.0,Data_Scientist,Entry_level
+35,        Workbridge Associates,"San Francisco, CA 94105 (Financial District area)",125000.0,Data_Scientist,Entry_level
+36,    Zone24x7 Inc,"Milpitas, CA 95035",125000.0,Data_Scientist,Entry_level
+37,    Aipoly,"San Francisco, CA",125000.0,Data_Scientist,Entry_level
+38,    Elevate Recruiting Group,"Redwood City, CA",125000.0,Data_Scientist,Entry_level
+39,    Elevate Recruiting Group,"San Francisco, CA",125000.0,Data_Scientist,Entry_level
+40,        Sandia National Laboratories,"Livermore, CA",125000.0,Data_Scientist,Entry_level
+41,        Harvey Nash USA,"Sunnyvale, CA",125000.0,Data_Scientist,Entry_level
+42,        Sandia National Laboratories,"Livermore, CA",125000.0,Data_Scientist,Entry_level
+43,        Jobspring Partners,"San Jose, CA 95113 (Downtown area)",125000.0,Data_Scientist,Entry_level
+44,        Sandia National Laboratories,"Livermore, CA",125000.0,Data_Scientist,Entry_level
+0,"    Cogitativo, Inc.","Berkeley, CA 94710",125000.0,Data_Scientist,Mid_level
+1,    Level Education from Northeastern University,"San Jose, CA",125000.0,Data_Scientist,Mid_level
+2,    Zone24x7 Inc,"Milpitas, CA 95035",125000.0,Data_Scientist,Mid_level
+3,    Casetext,"San Francisco, CA",125000.0,Data_Scientist,Mid_level
+4,"    Cogitativo, Inc.","Berkeley, CA 94710",125000.0,Data_Scientist,Mid_level
+5,        Mondo,"San Francisco, CA",125000.0,Data_Scientist,Mid_level
+6,        Tapjoy,"San Francisco, CA 94104 (Financial District area)",125000.0,Data_Scientist,Mid_level
+7,    Oscar Technology,"San Mateo, CA",125000.0,Data_Scientist,Mid_level
+8,        Gwynnie Bee,"Palo Alto, CA",125000.0,Data_Scientist,Mid_level
+9,        Walmart eCommerce,"Sunnyvale, CA",125000.0,Data_Scientist,Mid_level
+10,        Walmart eCommerce,"Sunnyvale, CA",125000.0,Data_Scientist,Mid_level
+11,        Intuit,"Mountain View, CA 94039",125000.0,Data_Scientist,Mid_level
+12,    Intechriti,"San Jose, CA",125000.0,Data_Scientist,Mid_level
+13,        Workbridge Associates,"San Francisco, CA 94105 (Financial District area)",125000.0,Data_Scientist,Mid_level
+14,        The Climate Corporation,"San Francisco, CA",125000.0,Data_Scientist,Mid_level
+15,        Supercell,"San Francisco, CA 94104 (Financial District area)",125000.0,Data_Scientist,Mid_level
+16,        Salesforce,"San Francisco, CA",125000.0,Data_Scientist,Mid_level
+17,    Veear Projects,"Redwood City, CA",125000.0,Data_Scientist,Mid_level
+18,    Level Education from Northeastern University,"San Jose, CA",125000.0,Data_Scientist,Mid_level
+19,        DNV GL,"Oakland, CA",125000.0,Data_Scientist,Mid_level
+20,        Apple,"Santa Clara Valley, CA",125000.0,Data_Scientist,Mid_level
+21,        eBay,"San Jose, CA",125000.0,Data_Scientist,Mid_level
+22,        Jobspring Partners,"San Jose, CA 95113 (Downtown area)",125000.0,Data_Scientist,Mid_level
+23,        NVIDIA,"Santa Clara, CA",125000.0,Data_Scientist,Mid_level
+24,    Xconic,"San Jose, CA 95131 (North Valley area)",125000.0,Data_Scientist,Mid_level
+25,    ForeScout,"San Jose, CA",125000.0,Data_Scientist,Mid_level
+26,    Komodo Health,"San Francisco, CA",125000.0,Data_Scientist,Mid_level
+27,        Glassdoor,"Mill Valley, CA 94941",125000.0,Data_Scientist,Mid_level
+28,        Saama Technologies Inc,"Campbell, CA 95008",125000.0,Data_Scientist,Mid_level
+29,        Microsoft,"Palo Alto, CA",125000.0,Data_Scientist,Mid_level
+30,        Workbridge Associates,"San Francisco, CA 94103 (South Of Market area)",125000.0,Data_Scientist,Mid_level
+31,        SocialCode,"San Francisco, CA",125000.0,Data_Scientist,Mid_level
+32,        Uber,"San Francisco, CA 94103 (South Of Market area)",125000.0,Data_Scientist,Mid_level
+33,    Affirm,"San Francisco, CA 94126 (Financial District area)",125000.0,Data_Scientist,Mid_level
+34,        ServiceNow,"Santa Clara, CA",125000.0,Data_Scientist,Mid_level
+35,    Samba TV,"San Francisco, CA",125000.0,Data_Scientist,Mid_level
+36,    Propeller Health,"San Francisco, CA",125000.0,Data_Scientist,Mid_level
+37,    TERADEEP INC.,"Campbell, CA",125000.0,Data_Scientist,Mid_level
+38,        WePay,"Redwood City, CA",125000.0,Data_Scientist,Mid_level
+39,        ASML,"San Jose, CA 95131 (North Valley area)",125000.0,Data_Scientist,Mid_level
+40,    Fanatics Inc.,"San Mateo, CA",125000.0,Data_Scientist,Mid_level
+41,    thredUP,"San Francisco, CA 94104 (Financial District area)",125000.0,Data_Scientist,Mid_level
+42,        Deloitte,"San Francisco, CA",125000.0,Data_Scientist,Mid_level
+43,        Apple,"Santa Clara Valley, CA",125000.0,Data_Scientist,Mid_level
+44,"    Studio Search, LLC","San Francisco, CA",125000.0,Data_Scientist,Mid_level
+45,    Arka,"Palo Alto, CA",125000.0,Data_Scientist,Mid_level
+46,        Huawei,"Santa Clara, CA",125000.0,Data_Scientist,Mid_level
+47,        AdRoll,"San Francisco, CA 94103 (South Of Market area)",125000.0,Data_Scientist,Mid_level
+48,        Teradata,"San Jose, CA",125000.0,Data_Scientist,Mid_level
+49,    Elevate Recruiting Group,"Palo Alto, CA",125000.0,Data_Scientist,Mid_level
+50,        Workbridge Associates,"San Francisco, CA",125000.0,Data_Scientist,Mid_level
+51,        NVIDIA,"Santa Clara, CA",125000.0,Data_Scientist,Mid_level
+52,    Slice Technologies & Unroll.me,"San Mateo, CA",125000.0,Data_Scientist,Mid_level
+53,        Workbridge Associates,"San Francisco, CA 94105 (Financial District area)",125000.0,Data_Scientist,Mid_level
+54,        Netflix,"Los Gatos, CA",125000.0,Data_Scientist,Mid_level
+55,        Netflix,"Los Gatos, CA",125000.0,Data_Scientist,Mid_level
+56,        Storm8,"Redwood City, CA 94065",125000.0,Data_Scientist,Mid_level
+57,        Netflix,"Los Gatos, CA",125000.0,Data_Scientist,Mid_level
+58,        DNV GL,"Oakland, CA",125000.0,Data_Scientist,Mid_level
+59,        Microsoft,"San Francisco, CA",125000.0,Data_Scientist,Mid_level
+60,        The Nielsen Company,"San Francisco, CA",125000.0,Data_Scientist,Mid_level
+61,        Capital One,"San Francisco, CA",125000.0,Data_Scientist,Mid_level
+62,        Fitbit,"San Francisco, CA 94105 (Financial District area)",125000.0,Data_Scientist,Mid_level
+63,    BuildZoom,"San Francisco, CA",125000.0,Data_Scientist,Mid_level
+64,        ZestFinance,"San Francisco, CA",125000.0,Data_Scientist,Mid_level
+65,    Space-Time Insight,"San Mateo, CA",125000.0,Data_Scientist,Mid_level
+66,        Apple,"Santa Clara, CA",125000.0,Data_Scientist,Mid_level
+67,        Workbridge Associates,"San Francisco, CA",125000.0,Data_Scientist,Mid_level
+68,"        Cisco Systems, Inc.","San Jose, CA",125000.0,Data_Scientist,Mid_level
+69,        Netflix,"Los Gatos, CA",125000.0,Data_Scientist,Mid_level
+70,    GE Digital Predix,"San Ramon, CA",125000.0,Data_Scientist,Mid_level
+71,        Deloitte,"San Francisco, CA",125000.0,Data_Scientist,Mid_level
+72,        Netflix,"Los Gatos, CA",125000.0,Data_Scientist,Mid_level
+73,        Dropbox,"San Francisco, CA",125000.0,Data_Scientist,Mid_level
+74,    LendUp,"San Francisco, CA",125000.0,Data_Scientist,Mid_level
+75,    Thomson Reuters U.S. Inc.,"San Francisco, CA",125000.0,Data_Scientist,Mid_level
+76,    Zone24x7 Inc,"Milpitas, CA 95035",125000.0,Data_Scientist,Mid_level
+77,    Payette Group,"Redwood City, CA",125000.0,Data_Scientist,Mid_level
+78,    Millennium Search LLC,"Redwood City, CA",125000.0,Data_Scientist,Mid_level
+79,        Workbridge Associates,"San Francisco, CA",125000.0,Data_Scientist,Mid_level
+80,    Sony Interactive Entertainment PlayStation,"San Mateo, CA",125000.0,Data_Scientist,Mid_level
+81,        Capgemini,"South San Francisco, CA",125000.0,Data_Scientist,Mid_level
+82,    Reddit,"San Francisco, CA",125000.0,Data_Scientist,Mid_level
+83,    Intellipro Group Inc.,"Santa Clara, CA",125000.0,Data_Scientist,Mid_level
+84,        Walmart eCommerce,"Sunnyvale, CA",125000.0,Data_Scientist,Mid_level
+85,        Intuit,"Mountain View, CA 94039",125000.0,Data_Scientist,Mid_level
+86,    Domino Data Lab,"San Francisco, CA",125000.0,Data_Scientist,Mid_level
+87,        Jobspring Partners,"San Jose, CA 95113 (Downtown area)",125000.0,Data_Scientist,Mid_level
+88,    Payette Group,"Palo Alto, CA",125000.0,Data_Scientist,Mid_level
+89,        Uber,"Palo Alto, CA 94304",125000.0,Data_Scientist,Mid_level
+90,        A9.com,"Palo Alto, CA",125000.0,Data_Scientist,Mid_level
+91,        Deloitte,"San Francisco, CA",125000.0,Data_Scientist,Mid_level
+92,        Deloitte,"San Francisco, CA",125000.0,Data_Scientist,Mid_level
+0,        Datameer,"San Francisco, CA",125000.0,Data_Scientist,Senior_level
+1,        Hired,"San Francisco, CA",125000.0,Data_Scientist,Senior_level
+2,"    Apixio, Inc.","San Mateo, CA",125000.0,Data_Scientist,Senior_level
+3,        Symantec,"Mountain View, CA",125000.0,Data_Scientist,Senior_level
+4,        GE Careers,"San Ramon, CA 94583",125000.0,Data_Scientist,Senior_level
+5,        GE Careers,"San Ramon, CA 94583",125000.0,Data_Scientist,Senior_level
+6,    Sigmaways,"Palo Alto, CA",125000.0,Data_Scientist,Senior_level
+7,    Change.org,"San Francisco, CA 94103 (South Of Market area)",125000.0,Data_Scientist,Senior_level
+8,    LeanTaaS,"Santa Clara, CA",125000.0,Data_Scientist,Senior_level
+9,        TEKsystems,"San Francisco, CA 94103 (South Of Market area)",125000.0,Data_Scientist,Senior_level
+10,    Gap Inc. Corporate,"San Francisco, CA",125000.0,Data_Scientist,Senior_level
+11,"        Cisco Systems, Inc.","San Jose, CA",125000.0,Data_Scientist,Senior_level
+12,"    InfoVision, Inc.","San Jose, CA",125000.0,Data_Scientist,Senior_level
+13,        Workbridge Associates,"San Francisco, CA 94105 (Financial District area)",125000.0,Data_Scientist,Senior_level
+14,    Bayone Solutions Inc.,"San Francisco, CA",125000.0,Data_Scientist,Senior_level
+15,        eBay,"San Jose, CA",125000.0,Data_Scientist,Senior_level
+16,        Square,"San Francisco, CA 94103 (South Of Market area)",125000.0,Data_Scientist,Senior_level
+17,        Demandbase,"San Francisco, CA",125000.0,Data_Scientist,Senior_level
+18,        Proofpoint,"Sunnyvale, CA 94089",125000.0,Data_Scientist,Senior_level
+19,        Datameer,"San Francisco, CA 94103 (South Of Market area)",125000.0,Data_Scientist,Senior_level
+20,        TrialPay,"Mountain View, CA",125000.0,Data_Scientist,Senior_level
+21,        Chegg,"San Francisco, CA",125000.0,Data_Scientist,Senior_level
+22,        Workbridge Associates,"San Francisco, CA",125000.0,Data_Scientist,Senior_level
+23,        Netflix,"Los Gatos, CA",125000.0,Data_Scientist,Senior_level
+24,        Symantec,"Mountain View, CA",125000.0,Data_Scientist,Senior_level
+25,        Adobe,"San Jose, CA",125000.0,Data_Scientist,Senior_level
+26,        Netflix,"Los Gatos, CA",125000.0,Data_Scientist,Senior_level
+27,    BOLD,"San Francisco, CA",125000.0,Data_Scientist,Senior_level
+28,        SanDisk,"Milpitas, CA",125000.0,Data_Scientist,Senior_level
+29,        Ancestry,"San Francisco, CA",125000.0,Data_Scientist,Senior_level
+30,    Arka,"San Francisco, CA",125000.0,Data_Scientist,Senior_level
+31,    All-In Analytics,"San Francisco, CA",125000.0,Data_Scientist,Senior_level
+32,"    InsideSales.com, Inc.","San Mateo, CA",125000.0,Data_Scientist,Senior_level
+33,        Capgemini,"South San Francisco, CA",125000.0,Data_Scientist,Senior_level
+34,        Chegg,"Santa Clara, CA 95054",125000.0,Data_Scientist,Senior_level
+35,        Jobspring Partners,"San Jose, CA 95113 (Downtown area)",125000.0,Data_Scientist,Senior_level
+36,        Netflix,"Los Gatos, CA",125000.0,Data_Scientist,Senior_level
+37,        Dropbox,"San Francisco, CA",125000.0,Data_Scientist,Senior_level
+38,        Intuit,"Mountain View, CA 94039",125000.0,Data_Scientist,Senior_level
+39,        Accenture,"San Francisco, CA 94105 (Financial District area)",125000.0,Data_Scientist,Senior_level
+40,    EOS DA,"Menlo Park, CA",125000.0,Data_Scientist,Senior_level
+41,"        Cisco Systems, Inc.","San Jose, CA",125000.0,Data_Scientist,Senior_level
+42,    Redfish Technology - High Tech Executive Recruiter...,"San Francisco, CA",125000.0,Data_Scientist,Senior_level
+43,        Datameer,"San Francisco, CA 94103 (South Of Market area)",125000.0,Data_Scientist,Senior_level
+44,        Accenture,"San Francisco, CA 94105 (Financial District area)",125000.0,Data_Scientist,Senior_level
+45,        GE Careers,"San Ramon, CA 94583",125000.0,Data_Scientist,Senior_level
+46,    StyleSeat,"San Francisco, CA",125000.0,Data_Scientist,Senior_level
+47,        GE Careers,"San Ramon, CA 94583",125000.0,Data_Scientist,Senior_level
+48,        Accenture,"San Francisco, CA 94105 (Financial District area)",125000.0,Data_Scientist,Senior_level
+0,    Zone24x7 Inc,"Milpitas, CA 95035",140000.0,Data_Scientist,Entry_level
+1,    Affirm,"San Francisco, CA 94126 (Financial District area)",140000.0,Data_Scientist,Entry_level
+2,    Corporate Labs Technology,"Brisbane, CA",140000.0,Data_Scientist,Entry_level
+3,        Walmart eCommerce,"Sunnyvale, CA",140000.0,Data_Scientist,Entry_level
+4,        eBay,"San Jose, CA",140000.0,Data_Scientist,Entry_level
+5,        Workbridge Associates,"San Francisco, CA 94105 (Financial District area)",140000.0,Data_Scientist,Entry_level
+6,    Corporate Labs Technology,"Brisbane, CA",140000.0,Data_Scientist,Entry_level
+7,        Jobspring Partners,"San Jose, CA 95113 (Downtown area)",140000.0,Data_Scientist,Entry_level
+8,    MsgAI,"San Francisco, CA",140000.0,Data_Scientist,Entry_level
+9,    Selby Jennings,"San Francisco, CA",140000.0,Data_Scientist,Entry_level
+10,        Walmart eCommerce,"San Bruno, CA 94066",140000.0,Data_Scientist,Entry_level
+11,    Selby Jennings,"San Francisco, CA",140000.0,Data_Scientist,Entry_level
+12,        NVIDIA,"Santa Clara, CA",140000.0,Data_Scientist,Entry_level
+13,        Walmart eCommerce,"San Bruno, CA 94066",140000.0,Data_Scientist,Entry_level
+14,    HomeSuite,"San Francisco, CA",140000.0,Data_Scientist,Entry_level
+15,        Workbridge Associates,"San Francisco, CA",140000.0,Data_Scientist,Entry_level
+16,        Workbridge Associates,"San Francisco, CA",140000.0,Data_Scientist,Entry_level
+17,        Workbridge Associates,"Mountain View, CA",140000.0,Data_Scientist,Entry_level
+18,        Workbridge Associates,"San Francisco, CA 94105 (Financial District area)",140000.0,Data_Scientist,Entry_level
+19,    Zone24x7 Inc,"Milpitas, CA 95035",140000.0,Data_Scientist,Entry_level
+20,    Elevate Recruiting Group,"Redwood City, CA",140000.0,Data_Scientist,Entry_level
+21,        Jobspring Partners,"San Jose, CA 95113 (Downtown area)",140000.0,Data_Scientist,Entry_level
+0,    Zone24x7 Inc,"Milpitas, CA 95035",140000.0,Data_Scientist,Mid_level
+1,        Tapjoy,"San Francisco, CA 94104 (Financial District area)",140000.0,Data_Scientist,Mid_level
+2,    Oscar Technology,"San Mateo, CA",140000.0,Data_Scientist,Mid_level
+3,        Walmart eCommerce,"Sunnyvale, CA",140000.0,Data_Scientist,Mid_level
+4,        Intuit,"Mountain View, CA 94039",140000.0,Data_Scientist,Mid_level
+5,    Intechriti,"San Jose, CA",140000.0,Data_Scientist,Mid_level
+6,        Workbridge Associates,"San Francisco, CA 94105 (Financial District area)",140000.0,Data_Scientist,Mid_level
+7,        Apple,"Santa Clara Valley, CA",140000.0,Data_Scientist,Mid_level
+8,        eBay,"San Jose, CA",140000.0,Data_Scientist,Mid_level
+9,        Jobspring Partners,"San Jose, CA 95113 (Downtown area)",140000.0,Data_Scientist,Mid_level
+10,        NVIDIA,"Santa Clara, CA",140000.0,Data_Scientist,Mid_level
+11,        Workbridge Associates,"San Francisco, CA 94103 (South Of Market area)",140000.0,Data_Scientist,Mid_level
+12,        SocialCode,"San Francisco, CA",140000.0,Data_Scientist,Mid_level
+13,    Propeller Health,"San Francisco, CA",140000.0,Data_Scientist,Mid_level
+14,    TERADEEP INC.,"Campbell, CA",140000.0,Data_Scientist,Mid_level
+15,    thredUP,"San Francisco, CA 94104 (Financial District area)",140000.0,Data_Scientist,Mid_level
+16,        Walmart eCommerce,"San Bruno, CA 94066",140000.0,Data_Scientist,Mid_level
+17,        Workbridge Associates,"San Francisco, CA 94105 (Financial District area)",140000.0,Data_Scientist,Mid_level
+18,        Netflix,"Los Gatos, CA",140000.0,Data_Scientist,Mid_level
+19,        Netflix,"Los Gatos, CA",140000.0,Data_Scientist,Mid_level
+20,        Storm8,"Redwood City, CA 94065",140000.0,Data_Scientist,Mid_level
+21,        Netflix,"Los Gatos, CA",140000.0,Data_Scientist,Mid_level
+22,    BuildZoom,"San Francisco, CA",140000.0,Data_Scientist,Mid_level
+23,        Workbridge Associates,"San Francisco, CA",140000.0,Data_Scientist,Mid_level
+24,"        Cisco Systems, Inc.","San Jose, CA",140000.0,Data_Scientist,Mid_level
+25,        Netflix,"Los Gatos, CA",140000.0,Data_Scientist,Mid_level
+26,        Netflix,"Los Gatos, CA",140000.0,Data_Scientist,Mid_level
+27,        Dropbox,"San Francisco, CA",140000.0,Data_Scientist,Mid_level
+28,    LendUp,"San Francisco, CA",140000.0,Data_Scientist,Mid_level
+29,    Zone24x7 Inc,"Milpitas, CA 95035",140000.0,Data_Scientist,Mid_level
+30,    Millennium Search LLC,"Redwood City, CA",140000.0,Data_Scientist,Mid_level
+31,    Sony Interactive Entertainment PlayStation,"San Mateo, CA",140000.0,Data_Scientist,Mid_level
+32,        Intuit,"Mountain View, CA 94039",140000.0,Data_Scientist,Mid_level
+33,        Jobspring Partners,"San Jose, CA 95113 (Downtown area)",140000.0,Data_Scientist,Mid_level
+0,        Hired,"San Francisco, CA",140000.0,Data_Scientist,Senior_level
+1,    Sigmaways,"Palo Alto, CA",140000.0,Data_Scientist,Senior_level
+2,    Change.org,"San Francisco, CA 94103 (South Of Market area)",140000.0,Data_Scientist,Senior_level
+3,        TEKsystems,"San Francisco, CA 94103 (South Of Market area)",140000.0,Data_Scientist,Senior_level
+4,    Gap Inc. Corporate,"San Francisco, CA",140000.0,Data_Scientist,Senior_level
+5,"        Cisco Systems, Inc.","San Jose, CA",140000.0,Data_Scientist,Senior_level
+6,        Workbridge Associates,"San Francisco, CA 94105 (Financial District area)",140000.0,Data_Scientist,Senior_level
+7,    Bayone Solutions Inc.,"San Francisco, CA",140000.0,Data_Scientist,Senior_level
+8,        eBay,"San Jose, CA",140000.0,Data_Scientist,Senior_level
+9,        Demandbase,"San Francisco, CA",140000.0,Data_Scientist,Senior_level
+10,        TrialPay,"Mountain View, CA",140000.0,Data_Scientist,Senior_level
+11,        Datameer,"San Francisco, CA 94103 (South Of Market area)",140000.0,Data_Scientist,Senior_level
+12,        Workbridge Associates,"San Francisco, CA",140000.0,Data_Scientist,Senior_level
+13,"    InsideSales.com, Inc.","San Mateo, CA",140000.0,Data_Scientist,Senior_level
+14,        Ancestry,"San Francisco, CA",140000.0,Data_Scientist,Senior_level
+15,    Arka,"San Francisco, CA",140000.0,Data_Scientist,Senior_level
+16,        Jobspring Partners,"San Jose, CA 95113 (Downtown area)",140000.0,Data_Scientist,Senior_level
+17,        Capgemini,"South San Francisco, CA",140000.0,Data_Scientist,Senior_level
+18,"        Cisco Systems, Inc.","San Jose, CA",140000.0,Data_Scientist,Senior_level
+19,        Intuit,"Mountain View, CA 94039",140000.0,Data_Scientist,Senior_level
+20,    EOS DA,"Menlo Park, CA",140000.0,Data_Scientist,Senior_level
+21,        Accenture,"San Francisco, CA 94105 (Financial District area)",140000.0,Data_Scientist,Senior_level
+22,    Redfish Technology - High Tech Executive Recruiter...,"San Francisco, CA",140000.0,Data_Scientist,Senior_level
+23,        Accenture,"San Francisco, CA 94105 (Financial District area)",140000.0,Data_Scientist,Senior_level
+24,        GE Careers,"San Ramon, CA 94583",140000.0,Data_Scientist,Senior_level
+25,        GE Careers,"San Ramon, CA 94583",140000.0,Data_Scientist,Senior_level
+26,        Accenture,"San Francisco, CA 94105 (Financial District area)",140000.0,Data_Scientist,Senior_level

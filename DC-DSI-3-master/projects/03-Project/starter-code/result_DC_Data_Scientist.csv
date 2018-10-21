@@ -1,0 +1,718 @@
+,Company_name,Location,Salary,Title,Experience
+0,    Predictive Science,United States,75000.0,Data_Scientist,Entry_level
+1,        Engility Corporation,"Bethesda, MD 20892",75000.0,Data_Scientist,Entry_level
+2,        Massachusetts Institute of Technology (MIT),"Provost, VA",75000.0,Data_Scientist,Entry_level
+3,        Booz Allen Hamilton,"Washington, DC",75000.0,Data_Scientist,Entry_level
+4,        Booz Allen Hamilton,"Washington, DC",75000.0,Data_Scientist,Entry_level
+5,        Booz Allen Hamilton,"Alexandria, VA",75000.0,Data_Scientist,Entry_level
+6,        University of Virginia,"Charlottesville, VA",75000.0,Data_Scientist,Entry_level
+7,        Vox Media,"Washington, DC",75000.0,Data_Scientist,Entry_level
+8,        Deloitte,"Arlington, VA 22209 (Radnor-Ft Myer Heights area)",75000.0,Data_Scientist,Entry_level
+9,        Booz Allen Hamilton,"Alexandria, VA",75000.0,Data_Scientist,Entry_level
+10,        Grant Thornton,"Alexandria, VA 22314 (Southwest Quadrant area)",75000.0,Data_Scientist,Entry_level
+11,        Booz Allen Hamilton,"Chantilly, VA 20151",75000.0,Data_Scientist,Entry_level
+12,        Booz Allen Hamilton,"McLean, VA",75000.0,Data_Scientist,Entry_level
+13,    Gryphon Scientific,"Takoma Park, MD",75000.0,Data_Scientist,Entry_level
+14,        IBM Kenexa,"Washington, DC",75000.0,Data_Scientist,Entry_level
+15,        Jobspring Partners,"Washington, DC 20005 (Logan Circle area)",75000.0,Data_Scientist,Entry_level
+16,        SAIC,"McLean, VA",75000.0,Data_Scientist,Entry_level
+17,        CACI,"Washington, DC 20001 (Shaw area)",75000.0,Data_Scientist,Entry_level
+18,        Lockheed Martin,"Rockville, MD",75000.0,Data_Scientist,Entry_level
+19,        Cubic Corporation,"Tidewater, VA",75000.0,Data_Scientist,Entry_level
+20,        IBM,"Washington, DC 20005 (Logan Circle area)",75000.0,Data_Scientist,Entry_level
+21,"    PKW Associates, Inc","Reston, VA",75000.0,Data_Scientist,Entry_level
+22,    Trinity Global Consulting,"Springfield, VA",75000.0,Data_Scientist,Entry_level
+23,        Engility Corporation,"Bethesda, MD 20892",75000.0,Data_Scientist,Entry_level
+24,    Next Step Systems,"Washington, DC",75000.0,Data_Scientist,Entry_level
+25,        Booz Allen Hamilton,"McLean, VA",75000.0,Data_Scientist,Entry_level
+26,        CCRi,"Charlottesville, VA",75000.0,Data_Scientist,Entry_level
+27,        Accenture,"Rosslyn, VA",75000.0,Data_Scientist,Entry_level
+28,"    Synchronoss Technologies, Inc.","Reston, VA",75000.0,Data_Scientist,Entry_level
+29,        Synchronoss,"Reston, VA",75000.0,Data_Scientist,Entry_level
+30,    Veteran Staffing Network of Easter Seals,"McLean, VA",75000.0,Data_Scientist,Entry_level
+31,    Whiteboard Federal Technologies,"Herndon, VA",75000.0,Data_Scientist,Entry_level
+32,    SRL TotalSource LLC,"Washington, DC",75000.0,Data_Scientist,Entry_level
+33,    Encore Search Partners,"Reston, VA",75000.0,Data_Scientist,Entry_level
+34,        Mitre Corporation,"McLean, VA",75000.0,Data_Scientist,Entry_level
+35,    Systems & Technology Research,"Arlington, VA 22203 (Bluemont area)",75000.0,Data_Scientist,Entry_level
+36,    AboutWeb LLC,"Vienna, VA 22182",75000.0,Data_Scientist,Entry_level
+37,    WhiteHawk Inc.,"Baltimore, MD",75000.0,Data_Scientist,Entry_level
+38,        Logistics Management Institute,"McLean, VA",75000.0,Data_Scientist,Entry_level
+39,        Bechtel,"Reston, VA",75000.0,Data_Scientist,Entry_level
+40,    ROI Checker,"Vienna, VA 22180",75000.0,Data_Scientist,Entry_level
+41,        Jobspring Partners,"McLean, VA",75000.0,Data_Scientist,Entry_level
+42,"    Commonwealth Computer Research, Inc.","Charlottesville, VA 22901 (29 North area)",75000.0,Data_Scientist,Entry_level
+43,        Berico Technologies,"Gaithersburg, MD",75000.0,Data_Scientist,Entry_level
+44,        Intelligent Automation,"Rockville, MD 20855",75000.0,Data_Scientist,Entry_level
+45,        Capital One,"McLean, VA",75000.0,Data_Scientist,Entry_level
+46,"    Synchronoss Technologies, Inc.","Reston, VA",75000.0,Data_Scientist,Entry_level
+47,        Booz Allen Hamilton,"Alexandria, VA",75000.0,Data_Scientist,Entry_level
+48,    Sphere of Influence,"McLean, VA",75000.0,Data_Scientist,Entry_level
+49,    All-In Analytics,"Washington, DC",75000.0,Data_Scientist,Entry_level
+50,        PAE,"Falls Church, VA 22043",75000.0,Data_Scientist,Entry_level
+51,    Whiteboard Federal Technologies,"Chantilly, VA",75000.0,Data_Scientist,Entry_level
+52,    Sphere of Influence,"McLean, VA 22102",75000.0,Data_Scientist,Entry_level
+53,    Selby Jennings,"Alexandria, VA",75000.0,Data_Scientist,Entry_level
+54,        BridgeView IT,"Reston, VA",75000.0,Data_Scientist,Entry_level
+55,        PAE,"Reston, VA",75000.0,Data_Scientist,Entry_level
+56,        The Select Group,"Reston, VA",75000.0,Data_Scientist,Entry_level
+57,    Zoomdata,"Reston, VA",75000.0,Data_Scientist,Entry_level
+0,"    The Verity Group, LLC","Alexandria, VA",75000.0,Data_Scientist,Mid_level
+1,    DataLab USA,"Germantown, MD 20876",75000.0,Data_Scientist,Mid_level
+2,    All Things Considered Staffing (ATC-S),"Washington, DC",75000.0,Data_Scientist,Mid_level
+3,    Excella Consulting,"Washington, DC 20006 (Foggy Bottom area)",75000.0,Data_Scientist,Mid_level
+4,        Booz Allen Hamilton,"Washington, DC",75000.0,Data_Scientist,Mid_level
+5,    xometry,"Bethesda, MD",75000.0,Data_Scientist,Mid_level
+6,        Verizon,"Silver Spring, MD 20904",75000.0,Data_Scientist,Mid_level
+7,        Barbaricum,"Washington, DC",75000.0,Data_Scientist,Mid_level
+8,        Deutsche Bank,"Washington, DC",75000.0,Data_Scientist,Mid_level
+9,        Applied Information Sciences,"Washington, DC",75000.0,Data_Scientist,Mid_level
+10,        CACI,"Charlottesville, VA 22909 (North East area)",75000.0,Data_Scientist,Mid_level
+11,        Agilent,"Wilmington, DE",75000.0,Data_Scientist,Mid_level
+12,    Oscar Technology,"Baltimore, MD",75000.0,Data_Scientist,Mid_level
+13,        University of Maryland Medical System,"Linthicum Heights, MD 21090",75000.0,Data_Scientist,Mid_level
+14,        Centra Technology,"Arlington, VA",75000.0,Data_Scientist,Mid_level
+15,    Novetta,"Crystal City, VA",75000.0,Data_Scientist,Mid_level
+16,        ASRC Federal,"Alexandria, VA",75000.0,Data_Scientist,Mid_level
+17,    DataRobot,"Washington, DC",75000.0,Data_Scientist,Mid_level
+18,        Vencore,"McLean, VA",75000.0,Data_Scientist,Mid_level
+19,        The Johns Hopkins Applied Physics Laboratory,"Laurel, MD",75000.0,Data_Scientist,Mid_level
+20,    QxBranch,"Washington, DC",75000.0,Data_Scientist,Mid_level
+21,        KPMG,"Washington, DC 20036 (Downtown area)",75000.0,Data_Scientist,Mid_level
+22,    Novetta,"Springfield, VA",75000.0,Data_Scientist,Mid_level
+23,        Information Innovators Inc.,"Alexandria, VA",75000.0,Data_Scientist,Mid_level
+24,        CAVA,"Washington, DC 20009 (U Street Corridor area)",75000.0,Data_Scientist,Mid_level
+25,    Applied Communication Sciences,"Washington, DC",75000.0,Data_Scientist,Mid_level
+26,        American Society of Clinical Oncology,"Alexandria, VA",75000.0,Data_Scientist,Mid_level
+27,        Booz Allen Hamilton,"Alexandria, VA",75000.0,Data_Scientist,Mid_level
+28,        TransVoyant,"Alexandria, VA 22303",75000.0,Data_Scientist,Mid_level
+29,        Leidos,"Reston, VA 20191",75000.0,Data_Scientist,Mid_level
+30,        ASRC Federal,"Alexandria, VA",75000.0,Data_Scientist,Mid_level
+31,        The Nielsen Company,"Columbia, MD",75000.0,Data_Scientist,Mid_level
+32,        Altamira Technologies Corporation,"Springfield, VA",75000.0,Data_Scientist,Mid_level
+33,    ISPA Technology,"Washington, DC",75000.0,Data_Scientist,Mid_level
+34,        Teradata,"Washington, DC",75000.0,Data_Scientist,Mid_level
+35,        Capgemini Government Solutions,"Washington, DC",75000.0,Data_Scientist,Mid_level
+36,    Lexington Solutions Group,"Washington, DC 20032 (Anacostia area)",75000.0,Data_Scientist,Mid_level
+37,"    The Upside Travel Company, LLC","Washington, DC",75000.0,Data_Scientist,Mid_level
+38,    DataLab USA,"Germantown, MD 20876",75000.0,Data_Scientist,Mid_level
+39,        Savi Technology,"Alexandria, VA 22304 (Seminary Hill area)",75000.0,Data_Scientist,Mid_level
+40,    ESNS,"Herndon, VA",75000.0,Data_Scientist,Mid_level
+41,"    Creative Associates International, Inc.","Washington, DC 20015 (Barnaby Woods area)",75000.0,Data_Scientist,Mid_level
+42,        Accenture,"Chantilly, VA",75000.0,Data_Scientist,Mid_level
+43,    Aquila Technology,"Springfield, VA",75000.0,Data_Scientist,Mid_level
+44,        Concurrent Technologies Corporation,"Arlington, VA",75000.0,Data_Scientist,Mid_level
+45,        TransVoyant,"Alexandria, VA 22303",75000.0,Data_Scientist,Mid_level
+46,        IHS Markit,"Washington, DC",75000.0,Data_Scientist,Mid_level
+47,        Mitre Corporation,"Washington, DC 20024 (South West area)",75000.0,Data_Scientist,Mid_level
+48,        In-Q-Tel,"Arlington, VA 22201 (Lyon Village area)",75000.0,Data_Scientist,Mid_level
+49,"    Teaching Strategies, LLC","Bethesda, MD 20814",75000.0,Data_Scientist,Mid_level
+50,        Altamira Technologies Corporation,"Springfield, VA",75000.0,Data_Scientist,Mid_level
+51,        KPMG,"McLean, VA",75000.0,Data_Scientist,Mid_level
+52,        KPMG,"Washington, DC 20036 (Downtown area)",75000.0,Data_Scientist,Mid_level
+53,"    Apogee Integration, LLC","Springfield, VA",75000.0,Data_Scientist,Mid_level
+54,        Jobspring Partners,"Reston, VA",75000.0,Data_Scientist,Mid_level
+55,        SOSi,"Reston, VA",75000.0,Data_Scientist,Mid_level
+56,        ANALYTICA,"Woodlawn, MD",75000.0,Data_Scientist,Mid_level
+57,        Smith Hanley Associates,"Washington, DC",75000.0,Data_Scientist,Mid_level
+58,    GGTI,"Washington, DC",75000.0,Data_Scientist,Mid_level
+59,        Rare,"Arlington, VA",75000.0,Data_Scientist,Mid_level
+60,        Quadrant Inc,"Silver Spring, MD",75000.0,Data_Scientist,Mid_level
+61,        ICF International,"Fairfax, VA",75000.0,Data_Scientist,Mid_level
+62,        Capital One,"McLean, VA",75000.0,Data_Scientist,Mid_level
+63,    WhiteHawk Inc.,"Baltimore, MD",75000.0,Data_Scientist,Mid_level
+64,"    Solebrity, Inc.","Ashburn, VA 20147",75000.0,Data_Scientist,Mid_level
+65,        Altamira Technologies Corporation,"Chantilly, VA",75000.0,Data_Scientist,Mid_level
+66,        Bay State,"Lanham, MD",75000.0,Data_Scientist,Mid_level
+67,        S&P GLOBAL MARKET INTELLIGENCE,"Charlottesville, VA 22909 (North East area)",75000.0,Data_Scientist,Mid_level
+68,        KPMG,"Washington, DC 20036 (Downtown area)",75000.0,Data_Scientist,Mid_level
+69,        Mitre Corporation,"McLean, VA",75000.0,Data_Scientist,Mid_level
+70,"    Elite Technical Services, Inc.","Washington, DC",75000.0,Data_Scientist,Mid_level
+71,        Strategic Staffing Solutions,"McLean, VA",75000.0,Data_Scientist,Mid_level
+72,        Engility Corporation,"Chantilly, VA 20151",75000.0,Data_Scientist,Mid_level
+73,    Socrata,"Washington, DC",75000.0,Data_Scientist,Mid_level
+74,        Booz Allen Hamilton,"McLean, VA",75000.0,Data_Scientist,Mid_level
+75,    PureIntegration,"Dulles, VA",75000.0,Data_Scientist,Mid_level
+76,        Capital One,"McLean, VA",75000.0,Data_Scientist,Mid_level
+77,        Apex Systems Inc,"Charlottesville, VA",75000.0,Data_Scientist,Mid_level
+78,    Reperio Inc.,"Washington, DC 20005 (Logan Circle area)",75000.0,Data_Scientist,Mid_level
+79,        In-Q-Tel,"Arlington, VA 22201 (Lyon Village area)",75000.0,Data_Scientist,Mid_level
+80,        Capital One,"Vienna, VA",75000.0,Data_Scientist,Mid_level
+81,"        Digital Management, Inc.","Lexington Park, MD",75000.0,Data_Scientist,Mid_level
+82,        Capital One,"McLean, VA",75000.0,Data_Scientist,Mid_level
+83,        Capital One,"McLean, VA",75000.0,Data_Scientist,Mid_level
+84,        Praxis Engineering,"Reston, VA",75000.0,Data_Scientist,Mid_level
+85,    Coverent,"Reston, VA",75000.0,Data_Scientist,Mid_level
+86,    The Stratagem Group,"Alexandria, VA",75000.0,Data_Scientist,Mid_level
+87,        Vencore,"Silver Spring, MD",75000.0,Data_Scientist,Mid_level
+88,        Engility Corporation,"Reston, VA 20191",75000.0,Data_Scientist,Mid_level
+89,"    The Verity Group, LLC","Alexandria, VA",75000.0,Data_Scientist,Mid_level
+90,        CAVA,"Washington, DC 20009 (U Street Corridor area)",75000.0,Data_Scientist,Mid_level
+91,        Merkle Inc.,"Columbia, MD 21046",75000.0,Data_Scientist,Mid_level
+92,    The Wallach Search Group,"Washington, DC",75000.0,Data_Scientist,Mid_level
+93,    WhiteHawk Inc.,"Baltimore, MD",75000.0,Data_Scientist,Mid_level
+94,    All-In Analytics,"Washington, DC",75000.0,Data_Scientist,Mid_level
+95,    ERPi,"Washington, DC",75000.0,Data_Scientist,Mid_level
+96,        Capital One,"Vienna, VA",75000.0,Data_Scientist,Mid_level
+97,    Zoomdata,"Reston, VA",75000.0,Data_Scientist,Mid_level
+98,        Mitre Corporation,"Annapolis Junction, MD 20701",75000.0,Data_Scientist,Mid_level
+99,    Socrata,"Washington, DC",75000.0,Data_Scientist,Mid_level
+100,        Capital One,"McLean, VA",75000.0,Data_Scientist,Mid_level
+101,"    Bluehawk, LLC","Alexandria, VA",75000.0,Data_Scientist,Mid_level
+102,    Zoomdata,"Reston, VA",75000.0,Data_Scientist,Mid_level
+103,        Engility Corporation,"Reston, VA 20191",75000.0,Data_Scientist,Mid_level
+104,"    The Upside Travel Company, LLC","Washington, DC",75000.0,Data_Scientist,Mid_level
+0,        QuintilesIMS,"Collegeville, PA",75000.0,Data_Scientist,Senior_level
+1,        TD Bank,"Mount Laurel, NJ",75000.0,Data_Scientist,Senior_level
+2,        Leidos,"Washington, DC",75000.0,Data_Scientist,Senior_level
+3,        PricewaterhouseCoopers LLC,"Washington, DC 20001 (Shaw area)",75000.0,Data_Scientist,Senior_level
+4,    IMTAS,"Washington, DC 20001 (Shaw area)",75000.0,Data_Scientist,Senior_level
+5,        Information Innovators Inc.,"Washington, DC",75000.0,Data_Scientist,Senior_level
+6,        Cubic Corporation,"Arlington, VA",75000.0,Data_Scientist,Senior_level
+7,    ITDC,"Washington, DC",75000.0,Data_Scientist,Senior_level
+8,        Booz Allen Hamilton,"Washington, DC",75000.0,Data_Scientist,Senior_level
+9,        Vencore,"McLean, VA",75000.0,Data_Scientist,Senior_level
+10,        Booz Allen Hamilton,"Washington, DC",75000.0,Data_Scientist,Senior_level
+11,    Applied Communication Sciences,"College Park, MD",75000.0,Data_Scientist,Senior_level
+12,        Booz Allen Hamilton,"Alexandria, VA",75000.0,Data_Scientist,Senior_level
+13,        Booz Allen Hamilton,"Alexandria, VA",75000.0,Data_Scientist,Senior_level
+14,        The Aerospace Corporation,"Crystal City, VA",75000.0,Data_Scientist,Senior_level
+15,"    SnagAJob.com, Inc","Arlington, VA 22201 (Lyon Village area)",75000.0,Data_Scientist,Senior_level
+16,"    TechGuard Security, LLC","Springfield, VA",75000.0,Data_Scientist,Senior_level
+17,        Booz Allen Hamilton,"McLean, VA",75000.0,Data_Scientist,Senior_level
+18,    Knowesis Inc.,"Arlington, VA 22201 (Lyon Village area)",75000.0,Data_Scientist,Senior_level
+19,        Leidos,"Springfield, VA 22151",75000.0,Data_Scientist,Senior_level
+20,        CACI,"Charlottesville, VA 22909 (North East area)",75000.0,Data_Scientist,Senior_level
+21,        Lotame,"Columbia, MD 21045",75000.0,Data_Scientist,Senior_level
+22,        Leidos,"Springfield, VA",75000.0,Data_Scientist,Senior_level
+23,        Vencore,"College Park, MD",75000.0,Data_Scientist,Senior_level
+24,        Mitre Corporation,"Bethesda, MD",75000.0,Data_Scientist,Senior_level
+25,        Booz Allen Hamilton,"Alexandria, VA",75000.0,Data_Scientist,Senior_level
+26,        Technica Corporation,"Dulles, VA",75000.0,Data_Scientist,Senior_level
+27,"    Apogee Integration, LLC","Reston, VA",75000.0,Data_Scientist,Senior_level
+28,        SapientNitro,"Arlington, VA",75000.0,Data_Scientist,Senior_level
+29,    ByteCubed,"Arlington, VA",75000.0,Data_Scientist,Senior_level
+30,    Alqimi,"Washington, DC",75000.0,Data_Scientist,Senior_level
+31,        BAE Systems,"Reston, VA 20191",75000.0,Data_Scientist,Senior_level
+32,    Encore Search Partners,"Reston, VA",75000.0,Data_Scientist,Senior_level
+33,    Arch Capital Group Ltd.,"Washington, DC",75000.0,Data_Scientist,Senior_level
+34,        Praxis Engineering,"Reston, VA",75000.0,Data_Scientist,Senior_level
+35,        Seneca Resources,"Arlington, VA",75000.0,Data_Scientist,Senior_level
+36,"    OnPoint Consulting, Inc.","Arlington, VA",75000.0,Data_Scientist,Senior_level
+37,        EXL,"Wilmington, DE",75000.0,Data_Scientist,Senior_level
+38,        Capital One,"Wilmington, DE",75000.0,Data_Scientist,Senior_level
+39,    Knowledge Link,"Chantilly, VA",75000.0,Data_Scientist,Senior_level
+40,        Apex Systems Inc,"Columbia, MD",75000.0,Data_Scientist,Senior_level
+41,        Vencore,"Silver Spring, MD",75000.0,Data_Scientist,Senior_level
+42,        Fulcrum,"Reston, VA",75000.0,Data_Scientist,Senior_level
+43,        Mitre Corporation,"Annapolis Junction, MD 20701",75000.0,Data_Scientist,Senior_level
+44,    TechMatrixInc.,"Harrisburg, PA",75000.0,Data_Scientist,Senior_level
+45,        Altamira Technologies Corporation,"Chantilly, VA",75000.0,Data_Scientist,Senior_level
+46,    SC3,"Fairfax, VA",75000.0,Data_Scientist,Senior_level
+47,        EOIR Technologies,"Springfield, VA 22150",75000.0,Data_Scientist,Senior_level
+48,        Praxis Engineering,"Reston, VA",75000.0,Data_Scientist,Senior_level
+49,        CCRi,"Chantilly, VA",75000.0,Data_Scientist,Senior_level
+50,        TEGNA,"McLean, VA",75000.0,Data_Scientist,Senior_level
+51,"    Commonwealth Computer Research, Inc.","Chantilly, VA",75000.0,Data_Scientist,Senior_level
+52,        EOIR Technologies,"Springfield, VA 22150",75000.0,Data_Scientist,Senior_level
+53,        Deloitte,"Arlington, VA 22209 (Radnor-Ft Myer Heights area)",75000.0,Data_Scientist,Senior_level
+54,    Zoomdata,"Reston, VA",75000.0,Data_Scientist,Senior_level
+55,        Deloitte,"Arlington, VA 22209",75000.0,Data_Scientist,Senior_level
+56,        System One,"Reston, VA",75000.0,Data_Scientist,Senior_level
+0,    Predictive Science,United States,90000.0,Data_Scientist,Entry_level
+1,        Engility Corporation,"Bethesda, MD 20892",90000.0,Data_Scientist,Entry_level
+2,        Massachusetts Institute of Technology (MIT),"Provost, VA",90000.0,Data_Scientist,Entry_level
+3,        Booz Allen Hamilton,"Washington, DC",90000.0,Data_Scientist,Entry_level
+4,        Booz Allen Hamilton,"Washington, DC",90000.0,Data_Scientist,Entry_level
+5,        Booz Allen Hamilton,"Alexandria, VA",90000.0,Data_Scientist,Entry_level
+6,        Vox Media,"Washington, DC",90000.0,Data_Scientist,Entry_level
+7,        Booz Allen Hamilton,"Alexandria, VA",90000.0,Data_Scientist,Entry_level
+8,        Booz Allen Hamilton,"Chantilly, VA 20151",90000.0,Data_Scientist,Entry_level
+9,        Booz Allen Hamilton,"McLean, VA",90000.0,Data_Scientist,Entry_level
+10,    Gryphon Scientific,"Takoma Park, MD",90000.0,Data_Scientist,Entry_level
+11,        Jobspring Partners,"Washington, DC 20005 (Logan Circle area)",90000.0,Data_Scientist,Entry_level
+12,        SAIC,"McLean, VA",90000.0,Data_Scientist,Entry_level
+13,        CACI,"Washington, DC 20001 (Shaw area)",90000.0,Data_Scientist,Entry_level
+14,        Lockheed Martin,"Rockville, MD",90000.0,Data_Scientist,Entry_level
+15,        Cubic Corporation,"Tidewater, VA",90000.0,Data_Scientist,Entry_level
+16,    Trinity Global Consulting,"Springfield, VA",90000.0,Data_Scientist,Entry_level
+17,        Engility Corporation,"Bethesda, MD 20892",90000.0,Data_Scientist,Entry_level
+18,    Next Step Systems,"Washington, DC",90000.0,Data_Scientist,Entry_level
+19,        Booz Allen Hamilton,"McLean, VA",90000.0,Data_Scientist,Entry_level
+20,        CCRi,"Charlottesville, VA",90000.0,Data_Scientist,Entry_level
+21,    Veteran Staffing Network of Easter Seals,"McLean, VA",90000.0,Data_Scientist,Entry_level
+22,    Whiteboard Federal Technologies,"Herndon, VA",90000.0,Data_Scientist,Entry_level
+23,    SRL TotalSource LLC,"Washington, DC",90000.0,Data_Scientist,Entry_level
+24,    Encore Search Partners,"Reston, VA",90000.0,Data_Scientist,Entry_level
+25,        Mitre Corporation,"McLean, VA",90000.0,Data_Scientist,Entry_level
+26,    Systems & Technology Research,"Arlington, VA 22203 (Bluemont area)",90000.0,Data_Scientist,Entry_level
+27,    AboutWeb LLC,"Vienna, VA 22182",90000.0,Data_Scientist,Entry_level
+28,    WhiteHawk Inc.,"Baltimore, MD",90000.0,Data_Scientist,Entry_level
+29,        Logistics Management Institute,"McLean, VA",90000.0,Data_Scientist,Entry_level
+30,        Bechtel,"Reston, VA",90000.0,Data_Scientist,Entry_level
+31,    ROI Checker,"Vienna, VA 22180",90000.0,Data_Scientist,Entry_level
+32,        Jobspring Partners,"McLean, VA",90000.0,Data_Scientist,Entry_level
+33,"    Commonwealth Computer Research, Inc.","Charlottesville, VA 22901 (29 North area)",90000.0,Data_Scientist,Entry_level
+34,        Berico Technologies,"Gaithersburg, MD",90000.0,Data_Scientist,Entry_level
+35,        Capital One,"McLean, VA",90000.0,Data_Scientist,Entry_level
+36,"    Synchronoss Technologies, Inc.","Reston, VA",90000.0,Data_Scientist,Entry_level
+37,        Booz Allen Hamilton,"Alexandria, VA",90000.0,Data_Scientist,Entry_level
+38,    Sphere of Influence,"McLean, VA",90000.0,Data_Scientist,Entry_level
+39,    All-In Analytics,"Washington, DC",90000.0,Data_Scientist,Entry_level
+40,    Whiteboard Federal Technologies,"Chantilly, VA",90000.0,Data_Scientist,Entry_level
+41,    Sphere of Influence,"McLean, VA 22102",90000.0,Data_Scientist,Entry_level
+42,    Selby Jennings,"Alexandria, VA",90000.0,Data_Scientist,Entry_level
+43,    Zoomdata,"Reston, VA",90000.0,Data_Scientist,Entry_level
+0,"    The Verity Group, LLC","Alexandria, VA",90000.0,Data_Scientist,Mid_level
+1,    DataLab USA,"Germantown, MD 20876",90000.0,Data_Scientist,Mid_level
+2,    All Things Considered Staffing (ATC-S),"Washington, DC",90000.0,Data_Scientist,Mid_level
+3,    Excella Consulting,"Washington, DC 20006 (Foggy Bottom area)",90000.0,Data_Scientist,Mid_level
+4,        Booz Allen Hamilton,"Washington, DC",90000.0,Data_Scientist,Mid_level
+5,        Verizon,"Silver Spring, MD 20904",90000.0,Data_Scientist,Mid_level
+6,        Barbaricum,"Washington, DC",90000.0,Data_Scientist,Mid_level
+7,        Deutsche Bank,"Washington, DC",90000.0,Data_Scientist,Mid_level
+8,        Applied Information Sciences,"Washington, DC",90000.0,Data_Scientist,Mid_level
+9,        Agilent,"Wilmington, DE",90000.0,Data_Scientist,Mid_level
+10,    Oscar Technology,"Baltimore, MD",90000.0,Data_Scientist,Mid_level
+11,        University of Maryland Medical System,"Linthicum Heights, MD 21090",90000.0,Data_Scientist,Mid_level
+12,        Centra Technology,"Arlington, VA",90000.0,Data_Scientist,Mid_level
+13,    Novetta,"Crystal City, VA",90000.0,Data_Scientist,Mid_level
+14,        ASRC Federal,"Alexandria, VA",90000.0,Data_Scientist,Mid_level
+15,    DataRobot,"Washington, DC",90000.0,Data_Scientist,Mid_level
+16,        Vencore,"McLean, VA",90000.0,Data_Scientist,Mid_level
+17,        The Johns Hopkins Applied Physics Laboratory,"Laurel, MD",90000.0,Data_Scientist,Mid_level
+18,    QxBranch,"Washington, DC",90000.0,Data_Scientist,Mid_level
+19,    Novetta,"Springfield, VA",90000.0,Data_Scientist,Mid_level
+20,        Information Innovators Inc.,"Alexandria, VA",90000.0,Data_Scientist,Mid_level
+21,        CAVA,"Washington, DC 20009 (U Street Corridor area)",90000.0,Data_Scientist,Mid_level
+22,    Applied Communication Sciences,"Washington, DC",90000.0,Data_Scientist,Mid_level
+23,        American Society of Clinical Oncology,"Alexandria, VA",90000.0,Data_Scientist,Mid_level
+24,        Booz Allen Hamilton,"Alexandria, VA",90000.0,Data_Scientist,Mid_level
+25,        TransVoyant,"Alexandria, VA 22303",90000.0,Data_Scientist,Mid_level
+26,        ASRC Federal,"Alexandria, VA",90000.0,Data_Scientist,Mid_level
+27,        The Nielsen Company,"Columbia, MD",90000.0,Data_Scientist,Mid_level
+28,        Altamira Technologies Corporation,"Springfield, VA",90000.0,Data_Scientist,Mid_level
+29,    ISPA Technology,"Washington, DC",90000.0,Data_Scientist,Mid_level
+30,        Teradata,"Washington, DC",90000.0,Data_Scientist,Mid_level
+31,        Capgemini Government Solutions,"Washington, DC",90000.0,Data_Scientist,Mid_level
+32,    Lexington Solutions Group,"Washington, DC 20032 (Anacostia area)",90000.0,Data_Scientist,Mid_level
+33,"    The Upside Travel Company, LLC","Washington, DC",90000.0,Data_Scientist,Mid_level
+34,    DataLab USA,"Germantown, MD 20876",90000.0,Data_Scientist,Mid_level
+35,        Savi Technology,"Alexandria, VA 22304 (Seminary Hill area)",90000.0,Data_Scientist,Mid_level
+36,    ESNS,"Herndon, VA",90000.0,Data_Scientist,Mid_level
+37,"    Creative Associates International, Inc.","Washington, DC 20015 (Barnaby Woods area)",90000.0,Data_Scientist,Mid_level
+38,    Aquila Technology,"Springfield, VA",90000.0,Data_Scientist,Mid_level
+39,        Concurrent Technologies Corporation,"Arlington, VA",90000.0,Data_Scientist,Mid_level
+40,        TransVoyant,"Alexandria, VA 22303",90000.0,Data_Scientist,Mid_level
+41,        IHS Markit,"Washington, DC",90000.0,Data_Scientist,Mid_level
+42,        Mitre Corporation,"Washington, DC 20024 (South West area)",90000.0,Data_Scientist,Mid_level
+43,        In-Q-Tel,"Arlington, VA 22201 (Lyon Village area)",90000.0,Data_Scientist,Mid_level
+44,        Altamira Technologies Corporation,"Springfield, VA",90000.0,Data_Scientist,Mid_level
+45,        KPMG,"McLean, VA",90000.0,Data_Scientist,Mid_level
+46,        KPMG,"Washington, DC 20036 (Downtown area)",90000.0,Data_Scientist,Mid_level
+47,        Jobspring Partners,"Reston, VA",90000.0,Data_Scientist,Mid_level
+48,        ANALYTICA,"Woodlawn, MD",90000.0,Data_Scientist,Mid_level
+49,        Smith Hanley Associates,"Washington, DC",90000.0,Data_Scientist,Mid_level
+50,    GGTI,"Washington, DC",90000.0,Data_Scientist,Mid_level
+51,        Quadrant Inc,"Silver Spring, MD",90000.0,Data_Scientist,Mid_level
+52,        Capital One,"McLean, VA",90000.0,Data_Scientist,Mid_level
+53,    WhiteHawk Inc.,"Baltimore, MD",90000.0,Data_Scientist,Mid_level
+54,"    Solebrity, Inc.","Ashburn, VA 20147",90000.0,Data_Scientist,Mid_level
+55,        Altamira Technologies Corporation,"Chantilly, VA",90000.0,Data_Scientist,Mid_level
+56,        Bay State,"Lanham, MD",90000.0,Data_Scientist,Mid_level
+57,        S&P GLOBAL MARKET INTELLIGENCE,"Charlottesville, VA 22909 (North East area)",90000.0,Data_Scientist,Mid_level
+58,        KPMG,"Washington, DC 20036 (Downtown area)",90000.0,Data_Scientist,Mid_level
+59,        Mitre Corporation,"McLean, VA",90000.0,Data_Scientist,Mid_level
+60,"    Elite Technical Services, Inc.","Washington, DC",90000.0,Data_Scientist,Mid_level
+61,        Strategic Staffing Solutions,"McLean, VA",90000.0,Data_Scientist,Mid_level
+62,        Engility Corporation,"Chantilly, VA 20151",90000.0,Data_Scientist,Mid_level
+63,    Socrata,"Washington, DC",90000.0,Data_Scientist,Mid_level
+64,        Booz Allen Hamilton,"McLean, VA",90000.0,Data_Scientist,Mid_level
+65,    PureIntegration,"Dulles, VA",90000.0,Data_Scientist,Mid_level
+66,        Capital One,"McLean, VA",90000.0,Data_Scientist,Mid_level
+67,        Apex Systems Inc,"Charlottesville, VA",90000.0,Data_Scientist,Mid_level
+68,    Reperio Inc.,"Washington, DC 20005 (Logan Circle area)",90000.0,Data_Scientist,Mid_level
+69,        In-Q-Tel,"Arlington, VA 22201 (Lyon Village area)",90000.0,Data_Scientist,Mid_level
+70,        Capital One,"Vienna, VA",90000.0,Data_Scientist,Mid_level
+71,        Capital One,"McLean, VA",90000.0,Data_Scientist,Mid_level
+72,        Capital One,"McLean, VA",90000.0,Data_Scientist,Mid_level
+73,        Praxis Engineering,"Reston, VA",90000.0,Data_Scientist,Mid_level
+74,    Coverent,"Reston, VA",90000.0,Data_Scientist,Mid_level
+75,    The Stratagem Group,"Alexandria, VA",90000.0,Data_Scientist,Mid_level
+76,        Vencore,"Silver Spring, MD",90000.0,Data_Scientist,Mid_level
+77,        Engility Corporation,"Reston, VA 20191",90000.0,Data_Scientist,Mid_level
+78,"    The Verity Group, LLC","Alexandria, VA",90000.0,Data_Scientist,Mid_level
+79,        CAVA,"Washington, DC 20009 (U Street Corridor area)",90000.0,Data_Scientist,Mid_level
+80,    The Wallach Search Group,"Washington, DC",90000.0,Data_Scientist,Mid_level
+81,    All-In Analytics,"Washington, DC",90000.0,Data_Scientist,Mid_level
+82,        Capital One,"Vienna, VA",90000.0,Data_Scientist,Mid_level
+83,    Zoomdata,"Reston, VA",90000.0,Data_Scientist,Mid_level
+84,        Mitre Corporation,"Annapolis Junction, MD 20701",90000.0,Data_Scientist,Mid_level
+85,    Socrata,"Washington, DC",90000.0,Data_Scientist,Mid_level
+86,        Capital One,"McLean, VA",90000.0,Data_Scientist,Mid_level
+87,"    Bluehawk, LLC","Alexandria, VA",90000.0,Data_Scientist,Mid_level
+88,    Zoomdata,"Reston, VA",90000.0,Data_Scientist,Mid_level
+89,    Zoomdata,"Reston, VA",90000.0,Data_Scientist,Mid_level
+90,        Engility Corporation,"Reston, VA 20191",90000.0,Data_Scientist,Mid_level
+91,"    The Upside Travel Company, LLC","Washington, DC",90000.0,Data_Scientist,Mid_level
+0,        QuintilesIMS,"Collegeville, PA",90000.0,Data_Scientist,Senior_level
+1,        System One,"Reston, VA",90000.0,Data_Scientist,Senior_level
+2,        TD Bank,"Mount Laurel, NJ",90000.0,Data_Scientist,Senior_level
+3,    IMTAS,"Washington, DC 20001 (Shaw area)",90000.0,Data_Scientist,Senior_level
+4,        Information Innovators Inc.,"Washington, DC",90000.0,Data_Scientist,Senior_level
+5,    ITDC,"Washington, DC",90000.0,Data_Scientist,Senior_level
+6,        Booz Allen Hamilton,"Washington, DC",90000.0,Data_Scientist,Senior_level
+7,        Vencore,"McLean, VA",90000.0,Data_Scientist,Senior_level
+8,        Booz Allen Hamilton,"Washington, DC",90000.0,Data_Scientist,Senior_level
+9,    Applied Communication Sciences,"College Park, MD",90000.0,Data_Scientist,Senior_level
+10,        Booz Allen Hamilton,"Alexandria, VA",90000.0,Data_Scientist,Senior_level
+11,        Booz Allen Hamilton,"Alexandria, VA",90000.0,Data_Scientist,Senior_level
+12,        The Aerospace Corporation,"Crystal City, VA",90000.0,Data_Scientist,Senior_level
+13,"    SnagAJob.com, Inc","Arlington, VA 22201 (Lyon Village area)",90000.0,Data_Scientist,Senior_level
+14,        Booz Allen Hamilton,"McLean, VA",90000.0,Data_Scientist,Senior_level
+15,    Knowesis Inc.,"Arlington, VA 22201 (Lyon Village area)",90000.0,Data_Scientist,Senior_level
+16,        CACI,"Charlottesville, VA 22909 (North East area)",90000.0,Data_Scientist,Senior_level
+17,        Lotame,"Columbia, MD 21045",90000.0,Data_Scientist,Senior_level
+18,        Vencore,"College Park, MD",90000.0,Data_Scientist,Senior_level
+19,        Mitre Corporation,"Bethesda, MD",90000.0,Data_Scientist,Senior_level
+20,        Booz Allen Hamilton,"Alexandria, VA",90000.0,Data_Scientist,Senior_level
+21,        Technica Corporation,"Dulles, VA",90000.0,Data_Scientist,Senior_level
+22,        SapientNitro,"Arlington, VA",90000.0,Data_Scientist,Senior_level
+23,    ByteCubed,"Arlington, VA",90000.0,Data_Scientist,Senior_level
+24,    Alqimi,"Washington, DC",90000.0,Data_Scientist,Senior_level
+25,        Leidos,"Washington, DC 20001 (Shaw area)",90000.0,Data_Scientist,Senior_level
+26,    Encore Search Partners,"Reston, VA",90000.0,Data_Scientist,Senior_level
+27,    Arch Capital Group Ltd.,"Washington, DC",90000.0,Data_Scientist,Senior_level
+28,        Praxis Engineering,"Reston, VA",90000.0,Data_Scientist,Senior_level
+29,"    OnPoint Consulting, Inc.","Arlington, VA",90000.0,Data_Scientist,Senior_level
+30,        EXL,"Wilmington, DE",90000.0,Data_Scientist,Senior_level
+31,        Capital One,"Wilmington, DE",90000.0,Data_Scientist,Senior_level
+32,        Apex Systems Inc,"Columbia, MD",90000.0,Data_Scientist,Senior_level
+33,        Mitre Corporation,"Annapolis Junction, MD 20701",90000.0,Data_Scientist,Senior_level
+34,    TechMatrixInc.,"Harrisburg, PA",90000.0,Data_Scientist,Senior_level
+35,        Altamira Technologies Corporation,"Chantilly, VA",90000.0,Data_Scientist,Senior_level
+36,    SC3,"Fairfax, VA",90000.0,Data_Scientist,Senior_level
+37,        EOIR Technologies,"Springfield, VA 22150",90000.0,Data_Scientist,Senior_level
+38,        Praxis Engineering,"Reston, VA",90000.0,Data_Scientist,Senior_level
+39,        CCRi,"Chantilly, VA",90000.0,Data_Scientist,Senior_level
+40,"    Commonwealth Computer Research, Inc.","Chantilly, VA",90000.0,Data_Scientist,Senior_level
+41,        EOIR Technologies,"Springfield, VA 22150",90000.0,Data_Scientist,Senior_level
+42,    Zoomdata,"Reston, VA",90000.0,Data_Scientist,Senior_level
+43,        Leidos,"Washington, DC",90000.0,Data_Scientist,Senior_level
+0,    Predictive Science,United States,105000.0,Data_Scientist,Entry_level
+1,        Booz Allen Hamilton,"Washington, DC",105000.0,Data_Scientist,Entry_level
+2,        Booz Allen Hamilton,"Washington, DC",105000.0,Data_Scientist,Entry_level
+3,        Booz Allen Hamilton,"Alexandria, VA",105000.0,Data_Scientist,Entry_level
+4,        Vox Media,"Washington, DC",105000.0,Data_Scientist,Entry_level
+5,        Booz Allen Hamilton,"Chantilly, VA 20151",105000.0,Data_Scientist,Entry_level
+6,        Booz Allen Hamilton,"McLean, VA",105000.0,Data_Scientist,Entry_level
+7,        Jobspring Partners,"Washington, DC 20005 (Logan Circle area)",105000.0,Data_Scientist,Entry_level
+8,        SAIC,"McLean, VA",105000.0,Data_Scientist,Entry_level
+9,        CACI,"Washington, DC 20001 (Shaw area)",105000.0,Data_Scientist,Entry_level
+10,        Lockheed Martin,"Rockville, MD",105000.0,Data_Scientist,Entry_level
+11,        Booz Allen Hamilton,"McLean, VA",105000.0,Data_Scientist,Entry_level
+12,        CCRi,"Charlottesville, VA",105000.0,Data_Scientist,Entry_level
+13,    Veteran Staffing Network of Easter Seals,"McLean, VA",105000.0,Data_Scientist,Entry_level
+14,    Whiteboard Federal Technologies,"Herndon, VA",105000.0,Data_Scientist,Entry_level
+15,    SRL TotalSource LLC,"Washington, DC",105000.0,Data_Scientist,Entry_level
+16,    Encore Search Partners,"Reston, VA",105000.0,Data_Scientist,Entry_level
+17,        Mitre Corporation,"McLean, VA",105000.0,Data_Scientist,Entry_level
+18,    Systems & Technology Research,"Arlington, VA 22203 (Bluemont area)",105000.0,Data_Scientist,Entry_level
+19,    WhiteHawk Inc.,"Baltimore, MD",105000.0,Data_Scientist,Entry_level
+20,        Bechtel,"Reston, VA",105000.0,Data_Scientist,Entry_level
+21,        Jobspring Partners,"McLean, VA",105000.0,Data_Scientist,Entry_level
+22,"    Commonwealth Computer Research, Inc.","Charlottesville, VA 22901 (29 North area)",105000.0,Data_Scientist,Entry_level
+23,        Berico Technologies,"Gaithersburg, MD",105000.0,Data_Scientist,Entry_level
+24,"    Synchronoss Technologies, Inc.","Reston, VA",105000.0,Data_Scientist,Entry_level
+25,        Booz Allen Hamilton,"Alexandria, VA",105000.0,Data_Scientist,Entry_level
+26,    Sphere of Influence,"McLean, VA",105000.0,Data_Scientist,Entry_level
+27,    Sphere of Influence,"McLean, VA 22102",105000.0,Data_Scientist,Entry_level
+28,    Selby Jennings,"Alexandria, VA",105000.0,Data_Scientist,Entry_level
+29,    Zoomdata,"Reston, VA",105000.0,Data_Scientist,Entry_level
+0,"    The Verity Group, LLC","Alexandria, VA",105000.0,Data_Scientist,Mid_level
+1,    All Things Considered Staffing (ATC-S),"Washington, DC",105000.0,Data_Scientist,Mid_level
+2,"    Atrilogy Solutions Group, Inc.","Washington, DC 20001",105000.0,Data_Scientist,Mid_level
+3,    Excella Consulting,"Washington, DC 20006 (Foggy Bottom area)",105000.0,Data_Scientist,Mid_level
+4,        Booz Allen Hamilton,"Washington, DC",105000.0,Data_Scientist,Mid_level
+5,        Verizon,"Silver Spring, MD 20904",105000.0,Data_Scientist,Mid_level
+6,        Barbaricum,"Washington, DC",105000.0,Data_Scientist,Mid_level
+7,        Deutsche Bank,"Washington, DC",105000.0,Data_Scientist,Mid_level
+8,    Oscar Technology,"Baltimore, MD",105000.0,Data_Scientist,Mid_level
+9,    Novetta,"Crystal City, VA",105000.0,Data_Scientist,Mid_level
+10,        ASRC Federal,"Alexandria, VA",105000.0,Data_Scientist,Mid_level
+11,    DataRobot,"Washington, DC",105000.0,Data_Scientist,Mid_level
+12,        Vencore,"McLean, VA",105000.0,Data_Scientist,Mid_level
+13,        The Johns Hopkins Applied Physics Laboratory,"Laurel, MD",105000.0,Data_Scientist,Mid_level
+14,    Novetta,"Springfield, VA",105000.0,Data_Scientist,Mid_level
+15,        CAVA,"Washington, DC 20009 (U Street Corridor area)",105000.0,Data_Scientist,Mid_level
+16,        American Society of Clinical Oncology,"Alexandria, VA",105000.0,Data_Scientist,Mid_level
+17,        Booz Allen Hamilton,"Alexandria, VA",105000.0,Data_Scientist,Mid_level
+18,        TransVoyant,"Alexandria, VA 22303",105000.0,Data_Scientist,Mid_level
+19,        ASRC Federal,"Alexandria, VA",105000.0,Data_Scientist,Mid_level
+20,        Altamira Technologies Corporation,"Springfield, VA",105000.0,Data_Scientist,Mid_level
+21,        Teradata,"Washington, DC",105000.0,Data_Scientist,Mid_level
+22,"    The Upside Travel Company, LLC","Washington, DC",105000.0,Data_Scientist,Mid_level
+23,    ESNS,"Herndon, VA",105000.0,Data_Scientist,Mid_level
+24,"    Creative Associates International, Inc.","Washington, DC 20015 (Barnaby Woods area)",105000.0,Data_Scientist,Mid_level
+25,    Aquila Technology,"Springfield, VA",105000.0,Data_Scientist,Mid_level
+26,        TransVoyant,"Alexandria, VA 22303",105000.0,Data_Scientist,Mid_level
+27,        IHS Markit,"Washington, DC",105000.0,Data_Scientist,Mid_level
+28,        Mitre Corporation,"Washington, DC 20024 (South West area)",105000.0,Data_Scientist,Mid_level
+29,        In-Q-Tel,"Arlington, VA 22201 (Lyon Village area)",105000.0,Data_Scientist,Mid_level
+30,        Altamira Technologies Corporation,"Springfield, VA",105000.0,Data_Scientist,Mid_level
+31,        KPMG,"McLean, VA",105000.0,Data_Scientist,Mid_level
+32,        KPMG,"Washington, DC 20036 (Downtown area)",105000.0,Data_Scientist,Mid_level
+33,        Jobspring Partners,"Reston, VA",105000.0,Data_Scientist,Mid_level
+34,        Smith Hanley Associates,"Washington, DC",105000.0,Data_Scientist,Mid_level
+35,        Capital One,"McLean, VA",105000.0,Data_Scientist,Mid_level
+36,"    Solebrity, Inc.","Ashburn, VA 20147",105000.0,Data_Scientist,Mid_level
+37,        Altamira Technologies Corporation,"Chantilly, VA",105000.0,Data_Scientist,Mid_level
+38,        S&P GLOBAL MARKET INTELLIGENCE,"Charlottesville, VA 22909 (North East area)",105000.0,Data_Scientist,Mid_level
+39,        KPMG,"Washington, DC 20036 (Downtown area)",105000.0,Data_Scientist,Mid_level
+40,        Mitre Corporation,"McLean, VA",105000.0,Data_Scientist,Mid_level
+41,"    Elite Technical Services, Inc.","Washington, DC",105000.0,Data_Scientist,Mid_level
+42,        Strategic Staffing Solutions,"McLean, VA",105000.0,Data_Scientist,Mid_level
+43,        Engility Corporation,"Chantilly, VA 20151",105000.0,Data_Scientist,Mid_level
+44,    PureIntegration,"Dulles, VA",105000.0,Data_Scientist,Mid_level
+45,        Capital One,"McLean, VA",105000.0,Data_Scientist,Mid_level
+46,        Apex Systems Inc,"Charlottesville, VA",105000.0,Data_Scientist,Mid_level
+47,        Capital One,"Vienna, VA",105000.0,Data_Scientist,Mid_level
+48,        Capital One,"McLean, VA",105000.0,Data_Scientist,Mid_level
+49,        Capital One,"McLean, VA",105000.0,Data_Scientist,Mid_level
+50,        Praxis Engineering,"Reston, VA",105000.0,Data_Scientist,Mid_level
+51,    The Stratagem Group,"Alexandria, VA",105000.0,Data_Scientist,Mid_level
+52,"    The Verity Group, LLC","Alexandria, VA",105000.0,Data_Scientist,Mid_level
+53,        CAVA,"Washington, DC 20009 (U Street Corridor area)",105000.0,Data_Scientist,Mid_level
+54,    The Wallach Search Group,"Washington, DC",105000.0,Data_Scientist,Mid_level
+55,    All-In Analytics,"Washington, DC",105000.0,Data_Scientist,Mid_level
+56,        Capital One,"Vienna, VA",105000.0,Data_Scientist,Mid_level
+57,    Zoomdata,"Reston, VA",105000.0,Data_Scientist,Mid_level
+58,        Mitre Corporation,"Annapolis Junction, MD 20701",105000.0,Data_Scientist,Mid_level
+59,    Socrata,"Washington, DC",105000.0,Data_Scientist,Mid_level
+60,        Capital One,"McLean, VA",105000.0,Data_Scientist,Mid_level
+61,    Zoomdata,"Reston, VA",105000.0,Data_Scientist,Mid_level
+62,    Zoomdata,"Reston, VA",105000.0,Data_Scientist,Mid_level
+63,        Randstad Professionals,"Bethesda, MD 20814",105000.0,Data_Scientist,Mid_level
+64,"    The Upside Travel Company, LLC","Washington, DC",105000.0,Data_Scientist,Mid_level
+0,        QuintilesIMS,"Collegeville, PA",105000.0,Data_Scientist,Senior_level
+1,        System One,"Reston, VA",105000.0,Data_Scientist,Senior_level
+2,        TD Bank,"Mount Laurel, NJ",105000.0,Data_Scientist,Senior_level
+3,    IMTAS,"Washington, DC 20001 (Shaw area)",105000.0,Data_Scientist,Senior_level
+4,    ITDC,"Washington, DC",105000.0,Data_Scientist,Senior_level
+5,        Booz Allen Hamilton,"Washington, DC",105000.0,Data_Scientist,Senior_level
+6,        Vencore,"McLean, VA",105000.0,Data_Scientist,Senior_level
+7,        Booz Allen Hamilton,"Washington, DC",105000.0,Data_Scientist,Senior_level
+8,    Applied Communication Sciences,"College Park, MD",105000.0,Data_Scientist,Senior_level
+9,        Booz Allen Hamilton,"Alexandria, VA",105000.0,Data_Scientist,Senior_level
+10,        Booz Allen Hamilton,"Alexandria, VA",105000.0,Data_Scientist,Senior_level
+11,        The Aerospace Corporation,"Crystal City, VA",105000.0,Data_Scientist,Senior_level
+12,"    SnagAJob.com, Inc","Arlington, VA 22201 (Lyon Village area)",105000.0,Data_Scientist,Senior_level
+13,        Booz Allen Hamilton,"Chantilly, VA 20151",105000.0,Data_Scientist,Senior_level
+14,        Lotame,"Columbia, MD 21045",105000.0,Data_Scientist,Senior_level
+15,        Vencore,"College Park, MD",105000.0,Data_Scientist,Senior_level
+16,        Mitre Corporation,"Bethesda, MD",105000.0,Data_Scientist,Senior_level
+17,        Booz Allen Hamilton,"Alexandria, VA",105000.0,Data_Scientist,Senior_level
+18,        Technica Corporation,"Dulles, VA",105000.0,Data_Scientist,Senior_level
+19,        SapientNitro,"Arlington, VA",105000.0,Data_Scientist,Senior_level
+20,    ByteCubed,"Arlington, VA",105000.0,Data_Scientist,Senior_level
+21,    Encore Search Partners,"Reston, VA",105000.0,Data_Scientist,Senior_level
+22,    Arch Capital Group Ltd.,"Washington, DC",105000.0,Data_Scientist,Senior_level
+23,        Praxis Engineering,"Reston, VA",105000.0,Data_Scientist,Senior_level
+24,"    OnPoint Consulting, Inc.","Arlington, VA",105000.0,Data_Scientist,Senior_level
+25,        EXL,"Wilmington, DE",105000.0,Data_Scientist,Senior_level
+26,        Capital One,"Wilmington, DE",105000.0,Data_Scientist,Senior_level
+27,        Mitre Corporation,"Annapolis Junction, MD 20701",105000.0,Data_Scientist,Senior_level
+28,        Altamira Technologies Corporation,"Chantilly, VA",105000.0,Data_Scientist,Senior_level
+29,    SC3,"Fairfax, VA",105000.0,Data_Scientist,Senior_level
+30,        Praxis Engineering,"Reston, VA",105000.0,Data_Scientist,Senior_level
+31,        CCRi,"Chantilly, VA",105000.0,Data_Scientist,Senior_level
+32,"    Commonwealth Computer Research, Inc.","Chantilly, VA",105000.0,Data_Scientist,Senior_level
+33,        EOIR Technologies,"Springfield, VA 22150",105000.0,Data_Scientist,Senior_level
+34,    Zoomdata,"Reston, VA",105000.0,Data_Scientist,Senior_level
+0,    Predictive Science,United States,110000.0,Data_Scientist,Entry_level
+1,    Liberty Information,"Havre de Grace, MD",110000.0,Data_Scientist,Entry_level
+2,"    Cornerstone Search Group, LLC","Philadelphia, PA",110000.0,Data_Scientist,Entry_level
+3,        Booz Allen Hamilton,"Washington, DC",110000.0,Data_Scientist,Entry_level
+4,        Booz Allen Hamilton,"Washington, DC",110000.0,Data_Scientist,Entry_level
+5,        Booz Allen Hamilton,"Alexandria, VA",110000.0,Data_Scientist,Entry_level
+6,        Vox Media,"Washington, DC",110000.0,Data_Scientist,Entry_level
+7,        Booz Allen Hamilton,"Chantilly, VA 20151",110000.0,Data_Scientist,Entry_level
+8,        Booz Allen Hamilton,"McLean, VA",110000.0,Data_Scientist,Entry_level
+9,        Jobspring Partners,"Washington, DC 20005 (Logan Circle area)",110000.0,Data_Scientist,Entry_level
+10,        SAIC,"McLean, VA",110000.0,Data_Scientist,Entry_level
+11,        CACI,"Washington, DC 20001 (Shaw area)",110000.0,Data_Scientist,Entry_level
+12,"    General Technical Services, LLC","Adelphi, MD",110000.0,Data_Scientist,Entry_level
+13,        CCRi,"Charlottesville, VA",110000.0,Data_Scientist,Entry_level
+14,    Whiteboard Federal Technologies,"Herndon, VA",110000.0,Data_Scientist,Entry_level
+15,    Veteran Staffing Network of Easter Seals,"McLean, VA",110000.0,Data_Scientist,Entry_level
+16,    Systems & Technology Research,"Arlington, VA 22203 (Bluemont area)",110000.0,Data_Scientist,Entry_level
+17,    WhiteHawk Inc.,"Baltimore, MD",110000.0,Data_Scientist,Entry_level
+18,    Encore Search Partners,"Reston, VA",110000.0,Data_Scientist,Entry_level
+19,    WhiteHawk Inc.,"Baltimore, MD",110000.0,Data_Scientist,Entry_level
+20,        Integrity Applications Incorporated,"Silver Spring, MD",110000.0,Data_Scientist,Entry_level
+21,        Bechtel,"Reston, VA",110000.0,Data_Scientist,Entry_level
+22,    Liberty Information,"Havre de Grace, MD",110000.0,Data_Scientist,Entry_level
+23,"    Commonwealth Computer Research, Inc.","Charlottesville, VA 22901 (29 North area)",110000.0,Data_Scientist,Entry_level
+24,        Jobspring Partners,"McLean, VA",110000.0,Data_Scientist,Entry_level
+25,        Berico Technologies,"Gaithersburg, MD",110000.0,Data_Scientist,Entry_level
+26,        Integrity Applications Incorporated,"Springfield, VA",110000.0,Data_Scientist,Entry_level
+27,        Booz Allen Hamilton,"Alexandria, VA",110000.0,Data_Scientist,Entry_level
+28,"        Cisco Systems, Inc.","Columbia, MD",110000.0,Data_Scientist,Entry_level
+29,"    Synchronoss Technologies, Inc.","Reston, VA",110000.0,Data_Scientist,Entry_level
+30,        Centers for Disease Control and Prevention,"Washington, DC",110000.0,Data_Scientist,Entry_level
+31,        Celerity,"McLean, VA 22102",110000.0,Data_Scientist,Entry_level
+32,        Department of Health,"Washington, DC",110000.0,Data_Scientist,Entry_level
+33,    Sphere of Influence,"McLean, VA",110000.0,Data_Scientist,Entry_level
+34,        Jobspring Partners,"Reston, VA",110000.0,Data_Scientist,Entry_level
+35,        Capital One,"McLean, VA",110000.0,Data_Scientist,Entry_level
+36,        NVIDIA,"Charlottesville, VA 22902",110000.0,Data_Scientist,Entry_level
+37,"    Personal Genome Diagnostics, Inc.","Baltimore, MD 21224 (Bayview area)",110000.0,Data_Scientist,Entry_level
+38,        AstraZeneca,"Gaithersburg, MD",110000.0,Data_Scientist,Entry_level
+39,    Sphere of Influence,"McLean, VA 22102",110000.0,Data_Scientist,Entry_level
+40,    Selby Jennings,"Alexandria, VA",110000.0,Data_Scientist,Entry_level
+41,    Fractal Industries,"Reston, VA",110000.0,Data_Scientist,Entry_level
+42,"        MedImmune, LLC","Gaithersburg, MD",110000.0,Data_Scientist,Entry_level
+43,    Zoomdata,"Reston, VA",110000.0,Data_Scientist,Entry_level
+44,"        Amazon Web Services, Inc.",United States,110000.0,Data_Scientist,Entry_level
+45,        Amazon Corporate LLC,United States,110000.0,Data_Scientist,Entry_level
+0,"    The Verity Group, LLC","Alexandria, VA",110000.0,Data_Scientist,Mid_level
+1,    All Things Considered Staffing (ATC-S),"Washington, DC",110000.0,Data_Scientist,Mid_level
+2,"    Gunther Douglas, Inc.","Washington, DC 20036",110000.0,Data_Scientist,Mid_level
+3,    Excella Consulting,"Washington, DC 20006 (Foggy Bottom area)",110000.0,Data_Scientist,Mid_level
+4,        Booz Allen Hamilton,"Washington, DC",110000.0,Data_Scientist,Mid_level
+5,        Verizon,"Silver Spring, MD 20904",110000.0,Data_Scientist,Mid_level
+6,        Barbaricum,"Washington, DC",110000.0,Data_Scientist,Mid_level
+7,        Deutsche Bank,"Washington, DC",110000.0,Data_Scientist,Mid_level
+8,    Oscar Technology,"Baltimore, MD",110000.0,Data_Scientist,Mid_level
+9,    Novetta,"Crystal City, VA",110000.0,Data_Scientist,Mid_level
+10,        ASRC Federal,"Alexandria, VA",110000.0,Data_Scientist,Mid_level
+11,        Vencore,"McLean, VA",110000.0,Data_Scientist,Mid_level
+12,        The Johns Hopkins Applied Physics Laboratory,"Laurel, MD",110000.0,Data_Scientist,Mid_level
+13,    Novetta,"Springfield, VA",110000.0,Data_Scientist,Mid_level
+14,        CAVA,"Washington, DC 20009 (U Street Corridor area)",110000.0,Data_Scientist,Mid_level
+15,        American Society of Clinical Oncology,"Alexandria, VA",110000.0,Data_Scientist,Mid_level
+16,        Booz Allen Hamilton,"Alexandria, VA",110000.0,Data_Scientist,Mid_level
+17,        TransVoyant,"Alexandria, VA 22303",110000.0,Data_Scientist,Mid_level
+18,        ASRC Federal,"Alexandria, VA",110000.0,Data_Scientist,Mid_level
+19,        Altamira Technologies Corporation,"Springfield, VA",110000.0,Data_Scientist,Mid_level
+20,        Teradata,"Washington, DC",110000.0,Data_Scientist,Mid_level
+21,"    The Upside Travel Company, LLC","Washington, DC",110000.0,Data_Scientist,Mid_level
+22,"    Creative Associates International, Inc.","Washington, DC 20015 (Barnaby Woods area)",110000.0,Data_Scientist,Mid_level
+23,    Aquila Technology,"Springfield, VA",110000.0,Data_Scientist,Mid_level
+24,        TransVoyant,"Alexandria, VA 22303",110000.0,Data_Scientist,Mid_level
+25,        IHS Markit,"Washington, DC",110000.0,Data_Scientist,Mid_level
+26,        Mitre Corporation,"Washington, DC 20024 (South West area)",110000.0,Data_Scientist,Mid_level
+27,        In-Q-Tel,"Arlington, VA 22201 (Lyon Village area)",110000.0,Data_Scientist,Mid_level
+28,        Altamira Technologies Corporation,"Springfield, VA",110000.0,Data_Scientist,Mid_level
+29,        KPMG,"McLean, VA",110000.0,Data_Scientist,Mid_level
+30,        KPMG,"Washington, DC 20036 (Downtown area)",110000.0,Data_Scientist,Mid_level
+31,        Jobspring Partners,"Reston, VA",110000.0,Data_Scientist,Mid_level
+32,        Smith Hanley Associates,"Washington, DC",110000.0,Data_Scientist,Mid_level
+33,        Capital One,"McLean, VA",110000.0,Data_Scientist,Mid_level
+34,"    Solebrity, Inc.","Ashburn, VA 20147",110000.0,Data_Scientist,Mid_level
+35,        Altamira Technologies Corporation,"Chantilly, VA",110000.0,Data_Scientist,Mid_level
+36,        S&P GLOBAL MARKET INTELLIGENCE,"Charlottesville, VA 22909 (North East area)",110000.0,Data_Scientist,Mid_level
+37,        KPMG,"Washington, DC 20036 (Downtown area)",110000.0,Data_Scientist,Mid_level
+38,        Mitre Corporation,"McLean, VA",110000.0,Data_Scientist,Mid_level
+39,"    Elite Technical Services, Inc.","Washington, DC",110000.0,Data_Scientist,Mid_level
+40,        Strategic Staffing Solutions,"McLean, VA",110000.0,Data_Scientist,Mid_level
+41,        Engility Corporation,"Chantilly, VA 20151",110000.0,Data_Scientist,Mid_level
+42,    PureIntegration,"Dulles, VA",110000.0,Data_Scientist,Mid_level
+43,        Capital One,"McLean, VA",110000.0,Data_Scientist,Mid_level
+44,        Capital One,"Vienna, VA",110000.0,Data_Scientist,Mid_level
+45,        Capital One,"McLean, VA",110000.0,Data_Scientist,Mid_level
+46,        Capital One,"McLean, VA",110000.0,Data_Scientist,Mid_level
+47,"    The Verity Group, LLC","Alexandria, VA",110000.0,Data_Scientist,Mid_level
+48,        CAVA,"Washington, DC 20009 (U Street Corridor area)",110000.0,Data_Scientist,Mid_level
+49,    The Wallach Search Group,"Washington, DC",110000.0,Data_Scientist,Mid_level
+50,    All-In Analytics,"Washington, DC",110000.0,Data_Scientist,Mid_level
+51,        Capital One,"Vienna, VA",110000.0,Data_Scientist,Mid_level
+52,    Zoomdata,"Reston, VA",110000.0,Data_Scientist,Mid_level
+53,        Mitre Corporation,"Annapolis Junction, MD 20701",110000.0,Data_Scientist,Mid_level
+54,    Socrata,"Washington, DC",110000.0,Data_Scientist,Mid_level
+55,        Capital One,"McLean, VA",110000.0,Data_Scientist,Mid_level
+56,    Zoomdata,"Reston, VA",110000.0,Data_Scientist,Mid_level
+57,    Zoomdata,"Reston, VA",110000.0,Data_Scientist,Mid_level
+58,"    Atrilogy Solutions Group, Inc.","Washington, DC 20001",110000.0,Data_Scientist,Mid_level
+59,"    The Upside Travel Company, LLC","Washington, DC",110000.0,Data_Scientist,Mid_level
+0,        QuintilesIMS,"Collegeville, PA",110000.0,Data_Scientist,Senior_level
+1,        System One,"Reston, VA",110000.0,Data_Scientist,Senior_level
+2,    IMTAS,"Washington, DC 20001 (Shaw area)",110000.0,Data_Scientist,Senior_level
+3,    ITDC,"Washington, DC",110000.0,Data_Scientist,Senior_level
+4,        Vencore,"McLean, VA",110000.0,Data_Scientist,Senior_level
+5,        Booz Allen Hamilton,"Washington, DC",110000.0,Data_Scientist,Senior_level
+6,    Applied Communication Sciences,"College Park, MD",110000.0,Data_Scientist,Senior_level
+7,        Booz Allen Hamilton,"Alexandria, VA",110000.0,Data_Scientist,Senior_level
+8,        Booz Allen Hamilton,"Alexandria, VA",110000.0,Data_Scientist,Senior_level
+9,        The Aerospace Corporation,"Crystal City, VA",110000.0,Data_Scientist,Senior_level
+10,"    SnagAJob.com, Inc","Arlington, VA 22201 (Lyon Village area)",110000.0,Data_Scientist,Senior_level
+11,        Booz Allen Hamilton,"Chantilly, VA 20151",110000.0,Data_Scientist,Senior_level
+12,        Lotame,"Columbia, MD 21045",110000.0,Data_Scientist,Senior_level
+13,        Vencore,"College Park, MD",110000.0,Data_Scientist,Senior_level
+14,        Mitre Corporation,"Bethesda, MD",110000.0,Data_Scientist,Senior_level
+15,        Booz Allen Hamilton,"Alexandria, VA",110000.0,Data_Scientist,Senior_level
+16,    Arch Capital Group Ltd.,"Washington, DC",110000.0,Data_Scientist,Senior_level
+17,        Praxis Engineering,"Reston, VA",110000.0,Data_Scientist,Senior_level
+18,"    OnPoint Consulting, Inc.","Arlington, VA",110000.0,Data_Scientist,Senior_level
+19,        EXL,"Wilmington, DE",110000.0,Data_Scientist,Senior_level
+20,        Capital One,"Wilmington, DE",110000.0,Data_Scientist,Senior_level
+21,        Mitre Corporation,"Annapolis Junction, MD 20701",110000.0,Data_Scientist,Senior_level
+22,        Altamira Technologies Corporation,"Chantilly, VA",110000.0,Data_Scientist,Senior_level
+23,    SC3,"Fairfax, VA",110000.0,Data_Scientist,Senior_level
+24,        Praxis Engineering,"Reston, VA",110000.0,Data_Scientist,Senior_level
+25,        CCRi,"Chantilly, VA",110000.0,Data_Scientist,Senior_level
+26,"    Commonwealth Computer Research, Inc.","Chantilly, VA",110000.0,Data_Scientist,Senior_level
+27,        EOIR Technologies,"Springfield, VA 22150",110000.0,Data_Scientist,Senior_level
+28,    Zoomdata,"Reston, VA",110000.0,Data_Scientist,Senior_level
+29,        TD Bank,"Mount Laurel, NJ",110000.0,Data_Scientist,Senior_level
+0,        Booz Allen Hamilton,"Washington, DC",125000.0,Data_Scientist,Entry_level
+1,        Booz Allen Hamilton,"McLean, VA",125000.0,Data_Scientist,Entry_level
+2,        Jobspring Partners,"Washington, DC 20005 (Logan Circle area)",125000.0,Data_Scientist,Entry_level
+3,    Whiteboard Federal Technologies,"Herndon, VA",125000.0,Data_Scientist,Entry_level
+4,    Veteran Staffing Network of Easter Seals,"McLean, VA",125000.0,Data_Scientist,Entry_level
+5,    Systems & Technology Research,"Arlington, VA 22203 (Bluemont area)",125000.0,Data_Scientist,Entry_level
+6,        Bechtel,"Reston, VA",125000.0,Data_Scientist,Entry_level
+7,        Jobspring Partners,"McLean, VA",125000.0,Data_Scientist,Entry_level
+8,    Selby Jennings,"Alexandria, VA",125000.0,Data_Scientist,Entry_level
+0,"    The Verity Group, LLC","Alexandria, VA",125000.0,Data_Scientist,Mid_level
+1,"    The Upside Travel Company, LLC","Washington, DC",125000.0,Data_Scientist,Mid_level
+2,"    Gunther Douglas, Inc.","Washington, DC 20036",125000.0,Data_Scientist,Mid_level
+3,        Barbaricum,"Washington, DC",125000.0,Data_Scientist,Mid_level
+4,    Oscar Technology,"Baltimore, MD",125000.0,Data_Scientist,Mid_level
+5,        Booz Allen Hamilton,"Reston, VA",125000.0,Data_Scientist,Mid_level
+6,        TransVoyant,"Alexandria, VA 22303",125000.0,Data_Scientist,Mid_level
+7,        ASRC Federal,"Alexandria, VA",125000.0,Data_Scientist,Mid_level
+8,"    The Upside Travel Company, LLC","Washington, DC",125000.0,Data_Scientist,Mid_level
+9,        IHS Markit,"Washington, DC",125000.0,Data_Scientist,Mid_level
+10,        Mitre Corporation,"Washington, DC 20024 (South West area)",125000.0,Data_Scientist,Mid_level
+11,        Jobspring Partners,"Reston, VA",125000.0,Data_Scientist,Mid_level
+12,        Smith Hanley Associates,"Washington, DC",125000.0,Data_Scientist,Mid_level
+13,        Capital One,"McLean, VA",125000.0,Data_Scientist,Mid_level
+14,"    Solebrity, Inc.","Ashburn, VA 20147",125000.0,Data_Scientist,Mid_level
+15,        S&P GLOBAL MARKET INTELLIGENCE,"Charlottesville, VA 22909 (North East area)",125000.0,Data_Scientist,Mid_level
+16,"    Elite Technical Services, Inc.","Washington, DC",125000.0,Data_Scientist,Mid_level
+17,        Capital One,"McLean, VA",125000.0,Data_Scientist,Mid_level
+18,        Capital One,"Vienna, VA",125000.0,Data_Scientist,Mid_level
+19,        Capital One,"McLean, VA",125000.0,Data_Scientist,Mid_level
+20,        Capital One,"McLean, VA",125000.0,Data_Scientist,Mid_level
+21,"    The Verity Group, LLC","Alexandria, VA",125000.0,Data_Scientist,Mid_level
+22,    The Wallach Search Group,"Washington, DC",125000.0,Data_Scientist,Mid_level
+23,        Capital One,"McLean, VA",125000.0,Data_Scientist,Mid_level
+24,    All Things Considered Staffing (ATC-S),"Washington, DC",125000.0,Data_Scientist,Mid_level
+0,        QuintilesIMS,"Collegeville, PA",125000.0,Data_Scientist,Senior_level
+1,        System One,"Reston, VA",125000.0,Data_Scientist,Senior_level
+2,    ITDC,"Washington, DC",125000.0,Data_Scientist,Senior_level
+3,        Booz Allen Hamilton,"Washington, DC",125000.0,Data_Scientist,Senior_level
+4,"    SnagAJob.com, Inc","Arlington, VA 22201 (Lyon Village area)",125000.0,Data_Scientist,Senior_level
+5,        Booz Allen Hamilton,"Chantilly, VA 20151",125000.0,Data_Scientist,Senior_level
+6,        Lotame,"Columbia, MD 21045",125000.0,Data_Scientist,Senior_level
+7,        Booz Allen Hamilton,"Alexandria, VA",125000.0,Data_Scientist,Senior_level
+8,        Mitre Corporation,"Bethesda, MD",125000.0,Data_Scientist,Senior_level
+9,    Arch Capital Group Ltd.,"Washington, DC",125000.0,Data_Scientist,Senior_level
+10,        EXL,"Wilmington, DE",125000.0,Data_Scientist,Senior_level
+11,        Capital One,"Wilmington, DE",125000.0,Data_Scientist,Senior_level
+12,        Praxis Engineering,"Reston, VA",125000.0,Data_Scientist,Senior_level
+13,        CCRi,"Chantilly, VA",125000.0,Data_Scientist,Senior_level
+14,"    Commonwealth Computer Research, Inc.","Chantilly, VA",125000.0,Data_Scientist,Senior_level
+15,    Zoomdata,"Reston, VA",125000.0,Data_Scientist,Senior_level
+16,        TD Bank,"Mount Laurel, NJ",125000.0,Data_Scientist,Senior_level
